@@ -151,7 +151,7 @@ Heliades, teneris amplexae bracchia truncis,
 candida fundebant tentis velamina ramis;    130 
 posterius cui Demophoon aeterna reliquit 
 perfidiam lamentandi mala, perfide multis, 
-perfide Demophoon et nunc &#134;defende&#134; puellis; 
+perfide Demophoon et nunc †defende† puellis; 
 quam comitabantur, fatalia carmina, quercus, 
 quercus ante datae Cereris quam semina vitae    135 
 (illas Triptolemi mutavit sulcus aristis); 
@@ -344,7 +344,7 @@ hoc erat Aeacides vultu laetatus honores
 Dardaniaeque alter fuso quod sanguine campis 
 Hectoreo victor lustravit corpore Troiam; 
 rursus acerba fremunt, Paris hunc quod letat et huius    325 
-&#134;arma&#134; dolis Ithaci virtus quod concidit icta. 
+†arma† dolis Ithaci virtus quod concidit icta. 
 huic gerit aversos proles Laertia vultus, 
 et iam Strymonii Rhesi victorque Dolonis 
 Pallade iam laetatur ovans rursusque tremescit 
@@ -389,7 +389,7 @@ hic Curius clarae socius virtutis et ille
 Flaminius, devota dedit qui corpora flammae 
 (iure igitur tales sedes, pietatis honores), 
 Scipiadaeque duces, quorum devota triumphis    370 
-moenia &#134;rapidis&#134; Libycae Carthaginis horrent. 
+moenia †rapidis† Libycae Carthaginis horrent. 
 illi laude sua vigeant: ego Ditis opacos 
 cogor adire lacus viduos a lumine Phoebi 
 et vastum Phlegethonta pati, quo maxima Minos, 
