@@ -37,7 +37,7 @@ Cicero: Topica
  
 
  
-[12] Coniugata dicuntur quae sunt ex verbis generis eiusdem. Eiusdem autem generis verba sunt quae orta ab uno varie commutantur, ut sapiens sapienter sapientia. Haec verborum coniugatio suzug&#164;a dicitur, ex qua huius modi est argumentum: Si compascuus ager est, ius est compascere. 
+[12] Coniugata dicuntur quae sunt ex verbis generis eiusdem. Eiusdem autem generis verba sunt quae orta ab uno varie commutantur, ut sapiens sapienter sapientia. Haec verborum coniugatio συζυγία dicitur, ex qua huius modi est argumentum: Si compascuus ager est, ius est compascere. 
  
 
  
@@ -125,7 +125,7 @@ Cicero: Topica
  
 
  
- [38] Sequitur is locus qui constat ex eis rebus quae quodam modo adfectae sunt ad id de quo ambigitur; quem modo dixi in plures partes distributum. Cuius est primus locus ex coniugatione, quam Graeci suzug&#164;an vocant, finitimus notationi, de qua modo dictum est; ut, si aquam pluviam eam modo intellegeremus quam imbri collectam videremus, veniret Mucius, qui, quia coniugata verba essent pluvia et pluendo, diceret omnem aquam oportere arceri quae pluendo crevisset. 
+ [38] Sequitur is locus qui constat ex eis rebus quae quodam modo adfectae sunt ad id de quo ambigitur; quem modo dixi in plures partes distributum. Cuius est primus locus ex coniugatione, quam Graeci συζυγίαν vocant, finitimus notationi, de qua modo dictum est; ut, si aquam pluviam eam modo intellegeremus quam imbri collectam videremus, veniret Mucius, qui, quia coniugata verba essent pluvia et pluendo, diceret omnem aquam oportere arceri quae pluendo crevisset. 
  
 
  

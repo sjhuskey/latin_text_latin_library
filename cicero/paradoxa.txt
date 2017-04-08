@@ -39,7 +39,7 @@ Cicero: Paradoxa
  
 
  
- &Uuml;Oti a&Egrave;t&atilde;rkhw &#190; &eacute;ret&Oslash; pr&Uacute;w e&Egrave;daimon&#164;an. 
+Ὅτι αὐτάρκης ἡ ἀρετὴ πρὸς εὐδαιμονίαν. 
  
 
  
@@ -63,7 +63,7 @@ Cicero: Paradoxa
  
 
  
- &Uuml;Oti p&ccedil;w &ecirc;frvn ma&#164;netai. 
+ Ὅτι πᾶς ἄφρων μαίνεται. 
  
 
  
