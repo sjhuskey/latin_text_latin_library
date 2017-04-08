@@ -89,7 +89,7 @@ Cicero: Topica
  
 
  
- [24] Quae autem assumuntur extrinsecus, ea maxime ex auctoritate ducuntur. Itaque Graeci talis argumentationes &eacute;t&#154;xnouw vocant, id est artis expertis, ut si ita respondeas: Quoniam P. Scaevola id solum esse ambitus aedium dixerit, quod parietis communis tegendi causa tectum proiceretur, ex quo tecto in eius aedis qui protexisset aqua deflueret, id ambitus videri. 
+ [24] Quae autem assumuntur extrinsecus, ea maxime ex auctoritate ducuntur. Itaque Graeci talis argumentationes ἀτέχνους vocant, id est artis expertis, ut si ita respondeas: Quoniam P. Scaevola id solum esse ambitus aedium dixerit, quod parietis communis tegendi causa tectum proiceretur, ex quo tecto in eius aedis qui protexisset aqua deflueret, id ambitus videri. 
  
 
  
@@ -249,7 +249,7 @@ Cicero: Topica
  
 
  
- [79] Eitis omnibus argumentandi locis illud primum intellegendum est nec ullam esse disputationem in qua non aliquis locus incurrat, nec fere omnis locos incidere in omnem quaestionem et quibusdam quaestionibus alios, quibusdam alios esse aptiores locos. Quaestionum duo genera sunt: alterum infinitum, definitum alterum. Definitum est quod &Iacute;p&ograve;yesin Graeci, nos causam; infinitum quod y&#154;sin illi appellant, nos propositum possumus nominare.
+ [79] Eitis omnibus argumentandi locis illud primum intellegendum est nec ullam esse disputationem in qua non aliquis locus incurrat, nec fere omnis locos incidere in omnem quaestionem et quibusdam quaestionibus alios, quibusdam alios esse aptiores locos. Quaestionum duo genera sunt: alterum infinitum, definitum alterum. Definitum est quod ὑπόθεσιν Graeci, nos causam; infinitum quod θέσιν illi appellant, nos propositum possumus nominare.
  
 
  
