@@ -1291,7 +1291,7 @@ Occupat incautum, falsis uirtutibus auctum,
 &quot;Cur&quot; ait ille fremens, &quot;iactas tot inania demens?&quot; 
 &quot;Desine mirari, lupe, me tibi talia fari. 
 Denique uulgari solet id sermone probari: 
-&#145;Yrcus quando bibit, quae non sunt debita, dicit; 
+'Yrcus quando bibit, quae non sunt debita, dicit; 
 Cum bene potatur, quae non sibi debita, fatur&#146;.&quot; 
 Non tamen, oblato necis huius tempore grato, 
 Huic fore parcendum ratus est lupus, hunc sed edendum. 

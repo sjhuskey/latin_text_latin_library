@@ -243,7 +243,7 @@ hinc est quod baculo incumbens ruitura senectus
   assiduo pigram uerbere pulsat humum 
 et numerosa mouens certo uestigia plausu    225 
   talia rugato creditur ore loqui: 
-&#145;suscipe me, genetrix, nati miserere laborum: 
+'suscipe me, genetrix, nati miserere laborum: 
   membra peto gremio fessa fouere tuo. 
 horrent me pueri, nequeo uelut ante uideri: 
   horrendos partus cur sinis esse tuos?    230 
@@ -328,7 +328,7 @@ immo etiam causas ingrata ac perfida fingit,
   ut spretum uitio iudicet esse meo.    10 
 haec me praeteriens cum dudum forte uideret, 
   expuit obductis uestibus ora tegens. 
-&#145;hunc&#146; inquit &#145;dilexi? hic me complexus amauit? 
+'hunc&#146; inquit 'dilexi? hic me complexus amauit? 
   huic ego saepe (nefas) oscula blanda dedi?&#146; 
 nauseat et priscum uomitu ceu fundit amorem,    15 
   inponit capiti plurima dira meo. 
@@ -435,7 +435,7 @@ tunc me uisceribus per totum quaerit anhelis,    35
   emptum suppliciis quem putat esse suis, 
 nec memorare pudet turpesque reuoluere uestes: 
   immo etiam gaudens imputat illa mihi. 
-&#145;pro te susceptos iuuat&#146; inquit &#145;ferre dolores: 
+'pro te susceptos iuuat&#146; inquit 'ferre dolores: 
   tu pretium tanti dulce cruoris eris.    40 
 sit modo certa fides atque inconcussa uoluntas: 
   quae nihil imminuit passio, nulla fuit.&#146; 
@@ -449,19 +449,19 @@ nam cum me curis intentum saepe uideres
   nec posses causas noscere tristitiae,    50 
 tandem prospiciens tali me peste teneri 
   mitibus alloquiis pandere clausa iubes: 
-&#145;dicito, et unde nouo correptus carperis aestu? 
+'dicito, et unde nouo correptus carperis aestu? 
   dicito, et edicti sume doloris opem. 
 non intellecti nulla est curatio morbi,    55 
   et magis inclusis ignibus antra fremunt.&#146; 
 dum pudor est tam foeda loqui uitiumque fateri, 
   agnouit taciti conscia signa mali. 
-mox ait: &#145;occultae satis est res prodita causae. 
+mox ait: 'occultae satis est res prodita causae. 
   pone metum: ueniam uis tibi tanta dabit.&#146;    60 
 prostratus pedibus uerecunda silentia rupi 
   cum lacrimis referens ordine cuncta suo. 
-&#145;fare&#146; ait &#145;an placitae potiaris munere formae.&#146; 
-  respondi &#145;pietas talia uelle fugit.&#146; 
-soluitur in risum exclamans &#145;pro mira uoluntas!    65 
+'fare&#146; ait 'an placitae potiaris munere formae.&#146; 
+  respondi 'pietas talia uelle fugit.&#146; 
+soluitur in risum exclamans 'pro mira uoluntas!    65 
   castus amor Veneris dicito quando fuit? 
 parcere dilectae iuuenis desiste puellae: 
   impius hic fueris, si pius esse uelis. 
@@ -479,11 +479,11 @@ illa nihil quaesita uidens procedere, causam
   odit et illaeso corpore tristis abit.    80 
 proieci uanas sanato pectore curas 
   et subito didici quam miser ante fui. 
-&#145;salue sancta&#146; inquam &#145;semperque intacta maneto 
+'salue sancta&#146; inquam 'semperque intacta maneto 
   uirginitas: per me plena pudoris eris.&#146; 
 quae postquam perlata uiro sunt omnia tanto    85 
   meque uidet fluctus exuperasse meos, 
-&#145;macte&#146; inquit &#145;iuuenis, proprii dominator amoris, 
+'macte&#146; inquit 'iuuenis, proprii dominator amoris, 
   et de contemptu sume trophaea tuo. 
 arma tibi Veneris cedantque Cupidinis arcus, 
   cedat et armipotens ipsa Minerua tibi.&#146;    90 
@@ -523,7 +523,7 @@ saepe, uelut praesens fuerit, mecum ipse loquebar,
 o quotiens demens, quotiens sine mente putabar, 
   nec, puto, fallebar: non bene sanus eram. 
 atque aliquis, cui caeca foret bene nota uoluptas:    25 
-  &#145;cantat, cantantem Maximianus amat.&#146; 
+  'cantat, cantantem Maximianus amat.&#146; 
 certe difficile est abscondere pectoris aestus, 
   panditur et clauso saepius ore furor. 
 nam subito inficiens uultum pallorque ruborque 
@@ -532,7 +532,7 @@ nec minus ipsa meas prodebat somnia curas,
   somnia secreto non bene fida meo. 
 nam cum sopitos premerent obliuia sensus, 
   confessa est facinus nescia lingua suum. 
-&#145;Candida,&#146; clamabam &#145;propera: cur, Candida, tardas?    35 
+'Candida,&#146; clamabam 'propera: cur, Candida, tardas?    35 
   nox abit et furtis lux inimica redit.&#146; 
 proximus ut genitor mecum comitatus amatae 
   uirginis herbosa forte iacebat humo, 
@@ -540,8 +540,8 @@ illius ad nomen turbatos excutit artus
   exilit et natam credit adesse suam.    40 
 omnia collustrans toto me pectore somnum 
   prospicit afflantem nec meminisse mei. 
-&#145;uana putas an uera sopor ludibria iactat? 
-  hoc et uerus&#146; ait &#145;pectoris ardor agit. 
+'uana putas an uera sopor ludibria iactat? 
+  hoc et uerus&#146; ait 'pectoris ardor agit. 
 credo equidem assuetas animo remeare figuras,    45 
   et fallax studium ludit imago suum.&#146; 
 stat tamen attonitus perplexaque murmura captat 
@@ -597,7 +597,7 @@ ah, quantum mentem stomachi fultura mouebat
   atque sub exhausto pectore pingue femur!    30 
 terrebar teneros astringere fortiter artus: 
   uisa per amplexus ossa sonare meos 
-&#145;grandia&#146; clamabat &#145;tua nunc me brachia laedunt: 
+'grandia&#146; clamabat 'tua nunc me brachia laedunt: 
   non tolerant pondus subdita membra tuum.&#146; 
 dirigui, quantusque fuit calor ille recessit    35 
   et nata est uenae causa pudenda meae. 
@@ -616,7 +616,7 @@ set mihi prima quidem nox affuit ac sua soluit
 proxima destituit uires uacuusque recessit 
   ardor et in Venerem segnis ut ante fui.    50 
 illa uelut proprium repetens infesta tributum 
-  instat et increpitat &#145;debita redde mihi.&#146; 
+  instat et increpitat 'debita redde mihi.&#146; 
 sed nihil hic clamor, nil sermo mitis agebat: 
   quod natura negat, reddere nemo potest. 
 erubui, stupui. quia tunc uerecundia mentem    55 
@@ -625,19 +625,19 @@ contrectare manu coepit flagrantia membra
   meque etiam digitis sollicitare suis 
 nil mihi torpenti uel tactus profuit ignis: 
   perstitit in medio frigus ut ante foco.    60 
-&#145;quae te crudelis rapuit mihi femina?&#146; dixit, 
-  &#145;cuius ab amplexu fessus ad arma redis?&#146; 
+'quae te crudelis rapuit mihi femina?&#146; dixit, 
+  'cuius ab amplexu fessus ad arma redis?&#146; 
 iurabam curis animum mordacibus uri 
   nec posse ad luxum tristia corda trahi. 
-illa dolum credens &#145;non&#146; inquit &#145;fallis amantem:    65 
+illa dolum credens 'non&#146; inquit 'fallis amantem:    65 
   plurima certus amor lumina semper habet. 
-quin potius placido noli&#146; inquit &#145;parcere ludo: 
+quin potius placido noli&#146; inquit 'parcere ludo: 
   proice tristitias et renouare ioco. 
 obtundunt siquidem curarum pondera sensus: 
   intermissa minus sarcina pondus habet.&#146;    70 
 tunc egomet toto nudatus corpore lecto 
   effusis lacrimis talia uerba dedi: 
-&#145;cogimur heuque senes crimen uitiumque fateri, 
+'cogimur heuque senes crimen uitiumque fateri, 
   ne meus extinctus forte putetur amor. 
 me miserum cuius non est culpanda uoluptas!    75 
   uindicor infelix debilitatis ope. 
@@ -651,7 +651,7 @@ ast ubi dilecti persensit funera membri
   nec uelut expositum surgere uidit opus, 
 erigitur uiduoque toro laniata recumbens    85 
   uocibus his luctus et sua damna fouet: 
-&#145;mentula, festorum cultrix operosa dierum, 
+'mentula, festorum cultrix operosa dierum, 
   quondam deliciae diuitiaeque meae, 
 quo te deiectam lacrimarum gurgite plangam, 
   quae de tot meritis carmina digna feram?    90 
@@ -671,9 +671,9 @@ hic uelut exposito meritam te fungere plango:
   occidit, assueto quod caret officio.&#146; 
 hanc ego cum lacrimis deducta uoce canentem    105 
   irridens dictis talibus increpui: 
-&#145;dum defles nostri langorem, femina, membri, 
+'dum defles nostri langorem, femina, membri, 
   ostendis morbo te grauiore premi.&#146; 
-illa furens: &#145;nescis, ut cerno, perfide, nescis: 
+illa furens: 'nescis, ut cerno, perfide, nescis: 
   non fleo priuatum, set generale chaos.    110 
 haec genus humanum, pecudum, uolucrumque, ferarum 
   et quicquid toto spirat in orbe, creat. 
