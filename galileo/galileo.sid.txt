@@ -42,11 +42,11 @@ Galileo Galilei, Sidereus Nuncius
  obscurabitur, quam ipsorum Siderum splendor extinguatur. Hoc autem human&#234; sagacitatis
  inventum, cum primis nobile ac mirandum, multorum iam s&#234;culorum intervallo exolevit,
  priscis heroibus lucidas illas sedes occupantibus ac suo quasi iure tenentibus: in quorum
- c&#156;tum frustra pietas Augusti Iulium C&#234;sarem cooptare conata est; nam cum Stellam suo
+ coetum frustra pietas Augusti Iulium C&#234;sarem cooptare conata est; nam cum Stellam suo
  tempore exortam, ex iis quas Gr&#234;ci Cometas, nostri Crinitas vocant, Iulium Sidus
  nuncupari voluisset, brevi illa evanescens, tant&#234; cupiditatis spem delusit. Atqui longe
  veriora ac feliciora, Princeps Serenissime, Celsitudini tu&#234; possumus augurari; nam vix
- dum in terris immortalia animi tui decora fulgere c&#156;perunt, cum in C&#234;lis lucida
+ dum in terris immortalia animi tui decora fulgere coeperunt, cum in C&#234;lis lucida
  Sidera sese offerunt, qu&#234; tanquam lingu&#234; prestantissimas virtutes tuas in omne tempus
  loquantur ac celebrent. En igitur quatuor Sidera tuo inclyto nomini reservata, neque illa
  de gregario ac minus insigni inerrantium numero, sed ex illustri vagantium ordine; qu&#234;
@@ -172,7 +172,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
  contuli; ac Lunam prius tam ex propinquo sum intuitus, ac si vix per duas Telluris
  diametros abesset. Post hanc, Stellas tum fixas, tum vagas, incredibili animi iucunditate
  s&#234;pius observavi; cumque harum maximam frequentiam viderem, de ratione, qua illarum
- interstitia dimetiri possem, excogitare c&#156;pi, ac demum reperi. Qua de re singulos
+ interstitia dimetiri possem, excogitare coepi, ac demum reperi. Qua de re singulos
  pr&#234;monitos esse decet, qui ad huiuscemodi observationes accedere volunt. Primo enim
  necessarium est, ut sibi Perspicillum parent exactissimum, quod obiecta perlucida,
  distincta et nulla caligine obducta repr&#234;sentet; eademque ad minus secundum
@@ -256,9 +256,9 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
  fert: ingens enim sinus tenebrosus in partem luminosam subit, versus inferius cornu
  locatus; quem quidem sinum cum diutius observassem, totumque obscurum vidissem, tandem
  post duas fere horas, paulo infra medium cavitatis, vertex quidam luminosus exsurgere
- c&#156;pit; hic vero paulatim crescens trigonam figuram pr&#234; se ferebat, eratque omnino
+ coepit; hic vero paulatim crescens trigonam figuram pr&#234; se ferebat, eratque omnino
  adhuc a luminosa facie revulsus ac separatus; mox circa illum tres ali&#234; cuspides exigu&#234;
- lucere c&#156;perunt; donec, Luna iam occasum versus tendente, trigona illa figura,
+ lucere coeperunt; donec, Luna iam occasum versus tendente, trigona illa figura,
  extensa et amplior iam facta, cum reliqua luminosa parte nectebatur, ac instar ingentis
  promontorii, a tribus iam commemoratis lucidis verticibus adhuc obsessa, in tenebrosum
  sinum erumpebat. In extremis quoque cornibus, tam superiori, quam inferiori, splendida
@@ -577,7 +577,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
  prorsus inexplorabilis est. 
   At cum non tantum in GALAXIA lacteus ille candor, veluti albicantis nubis, spectetur,
  sed complures consimilis coloris areol&#234; sparsim per &#234;thera subfulgeant, si in illarum
- quamlibet Specillum convertas, Stellarum constipatarum c&#156;tum offendes. Amplius (quod
+ quamlibet Specillum convertas, Stellarum constipatarum coetum offendes. Amplius (quod
  magis miraberis), Stell&#234; ab Astronomis singulis in hanc usque diem NEBULOSê appellat&#234;,
  Stellularum mirum in modum consitarum greges sunt; ex quarum radiorum commixtione, dum
  unaqu&#234;que ob exilitatem, seu maximam a nobis remotionem, oculorum aciem fugit, candor
@@ -622,7 +622,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
  
   
   Hic, licet ad mutuam Stellarum appropinquationem minime cogitationem appulissem,
- h&#234;sitare tamen c&#156;pi, quonam pacto Iuppiter ab omnibus pr&#234;dictis fixis posset
+ h&#234;sitare tamen coepi, quonam pacto Iuppiter ab omnibus pr&#234;dictis fixis posset
  orientalior reperiri, cum a binis ex illis pridie occidentalis fuisset: ac proinde veritus
  sum ne forte secus a computo astronomico directus foret, ac propterea motu proprio Stellas
  illas antevertisset. Quapropter maximo cum desiderio sequentem expectavi noctem; verum a
@@ -657,7 +657,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
   
   erat orientalior Stella occidentaliori maior, amb&#234; tamen valde conspicu&#234; ac
  splendid&#234;: utraque distabat a Iove scrupulis primis duobus: tertia quoque Stellula
- apparere c&#156;pit hora tertia, prius minime conspecta, qu&#234; ex parte orientali Iovem
+ apparere coepit hora tertia, prius minime conspecta, qu&#234; ex parte orientali Iovem
  fere tangebat, eratque admodum exigua. Omnes fuerunt in eadem recta et secundum Ecliptic&#234;
  longitudinem coordinat&#234;. 
   Die decimatertia primum a me quatuor conspect&#234; fuerunt Stellul&#234; in hac ad Iovem
@@ -699,7 +699,7 @@ OBSERVATIONES RECENS HABITAS NOVI PERSPICILLI BENEFICIO IN LUNE FACIE,
   Stella una tantum orientalis a Iove distabat min. 3; occidentalis pariter una, a Iove
  distans min. 11. Orientalis duplo maior apparebat occidentali; nec plures aderant quam
  ist&#234; du&#234;. Verum post horas quatuor, hora nempe proxime quinta, tertia ex parte orientali
- emergere c&#156;pit, qu&#234; antea, ut opinor, cum priori iuncta erat; fuitque talis positio: 
+ emergere coepit, qu&#234; antea, ut opinor, cum priori iuncta erat; fuitque talis positio: 
  
   
   Media Stella, orientali quam proxima, min. tantum sec. 20 elongabatur ab illa, et a
