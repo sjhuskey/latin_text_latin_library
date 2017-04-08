@@ -17,7 +17,7 @@ Cicero: Topica
  
 
  
- [4] Non potui igitur tibi saepius hoc roganti et tamen verenti ne mihi gravis esses&#151;facile enim id cernebam&#151;debere diutius, ne ipsi iuris interpreti fieri videretur iniuria. Etenim cum tu mihi meisque multa saepe scripsisses, veritus sum ne, si ego gravarer, aut ingratum id aut superbum videretur. Sed dum fuimus una, tu optimus es testis quam fuerim occupatus; [5] ut autem a te discessi in Graeciam proficiscens, cum opera mea nec res publica nec amici uterentur nec honeste inter arma versari possem, ne si tuto quidem mihi id liceret, ut veni Veliam tuaque et tuos vidi, admonitus huius aeris alieni nolui deesse ne tacitae quidem flagitationi tuae. Itaque haec, cum mecum libros non haberem, memoria repetita in ipsa navigatione conscripsi tibique ex itinere misi, ut mea diligentia mandatorum tuorum te quoque, etsi admonitore non eges, ad memoriam nostrarum rerum excitarem. Sed iam tempus est ad id quod instituimus accedere. 
+ [4] Non potui igitur tibi saepius hoc roganti et tamen verenti ne mihi gravis esses—facile enim id cernebam—debere diutius, ne ipsi iuris interpreti fieri videretur iniuria. Etenim cum tu mihi meisque multa saepe scripsisses, veritus sum ne, si ego gravarer, aut ingratum id aut superbum videretur. Sed dum fuimus una, tu optimus es testis quam fuerim occupatus; [5] ut autem a te discessi in Graeciam proficiscens, cum opera mea nec res publica nec amici uterentur nec honeste inter arma versari possem, ne si tuto quidem mihi id liceret, ut veni Veliam tuaque et tuos vidi, admonitus huius aeris alieni nolui deesse ne tacitae quidem flagitationi tuae. Itaque haec, cum mecum libros non haberem, memoria repetita in ipsa navigatione conscripsi tibique ex itinere misi, ut mea diligentia mandatorum tuorum te quoque, etsi admonitore non eges, ad memoriam nostrarum rerum excitarem. Sed iam tempus est ad id quod instituimus accedere. 
  
 
  
@@ -29,7 +29,7 @@ Cicero: Topica
  
 
  
- [9] Sed ad id totum de quo disseritur tum definitio adhibetur, quae quasi involutum evolvit id de quo quaeritur; eius argumenti talis est formula: Ius civile est aequitas constituta eis qui eiusdem civitatis sunt ad res suas obtinendas; eius autem aequitatis utilis cognitio est; utilis ergo est iuris civilis scientia; [10] &#151;tum partium enumeratio, quae tractatur hoc modo: Si neque censu nec vindicta nec testamento liber factus est, non est liber; neque ulla est earum rerum; non est igitur liber;&#151;tum notatio, cum ex verbi vi argumentum aliquod elicitur hoc modo: Cum lex assiduo vindicem assiduum esse iubeat, locupletem iubet locupleti; is est enim assiduus, ut ait L. Aelius, appellatus ab aere dando. 
+ [9] Sed ad id totum de quo disseritur tum definitio adhibetur, quae quasi involutum evolvit id de quo quaeritur; eius argumenti talis est formula: Ius civile est aequitas constituta eis qui eiusdem civitatis sunt ad res suas obtinendas; eius autem aequitatis utilis cognitio est; utilis ergo est iuris civilis scientia; [10] —tum partium enumeratio, quae tractatur hoc modo: Si neque censu nec vindicta nec testamento liber factus est, non est liber; neque ulla est earum rerum; non est igitur liber;—tum notatio, cum ex verbi vi argumentum aliquod elicitur hoc modo: Cum lex assiduo vindicem assiduum esse iubeat, locupletem iubet locupleti; is est enim assiduus, ut ait L. Aelius, appellatus ab aere dando. 
  
 
  
@@ -121,7 +121,7 @@ Cicero: Topica
  
 
  
- [35] Multa etiam ex notatione sumuntur. Ea est autem, cum ex vi nominis argumentum elicitur; quam Graeci &#167;tumolog&#164;an appellant, id est verbum ex verbo veriloquium; nos autem novitatem verbi non satis apti fugientes genus hoc notationem appellamus, quia sunt verba rerum notae. Itaque hoc quidem Aristoteles s&Ecirc;mbolon appellat, quod Latine est nota. Sed cum intellegitur quid significetur, minus laborandum est de nomine. [36] Multa igitur in disputando notatione eliciuntur ex verbo, ut cum quaeritur postliminium quid sit&#151;non dico quae sint postlimini; nam id caderet in divisionem, quae talis est: Postliminio redeunt haec: homo, navis, mulus clitellarius, equus, equa quae frenos recipere solet&#151;; sed cum ipsius postlimini vis quaeritur et verbum ipsum notatur; in quo Servius noster, ut opinor, nihil putat esse notandum nisi post, et liminium illud productionem esse verbi vult, ut in finitimo, legitimo, aeditimo non plus inesse timum quam in meditullio tullium; [37] Scaevola autem P. F. iunctum putat esse verbum, ut sit in eo et post et limen; ut, quae a nobis alienata, cum ad hostem pervenerint, ex suo tamquam limine exierint, hinc ea cum redierint post ad idem limen, postliminio redisse videantur. Quo genere etiam Mancini causa defendi potest, postliminio redisse; deditum non esse, quoniam non sit receptus; nam neque deditionem neque donationem sine acceptione intellegi posse. 
+ [35] Multa etiam ex notatione sumuntur. Ea est autem, cum ex vi nominis argumentum elicitur; quam Graeci &#167;tumolog&#164;an appellant, id est verbum ex verbo veriloquium; nos autem novitatem verbi non satis apti fugientes genus hoc notationem appellamus, quia sunt verba rerum notae. Itaque hoc quidem Aristoteles s&Ecirc;mbolon appellat, quod Latine est nota. Sed cum intellegitur quid significetur, minus laborandum est de nomine. [36] Multa igitur in disputando notatione eliciuntur ex verbo, ut cum quaeritur postliminium quid sit—non dico quae sint postlimini; nam id caderet in divisionem, quae talis est: Postliminio redeunt haec: homo, navis, mulus clitellarius, equus, equa quae frenos recipere solet—; sed cum ipsius postlimini vis quaeritur et verbum ipsum notatur; in quo Servius noster, ut opinor, nihil putat esse notandum nisi post, et liminium illud productionem esse verbi vult, ut in finitimo, legitimo, aeditimo non plus inesse timum quam in meditullio tullium; [37] Scaevola autem P. F. iunctum putat esse verbum, ut sit in eo et post et limen; ut, quae a nobis alienata, cum ad hostem pervenerint, ex suo tamquam limine exierint, hinc ea cum redierint post ad idem limen, postliminio redisse videantur. Quo genere etiam Mancini causa defendi potest, postliminio redisse; deditum non esse, quoniam non sit receptus; nam neque deditionem neque donationem sine acceptione intellegi posse. 
  
 
  
@@ -173,7 +173,7 @@ Cicero: Topica
  
 
  
- [61] Hoc igitur sine quo non fit, ab eo in quo certe fit diligenter est separandum. Illud enim est tamquam utinam ne in nemore Pelio&#151;Nisi enim 'accedissent abiegnae ad terram trabes,' Argo illa facta non esset, nec tamen fuit in his trabibus efficiendi vis necessaria. At cum in Aiacis navim crispisulcans igneum fulmen iniectum est, inflammatur navis necessario. 
+ [61] Hoc igitur sine quo non fit, ab eo in quo certe fit diligenter est separandum. Illud enim est tamquam utinam ne in nemore Pelio—Nisi enim 'accedissent abiegnae ad terram trabes,' Argo illa facta non esset, nec tamen fuit in his trabibus efficiendi vis necessaria. At cum in Aiacis navim crispisulcans igneum fulmen iniectum est, inflammatur navis necessario. 
  
 
  
@@ -181,7 +181,7 @@ Cicero: Topica
  
 
  
- [63] Omnium autem causarum in aliis inest constantia, in aliis non inest. In natura et in arte constantia est, in ceteris nulla. Sed tamen earum causarum quae non sunt constantes aliae sunt perspicuae, aliae latent. Perspicuae sunt quae appetitionem animi iudiciumque tangunt; latent quae subiectae sunt fortunae. Cum enim nihil sine causa fiat, hoc ipsum est fortuna, qui eventus obscura causa et latenter efficitur. Etiam ea quae fiunt partim sunt ignorata partim voluntaria; ignorata, quae necessitate effecta sunt; voluntaria, quae consilio. [64] Nam iacere telum voluntatis est, ferire quem nolueris fortunae. Ex quo aries subicitur ille in vestris actionibus: si telum manu fugit magis quam iecit. Cadunt etiam in ignorationem atque imprudentiam perturbationes animi; quae quamquam sunt voluntariae&#151;obiurgatione enim et admonitione deiciuntur&#151;tamen habent tantos motus, ut ea quae voluntaria sunt aut necessaria interdum aut certe ignorata videantur. 
+ [63] Omnium autem causarum in aliis inest constantia, in aliis non inest. In natura et in arte constantia est, in ceteris nulla. Sed tamen earum causarum quae non sunt constantes aliae sunt perspicuae, aliae latent. Perspicuae sunt quae appetitionem animi iudiciumque tangunt; latent quae subiectae sunt fortunae. Cum enim nihil sine causa fiat, hoc ipsum est fortuna, qui eventus obscura causa et latenter efficitur. Etiam ea quae fiunt partim sunt ignorata partim voluntaria; ignorata, quae necessitate effecta sunt; voluntaria, quae consilio. [64] Nam iacere telum voluntatis est, ferire quem nolueris fortunae. Ex quo aries subicitur ille in vestris actionibus: si telum manu fugit magis quam iecit. Cadunt etiam in ignorationem atque imprudentiam perturbationes animi; quae quamquam sunt voluntariae—obiurgatione enim et admonitione deiciuntur—tamen habent tantos motus, ut ea quae voluntaria sunt aut necessaria interdum aut certe ignorata videantur. 
  
 
  
@@ -229,7 +229,7 @@ Cicero: Topica
  
 
  
- [74] Sed reliquis quoque rebus quas modo enumeravi quamquam in his nulla species virtutis est, tamen interdum confirmatur fides, si aut ars quaedam adhibetur&#151;magna est enim vis ad persuadendum scientiae&#151;aut usus; plerumque enim creditur eis qui experti sunt. Facit etiam necessitas fidem, quae tum a corporibus tum ab animis nascitur. Nam et verberibus, tormentis, igni fatigati quae dicunt ea videtur veritas ipsa dicere, et quae perturbationibus animi, dolore, cupiditate, iracundia, metu, qui necessitatis vim habent, afferunt auctoritatem et fidem. 
+ [74] Sed reliquis quoque rebus quas modo enumeravi quamquam in his nulla species virtutis est, tamen interdum confirmatur fides, si aut ars quaedam adhibetur—magna est enim vis ad persuadendum scientiae—aut usus; plerumque enim creditur eis qui experti sunt. Facit etiam necessitas fidem, quae tum a corporibus tum ab animis nascitur. Nam et verberibus, tormentis, igni fatigati quae dicunt ea videtur veritas ipsa dicere, et quae perturbationibus animi, dolore, cupiditate, iracundia, metu, qui necessitatis vim habent, afferunt auctoritatem et fidem. 
  
 
  
@@ -241,7 +241,7 @@ Cicero: Topica
  
 
  
- Quae autem virtute fidem faciunt ea bipertita sunt; ex quibus alterum natura valet alterum industria. Deorum enim virtus natura excellit, hominum autem industria. [77] Divina haec fere sunt testimonia: primum orationis&#151;oracula enim ex eo ipso appellata sunt, quod inest in his deorum oratio&#151;; deinde rerum, in quibus insunt quasi quaedam opera divina: primum ipse mundus eiusque omnis ordo et ornatus; deinceps aerii volatus avium atque cantus; deinde eiusdem aeris sonitus et ardores multarumque rerum in terra portenta atque etiam per exta inventa praesensio; a dormientibus quoque multa significata visis. Quibus ex locis sumi interdum solent ad fidem faciendam testimonia deorum. 
+ Quae autem virtute fidem faciunt ea bipertita sunt; ex quibus alterum natura valet alterum industria. Deorum enim virtus natura excellit, hominum autem industria. [77] Divina haec fere sunt testimonia: primum orationis—oracula enim ex eo ipso appellata sunt, quod inest in his deorum oratio—; deinde rerum, in quibus insunt quasi quaedam opera divina: primum ipse mundus eiusque omnis ordo et ornatus; deinceps aerii volatus avium atque cantus; deinde eiusdem aeris sonitus et ardores multarumque rerum in terra portenta atque etiam per exta inventa praesensio; a dormientibus quoque multa significata visis. Quibus ex locis sumi interdum solent ad fidem faciendam testimonia deorum. 
  
 
  

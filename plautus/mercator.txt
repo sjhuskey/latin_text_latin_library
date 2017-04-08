@@ -244,13 +244,13 @@ Tun? id quod volo.
 Dice. CH. At enim 
   placide volo. 
  ACAN. Dormientis spectatores metuis ne ex somno excites?   160 
- CHAR. Vae tibi. ACAN. Tibi equidem a portu adporto hoc&#151;
+ CHAR. Vae tibi. ACAN. Tibi equidem a portu adporto hoc—
  CHAR. 
 Quid 
   fers? dic mihi. 
  ACAN. Vim metum, cruciatum curam, iurgiumque atque inopiam. 
  CHAR. Perii, tu quidem thensaurum huc mi adportavisti mali. 
-nullus sum. AC. Immo es&#151; CH. Scio iam, miserum dices
+nullus sum. AC. Immo es— CH. Scio iam, miserum dices
 tu. AC. Dixi ego tacens. 
  CHAR. Quid istuc est mali? ACAN. Ne rogites, maxumum
 infortunium est.  165 
@@ -273,9 +273,9 @@ Tace.
 credo, si boni quid ad te nuntiem, instes acriter, 
 qui nunc, quom malum audiendumst, flagitas me ut eloquar. 
  CHAR. Obsecro hercle te, istuc ut tu mihi malum facias palam. 
- AC. Eloquar, quandoquidem me oras. tuos pater&#151; CH. Quid
+ AC. Eloquar, quandoquidem me oras. tuos pater— CH. Quid
 meus pater?  180 
- ACAN. Tuam amicam&#151; CHAR. Quid eam? ACAN. Vidit.
+ ACAN. Tuam amicam— CHAR. Quid eam? ACAN. Vidit.
  CHAR. 
 Vidit? vae 
   misero mihi. 
@@ -330,7 +330,7 @@ postea aspiciet te timidum esse atque exanimatum: ilico     220
 retinebit, rogitabit unde illam emeris, quanti emeris: 
 timidum temptabit te. CHAR. Hac ibo potius. iam censes patrem 
 abiisse a portu? ACAN. Quin ea ego huc praecucurri gratia, 
-ne te opprimeret imprudentem atque electaret. CHAR. Optime.&#151;
+ne te opprimeret imprudentem atque electaret. CHAR. Optime.—
 
  
 
@@ -451,7 +451,7 @@ hoc facto ducas. LYS. Egon te? ah, ne di siverint.
 Perdis me. 
 hic homo ex amore insanit. numquid vis? DEM. Vale.     325 
  LYS. Ad portum propero, nam ibi mihi negotium est. 
- DEM. Bene ambulato. LYS. Bene vale.&#151; DEM. Bene
+ DEM. Bene ambulato. LYS. Bene vale.— DEM. Bene
 sit tibi. 
 quin mihi quoque etiamst ad portum negotium. 
 nunc adeo ibo illuc. sed optume gnatum meum 
@@ -501,7 +501,7 @@ pater.
 numquid tibi dolet? CHAR. Nescio quid meo animost aegre, pater. 
 poste hac nocte non quievi satis mea ex sententia.       370 
  DEM. [Per mare ut vectu's, nunc oculi terram mirantur tui. 
- CH. Magis opinor&#151; D. Id est profecto; verum actutum
+ CH. Magis opinor— D. Id est profecto; verum actutum
 abscesserit.] 
 ergo edepol palles. si sapias, eas ac decumbas domi. 
  CHAR. Otium non est: mandatis rebus praevorti volo. 
@@ -571,7 +571,7 @@ pater,
 mandavit ad illam faciem, ita ut illaec est, emerem sibi. 
  DEM. Viginti minis opinor posse me illam vendere. 
  CHAR. At ego si velim, iam dantur septem et viginti minae.    430 
- DEM. At ego&#151; CHAR. Quin ego, inquam&#151; DEM. Ah,
+ DEM. At ego— CHAR. Quin ego, inquam— DEM. Ah,
 nescis quid dicturus sum, 
   tace. 
 tris minas accudere etiam possum, ut triginta sient. 
@@ -625,7 +625,7 @@ ad portum ne bitas, dico iam tibi. CHAR. Auscultabitur.   465
  DEM. Ibo ad portum. ne hic resciscat, cauto opust: non ipse
 emam, 
 sed Lysimacho amico mandabo. is se ad portum dixerat 
-ire dudum. me moror quom hic asto.&#151; CHAR. Nullus sum, occidi.
+ire dudum. me moror quom hic asto.— CHAR. Nullus sum, occidi.
  
 
  
@@ -642,7 +642,7 @@ tuos amicus et sodalis, simul vicinus proxumus.     475
  CHAR. Non tu scis, quantum malarum rerum sustineam. EVT. 
 Scio; 
 omnia ego istaec auscultavi ab ostio, omnem rem scio. 
- C. Quid id est quod scis? E. Tuos pater volt vendere&#151;
+ C. Quid id est quod scis? E. Tuos pater volt vendere—
  C. 
 Omnem rem tenes. 
  EVT. Tuam amicam. CHAR. Nimium multum scis. EVT. 
@@ -657,7 +657,7 @@ responde: quo leto censes me ut peream potissimum?
 igitur dicere? 
  EVT. Vin patri sublinere pulchre me os tuo? CHAR. Sane
 volo.   485 
- E. Visne eam ad portum&#151; C. Qui potius quam voles? E. 
+ E. Visne eam ad portum— C. Qui potius quam voles? E. 
 Atque eximam 
 mulierem pretio? C. Qui potius quam auro expendas? E. 
 Vnde erit? 
@@ -679,7 +679,7 @@ Non potest.   495
 ad me redieris. 
  E. Melius sanus sis. C. Vale, vince et me serva. E. 
 Ego fecero. 
-domi maneto me. CHAR. Ergo actutum face cum praeda recipias.&#151;
+domi maneto me. CHAR. Ergo actutum face cum praeda recipias.—
 
  
 
@@ -693,7 +693,7 @@ domi maneto me. CHAR. Ergo actutum face cum praeda recipias.&#151;
 hoc emi mercimonium. mea es tu, sequere sane.        500 
 ne plora: nimis stulte facis, oculos corrumpis tales. 
 quin tibi quidem quod rideas magis est, quam ut lamentere. 
- PASICOMPSA Amabo ecastor, mi senex, eloquere&#151; LYS. Exquire
+ PASICOMPSA Amabo ecastor, mi senex, eloquere— LYS. Exquire
 quidvis. 
  PAS. Cur emeris me. LYS. Tene ego? ut quod imperetur
 facias, 
@@ -745,7 +745,7 @@ quidem, stulta.  540
 nam illi quidem hau sane diust quom dentes exciderunt. 
  PAS. Quid, dentes? LYS. Nihil est. sequere sis. hunc
 me diem unum oravit 
-ut apud me praehiberem locum, ideo quia uxor rurist.&#151;
+ut apud me praehiberem locum, ideo quia uxor rurist.—
  
 
  
@@ -786,7 +786,7 @@ prius etiamst, quod te facere ego aequom censeo.
 nam nunc si illuc intro ieris, amplecti voles,    570 
 confabulari atque osculari. DEM. Tu quidem 
 meum animum gestas: scis quid acturus siem. 
- LYS. Pervorse facies. DEM. Quodne ames&#151; LYS. 
+ LYS. Pervorse facies. DEM. Quodne ames— LYS. 
 Tanto minus. 
 ieiunitatis plenus, anima foetida, 
 senex hircosus tu osculere mulierem?   575 
@@ -801,7 +801,7 @@ curamus, pulchre ut simus? LYS. Equidem te sequor.
 atque hercle invenies tu locum illi, si sapis: 
 nullum hercle praeter hunc diem illa apud med erit.  585 
 metuo ego uxorem, cras si rure redierit 
-ne illam hic offendat. DEM. Res parata est, sequere me.&#151;
+ne illam hic offendat. DEM. Res parata est, sequere me.—
  
 
  
@@ -897,13 +897,13 @@ adeo dum illius te cupiditas atque amor missum facit?
  CHAR. Iam dixisti? EVT. Dixi. CHAR. Frustra dixti.
 hoc mihi certissumumst. 
 eo domum, patrem atque matrem ut meos salutem, postea 
-clam patrem patria hac effugiam, aut aliquid capiam consili.&#151;   660 
+clam patrem patria hac effugiam, aut aliquid capiam consili.—   660 
  EVT. Vt corripuit se repente atque abiit. heu misero mihi, 
 si ille abierit, mea factum omnes dicent esse ignavia. 
 certumst praeconum iubere iam quantum est conducier, 
 qui illam investigent, qui inveniant. post ad praetorem ilico 
 ibo, orabo, ut conquaestores det mi in vicis omnibus;     665 
-nam mihi nil relicti quicquam aliud iam esse intellego.&#151; 
+nam mihi nil relicti quicquam aliud iam esse intellego.— 
 
  
  ACTVS IV 
@@ -921,7 +921,7 @@ atque eccam incedit tandem. quin is ocius?
 et eodem accedit servitus, sudor, sitis: 
 simul haec quae porto deprimunt. DOR. Aliquid cedo   675 
 qui hanc vicini nostri aram augeam. 
-da sane hanc virgam lauri. abi tu intro. SYR. Eo.&#151; 
+da sane hanc virgam lauri. abi tu intro. SYR. Eo.— 
  DOR. Apollo, quaeso te, ut des pacem propitius, 
 salutem et sanitatem nostrae familiae, 
 meoque ut parcas gnato pace propitius. 680 
@@ -936,8 +936,8 @@ quamvis insipiens poterat persentiscere
  * * *               687a 
 illam esse amicam tui viri bellissumi. 
  DOR. Credo mecastor. SYR. Ei hac mecum, ut videas semul 
-tuam Alcumenam paelicem, Iuno mea.&#151;  690 
- DOR. Ecastor vero istuc eo quantum potest.&#151;
+tuam Alcumenam paelicem, Iuno mea.—  690 
+ DOR. Ecastor vero istuc eo quantum potest.—
  
 
  
@@ -977,20 +977,20 @@ cupio hercle scire. DOR. Sed tu me temptas sciens.   721
 quoia illa mulier intust? LYS. Vidistine eam?     719 
  DOR. Vidi. LYS. Quoia ea sit rogitas? DOR. Resciscam
 tamen. 
- LYS. Vin dicam quoiast? Illa&#151; illa edepol&#151; vae mihi,    722 
+ LYS. Vin dicam quoiast? Illa— illa edepol— vae mihi,    722 
 nescio quid dicam. DOR. Haeres. LYS. Haud vidi magis. 
- DOR. Quin dicis? LYS. Quin si liceat&#151; DOR. Dictum
+ DOR. Quin dicis? LYS. Quin si liceat— DOR. Dictum
 oportuit. 
  LYS. Non possum, ita instas; urges quasi pro noxio.    725 
  DOR. Scio, innoxiu's. LYS. Audacter quam vis dicito. 
  DOR. Dic igitur. LYS. Dicam. DOR. At qui dicundum
 est tamen. 
- LYS. Illast&#151; etiam vis nomen dicam? DOR. Nihil agis, 
+ LYS. Illast— etiam vis nomen dicam? DOR. Nihil agis, 
 manufesto teneo in noxia. LYS. Qua noxia? 
-ista quidem illa est. DOR. Quae illa est? LYS. Illa&#151;
+ista quidem illa est. DOR. Quae illa est? LYS. Illa—
  DOR. 
 ~Iohia  730 
- LYS. Iam&#151; si nihil usus esset, iam non dicerem. 
+ LYS. Iam— si nihil usus esset, iam non dicerem. 
  DOR. Non tu scis quae sit illa? LYS. Immo iam scio:   732-735 
 de istac sum iudex captus. DOR. Iudex? iam scio:     736 
 nunc tu in consilium istam advocavisti tibi. 
@@ -1012,7 +1012,7 @@ ite hac. sed eccum qui nos conduxit senex.
  LYS. Abi. COC. Quid, abeam? LYS. St, abi. COC. 
 Abeam? LYS. Abi. 
  COC. Non estis cenaturi? LYS. Iam saturi sumus.    750 
- COC. Sed&#151; LYS. Interii. DOR. Quid ais tu? etiamne
+ COC. Sed— LYS. Interii. DOR. Quid ais tu? etiamne
 haec illi tibi 
 iusserunt ferri, quos inter iudex datu's? 
  COC. Haecin tua est amica, quam dudum mihi 
@@ -1047,16 +1047,16 @@ dari potest interea dum illi ponunt. LYS. Quin abis?
 potine ut molestus ne sis? COC. Agite apponite 
 obsonium istuc ante pedes illi seni.      780 
 haec vasa aut mox aut cras iubebo abs te peti 
-sequimini.&#151; LYS. Fortasse te illum mirari coquom, 
+sequimini.— LYS. Fortasse te illum mirari coquom, 
 quod venit atque haec attulit. dicam quid est. 
  DOR. Non miror si quid damni facis aut flagiti. 
 nec pol ego patiar, sic me nuptam tam male   785 
 measque in aedis sic scorta obductarier. 
 Syra, i, rogato meum patrem verbis meis, 
-ut veniat ad me iam simul tecum.&#151; SYR. Eo.&#151; 
+ut veniat ad me iam simul tecum.— SYR. Eo.— 
  LYS. Nescis negoti quid sit, uxor, obsecro. 
 conceptis verbis iam iusiurandum dabo,    790 
-me numquam quicquam cum illa&#151; iamne abiit Syra? 
+me numquam quicquam cum illa— iamne abiit Syra? 
 perii hercle. ecce autem haec abiit. vae misero mihi. 
 at te, vicine, di deaeque perduint, 
 cum tua amica cumque amationibus. 
@@ -1067,7 +1067,7 @@ me istanc capillo protracturum esse in viam,
 nisi hinc abducit quo volt ex hisce aedibus. 
 uxor, heus uxor, quamquam tu irata es mihi, 800 
 iubeas, si sapias, haec intro auferrier: 
-eadem licebit mox cenare rectius.&#151;
+eadem licebit mox cenare rectius.—
  
 
  
@@ -1086,7 +1086,7 @@ astare ante aedis. Syra. SYR. Quis est qui me vocat?
 amicam adduxit intro in aedis. EVT. Quo modo? 
  SYR. Adveniens mater rure eam offendit domi. 
  EVT. Pol haud censebam istarum esse operarum patrem.  815 
-etiam nunc mulier intust? SYR. Etiam. EVT. Sequere me.&#151;
+etiam nunc mulier intust? SYR. Etiam. EVT. Sequere me.—
  
 
  
@@ -1103,7 +1103,7 @@ qui minus vir una uxore contentus siet?    825
 ecastor faxim, si itidem plectantur viri, 
 si quis clam uxorem duxerit scortum suam, 
 ut illae exiguntur quae in se culpam commerent, 
-plures viri sint vidui quam nunc mulieres.&#151;
+plures viri sint vidui quam nunc mulieres.—
 
  
 
@@ -1186,7 +1186,7 @@ ibi faceres? CHAR. Quod
  EVT. Ne pave, restituam iam ego te in gaudio antiquo ut sies.  885 
 maxime quod vis audire, id audies, quod gaudeas 
 [sta ilico, amicus aduenio multum beneuolens]. 
-tuam amicam&#151; CH. Quid eam? E. Vbi sit ego scio. CH. 
+tuam amicam— CH. Quid eam? E. Vbi sit ego scio. CH. 
 Tune, obsecro? 
  EVT. Sanam et salvam. CHAR. Vbi eam salvam? EVT. 
 Ego scio. CHAR. Ego 
@@ -1246,7 +1246,7 @@ ob oculos adduxerit in aedis, dum ruri ipsa abest:
 suspicatur illam amicam esse illi. CHAR. Sonam sustuli.   925 
  EVT. Eam rem nunc exquirit intus. CHAR. Iam machaerast
 in manu. 
- EVT. Nam si eo ted intro ducam&#151; CHAR. Tollo ampullam
+ EVT. Nam si eo ted intro ducam— CHAR. Tollo ampullam
 atque hinc eo. 
  EVT. Mane, mane, Charine. CHAR. Erras, me decipere haud
 potes. 
@@ -1285,12 +1285,12 @@ hic homo non sanust. CHAR. Medicari amicus quin properas &lt;mihi>?
 quaeso, calces deteris. 
 audin tu? CHAR. Iam dudum audivi. EVT. Pacem componi
 volo 
-meo patri cum matre: nam nunc est irata&#151; CHAR. I modo. 
+meo patri cum matre: nam nunc est irata— CHAR. I modo. 
  EVT. Propter istanc. CHAR. I modo. EVT. Ergo cura.
  CHAR. 
 Quin tu 955 
   ergo i modo. 
-tam propitiam reddam, quam quom propitiast Iuno Iovi.&#151;
+tam propitiam reddam, quam quom propitiast Iuno Iovi.—
  
 
  

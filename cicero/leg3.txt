@@ -57,11 +57,11 @@ Cicero: de Legibus III
  
 
  
- [3] Nihil porro tam aptum est ad ius condicionemque naturae &#151; quod quom dico, legem a me dici intellegi volo &#151; quam imperium, sine quo nec domus ulla nec civitas nec gens nec hominum universum genus stare, nec rerum natura omnis nec ipse mundus potest. Nam et hic deo paret, et huic oboediunt maria terraeque, et hominum vita iussis supremae legis obtemperat. 
+ [3] Nihil porro tam aptum est ad ius condicionemque naturae — quod quom dico, legem a me dici intellegi volo — quam imperium, sine quo nec domus ulla nec civitas nec gens nec hominum universum genus stare, nec rerum natura omnis nec ipse mundus potest. Nam et hic deo paret, et huic oboediunt maria terraeque, et hominum vita iussis supremae legis obtemperat. 
  
 
  
- II [4] Atque ut ad haec citeriora veniam et notiora nobis: omnes antiquae gentes regibus quondam paruerunt. Quod genus imperii primum ad homines iustissimos et sapientissimos deferebatur &#151; idque et in re publica nostra maxime valuit, quoad ei regalis potestas praefuit &#151;, deinde etiam deinceps posteris prodebatur, quo &lt;et&gt; in iis qui etiam nunc regnant&lt;ur&gt; manet. Quibus autem regia potestas non placuit, non ii nemini, sed non semper uni parere voluerunt. Nos autem quoniam leges damus liberis populis, quaeque de optima re publica sentiremus, in sex libris ante diximus, accommodabimus hoc tempore leges ad illum quem probamus civitatis statum.  
+ II [4] Atque ut ad haec citeriora veniam et notiora nobis: omnes antiquae gentes regibus quondam paruerunt. Quod genus imperii primum ad homines iustissimos et sapientissimos deferebatur — idque et in re publica nostra maxime valuit, quoad ei regalis potestas praefuit —, deinde etiam deinceps posteris prodebatur, quo &lt;et&gt; in iis qui etiam nunc regnant&lt;ur&gt; manet. Quibus autem regia potestas non placuit, non ii nemini, sed non semper uni parere voluerunt. Nos autem quoniam leges damus liberis populis, quaeque de optima re publica sentiremus, in sex libris ante diximus, accommodabimus hoc tempore leges ad illum quem probamus civitatis statum.  
  
 
  
@@ -253,7 +253,7 @@ IX quo pacto recreatus multoque taetrior et foedior natus est. Quae enim ille no
  
 
  
- [20] Namque ut C. Flaminium atque ea quae iam prisca videntur propter vetustatem relinquam, quid iuris bonis viris Tiberi Gracchi tribunatus reliquit? Etsi quinquennio ante D[ecim]um Brutum et P. Scipionem consules &#151; quos et quantos viros! &#151; homo omnium infimus et sordidissimus tribunus plebis C. Curiatius in vincula coniecit, quod ante factum non erat. C. vero Gracchi tribunatus sicis quas ipse se proiecisse in forum dixit, quibus digladiarentur inter se cives, nonne omnem rei publicae statum perturbavit? Quid iam de Saturnino, Sulpicio, reliquis dicam? Quos ne depellere quidem a se sine ferro potuit res publica. 
+ [20] Namque ut C. Flaminium atque ea quae iam prisca videntur propter vetustatem relinquam, quid iuris bonis viris Tiberi Gracchi tribunatus reliquit? Etsi quinquennio ante D[ecim]um Brutum et P. Scipionem consules — quos et quantos viros! — homo omnium infimus et sordidissimus tribunus plebis C. Curiatius in vincula coniecit, quod ante factum non erat. C. vero Gracchi tribunatus sicis quas ipse se proiecisse in forum dixit, quibus digladiarentur inter se cives, nonne omnem rei publicae statum perturbavit? Quid iam de Saturnino, Sulpicio, reliquis dicam? Quos ne depellere quidem a se sine ferro potuit res publica. 
  
 
  
@@ -281,7 +281,7 @@ XI Nostra autem causa quae, optume et dulcissume frater, incidit in tribuniciam 
  
 
  
- [26] Quodsi is casus fuisset rerum quas pro salute rei publicae gessimus, ut non omnibus gratus esset, et si nos multitudinis furentis inflammata invidia pepulisset, tribuniciaque vis in me populum, sicut Gracchus in Laenatem, Saturninus in Metellum incitasset, ferremus o Quinte frater, consolarenturque nos non tam philosophi qui Athenis fuerunt &#151; qui hoc facere debebant &#151;, quam clarissimi vin qui illa urbe pulsi carere ingrata civitate quam manere in &lt;im&gt;proba maluerunt. Pompeium vero quod una ista in re non ita valde probas, vix satis mihi illud videris attendere, non solum ei quid esset optimum videndum fuisse, sed etiam quid necessarium. Sensit enim deberi non posse huic civitati illam potestatem: quippe quam tanto opere populus noster ignotam expetisset, qui posset carere cognita? Sapientis autem civis fuit, causam nec perniciosam et ita popularem ut non posset obsisti, perniciose populari civi non relinquere. &#151; Scis solere frater in huius modi sermone, ut transiri alio possit, dici 'admodum' aut 'prorsus ita est.' 
+ [26] Quodsi is casus fuisset rerum quas pro salute rei publicae gessimus, ut non omnibus gratus esset, et si nos multitudinis furentis inflammata invidia pepulisset, tribuniciaque vis in me populum, sicut Gracchus in Laenatem, Saturninus in Metellum incitasset, ferremus o Quinte frater, consolarenturque nos non tam philosophi qui Athenis fuerunt — qui hoc facere debebant —, quam clarissimi vin qui illa urbe pulsi carere ingrata civitate quam manere in &lt;im&gt;proba maluerunt. Pompeium vero quod una ista in re non ita valde probas, vix satis mihi illud videris attendere, non solum ei quid esset optimum videndum fuisse, sed etiam quid necessarium. Sensit enim deberi non posse huic civitati illam potestatem: quippe quam tanto opere populus noster ignotam expetisset, qui posset carere cognita? Sapientis autem civis fuit, causam nec perniciosam et ita popularem ut non posset obsisti, perniciose populari civi non relinquere. — Scis solere frater in huius modi sermone, ut transiri alio possit, dici 'admodum' aut 'prorsus ita est.' 
  
 
  
@@ -389,11 +389,11 @@ XVII Atticus: Mihi vero nihil umquam populare placuit, eamque optimam rem public
  
 
  
- XVIII [40] Deinde sequitur, quibus ius sit cum populo agendi aut cum senatu. &lt;Tum&gt; gravis et ut arbitror praeclara lex: 'Quae cum populo quaeque in patribus agentur, modica sunto', id est modesta atque sedata. Actor enim moderatur et fingit non modo mentes ac voluntates, sed paene vultus eorum apud quos agit. Quod &lt;ni&gt;si in senatu non difficile; est enim ipse senator is cuius non ad actorem referatur animus, sed qui per se ipse spectari velit. Huic iussa tria sunt: ut adsit, nam gravitatem res habet, cum frequens ordo est; ut loco dicat, id est rogatus; ut modo, ne sit infinitus. Nam brevitas non modo senatoris sed etiam oratoris magna laus est in sententia, nec est umquam longa oratione utendum &#151; quod fit ambitione saepissime &#151;, nisi aut peccante senatu nullo magistratu adiuvante tolli diem utile est, aut cum tanta causa est ut opus sit oratoris copia vel ad hortandum vel ad docendum; quorum generum in utroque magnus noster Cato est. 
+ XVIII [40] Deinde sequitur, quibus ius sit cum populo agendi aut cum senatu. &lt;Tum&gt; gravis et ut arbitror praeclara lex: 'Quae cum populo quaeque in patribus agentur, modica sunto', id est modesta atque sedata. Actor enim moderatur et fingit non modo mentes ac voluntates, sed paene vultus eorum apud quos agit. Quod &lt;ni&gt;si in senatu non difficile; est enim ipse senator is cuius non ad actorem referatur animus, sed qui per se ipse spectari velit. Huic iussa tria sunt: ut adsit, nam gravitatem res habet, cum frequens ordo est; ut loco dicat, id est rogatus; ut modo, ne sit infinitus. Nam brevitas non modo senatoris sed etiam oratoris magna laus est in sententia, nec est umquam longa oratione utendum — quod fit ambitione saepissime —, nisi aut peccante senatu nullo magistratu adiuvante tolli diem utile est, aut cum tanta causa est ut opus sit oratoris copia vel ad hortandum vel ad docendum; quorum generum in utroque magnus noster Cato est. 
  
 
  
- [41] Quodque addit 'causas populi teneto, est senatori necessarium nosse rem publicam &#151; idque late patet: quid habeat militum, quid valeat aerario, quos socios res publica habeat, quos amicos, quos stipendiarios, qua quisque sit lege, condicione, foedere &#151;, tenere consuetudinem decernendi, nosse exempla maiorum. Videtis iam genus hoc omne scientiae, diligentiae, memoriae, sine quo paratus esse senator nullo pacto potest. 
+ [41] Quodque addit 'causas populi teneto, est senatori necessarium nosse rem publicam — idque late patet: quid habeat militum, quid valeat aerario, quos socios res publica habeat, quos amicos, quos stipendiarios, qua quisque sit lege, condicione, foedere —, tenere consuetudinem decernendi, nosse exempla maiorum. Videtis iam genus hoc omne scientiae, diligentiae, memoriae, sine quo paratus esse senator nullo pacto potest. 
  
 
  
@@ -425,7 +425,7 @@ Sunt deinde posita deinceps quae habemus etiam in publicis institutis atque legi
  
 
  
-Extremae leges sunt nobis non usitatae, rei publicae necessariae. Legum custodiam nullam habemus, itaque eae leges sunt quas apparitores nostri volunt: a librariis petimus, publicis litteris consignatam memoriam publicam nullam habemus. Graeci hoc diligentius, apud quos nomofulakoi crea&lt;ba&gt;ntur, nec ei solum litteras &#151; nam id quidem etiam apud maiores nostros erat &#151;, sed etiam facta hominum observabant ad legesque revocabant. 
+Extremae leges sunt nobis non usitatae, rei publicae necessariae. Legum custodiam nullam habemus, itaque eae leges sunt quas apparitores nostri volunt: a librariis petimus, publicis litteris consignatam memoriam publicam nullam habemus. Graeci hoc diligentius, apud quos nomofulakoi crea&lt;ba&gt;ntur, nec ei solum litteras — nam id quidem etiam apud maiores nostros erat —, sed etiam facta hominum observabant ad legesque revocabant. 
  
 
  

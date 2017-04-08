@@ -58,7 +58,7 @@ sed meos amicos in quibus est studium in Graeciam mitto id est ad Graecos ire iu
  
 
  
- [3] Tum ego 'Sunt' inquam 'ista Varro. nam nos in nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt ut possemus aliquando qui et ubi essemus agnoscere. tu aetatem patriae tu descriptiones temporum tu sacrorum iura tu sacerdotum tu domesticam tu bellicam disciplinam, tu sedum regionum locorum tu omnium divinarum humanarumque rerum nomina genera officia causas aperuisti; plurimum quidem poetis nostris omninoque Latinis et litteris luminis et verbis attulisti atque ipse varium et elegans omni fere numero poema fecisti philosophiamque multis locis inchoasti, ad impellandum satis, ad edocendorum parum. Causam autem probabilem tu quidem affers: aut enim Graeca legere malent qui erunt eruditi aut ne haec quidem qui illa nescient. sed eam mihi non sane probas immo vero et haec qui illa non poterunt et qui Graeca poterunt non contemnent sua. quid enim causae est cur poetas Latinos Graecis litteris eruditi legant philosophos non legant? an quia delectat Ennius Pacuvius Accius multi alii qui non verba seri vim Graecorum expresserunt poetarum&#151;quanto magis philosophi delectabunt, si ut illi Aeschylum Sophociem Euripidem sic hi Platonem imitentur Aristotelem Theophrastum. oratores quidem laudari video si qui nostris Hyperidem sint aut Demosthenem imitati. 
+ [3] Tum ego 'Sunt' inquam 'ista Varro. nam nos in nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt ut possemus aliquando qui et ubi essemus agnoscere. tu aetatem patriae tu descriptiones temporum tu sacrorum iura tu sacerdotum tu domesticam tu bellicam disciplinam, tu sedum regionum locorum tu omnium divinarum humanarumque rerum nomina genera officia causas aperuisti; plurimum quidem poetis nostris omninoque Latinis et litteris luminis et verbis attulisti atque ipse varium et elegans omni fere numero poema fecisti philosophiamque multis locis inchoasti, ad impellandum satis, ad edocendorum parum. Causam autem probabilem tu quidem affers: aut enim Graeca legere malent qui erunt eruditi aut ne haec quidem qui illa nescient. sed eam mihi non sane probas immo vero et haec qui illa non poterunt et qui Graeca poterunt non contemnent sua. quid enim causae est cur poetas Latinos Graecis litteris eruditi legant philosophos non legant? an quia delectat Ennius Pacuvius Accius multi alii qui non verba seri vim Graecorum expresserunt poetarum—quanto magis philosophi delectabunt, si ut illi Aeschylum Sophociem Euripidem sic hi Platonem imitentur Aristotelem Theophrastum. oratores quidem laudari video si qui nostris Hyperidem sint aut Demosthenem imitati. 
  
 
  
@@ -110,7 +110,7 @@ Ex hac descriptione agendi quoque aliquid in vita et officii ipsius initium repe
  
 
  
-De natura autem (id enim sequebatur) ita dicebant ut eam dividerent in res duas, ut altera esset efficiens, altera autem quasi huic se praebens, eaque efficeretur aliquid. in eo quod efficeret vim esse censebant, in eo autem quod efficeretur tantum modo materiam quandam; in utroque tamen utrumque: neque enim materiam ipsam cohaerere potilisse si nulla vi contineretur, neque vim sine aliqua materia; nihil est enim quod non alicubi esse cogatur. sed quod ex utroque, id iam corpus et quasi qualitatem quandam nominabant&#151;dabitis enim profecto ut in rebus inusitatis, quod Graeci ipsi faciunt a quibus haec iam diu tractantur, utamur verbis interdum inauditis.' 
+De natura autem (id enim sequebatur) ita dicebant ut eam dividerent in res duas, ut altera esset efficiens, altera autem quasi huic se praebens, eaque efficeretur aliquid. in eo quod efficeret vim esse censebant, in eo autem quod efficeretur tantum modo materiam quandam; in utroque tamen utrumque: neque enim materiam ipsam cohaerere potilisse si nulla vi contineretur, neque vim sine aliqua materia; nihil est enim quod non alicubi esse cogatur. sed quod ex utroque, id iam corpus et quasi qualitatem quandam nominabant—dabitis enim profecto ut in rebus inusitatis, quod Graeci ipsi faciunt a quibus haec iam diu tractantur, utamur verbis interdum inauditis.' 
  
 
  
@@ -186,11 +186,11 @@ cumque eas perturbationes antiquti naturales esse dicerent et rationis expertes 
  
 
  
-Plurima autem in illa tertia philosophiae parte mutavit. in qua primum de sensibus ipsis quaedam dixit nova, quos iunctos esse censuit e quadam quasi impulsione oblata extrinsecus. quam ille phantasian nos visum appellemus licet, et teramus hoc quidem verbum, erit enim utendum in reliquo sermone saepius&#151;sed ad haec quae visa sunt et quasi accepta sensibus assensionem adiungit animomorum, quam esse vult in nobis positam et voluntariam. 
+Plurima autem in illa tertia philosophiae parte mutavit. in qua primum de sensibus ipsis quaedam dixit nova, quos iunctos esse censuit e quadam quasi impulsione oblata extrinsecus. quam ille phantasian nos visum appellemus licet, et teramus hoc quidem verbum, erit enim utendum in reliquo sermone saepius—sed ad haec quae visa sunt et quasi accepta sensibus assensionem adiungit animomorum, quam esse vult in nobis positam et voluntariam. 
  
 
  
-visis non omnibus adiungebat fidem sed is solum quae propriam quandam haberent declarationem earum rerum quae viderentur; id autem visum cum ipsum per se cerneretur, comprehenibile&#151;feretis haec?' Att. 'nos vero' inquit; 'quonam enim alio modo katalaempton diceres?'&#151;Va. 'Sed cum acceptum iam et approbatum esset, comprehensionem appellabat, similem is rebus quae manu prenderentur; ex quo etiam nomen hoc duxerat [at] cum eo verbo antea nemo tali in re usus esset, plurimisque idem novis verbis (nova enim dicebat) usus est. Quod autem erat sensu comprensum id ipsum sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat etiam opinio, quae esset imbecilla et cum falso incognitoque communis. 
+visis non omnibus adiungebat fidem sed is solum quae propriam quandam haberent declarationem earum rerum quae viderentur; id autem visum cum ipsum per se cerneretur, comprehenibile—feretis haec?' Att. 'nos vero' inquit; 'quonam enim alio modo katalaempton diceres?'—Va. 'Sed cum acceptum iam et approbatum esset, comprehensionem appellabat, similem is rebus quae manu prenderentur; ex quo etiam nomen hoc duxerat [at] cum eo verbo antea nemo tali in re usus esset, plurimisque idem novis verbis (nova enim dicebat) usus est. Quod autem erat sensu comprensum id ipsum sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat etiam opinio, quae esset imbecilla et cum falso incognitoque communis. 
  
 
  
@@ -218,7 +218,7 @@ itaque Arcesilas negabat esse quicquam quod sciri posset, ne illud quidem ipsum 
  
 
  
-Hanc Academiam novam appellant, quae mihi vetus videtur, si quidem Platonem ex illa vetere numeramus, cuius in libris nihil affirmatur et in utramque partem multa disseruntur, de omnibus quaeritur nihil certi dicitur&#151;sed tamen illa quam euisti vetus, haec nova nominetur. quae usque ad Carneadem perducta, qui quartus ab Arcesila fuit, in eadem Arcesilae ratione permansit. Carneades autem nullius philosophiae partis ignarus et, ut cognovi ex is qui illum audierant maximeque ex Epicureo Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et 
+Hanc Academiam novam appellant, quae mihi vetus videtur, si quidem Platonem ex illa vetere numeramus, cuius in libris nihil affirmatur et in utramque partem multa disseruntur, de omnibus quaeritur nihil certi dicitur—sed tamen illa quam euisti vetus, haec nova nominetur. quae usque ad Carneadem perducta, qui quartus ab Arcesila fuit, in eadem Arcesilae ratione permansit. Carneades autem nullius philosophiae partis ignarus et, ut cognovi ex is qui illum audierant maximeque ex Epicureo Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et 
  
 
  

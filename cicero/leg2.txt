@@ -20,7 +20,7 @@ Cicero: de Legibus II
 
 
  
-[1] Atticus: Sed visne, quoniam et satis iam ambulatum est, et tibi aliud dicendi initium sumendum est, locum mutemus et in insula quae est in Fibreno &#151; nam opinor &lt;id&gt; illi alteri flumini nomen est &#151; sermoni reliquo demus operam sedentes? 
+[1] Atticus: Sed visne, quoniam et satis iam ambulatum est, et tibi aliud dicendi initium sumendum est, locum mutemus et in insula quae est in Fibreno — nam opinor &lt;id&gt; illi alteri flumini nomen est — sermoni reliquo demus operam sedentes? 
  
 
  
@@ -28,7 +28,7 @@ Cicero: de Legibus II
  
 
  
-[2] Atticus: Equidem, qui nunc potissimum huc venerim, satiari non queo, magnificasque villas et pavimenta marmorea et laqueata tecta contemno. Ductus vero aquarum, quos isti Nilos et Euripos vocant, quis non cum haec videat inriserit? Itaque ut tu paulo ante de lege et de iure disserens ad naturam referebas omnia, sic in his ipsis rebus, quae ad requietem animi delectationemque quaeruntur, natura dominatur. Quare antea mirabar &#151; nihil enim his in locis nisi saxa et montis cogitabam, itaque ut facerem et narrationibus inducebar tuis et versibus &#151;, sed mirabar ut dixi, te tam valde hoc loco delectari. Nunc contra miror te cum Roma absis usquam potius esse. 
+[2] Atticus: Equidem, qui nunc potissimum huc venerim, satiari non queo, magnificasque villas et pavimenta marmorea et laqueata tecta contemno. Ductus vero aquarum, quos isti Nilos et Euripos vocant, quis non cum haec videat inriserit? Itaque ut tu paulo ante de lege et de iure disserens ad naturam referebas omnia, sic in his ipsis rebus, quae ad requietem animi delectationemque quaeruntur, natura dominatur. Quare antea mirabar — nihil enim his in locis nisi saxa et montis cogitabam, itaque ut facerem et narrationibus inducebar tuis et versibus —, sed mirabar ut dixi, te tam valde hoc loco delectari. Nunc contra miror te cum Roma absis usquam potius esse. 
  
 
  
@@ -52,7 +52,7 @@ Cicero: de Legibus II
  
 
  
-[5] Atticus: Equidem me cognosse admodum gaudeo. Sed illud tamen quale est quod paulo ante dixisti, hunc locum &#151; id enim ego te accipio dicere Arpinum &#151; germanam patriam esse vestram? Numquid duas habetis patrias, an est una illa patria communis? Nisi forte sapienti illi Catoni fuit patria non Roma sed Tusculum. 
+[5] Atticus: Equidem me cognosse admodum gaudeo. Sed illud tamen quale est quod paulo ante dixisti, hunc locum — id enim ego te accipio dicere Arpinum — germanam patriam esse vestram? Numquid duas habetis patrias, an est una illa patria communis? Nisi forte sapienti illi Catoni fuit patria non Roma sed Tusculum. 
  
 
  
@@ -72,7 +72,7 @@ Cicero: de Legibus II
  
 
  
- Marcus: Praeclare exigis Quinte &#151; at ego effugisse arbitrabar &#151;, et tibi horum nihil deberi potest. 
+ Marcus: Praeclare exigis Quinte — at ego effugisse arbitrabar —, et tibi horum nihil deberi potest. 
  
 
  
@@ -180,7 +180,7 @@ Cicero: de Legibus II
  
 
  
- Marcus: At &lt;ait&gt; Theophrastus, auctor haud deterior mea quidem sententia &#151; meliorem multi nominant &#151;, commemorant vero ipsius cives, nostri clientes, Locri. Sed sive fuit sive non fuit, nihil ad rem: loquimur quod traditum est. 
+ Marcus: At &lt;ait&gt; Theophrastus, auctor haud deterior mea quidem sententia — meliorem multi nominant —, commemorant vero ipsius cives, nostri clientes, Locri. Sed sive fuit sive non fuit, nihil ad rem: loquimur quod traditum est. 
  
 
  
@@ -212,7 +212,7 @@ Sit igitur hoc iam a principio persuasum civibus, dominos esse omnium rerum ac m
  
 
  
- Marcus: Sunt certa legum verba Quinte, neque ita prisca ut in veteribus XII sacratisque legibus, et tamen, quo plus auctoritatis habeant, paulo antiquiora quam hic sermo &lt;noster&gt; est. Eum morem igitur cum brevitate si potuero consequar. Leges autem a me edentur non perfectae &#151; nam esset infinitum &#151;, sed ipsae summae rerum atque sententiae. 
+ Marcus: Sunt certa legum verba Quinte, neque ita prisca ut in veteribus XII sacratisque legibus, et tamen, quo plus auctoritatis habeant, paulo antiquiora quam hic sermo &lt;noster&gt; est. Eum morem igitur cum brevitate si potuero consequar. Leges autem a me edentur non perfectae — nam esset infinitum —, sed ipsae summae rerum atque sententiae. 
  
 
  
@@ -296,11 +296,11 @@ XI Melius Graii atque nostri, qui ut augerent pietatem in deos, easdem illos urb
  
 
  
-[28] Bene vero quod Mens, Pietas, Virtus, Fides consecrantur humanae, quarum ommum Romae dedicata publice templa sunt, ut illas qui habeant &#151; habent autem omnes boni &#151; deos ipsos in animis suis conlocatos putent. Nam illud vitiosum Athenis quod Cylonio scelere expiato, Epimenide Crete suadente, fecerunt Contumeliae fanum et Inpudentiae, &lt;magnumque consecravit gymnasiis in simulacra Amorum et Cupidinum quod Graeciasuscepit consilium audax&gt;. Virtutes enim, non vitia consecrari decet. Araque vetusta in Palatio Febris et altera Esquiliis Malae Fortunae detest&lt;anda&gt;, atque omnia eius modi repudianda sunt. Quodsi fingenda nomina, Vicaepotae potius vincendi atque potiundi, Statae standi, cognominaque Statoris et Invicti Iovis, rerumque expetendarum nomina, Salutis, Honoris, Opis, Victoriae, quoniamque exspectatione rerum bonarum erigitur animus, recte etiam Spes a Calatino consecrata est. Fortunaque sit vel Huiusce diei &#151; nam valet in omnis dies &#151;, vel Respiciens ad opem ferendam, vel Fors in quo incerti casus significantur magis, vel Primigenia a gignendo comes.
+[28] Bene vero quod Mens, Pietas, Virtus, Fides consecrantur humanae, quarum ommum Romae dedicata publice templa sunt, ut illas qui habeant — habent autem omnes boni — deos ipsos in animis suis conlocatos putent. Nam illud vitiosum Athenis quod Cylonio scelere expiato, Epimenide Crete suadente, fecerunt Contumeliae fanum et Inpudentiae, &lt;magnumque consecravit gymnasiis in simulacra Amorum et Cupidinum quod Graeciasuscepit consilium audax&gt;. Virtutes enim, non vitia consecrari decet. Araque vetusta in Palatio Febris et altera Esquiliis Malae Fortunae detest&lt;anda&gt;, atque omnia eius modi repudianda sunt. Quodsi fingenda nomina, Vicaepotae potius vincendi atque potiundi, Statae standi, cognominaque Statoris et Invicti Iovis, rerumque expetendarum nomina, Salutis, Honoris, Opis, Victoriae, quoniamque exspectatione rerum bonarum erigitur animus, recte etiam Spes a Calatino consecrata est. Fortunaque sit vel Huiusce diei — nam valet in omnis dies —, vel Respiciens ad opem ferendam, vel Fors in quo incerti casus significantur magis, vel Primigenia a gignendo comes.
  
 
  
-XII [29] Tum feriarum festorumque dierum ratio in liberis requietem habet litium et iurgiorum, in servis operum et laborum; quas conpositio anni conferre debet ad perfectionem operum rusticorum. Quod &lt;ad&gt; tempus ut sacrificiorum libamenta serventur fetusque pecorum quae dicta in lege sunt, diligenter habenda ratio intercalandi est, quod institutum perite a Numa posteriorum pontificum neglegentia dissolutum est. Iam illud ex institutis pontificum et haruspicum non mutandum est, quibus hostiis immolandum quoique deo, cui maioribus, cui lactentibus, cui maribus, cui feminis. Plures autem deorum omnium, singuli singulorum sacerdotes et respondendi iuris et conficiendarum religionum facultatem adferunt. Quomque Vesta quasi focum urbis, ut Graeco nomine est appellata &#151; quod nos prope idem &lt;ac&gt; Graecum, &lt;non&gt; interpretatum nomen tenemus &#151;, conplexa sit, ei colendae &lt;VI&gt; virgines praesint, ut advigiletur facilius ad custodiam ignis, et sentiant mulieres &lt;in&gt; naturam feminarum omnem castitatem pati.
+XII [29] Tum feriarum festorumque dierum ratio in liberis requietem habet litium et iurgiorum, in servis operum et laborum; quas conpositio anni conferre debet ad perfectionem operum rusticorum. Quod &lt;ad&gt; tempus ut sacrificiorum libamenta serventur fetusque pecorum quae dicta in lege sunt, diligenter habenda ratio intercalandi est, quod institutum perite a Numa posteriorum pontificum neglegentia dissolutum est. Iam illud ex institutis pontificum et haruspicum non mutandum est, quibus hostiis immolandum quoique deo, cui maioribus, cui lactentibus, cui maribus, cui feminis. Plures autem deorum omnium, singuli singulorum sacerdotes et respondendi iuris et conficiendarum religionum facultatem adferunt. Quomque Vesta quasi focum urbis, ut Graeco nomine est appellata — quod nos prope idem &lt;ac&gt; Graecum, &lt;non&gt; interpretatum nomen tenemus —, conplexa sit, ei colendae &lt;VI&gt; virgines praesint, ut advigiletur facilius ad custodiam ignis, et sentiant mulieres &lt;in&gt; naturam feminarum omnem castitatem pati.
  
 
  
@@ -312,7 +312,7 @@ XII [29] Tum feriarum festorumque dierum ratio in liberis requietem habet litium
  
 
  
-XIII [32] Atticus: Age iam ista video fateorque esse magna. Sed est in conlegio vestro inter Marcellum et Appium optimos augures magna dissensio &#151; nam eorum ego in libros incidi &#151;, cum alteri placeat auspicia ista ad utilitatem esse rei publicae composita, alteri disciplina vestra quasi divinari videatur posse. Hac tu de re quaero quid sentias. 
+XIII [32] Atticus: Age iam ista video fateorque esse magna. Sed est in conlegio vestro inter Marcellum et Appium optimos augures magna dissensio — nam eorum ego in libros incidi —, cum alteri placeat auspicia ista ad utilitatem esse rei publicae composita, alteri disciplina vestra quasi divinari videatur posse. Hac tu de re quaero quid sentias. 
  
 
  
@@ -368,7 +368,7 @@ XIV Marcus: Reddam vero, et id si potero brevi. Sequitur enim de iure belli, in 
  
 
  
-XV [37] Marcus: Ad nostras igitur revertor. Quibus profecto diligentissime sanciendum est, ut mulierum famam multorum oculis lux clara custodiat, initienturque eo ritu Cereri quo Romae initiantur. Quo in genere severitatem maiorum senatus vetus auctoritas de Bacchanalibus et consulum exercitu adhibito quaestio animadversioque declarat. Atque omnia nocturna &#151; ne nos duriores forte videamur &#151; in media Graecia Pagondas Thebanus lege perpetua sustulit. Novos vero deos et in his colendis nocturnas pervigilationes sic Aristophanes facetissumus poeta veteris comoediae vexat, ut apud eum Sabatius et quidam alii dei peregrini iudicati e civitate eiciantur. Publicus autem sacerdos inprudentiam consilio expiatam metu liberet, audaciam &lt;libid&gt;ines inmittendi religionibus foedas damnet atque inpiam iudicet.
+XV [37] Marcus: Ad nostras igitur revertor. Quibus profecto diligentissime sanciendum est, ut mulierum famam multorum oculis lux clara custodiat, initienturque eo ritu Cereri quo Romae initiantur. Quo in genere severitatem maiorum senatus vetus auctoritas de Bacchanalibus et consulum exercitu adhibito quaestio animadversioque declarat. Atque omnia nocturna — ne nos duriores forte videamur — in media Graecia Pagondas Thebanus lege perpetua sustulit. Novos vero deos et in his colendis nocturnas pervigilationes sic Aristophanes facetissumus poeta veteris comoediae vexat, ut apud eum Sabatius et quidam alii dei peregrini iudicati e civitate eiciantur. Publicus autem sacerdos inprudentiam consilio expiatam metu liberet, audaciam &lt;libid&gt;ines inmittendi religionibus foedas damnet atque inpiam iudicet.
  
 
  
@@ -388,7 +388,7 @@ XVI, [40] Deinceps in lege est ut de ritibus patriis colantur optuma. De quocum&
  
 
  
-XVII [42] Omnia tum perditorum civium scelere discessu meo religionum iura polluta sunt, vexati nostri Lares familiares, in eorum sedibus exaedificatum templum Licentiae, pulsus a delubris is qui illa servarat: circumspicite celeriter animo &#151; nihil enim attinet quemquam nominari &#151;, qui sint rerum exitus consecuti: nos, qui illam custodem urbis omnibus ereptis nostris rebus ac perditis violari ab impiis passi non sumus eamque ex nostra domo in ipsius patris domum detulimus, iudicia senatus, Italiac, gentium denique omnium conservatae patriae consecuti sumus. Quo quid accidere potuit homini praeclarius? Quorum scelere religiones tum prostratae adflictaeque sunt, partim ex illis distracti ac dissipati iacent; qui vero ex iis et horum scelerum principes fuerant et praeter ceteros in omni religione inpii, non solum &lt;nullo in&gt; vita cruciatu atque dedecore, verum etiam sepultura et iustis exsequiarum carent.
+XVII [42] Omnia tum perditorum civium scelere discessu meo religionum iura polluta sunt, vexati nostri Lares familiares, in eorum sedibus exaedificatum templum Licentiae, pulsus a delubris is qui illa servarat: circumspicite celeriter animo — nihil enim attinet quemquam nominari —, qui sint rerum exitus consecuti: nos, qui illam custodem urbis omnibus ereptis nostris rebus ac perditis violari ab impiis passi non sumus eamque ex nostra domo in ipsius patris domum detulimus, iudicia senatus, Italiac, gentium denique omnium conservatae patriae consecuti sumus. Quo quid accidere potuit homini praeclarius? Quorum scelere religiones tum prostratae adflictaeque sunt, partim ex illis distracti ac dissipati iacent; qui vero ex iis et horum scelerum principes fuerant et praeter ceteros in omni religione inpii, non solum &lt;nullo in&gt; vita cruciatu atque dedecore, verum etiam sepultura et iustis exsequiarum carent.
  
 
  
@@ -396,7 +396,7 @@ XVII [42] Omnia tum perditorum civium scelere discessu meo religionum iura pollu
  
 
  
- Marcus: Non enim Quinte recte existimamus quae poena divina sit, sed opinionibus vulgi rapimur in errorem, nec vera cernimus. Morte aut dolore corporis aut luctu animi aut offensione iudicii hominum miserias ponderamus, quae fateor humana esse et multis bonis viris accidisse. Sceleri &lt;ipsi in&gt;est poena tristis et praeter eos eventus qui secuntur per se ipsa maxima est: vidimus eos, qui nisi odissent patriam numquam inimici nobis fuissent, ardentis tum cupiditate, tum metu, tum conscientia quid&lt;quid&gt; agerent, modo timentis, vicissim contemnentis religiones, iudicia corrupta ab isdem &lt;corrupta&gt; &#151; hominum, non deorum.
+ Marcus: Non enim Quinte recte existimamus quae poena divina sit, sed opinionibus vulgi rapimur in errorem, nec vera cernimus. Morte aut dolore corporis aut luctu animi aut offensione iudicii hominum miserias ponderamus, quae fateor humana esse et multis bonis viris accidisse. Sceleri &lt;ipsi in&gt;est poena tristis et praeter eos eventus qui secuntur per se ipsa maxima est: vidimus eos, qui nisi odissent patriam numquam inimici nobis fuissent, ardentis tum cupiditate, tum metu, tum conscientia quid&lt;quid&gt; agerent, modo timentis, vicissim contemnentis religiones, iudicia corrupta ab isdem &lt;corrupta&gt; — hominum, non deorum.
  
 
  
@@ -424,7 +424,7 @@ XVIII [45] Agri autem ne consecrentur, Platoni prorsus adsentior, qui si modo in
  
 
  
-XIX [47] Sed iuris consulti, sive erroris obiciundi causa, quo plura et difficiliora scire videantur, sive, quod similius veri est, ignoratione docendi &#151; nam non solum scire aliquid artis est, sed quaedam ars [est] etiam docendi &#151; saepe quod positum est in una cognitione, id in infinita dispertiuntur. Velut in hoc ipso genere, quam magnum illud Scaevolae faciunt, pontifices ambo et eidem iuris peritissimi! 'Sae&lt;pe&gt;' inquit Publi filius 'ex patre audivi, pontificem bonum neminem esse, nisi qui ius civile cognosset.' Totumne? Quid ita? Quid enim ad pontificem de iure parietum aut aquarum aut luminum &lt;ni&gt;si eo quod cum religione coniunctum est? Id autem quantulum est! De sacris credo, de votis, de feriis et de sepulcris, et si quid eius modi est. Cur igitur haec tanta facimus, cum cetera perparva sint, de sacris autem, qui locus patet latius, haec sit una sententia, ut conserventur semper et deinceps familiis prodantur, et ut in lege posui perpetua sint sacra?
+XIX [47] Sed iuris consulti, sive erroris obiciundi causa, quo plura et difficiliora scire videantur, sive, quod similius veri est, ignoratione docendi — nam non solum scire aliquid artis est, sed quaedam ars [est] etiam docendi — saepe quod positum est in una cognitione, id in infinita dispertiuntur. Velut in hoc ipso genere, quam magnum illud Scaevolae faciunt, pontifices ambo et eidem iuris peritissimi! 'Sae&lt;pe&gt;' inquit Publi filius 'ex patre audivi, pontificem bonum neminem esse, nisi qui ius civile cognosset.' Totumne? Quid ita? Quid enim ad pontificem de iure parietum aut aquarum aut luminum &lt;ni&gt;si eo quod cum religione coniunctum est? Id autem quantulum est! De sacris credo, de votis, de feriis et de sepulcris, et si quid eius modi est. Cur igitur haec tanta facimus, cum cetera perparva sint, de sacris autem, qui locus patet latius, haec sit una sententia, ut conserventur semper et deinceps familiis prodantur, et ut in lege posui perpetua sint sacra?
  
 
  
@@ -508,7 +508,7 @@ XXIV [60] Cetera item funebria quibus luctus augetur XII sustulerulit. 'Homini' 
  
 
  
-[63] Nec haec a sapientissimis legum scriptoribus neglecta sunt. Nam et Atheniensium in more a Cecrope ut aiunt permansit hoc ius terra humandi, quod quom proxumi fecerant obductaque terra erat, frugibus obserebatur, ut sinus et gremium quasi matris mortuo tribueretur, solum autem frugibus expiatum ut vivis redderetur. Sequebantur epulae quas inibant propinqui coronati, apud quos de mortui laude quom siquid veri erat praedicatum &#151; nam mentiri nefas habebatur &#151;, iusta confecta erant.
+[63] Nec haec a sapientissimis legum scriptoribus neglecta sunt. Nam et Atheniensium in more a Cecrope ut aiunt permansit hoc ius terra humandi, quod quom proxumi fecerant obductaque terra erat, frugibus obserebatur, ut sinus et gremium quasi matris mortuo tribueretur, solum autem frugibus expiatum ut vivis redderetur. Sequebantur epulae quas inibant propinqui coronati, apud quos de mortui laude quom siquid veri erat praedicatum — nam mentiri nefas habebatur —, iusta confecta erant.
  
 
  
@@ -516,7 +516,7 @@ XXIV [60] Cetera item funebria quibus luctus augetur XII sustulerulit. 'Homini' 
  
 
  
-XXVI De sepulcris autem nihil est apud Solonem amplius quam 'ne quis ea deleat neve alienum inferat', poenaque est, 'si quis bustum' &#151; nam id puto appellari t . . . mbon&#151; 'aut monimentum' inquit 'aut columnam violarit deiecerit fregerit'. Sed post aliquanto propter has amplitudines sepulcrorum, quas in Ceramico videmus, lege sanctum est, 'ne quis sepulcrum faceret operosius quam quod decem homines effecerint triduo';
+XXVI De sepulcris autem nihil est apud Solonem amplius quam 'ne quis ea deleat neve alienum inferat', poenaque est, 'si quis bustum' — nam id puto appellari t . . . mbon— 'aut monimentum' inquit 'aut columnam violarit deiecerit fregerit'. Sed post aliquanto propter has amplitudines sepulcrorum, quas in Ceramico videmus, lege sanctum est, 'ne quis sepulcrum faceret operosius quam quod decem homines effecerint triduo';
  
 
  

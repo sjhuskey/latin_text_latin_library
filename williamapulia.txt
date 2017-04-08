@@ -119,7 +119,7 @@ Agmina Graecorum propere direxit in hostes.
 Non etenim per se certamina prima paravit, 
 Sed per legatum, cognomen cui Pacianus 
 Et Leo nomen erat, qui iuxta fluminis undam 
-Nomine Fertorii&#151;locus est et Arenula dictus&#151; 
+Nomine Fertorii—locus est et Arenula dictus— 
 Deduxit secum multos ad bella Pelasgos. 
 Maii mensis erant aptissima tempora Marti: 
 Hoc ad bella solent procedere tempore reges. 
@@ -163,8 +163,8 @@ Viribus et validis circumstans plurimus hostis;
 Quare nullus eis tutus locus esse videtur, 
 Montibus interdum, nunc vallibus inde remotis. 
 Sed cum iam nullum sperarent posse parari 
-Auxilium&#151;victis incommoda quippe videntur 
-Omnia, victores fors creditur ipsa iuvare&#151; 
+Auxilium—victis incommoda quippe videntur 
+Omnia, victores fors creditur ipsa iuvare— 
 Cumque vagi, instabiles, iam per loca multa vagantes, 
 Nullis sede locis possent insistere certa, 
 Consilium tandem dat rixa propinqua morandi. 
@@ -855,7 +855,7 @@ Germani comites praesunt Trasmundus et Atto,
 Et Burrellina generosa propagine proles. 
 Hi simul ad bellum properant, Campique Marini 
 Accola Malfredus, Molinensisque Rodulfi 
-Rofredus socer &#151; huius castrum Gardia nomen &#151; 
+Rofredus socer — huius castrum Gardia nomen — 
 Et plures alii, quorum non nomina novi. 
 Huc quoque Romani, Samnites et Capuani 
 Auxilium mittunt, nec opes Ancona negavit. 
@@ -1355,7 +1355,7 @@ Horum prospectu desistant laedere Graecos.
  
 
  
-Invitam&#151;profugis collecta pecunia servis&#151; 
+Invitam—profugis collecta pecunia servis— 
 Insomnem Danu coguntur ducere noctem. 
 Adveniente die venit innumerabilis ille
  
@@ -1830,7 +1830,7 @@ Huic dabat ille cibos, et postquam sufficienti
 Pasta cibo fuerat, circa praecordia quosdam 
 Apposito sacco panes inferre solebat, 
 Quorum commoditas vitae foret apta diurnae. 
-Hos celeri cursu rediens&#151;mirabile dictu&#151; 
+Hos celeri cursu rediens—mirabile dictu— 
 Et nusquam remorans canis ad sua tecta ferebat; 
 Sic alimenta sagax dominoque sibique parabat. 
 Esuriem tantam quidam non ferre valentes, 
@@ -2085,8 +2085,8 @@ Hoc infra tempus Iuvenacum mittere quosdam
 Dus equites lectos procurans, praeciplt illis 
 Non tantum prodesse suis, sed obesse laborent 
 Hostibus, hosque modo poterunt quocunque molestent. 
-Hii postquam longo&#151;nec enim fas pergere recto 
-His erat&#151;adveniunt Iuvenacum tramite ducti 
+Hii postquam longo—nec enim fas pergere recto 
+His erat—adveniunt Iuvenacum tramite ducti 
 Callibus obliquis, aderat quia plutimus hostis, 
 Infestare ducis coepere viriliter hostes; 
 Quique prius soliti fuerant inferre rapinas, 
@@ -2797,7 +2797,7 @@ Obstat congrediens paulisper Alexius illis,
 Sed non instantes sufferre diutius illos 
 Evaluit, petiitque fugam victusque recessit. 
 Urbem Thessaliae superatus Marte secundo 
-Appetit egregiam&#151;vulgus vocat hanc Salonichin&#151; 
+Appetit egregiam—vulgus vocat hanc Salonichin— 
 Et quia bellorum varios non ambigit esse 
 Eventus, conatur adhuc ad bella redire. 
 Gaudens audaci magis agmine quam numeroso, 

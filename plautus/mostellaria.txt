@@ -126,7 +126,7 @@ quid est? quid tu me nunc optuere, furcifer?
  GR. Ita est. sed unum hoc scito: nimio celerius 
 veniet quod noles quam illud, quod cupide petas. 
  TR. Molestus ne sis nunciam, i rus, te amove. 
-ne tu [erres] hercle praeterhac mihi non facies moram.&#151;  75 
+ne tu [erres] hercle praeterhac mihi non facies moram.—  75 
  GR. Satin abiit neque quod dixi flocci existumat? 
 pro di immortales, obsecro vostram fidem, 
 facite, huc ut redeat noster quam primum senex, 
@@ -134,7 +134,7 @@ triennium qui iam hinc abest, prius quam omnia
 periere, et aedis et ager; qui nisi huc redit,    80 
 paucorum mensum sunt relictae reliquiae. 
 nunc rus abibo. nam eccum erilem filium 
-video, corruptum ex adulescente optumo.&#151;
+video, corruptum ex adulescente optumo.—
  
 
  
@@ -424,7 +424,7 @@ moratu's tu te. &lt;ire huc> debebas.
  CALL. Visne ego te ac tu me amplectare? 
  DEL. Si tibi cordi est facere, licet. CALL. Lepida es. 
 duc me amabo. DEL. Cave ne cadas, asta. 
- CALL. O &#151; o &#151; ocellus meus, tuos sum alumnus, mel meum. 325 
+ CALL. O — o — ocellus meus, tuos sum alumnus, mel meum. 325 
  DEL. Cave modo, ne prius in via accumbas, 
 quam illi, ubi lectus est stratus, concumbimus. 
  CALL. Sine, sine cadere me. DEL. Sino, sed hoc, quod
@@ -476,10 +476,10 @@ ubi quinis aut denis hastis corpus transfigi solet?
 ego dabo ei talentum, primus qui in crucem excucurrerit; 
 sed ea lege, ut offigantur bis pedes, bis bracchia.     360 
 ubi id erit factum, a me argentum petito praesentarium. 
-sed ego &#151; sumne infelix, qui non curro curriculo domum? 
+sed ego — sumne infelix, qui non curro curriculo domum? 
  PHILOL. &lt;Adest> adest opsonium. eccum Tranio a portu redit. 
  TR. Philolaches. PHILOL. Quid est? TR. &lt;Et>
-ego et tu &#151; PHILOL. Quid 
+ego et tu — PHILOL. Quid 
   et ego et tu? TR. Periimus. 
  PHILOL. Quid ita? TR. Pater adest. PHILOL. Quid
 ego ex te audio?  365 
@@ -541,7 +541,7 @@ metu. 395
  TR. Potin animo ut sis quieto et facias quod iubeo? PHILOL. 
 Potest. 
  TR. Omnium primum, Philematium, intro abi, et tu, Delphium. 
- DEL. Morigerae tibi erimus ambae.&#151; TR. Ita ille faxit
+ DEL. Morigerae tibi erimus ambae.— TR. Ita ille faxit
 Iuppiter. 
 animum advorte nunciam tu quae volo accurarier. 
 omnium primumdum aedes iam face occlusae sient;  400 
@@ -551,7 +551,7 @@ Licet.
  TR. Neu quisquam responset, quando hasce aedis pultabit senex. 
  PHILOL. Numquid aliud? TR. Clavem mi harunc aedium Laconicam 
 iam iube efferri intus: hasce ego aedis occludam hinc foris.    405 
- PHILOL. In tuam custodelam meque et meas spes trado, Tranio.&#151; 
+ PHILOL. In tuam custodelam meque et meas spes trado, Tranio.— 
  TR. Pluma haud interest, patronus an cliens probior siet.   407-408 
 Homini, cui nulla in pectore est audacia,      409 
 [nam cuivis homini, vel optumo vel pessumo] 
@@ -571,7 +571,7 @@ ne intro iret ad se. TR. Quin etiam illi hoc dicito,
 facturum &lt;me>, ut ne etiam aspicere aedis audeat, 
 capite obvoluto ut fugiat cum summo metu. 
 clavem cedo atque abi intro atque occlude ostium, 425 
-et ego hinc occludam.&#151; iube venire nunciam. 
+et ego hinc occludam.— iube venire nunciam. 
 ludos ego hodie vivo praesenti hic seni 
 faciam, quod credo mortuo numquam fore. 
 concedam a foribus huc, hinc speculabor procul, 
@@ -614,9 +614,9 @@ dici, quam indignum facinus fecisti et malum.
  TH. Quid iam? TR. Fuge, obsecro, atque abscede ab aedibus. 460 
 fuge huc, fuge ad me propius. tetigistin foris? 
  TH. Quo modo pultare potui, si non tangerem? 
- TR. Occidisti hercle&#151; TH. Quem mortalem? TR. 
+ TR. Occidisti hercle— TH. Quem mortalem? TR. 
 Omnis tuos. 
- TH. Di te deaeque omnes faxint cum istoc omine&#151; 
+ TH. Di te deaeque omnes faxint cum istoc omine— 
  TR. Metuo, te atque istos expiare ut possies.        465 
  TH. Quam ob rem? aut quam subito rem mihi adportas novam? 
 * * *                        466a 
@@ -674,7 +674,7 @@ fuge, obsecro hercle. TH. Quo fugiam? etiam tu fuge.
  TR. Nihil ego formido, pax mihi est cum mortuis. 
  INTVS. Heus, Tranio. TR. Non me appellabis, si sapis. 515 
 nihil ego commerui, neque istas percussi fores. 
- INTVS. Quaeso &#151; &lt; TR. Cave verbum faxis. TH. 
+ INTVS. Quaeso — &lt; TR. Cave verbum faxis. TH. 
 Dic> quid segreges 
 &lt;sermonem. TR. Apage hinc te. TH. Quae res> te agitat,
 Tranio? 
@@ -688,8 +688,8 @@ caput.
  TH. Scio. quid modo igitur? cur tanto opere extimueras?  525 
  TR. Nil me curassis, inquam, ego mihi providero: 
 tu, ut occepisti, tantum quantum quis fuge, 
-atque Herculem invoca. TH. Hercules, ted invoco.&#151; 
- TR. Et ego &#151; tibi hodie ut det, senex, magnum malum. 
+atque Herculem invoca. TH. Hercules, ted invoco.— 
+ TR. Et ego — tibi hodie ut det, senex, magnum malum. 
 pro di immortales, obsecro vestram fidem,      530 
 quid ego hodie negoti confeci mali.
  
@@ -759,7 +759,7 @@ quid si hic manebo potius ad meridie?
  TR. Immo abi domum, verum hercle dico, abi modo. 
 * * * 
  DAN. Quin vos mihi faenus date. quid hic nugamini?    585 
- TR. Eu hercle, ne tu &#151; abi modo, ausculta mihi. 
+ TR. Eu hercle, ne tu — abi modo, ausculta mihi. 
  DAN. Iam hercle ego illum nominabo. * * * TR. Euge strenue. 
 beatus vero es nunc, quom clamas. DAN. Meum peto. 
 multos me hoc pacto iam dies frustramini. 
@@ -794,14 +794,14 @@ quid Philolachetem gnatum compellat &lt;meum>
 sic et praesenti tibi facit convicium? 
 quid illi debetur? TR. Obsecro hercle, &lt;illud> iube 
 obi&lt;ci illi> argentum ob os impurae beluae. 
- TH. Iubeam &#151;? TR. Iuben homini argento os verberarier? 620 
+ TH. Iubeam —? TR. Iuben homini argento os verberarier? 620 
  DAN. Perfacile ego ictus perpetior argenteos. 
  TR. Audin? videturne, obsecro hercle, idoneus,   625 
 danista qui sit, genus quod improbissimum est. 
  TH. Non ego istuc curo qui sit &lt;quid sit> unde sit: 
 id volo mihi dici, id me scire expeto, 
-quod illud argentum est? TR. Est &#151; huic debet Philolaches 622 
-paulum. TH. Quantillum? TR. Quasi &#151; quadraginta minas; 
+quod illud argentum est? TR. Est — huic debet Philolaches 622 
+paulum. TH. Quantillum? TR. Quasi — quadraginta minas; 
 ne sane id multum censeas. TH. Paulum id quidem est. 
 adeo etiam argenti faenus creditum audio.      629 
  TR. Quattuor quadraginta illi debentur minae, 
@@ -828,7 +828,7 @@ continuo est alias aedis mercatus sibi.
  TH. Bene hercle factum. DAN. Heus, iam adpetit meridie.  649-651 
  TR. Absolve hunc quaeso, vomitu ne hic nos enecet.    652 
  TH. Adulescens, mecum rem habe. DAN. Nempe aps te petam? 
- TH. Petito cras. DAN. Abeo: sat habeo, si cras fero.&#151; 
+ TH. Petito cras. DAN. Abeo: sat habeo, si cras fero.— 
  TR. Malum quod isti di deaeque omnes duint,     655 
 ita mea consilia perturbat paenissime. 
 nullum edepol hodie genus est hominum taetrius 
@@ -841,7 +841,7 @@ nisi ut in vicinum hunc proximum ***,
 eas emisse aedis huius dicam filium? 
 calidum hercle esse audivi optimum mendacium.    665 
 quidquid dei dicunt, id decretumst dicere. 
- TH. Quid igitur? iam commentu's? TR. Di istum perduint&#151; 
+ TH. Quid igitur? iam commentu's? TR. Di istum perduint— 
 (immo istunc potius) de vicino hoc proximo 
 tuos emit aedis filius. TH. Bonan fide?     669-670 
  TR. Siquidem tu argentum reddituru's, tum bona,  671 
@@ -931,7 +931,7 @@ erus peregre venit. SI. Tunc &lt;tibi > *** portenditur,
 inde ferriterium, postea &lt;crux. TR. Per tua te g>enua obsecro, 
 ne indicium ero facias meo. SI. E me, ne quid metuas, nil sciet.  744-745 
  TR. Patrone, salve. SI. Nil moror mi istius modi clientis.    746 
- TR. Nunc hoc quod ad te noster me misit senex&#151; 
+ TR. Nunc hoc quod ad te noster me misit senex— 
  SI. Hoc mihi responde primum, quod ego te rogo: 
 iam de istis rebus voster quid sensit senex? 
  TR. Nil quicquam. SI. Numquid increpavit filium?    750 
@@ -995,7 +995,7 @@ do tibi ego operam. TR. Senex illic est. em, tibi adduxi hominem.
 mihi. 
  TH. Nisi tibi est incommodum. SI. Immo commodum. i intro
 atque inspice. 
- TH. At enim mulieres &#151; SI. Cave tu ullam flocci faxis
+ TH. At enim mulieres — SI. Cave tu ullam flocci faxis
 mulierem. 
 qua libet perambula aedis oppido tamquam tuas. 
  TH. Tamquam? TR. Ah, cave tu illi obiectes nunc in aegritudine,  810 
@@ -1046,19 +1046,19 @@ quidquid est, errabo potius quam perductet quispiam.
  SI. Aedis dico. TH. Ergo intro eo igitur sine perductore.
  SI. 
 Ilicet. 
- TH. Ibo intro igitur. TR. Mane sis videam, ne canis &#151;
+ TH. Ibo intro igitur. TR. Mane sis videam, ne canis —
  TH. 
 Agedum vide. 
  TR. Est! abi, canis. est! abin dierecta? abin hinc in malam
 crucem?  849-850 
 at etiam restas? est! abi istinc. SI. Nil pericli est, age &lt;modo>.    851 
 tam placidast, quam feta. quam vis ire intro audacter licet. 
-eo ego hinc ad forum.&#151; TH. Fecisti commode, bene ambula. 
+eo ego hinc ad forum.— TH. Fecisti commode, bene ambula. 
 Tranio, age, canem istam a foribus &lt;aliquis> abducat face, 
 etsi non metuenda est. TR. Quin tu illam aspice ut placide accubat; 855 
 nisi molestum vis videri te atque ignavom. TH. Iam ut lubet. 
-sequere hac me igitur.&#151; TR. Equidem haud usquam a pedibus apscedam
-tuis.&#151;
+sequere hac me igitur.— TR. Equidem haud usquam a pedibus apscedam
+tuis.—
  
 
  
@@ -1161,7 +1161,7 @@ ut iubes.
  TH. Curriculo iube in urbem veniat iam simul tecum. TR. 
 Licet.  929-930 
 nunc ego me illac per posticum ad congerrones conferam.     931 
-dicam ut hic res sint quietae atque hunc ut hinc amoverim.&#151; 
+dicam ut hic res sint quietae atque hunc ut hinc amoverim.— 
  PHAN. Hic quidem neque convivarum sonitus, item ut antehac fuit, 
 neque tibicinam cantantem neque alium quemquam audio. 
  TH. Quae illaec res est? quid illisce homines quaerunt apud
@@ -1249,7 +1249,7 @@ atque porro quaeritemus &lt;illos>. sequere hac me. &lt; PIN.
 Sequor>. 990 
  TH. Puere, iamne abis? PHAN. Libertas paenulast tergo
 tuo: 
-mihi, nisi ut erum metuam et curem, nihil est qui tergum tegam.&#151;
+mihi, nisi ut erum metuam et curem, nihil est qui tergum tegam.—
  
 
  

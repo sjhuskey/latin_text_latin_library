@@ -174,8 +174,8 @@ sumptibus, ne luxuriae sit."
 modo sed etiam magistratuum sumptibus audistis, diuersisque duobus uitiis,
 auaritia et luxuria, ciuitatem laborare, quae pestes omnia magna imperia
 euerterunt. haec ego, quo melior laetiorque in dies fortuna rei publicae est,
-quo magis imperium crescit&#151;et iam in Graeciam Asiamque transcendimus
-omnibus libidinum inlecebris repletas et regias etiam adtrectamus gazas&#151;, eo
+quo magis imperium crescit—et iam in Graeciam Asiamque transcendimus
+omnibus libidinum inlecebris repletas et regias etiam adtrectamus gazas—, eo
 plus horreo, ne illae magis res nos ceperint quam nos illas. infesta, mihi
 credite, signa ab Syracusis inlata sunt huic urbi. iam nimis multos audio
 Corinthi et Athenarum ornamenta laudantes mirantesque et antefixa fictilia
@@ -296,7 +296,7 @@ publicani se conducturos professi erant; seruos ad remum numero ex censu
 constituto cum stipendio nostro dabamus; aurum et argentum omne ab
 senatoribus eius rei initio orto in publicum conferebamus; uiduae et pupilli
 pecunias suas in aerarium deferebant; cautum erat quo ne plus auri et argenti
-facti, quo ne plus signati argenti et aeris domi haberemus&#151;tali tempore in
+facti, quo ne plus signati argenti et aeris domi haberemus—tali tempore in
 luxuria et ornatu matronae occupatae erant, ut ad eam coercendam Oppia lex
 desiderata sit, cum quia Cereris sacrificium lugentibus omnibus matronis
 intermissum erat, senatus finiri luctum triginta diebus iussit? cui non
@@ -735,9 +735,9 @@ consulo, staturus eo quod plures censueritis.'
 
 [ 23 ] Post orationem Romani imperatoris percenseri aliorum sententiae
 coeptae sunt. cum legatus Atheniensium quantum poterat gratiis agendis
-Romanorum in Graeciam merita extulisset&#151;imploratos [auxilium] aduersus
+Romanorum in Graeciam merita extulisset—imploratos [auxilium] aduersus
 Philippum tulisse opem, non rogatos ultro aduersus tyrannum Nabim
-offerre auxilium&#151;indignatusque esset haec tanta merita sermonibus tamen
+offerre auxilium—indignatusque esset haec tanta merita sermonibus tamen
 aliquorum carpi futura calumniantium cum fateri potius praeteritorum
 gratiam deberent, apparebat incessi Aetolos. igitur Alexander princeps gentis,
 inuectus primum in Athenienses, libertatis quondam duces et auctores,
@@ -790,7 +790,7 @@ et haud procul inde iunctis exercitibus posuerunt castra. postero die in
 campum Argiuorum descenderunt et quattuor ferme milia ab Argis locum
 castris capiunt. praefectus praesidii Laconum erat Pythagoras, gener idem
 tyranni et uxoris eius frater, qui sub aduentum Romanorum et utrasque
-arces&#151;nam duas habent Argi&#151;et loca alia quae aut opportuna aut suspecta
+arces—nam duas habent Argi—et loca alia quae aut opportuna aut suspecta
 erant ualidis praesidiis firmauit; sed inter haec agenda pauorem iniectum
 aduentu Romanorum dissimulare haudquaquam poterat. et ad externum
 terrorem intestina etiam seditio accessit. Damocles erat Argiuus, adulescens
@@ -814,7 +814,7 @@ demissi ad Romanos perfugerunt.
 [ 26 ] Quinctius adfirmantibus iis, si ad portas exercitus Romanus fuisset, non
 sine effectu motum eum futurum fuisse et, si propius castra admouerentur,
 non quieturos Argiuos, misit expeditos pedites equitesque, qui circa
-Cylarabim&#151;gymnasium id est minus trecentos passus ab urbe&#151;cum
+Cylarabim—gymnasium id est minus trecentos passus ab urbe—cum
 erumpentibus a porta Lacedaemoniis proelium commiserunt atque eos haud
 magno certamine compulerunt in urbem. et castra eo ipso loco ubi pugnatum
 erat imperator Romanus posuit; diem inde unum in speculis fuit, si quid
@@ -855,18 +855,18 @@ et tria milia mercennariorum militum, decem milia popularium cum
 castellanis agrestibus in armis habuit et fossa ualloque urbem communiuit; et
 ne quid intestini motus oreretur, metu et acerbitate poenarum tenebat
 animos, quoniam ut saluum uellent tyrannum sperare non poterat. cum
-suspectos quosdam ciuium haberet, eductis in campum omnibus copiis&#151;
-Dromon ipsi uocant&#151;positis armis ad contionem uocari iubet Lacedaemonios
+suspectos quosdam ciuium haberet, eductis in campum omnibus copiis—
+Dromon ipsi uocant—positis armis ad contionem uocari iubet Lacedaemonios
 atque eorum contioni satellites armatos circumdedit. et pauca praefatus cur
 sibi omnia timenti cauentique ignoscendum in tali tempore foret, et ipsorum
 referre si quos suspectos status praesens rerum faceret prohiberi potius ne
 quid moliri possint quam puniri molientes; itaque quosdam se in custodia
-habiturum donec ea quae instet tempestas praetereat: hostibus repulsis&#151;a
+habiturum donec ea quae instet tempestas praetereat: hostibus repulsis—a
 quibus, si modo proditio intestina satis caueatur, minus periculi esse-
 extemplo eos emissurum; sub haec citari nomina octoginta ferme principum
 iuuentutis iussit atque eos, ut quisque ad nomen responderat, in custodiam
-tradidit: nocte insequenti omnes interfecti. Ilotarum deinde quidam&#151;hi sunt
-iam inde antiquitus castellani, agreste genus&#151;transfugere uoluisse insimulati
+tradidit: nocte insequenti omnes interfecti. Ilotarum deinde quidam—hi sunt
+iam inde antiquitus castellani, agreste genus—transfugere uoluisse insimulati
 per omnes uicos sub uerberibus acti necantur. hoc terrore obstipuerant
 multitudinis animi ab omni conatu nouorum consiliorum. intra munitiones
 copias continebat nec parem se ratus, si dimicare acie uellet, et urbem
@@ -1208,7 +1208,7 @@ sed etiam terrerent, portabant. iussi clamore sublato subire undique omnes,
 ut qua primum occurrerent quaue opem ferrent ad omnia simul pauentes
 Lacedaemonii ignorarent. quod roboris in exercitu erat, trifariam diuisum:
 parte una a Phoebeo, altera a Dictynnaeo, tertia ab eo loco quem Heptagonias
-appellant&#151;omnia autem haec aperta sine muro loca sunt-adgredi iubet. cum
+appellant—omnia autem haec aperta sine muro loca sunt-adgredi iubet. cum
 tantus undique terror urbem circumuasisset, primo tyrannus et ad clamores
 repentinos et ad nuntios trepidos motus, ut quisque maxime laboraret locus,
 aut ipse occurrebat aut aliquos mittebat; deinde circumfuso undique pauore
@@ -1635,8 +1635,8 @@ citeriorem, M. Fuluius Hispaniam ulteriorem.
 
  
 
-[ 56 ] Nihil eo anno belli expectantibus consulibus litterae M. Cinci&#151;praefectus is
-Pisis erat&#151;allatae: Ligurum uiginti milia armatorum coniuratione per omnia
+[ 56 ] Nihil eo anno belli expectantibus consulibus litterae M. Cinci—praefectus is
+Pisis erat—allatae: Ligurum uiginti milia armatorum coniuratione per omnia
 conciliabula uniuersae gentis facta Lunensem primum agrum depopulatos,
 Pisanum deinde finem transgressos omnem oram maris peragrasse. itaque
 Minucius consul, cui Ligures prouincia euenerat, ex auctoritate patrum in
@@ -1806,7 +1806,7 @@ tabellas conscriptas celeberrimo loco super sedem cotidianam magistratuum
 prima uespera suspendit, ipse de tertia uigilia nauem conscendit et profugit.
 postero die cum sufetes ad ius dicendum consedissent, conspectae tabellae
 demptaeque et lectae. scriptum erat Aristonem priuatim ad neminem,
-publice ad seniores&#151;ita senatum uocabant&#151;mandata habuisse. publicato
+publice ad seniores—ita senatum uocabant—mandata habuisse. publicato
 crimine minus intenta de paucis quaestio erat; mitti tamen legatos Romam
 qui rem ad consules et senatum deferrent placuit, simul qui de iniuriis
 Masinissae quererentur.

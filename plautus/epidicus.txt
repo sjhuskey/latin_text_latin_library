@@ -37,8 +37,8 @@ Persuasu servi, atque conductam
 Iterum pro amica ei subiecit filii. 
 Dat erili argentum. eo sororem destinat 
 Imprudens iuvenis. compressae ac militis 
-Cognoscit opera sibi senex os sublitum &#151; 
-Vt ille amicam, haec quaerebat filiam &#151; 
+Cognoscit opera sibi senex os sublitum — 
+Vt ille amicam, haec quaerebat filiam — 
 Sed inventa gnata servolum emittit manu.
  
 
@@ -86,7 +86,7 @@ athletice.     20
 sed ubist is? TH. Advenit simul. EP. Vbi is ergo est?
 nisi si in vidulo 
 aut si in mellina attulisti. TH. Di te perdant. EP. Te
-volo &#151; 
+volo — 
 percontari: operam da, opera reddetur tibi. 
  TH. Ius dicis. EP. Me decet. TH. Iam tu autem
 nobis praeturam geris?    25 
@@ -131,7 +131,7 @@ quidnam est?        50
  EP. Quid istanc quam emit, quanti eam emit? TH. Vili.
  EP. 
 Haud istuc te rogo. 
- TH. Quid igitur? EP. Quot minis? TH. Tot &#151; quadraginta
+ TH. Quid igitur? EP. Quot minis? TH. Tot — quadraginta
 minis. 
 id adeo argentum ab danista apud Thebas sumpsit faenore, 
 in dies minasque argenti singulas nummis. EP. Papae. 
@@ -142,7 +142,7 @@ Epidice? EP. Perdidit me. TH. Quis? EP. Ille qui
 arma perdidit. 
  TH. Nam quid ita? EP. Quia cottidie ipse ad me ab legione
 epistulas 
-mittebat &#151; sed taceam optumum est, 
+mittebat — sed taceam optumum est, 
 plus scire satiust quam loqui servom hominem. ea sapientia est.      60 
  TH. Nescio edepol quid tu timidus es, trepidas, Epidice, ita
 voltum tuom~ 
@@ -185,7 +185,7 @@ ab legione adduxit animi causa, corium perdidi.      91a
 nam ubi senex senserit 
 sibi data esse verba, virgis dorsum despoliet meum. 
 at enim tu praecave. 
-at enim &#151; bat enim, nihil est istuc. plane hoc corruptumst caput.    95 
+at enim — bat enim, nihil est istuc. plane hoc corruptumst caput.    95 
 nequam homo es, Epidice. 
 qui lubidost male loqui? 
 quia tu tete deseris. 
@@ -228,7 +228,7 @@ sine meo sumptu paratae iam sunt scapulis symbolae.       125
 aggrediar hominem. advenientem peregre erum suom Stratippoclem 
 impertit salute servos Epidicus. STR. Vbi is est? EP. 
 Adest. 
-salvom huc advenisse &#151; STR. Tam tibi istuc credo quam mihi. 
+salvom huc advenisse — STR. Tam tibi istuc credo quam mihi. 
  EP. Benene usque valuisti? STR. A morbo valui, ab animo
 aeger fui. 
  EP. Quod ad me attinuit, ego curavi: quod mandavisti mihi                130 
@@ -267,7 +267,7 @@ sed ubi illa est quam tu adduxisti tecum? STR. Iam faxo hic
 erit. 
  CH. Quid hic nunc agimus? ST. Eamus intro huc ad te,
 ut hunc hodie diem 
-luculentum habeamus. &#151; EP. Ite intro, ego de re argentaria 
+luculentum habeamus. — EP. Ite intro, ego de re argentaria 
 iam senatum convocabo in corde consiliarium, 
 quoi potissimum indicatur bellum unde argentum auferam.      160 
 Epidice, vide quid agas, ita res subito haec obiectast tibi; 
@@ -366,18 +366,18 @@ quid istae, quae vesti quotannis nomina inveniunt nova?
 tunicam rallam, tunicam spissam, linteolum caesicium,     230 
 indusiatam, patagiatam, caltulam aut crocotulam, 
 subparum aut subnimium, ricam, basilicum aut exoticum, 
-cumatile aut plumatile, carinum aut cerinum &#151; gerrae maxumae. 
+cumatile aut plumatile, carinum aut cerinum — gerrae maxumae. 
 cani quoque etiam ademptumst nomen. PER. Qui? EP. Vocant
 Laconicum. 
 haec vocabula auctiones subigunt ut faciant viros.             235 
  AP. Quin tu ut occepisti loquere? EP. Occepere aliae
 mulieres 
-duae post me sic fabulari inter sese &#151; ego abscessi sciens 
+duae post me sic fabulari inter sese — ego abscessi sciens 
 paulum ab illis, dissimulabam earum operam sermoni dare; 
 nec satis exaudibam, nec sermonis fallebar tamen, 
 quae loquerentur. PER. Id lubidost scire. EP. Ibi illarum
 altera        240 
-dixit illi quicum ipsa ibat &#151; PER. Quid? EP. Tace ergo,
+dixit illi quicum ipsa ibat — PER. Quid? EP. Tace ergo,
 ut audias 
 postquam illam sunt conspicatae, quam tuos gnatus deperit: 
 'quam facile et quam fortunate evenit illi, obsecro, 
@@ -519,7 +519,7 @@ nec mihi plus adiumenti ~ades, quam ille qui numquam etiam natust.
  
  III.ii 
  EPIDICVS Fecisti iam officium tuom, me meum nunc facere oportet. 
-per hanc curam quieto tibi licet esse &#151; hoc quidem iam periit: 
+per hanc curam quieto tibi licet esse — hoc quidem iam periit: 
 ne quid tibi hinc in spem referas, oppido hoc pollinctum est; 
 crede modo mihi: sic ego ago, sic egerunt nostri.         340 
 pro di immortales, mihi hunc diem dedistis luculentum, 
@@ -535,7 +535,7 @@ dum tibi ego placeam atque obsequar, meum tergum flocci facio.
  STR. Quid istuc est verbi? EP. Nil moror vetera et volgata
 verba;        350 
 peratum ductarent: ego follitum ductitabo. 
-nam leno omne argentum abstulit pro fidicina &#151; ego resolvi, 
+nam leno omne argentum abstulit pro fidicina — ego resolvi, 
 manibus his denumeravi pater suam natam quam esse credit; 
 nunc iterum ut fallatur pater tibique auxilium apparetur 
 inveni: nam ita suasi seni atque hanc habui orationem          355 
@@ -553,9 +553,9 @@ is adornat, adveniens domi extemplo ut maritus fias.
 mi adempsit Orcus. EP. Nunc ego hanc astutiam institui. 
 deveniam ad lenonem domum egomet solus, eum ego docebo, 
 si quid ad eum adveniam, ut sibi esse datum argentum dicat      365 
-pro fidicina, argenti minas se habere quinquaginta &#151; 
+pro fidicina, argenti minas se habere quinquaginta — 
 quippe ego qui nudiustertius meis manibus denumeravi 
-pro illa tua amica, quam pater suam filiam esse retur &#151; 
+pro illa tua amica, quam pater suam filiam esse retur — 
 ibi leno sceleratum caput suom imprudens alligabit, 
 quasi pro illa argentum acceperit, quae tecum adducta nunc est.  370 
  CHAER. Vorsutior es quam rota figularis. EP. Iam ego
@@ -758,7 +758,7 @@ estne ea an non east quam animus retur meus?
  PHIL. Plane hicine est, qui mihi in Epidauro primus pudicitiam
 pepulit. 
  PER. Quae meo compressu peperit filiam quam domi nunc habeo. 
-quid si adeam &#151; PHIL. Hau scio an congrediar &#151; PER. 
+quid si adeam — PHIL. Hau scio an congrediar — PER. 
 Si haec east. PHIL. 
         Si is est homo, sicut 
 anni multi dubia dant. 
@@ -775,10 +775,10 @@ novin ego te? PHIL. Si ego te novi, animum inducam, ut tu noveris.     550
  PER. Vbi te visitavi? PHIL. Inique iniuriu's. PER. 
 Quid iam? PHIL. Quia 
 tuae memoriae interpretari me aequom censes. PER. Commode 
-fabulata es. PH. Mira memoras. &lt; P. Te memini >&#151; PH. 
+fabulata es. PH. Mira memoras. &lt; P. Te memini >— PH. 
 Em istuc rectius. 
- P. Meministin &#151; PH. Memini id quod memini. P. 
-At in Epidauro &#151; PH. Ah, guttula 
+ P. Meministin — PH. Memini id quod memini. P. 
+At in Epidauro — PH. Ah, guttula 
 pectus ardens mi aspersisti. PER. Virgini pauperculae,         555 
 tuaeque matri me levare paupertatem? PHIL. Tun is es, 
 qui per voluptatem tuam in me aerumnam obsevisti gravem? 
@@ -787,7 +787,7 @@ sentio.
  PER. Cedo manum. PHIL. Accipe. aerumnosam et miseriarum
 compotem 
 mulierem retines. PER. Quid est quod voltus turbatust tuos?     560 
- PHIL. Filiam quam ex te suscepi &#151; PER. Quid eam? PHIL. 
+ PHIL. Filiam quam ex te suscepi — PER. Quid eam? PHIL. 
 Eductam perdidi. 
 hostium est potita. PER. Habe animum lenem et tranquillum. tace. 
 domi meae eccam salvam et sanam. nam postquam audivi ilico 
@@ -936,7 +936,7 @@ eo atque exeo?    650
 tace. 
 tibi quidem quod ames domi praestost, fidicina, opera mea; 
 et sororem in libertatem idem opera concilio mea. 
- STR. Epidice, fateor &#151; EP. Abi intro ac iube huic aquam
+ STR. Epidice, fateor — EP. Abi intro ac iube huic aquam
 calefieri;      655 
 cetera haec posterius faxo scibis, ubi erit otium. 
  STR. Sequere hac me, soror. EP. Ego ad vos THESPRIO

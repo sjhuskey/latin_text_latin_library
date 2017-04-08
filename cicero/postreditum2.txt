@@ -13,7 +13,7 @@ Cicero: Post Reditum ad Quirites
  
 
  
-[1] Quod precatus a Iove Optimo Maximo ceterisque dis immortalibus sum, Quirites, eo tempore, cum me fortunasque meas pro vestra incolumitate, otio concordiaque devovi, ut, si meas rationes umquam vestrae saluti anteposuissem, sempiternam poenam sustinerem mea voluntate susceptam, sin et ea, quae ante gesseram, conservandae civitatis causa gessissem et illam miseram profectionem vestrae salutis gratia suscepissem, ut, quod odium scelerati homines et audaces in rem publicam et in omnes bonos conceptum iam diu continerent, id in me uno potius quam in optimo quoque et universa civitate defigerent,&#151;hoc si animo in vos liberosque vestros fuissem, ut aliquando vos patresque conscriptos Italiamque universam memoria mei misericordiaque &lt;ac&gt; desiderium teneret, eius devotionis me esse convictum iudicio deorum immortalium, testimonio senatus, consensu Italiae, confessione inimicorum, beneficio divino immortalique vestro maxime laetor.
+[1] Quod precatus a Iove Optimo Maximo ceterisque dis immortalibus sum, Quirites, eo tempore, cum me fortunasque meas pro vestra incolumitate, otio concordiaque devovi, ut, si meas rationes umquam vestrae saluti anteposuissem, sempiternam poenam sustinerem mea voluntate susceptam, sin et ea, quae ante gesseram, conservandae civitatis causa gessissem et illam miseram profectionem vestrae salutis gratia suscepissem, ut, quod odium scelerati homines et audaces in rem publicam et in omnes bonos conceptum iam diu continerent, id in me uno potius quam in optimo quoque et universa civitate defigerent,—hoc si animo in vos liberosque vestros fuissem, ut aliquando vos patresque conscriptos Italiamque universam memoria mei misericordiaque &lt;ac&gt; desiderium teneret, eius devotionis me esse convictum iudicio deorum immortalium, testimonio senatus, consensu Italiae, confessione inimicorum, beneficio divino immortalique vestro maxime laetor.
  
 
  
@@ -93,7 +93,7 @@ Itaque, dum ego absum, eam rem publicam habuistis, ut aeque me atque illam resti
  
 
  
-Vidi ego fortissimum virum, municipem meum, C. Marium&#151;quoniam nobis quasi aliqua fatali necessitate non solum cum iis, qui haec delere voluissent, sed etiam cum fortuna belligerandum fuit&#151;eum tamen vidi, cum esset summa senectute, non modo non infracto animo propter magnitudinem calamitatis, sed confirmato atque renovato.
+Vidi ego fortissimum virum, municipem meum, C. Marium—quoniam nobis quasi aliqua fatali necessitate non solum cum iis, qui haec delere voluissent, sed etiam cum fortuna belligerandum fuit—eum tamen vidi, cum esset summa senectute, non modo non infracto animo propter magnitudinem calamitatis, sed confirmato atque renovato.
  
 
  

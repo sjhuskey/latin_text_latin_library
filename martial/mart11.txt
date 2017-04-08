@@ -402,7 +402,7 @@ Hanc in piscina dicor futuisse marina.
  
 Mollia quod nivei duro teris ore Galaesi 
 &#160;&#160;&#160;&#160;basia, quod nudo cum Ganymede jaces, 
-&#151;quis negat?&#151;hoc nimium'st. Sed sit satis; inguina saltem 
+—quis negat?—hoc nimium'st. Sed sit satis; inguina saltem 
 &#160;&#160;&#160;&#160;parce fututrici sollicitare manu. 
 Levibus in pueris plus haec quam mentula peccat 
 &#160;&#160;&#160;&#160;et faciunt digiti praecipitantque virum:
@@ -1009,7 +1009,7 @@ Omnia cum tibi sint dono concessa deorum,
 
  
 Cum me velle vides tentumque, Telesphore, sentis, 
-&#160;&#160;&#160;&#160;magna rogas&#151;puta me velle negare: licet?&#151; 
+&#160;&#160;&#160;&#160;magna rogas—puta me velle negare: licet?— 
 et nisi juratus dixi "dabo", subtrahis illas, 
 &#160;&#160;&#160;&#160;permittunt in me quae tibi multa, natis. 
 Quid si me tonsor, cum stricta novacula supra est, 
@@ -1203,7 +1203,7 @@ Si te delectat numerata pecunia, vende
 &#160;&#160;&#160;&#160;argentum, mensas, murrina, rura, domum; 
 vende senes servos, ignoscent, vende paternos: 
 &#160;&#160;&#160;&#160;ne pueros vendas, omnia vende miser. 
-Luxuria est emere hos&#151;quis enim dubitatve negatve?&#151; 
+Luxuria est emere hos—quis enim dubitatve negatve?— 
 &#160;&#160;&#160;&#160;sed multo major vendere luxuria est.
  
 
@@ -1638,7 +1638,7 @@ facias amicum basiare quem nolis.
  
 
  
-De cathedra quotiens surgis&#151;jam saepe notavi&#151;, 
+De cathedra quotiens surgis—jam saepe notavi—, 
 &#160;&#160;&#160;&#160;pedicant miserae, Lesbia, te tunicae. 
 Quas cum conata es dextra, conata sinistra 
 &#160;&#160;&#160;&#160;vellere, cum lacrimis eximis et gemitu: 

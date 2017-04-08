@@ -351,7 +351,7 @@ qui quidem etiam istuc adduci potuerit. nam adhuc haec esophizeto, se leges Caes
  
 
  
-[4] quod de Quinti fratris epistula scribis, ad me quoque fuit prosthe leon, opithen de&#151;. quid dicam nescio; nam ita deplorat primis versibus mansionem suam ut quemvis movere possit, ita rursus remittit ut me roget ut annalis suos emendem et edam. illud tamen quod scribis animadvertas velim de portorio circumvectionis; ait se de consili sententia rem ad senatum reiecisse. nondum videlicet meas litteras legerat quibus ad eum re consulta et explorata perscripseram non deberi. velim si qui Graeci iam Romam ex Asia de ea causa venerunt videas et, si tibi videbitur, iis demonstres quid ego de ea re sentiam. si possum discedere, ne causa optima in senatu pereat, ego satis faciam publicanis; ei de me (vere tecum loquar), in hac re malo universae Asiae et negotiatoribus; nam eorum quoque vehementer interest. hoc ego sentio valde nobis opus esse. sed tu id videbis. quaestores autem, quaeso, num etiam de cistophoro dubitant? nam si aliud nihil erit, cum erimus omnia experti, ego ne illud quidem contemnam quod extremum est; te in Arpinati videbimus et hospitio agresti accipiemus, quoniam maritimum hoc contempsisti. 
+[4] quod de Quinti fratris epistula scribis, ad me quoque fuit prosthe leon, opithen de—. quid dicam nescio; nam ita deplorat primis versibus mansionem suam ut quemvis movere possit, ita rursus remittit ut me roget ut annalis suos emendem et edam. illud tamen quod scribis animadvertas velim de portorio circumvectionis; ait se de consili sententia rem ad senatum reiecisse. nondum videlicet meas litteras legerat quibus ad eum re consulta et explorata perscripseram non deberi. velim si qui Graeci iam Romam ex Asia de ea causa venerunt videas et, si tibi videbitur, iis demonstres quid ego de ea re sentiam. si possum discedere, ne causa optima in senatu pereat, ego satis faciam publicanis; ei de me (vere tecum loquar), in hac re malo universae Asiae et negotiatoribus; nam eorum quoque vehementer interest. hoc ego sentio valde nobis opus esse. sed tu id videbis. quaestores autem, quaeso, num etiam de cistophoro dubitant? nam si aliud nihil erit, cum erimus omnia experti, ego ne illud quidem contemnam quod extremum est; te in Arpinati videbimus et hospitio agresti accipiemus, quoniam maritimum hoc contempsisti. 
  
 
  
@@ -411,11 +411,11 @@ nec quid faciam scio neque tantum est in re quantus est sermo. ego autem ne iras
 [2] scito nihil umquam fuisse tam infame, tam turpe, tam peraeque omnibus generibus, ordinibus, aetatibus offensum quam hunc statum qui nunc est, magis me hercule quam vellem non modo quam putarem. populares isti iam etiam modestos homines sibilare docuerunt. Bibulus in caelo est nec qua re scio, sed ita laudatur quasi 
 Vnus homo nobis cunctando restituit rem.
 Pompeius, nostri amores, quod mihi summo dolori est, ipse se adflixit. neminem tenent voluntate; ne me tu necesse sit iis uti vereor. ego autem neque pugno cum illa causa propter illam amicitiam neque approbo, ne omnia improbem quae antea gessi; utor via. populi sensus maxime theatro et spectaculis perspectus est; nam gladiatoribus qua dominus qua advocati sibilis conscissi; ludis Apollinaribus Diphilus tragoedus in nostrum Pompeium petulanter invectus est; 
-  nostra miseria/ tu es magnus&#151; 
+  nostra miseria/ tu es magnus— 
   miliens coactus est dicere; 
 Eandem virtutem istam veniet tempus cum graviter gemes
 totius theatri clamore dixit itemque cetera. nam et eius modi sunt ii versus uti in tempus ab inimico Pompei scripti esse videantur: 
-  si neque leges neque mores cogunt&#151;, 
+  si neque leges neque mores cogunt—, 
 et cetera magno cum fremitu et clamore sunt dicta. Caesar cum venisset mortuo plausu, Curio filius est insecutus. huic ita plausum est ut salva re publica Pompeio plaudi solebat. tulit Caesar graviter. Litterae Capuam ad Pompeium volare dicebantur. inimici erant equitibus qui Curioni stantes plauserant, hostes omnibus; Rosciae legi, etiam frumentariae minitabantur. sane res erat perturbata. equidem malueram quod erat susceptum ab illis silentio transiri, sed vereor ne non liceat. non ferunt homines quod videtur esse tamen ferendum; sed est iam una vox omnium magis odio firmata quam praesidio. 
  
 
@@ -503,7 +503,7 @@ quam vellem Romae mansisses! &lt;mansisses&gt; profecto si haec fore putassemus.
  
 
  
-[4] nunc mihi et consiliis opus est tuis et amore et fide. qua re advola. expedita mihi erunt omnia si te habebo. multa per Varronem nostrum agi possunt quae te urgente erunt firmiora, multa ab ipso Publio elici, multa cognosci quae tibi occulta esse non poterunt, multa etiam&#151;sed absurdum est singula explicare cum ego requiram te ad omnia. Vnum illud tibi persuadeas velim, omnia mihi fore explicata si te videro; sed totum est in eo si ante quam ille ineat magistratum. puto Pompeium Crasso urgente, si tu aderis qui per boopin ex ipso intellegere possis qua fide ab illis agatur, nos aut sine molestia aut certe sine errore futuros. precibus nostris et cohortatione non indiges; quid mea voluntas, quid tempus, quid rei magnitudo postulet intellegis. 
+[4] nunc mihi et consiliis opus est tuis et amore et fide. qua re advola. expedita mihi erunt omnia si te habebo. multa per Varronem nostrum agi possunt quae te urgente erunt firmiora, multa ab ipso Publio elici, multa cognosci quae tibi occulta esse non poterunt, multa etiam—sed absurdum est singula explicare cum ego requiram te ad omnia. Vnum illud tibi persuadeas velim, omnia mihi fore explicata si te videro; sed totum est in eo si ante quam ille ineat magistratum. puto Pompeium Crasso urgente, si tu aderis qui per boopin ex ipso intellegere possis qua fide ab illis agatur, nos aut sine molestia aut certe sine errore futuros. precibus nostris et cohortatione non indiges; quid mea voluntas, quid tempus, quid rei magnitudo postulet intellegis. 
  
 
  
@@ -535,7 +535,7 @@ numquam ante arbitror te epistulam meam legisse nisi mea manu scriptam. ex eo co
  CICERO ATTICO SAL. 
 
  
-quas Numestio litteras dedi, sic te iis evocabam ut nihil acrius neque incitatius fieri posset. ad illam celeritatem adde etiam si quid potes. ac ne sis perturbatus (novi enim te et non ignoro quam sit amor omnis sollicitus atque anxius)&#151;sed res est, ut spero, non tam exitu molesta quam aditu. 
+quas Numestio litteras dedi, sic te iis evocabam ut nihil acrius neque incitatius fieri posset. ad illam celeritatem adde etiam si quid potes. ac ne sis perturbatus (novi enim te et non ignoro quam sit amor omnis sollicitus atque anxius)—sed res est, ut spero, non tam exitu molesta quam aditu. 
  
 
  
@@ -561,7 +561,7 @@ quas Numestio litteras dedi, sic te iis evocabam ut nihil acrius neque incitatiu
  CICERO ATTICO SAL. 
 
  
-Cum aliquem apud te laudaro tuorum familiarium, volam illum scire ex te me id fecisse, ut nuper me scis scripsisse ad te de Varronis erga me officio, te ad me rescripsisse eam rem summae tibi voluptati esse. sed ego mallem ad illum scripsisses mihi illum satis facere, non quo faceret sed ut faceret; mirabiliter enim moratus est sicut nosti, helikta kai ouden&#151;. sed nos tenemus praeceptum illud tas ton kratounton&#151;. at hercule alter tuus familiaris Hortalus quam plena manu, quam ingenue, quam ornate nostras laudes in astra sustulit, cum de Flacci praetura et de illo tempore Allobrogum diceret! sic habeto nec amantius nec honorificentius nec copiosius potuisse dici. ei te hoc scribere a me tibi esse missum sane volo. 
+Cum aliquem apud te laudaro tuorum familiarium, volam illum scire ex te me id fecisse, ut nuper me scis scripsisse ad te de Varronis erga me officio, te ad me rescripsisse eam rem summae tibi voluptati esse. sed ego mallem ad illum scripsisses mihi illum satis facere, non quo faceret sed ut faceret; mirabiliter enim moratus est sicut nosti, helikta kai ouden—. sed nos tenemus praeceptum illud tas ton kratounton—. at hercule alter tuus familiaris Hortalus quam plena manu, quam ingenue, quam ornate nostras laudes in astra sustulit, cum de Flacci praetura et de illo tempore Allobrogum diceret! sic habeto nec amantius nec honorificentius nec copiosius potuisse dici. ei te hoc scribere a me tibi esse missum sane volo. 
  
 
  

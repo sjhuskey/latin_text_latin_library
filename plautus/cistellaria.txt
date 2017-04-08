@@ -67,7 +67,7 @@ Plautus: Cistellaria
  quae vos arbitrabor velle, ea ut expetessam.
  LENA Quod ille dixit, qui secundo vento vectus est tranquillo
 mari,
- ventum gaudeo&#151;ecastor ad ted, ita hodie hic acceptae sumus   15 
+ ventum gaudeo—ecastor ad ted, ita hodie hic acceptae sumus   15 
  suavibus modis,
  nec nisi disciplina apud te fuit quicquam ibi quin mihi placeret.
  SEL. Quid ita, amabo? LENA. Raro nimium dabat quod biberem,
@@ -125,7 +125,7 @@ penitissimo.
 cor?  65 
   commemora obsecro;
  quod neque ego habeo neque quisquam alia mulier, ut perhibent viri.
- SEL. Siquid est quod doleat, dolet; si autem non est&#151;tamen
+ SEL. Siquid est quod doleat, dolet; si autem non est—tamen
 hoc hic dolet.
  GYMN. Amat haec mulier. SEL. Eho an amare occipere amarum
 est, obsecro?
@@ -370,7 +370,7 @@ Dicam tibi:
  ALC. I, curre, equom adfer. SERV. Hercle hic insanit
 miser.
  ALC. Abi atque hastatos multos, multos velites,
- multos cum multis&#151;nil moror precario.
+ multos cum multis—nil moror precario.
  ubi sunt quae iussi? SERV. Sanus hic non est satis.
  T. Ab anu esse credo nocitum, cum illaec sic facit.  290 
  SERV. Vtrum deliras, quaeso, an astans somnias,
@@ -539,7 +539,7 @@ nomen mihi,  465
  neque opes nostrae tam sunt validae quam tuae; verum tamen
  hau metuo ne ius iurandum nostrum quisquam culpitet:   495 
  tu iam, si quid tibi dolebit, scies qua doleat gratia.
- ALC. Di me perdant&#151; MEL. Quodcumque optes, tibi velim
+ ALC. Di me perdant— MEL. Quodcumque optes, tibi velim
 contingere.
  ALC. Si illam uxorem duxero umquam, mihi quam despondit pater.
  MEL. Et me, si umquam tibi uxorem filiam dedero meam.
@@ -562,15 +562,15 @@ commentor quidem.
 agas scias.
  ALC. At ita me di deaeque, superi atque inferi et medioxumi,
  itaque me Iuno regina et Iovis supremi filia
- itaque me Saturnus eius patruos&#151; MEL. Ecastor pater.
- ALC. Itaque me Ops opulenta illius avia&#151; MEL. Immo
+ itaque me Saturnus eius patruos— MEL. Ecastor pater.
+ ALC. Itaque me Ops opulenta illius avia— MEL. Immo
 mater quidem.  515 
- ALC. Iuno filia et Saturnus patruos et summus Iuppiter&#151;
+ ALC. Iuno filia et Saturnus patruos et summus Iuppiter—
  tu me delenis, propter te haec pecco. MEL. Perge dicere.
  ALC. Anne etiam, ut quid consultura sis sciam, pergis eloqui?
  MEL. Non remittam. definitumst. ALC. Enim vero ita me
 Iuppiter
- itaque me Iuno itaque Ianus ita&#151;quid dicam nescio.    520 
+ itaque me Iuno itaque Ianus ita—quid dicam nescio.    520 
  iam scio. immo, mulier, audi, meam ut scias sententiam.
  di me omnes, magni minuti, et etiam patellarii
  faxint, ne ego &lt;dem vivae> vivos savium Selenio,
@@ -654,7 +654,7 @@ animo bono es.  591
  ne in quaestione mihi sit, si quid eum velim.
  ego ad anum recurro rursum. PHAN. Lampadio, obsecro,
  cura. LAMP. Perfectum ego hoc dabo negotium.   595 
- PHAN. Deos teque spero.&#151; LAMP. Eosdem ego, uti abeas
+ PHAN. Deos teque spero.— LAMP. Eosdem ego, uti abeas
 domum.
  MEL. Adulescens, asta atque audi. LAMP. Men, mulier,
 vocas?

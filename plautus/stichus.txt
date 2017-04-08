@@ -193,7 +193,7 @@ multa scio faciunda verba. ibo intro. sed apertast foris.
  PAN. Is est ecastor. ferre advorsum homini occupemus osculum. 
  SOR. Salve, mi pater. ANT. Et vos ambae. ilico agite
 assidite.   90 
- SOR. Osculum &#151; ANT. Sat est osculi mihi vostri. PAN. 
+ SOR. Osculum — ANT. Sat est osculi mihi vostri. PAN. 
 Qui, amabo, pater? 
  ANT. Quia ita meae animae salsura evenit. SOR. Asside
 hic, pater. 
@@ -222,7 +222,7 @@ quae optumae sunt, esse oportet? sed utraque ut dicat mihi.
 quam illa fuit: meliorem neque tu reperies neque sol videt.  110 
  ANT. At ego ex te exquaero atque ex istac tua sorore. SOR. 
 Edepol pater, 
-scio ut oportet esse: si sint &#151; ita ut ego aequom censeo. 
+scio ut oportet esse: si sint — ita ut ego aequom censeo. 
  A. Volo scire ergo, ut aequom censes. S. Vt, per urbem
 quom ambulent, 
 omnibus os opturent, ne quis merito male dicat sibi. 
@@ -260,13 +260,13 @@ hostis est uxor, invita quae viro nuptum datur.    140
  ANT. Curate igitur familiarem rem ut potestis. PAN. Optume, 145 
 nunc places, quom recte monstras; nunc tibi auscultabimus. 
 nunc, soror, abeamus intro. SOR. Immo intervisam domum. 
-si a viro tibi forte veniet nuntius, facito ut sciam. &#151; 
+si a viro tibi forte veniet nuntius, facito ut sciam. — 
  PAN. Neque ego te celabo, neque tu me celassis quod scias. 
 eho, Crocotium, i, parasitum Gelasimum huc arcessito,   150 
 tecum adduce; nam illum ecastor mittere ad portum volo, 
 si quae forte ex Asia navis heri aut hodie venerit. 
 nam dies totos apud portum servos unus assidet; 
-sed tamen volo intervisi. propera atque actutum redi. &#151;
+sed tamen volo intervisi. propera atque actutum redi. —
  
 
  
@@ -379,9 +379,9 @@ neque aliud quicquam nisi hoc quod habeo pallium;
 linguam quoque etiam vendidi datariam. CROC. Au, 
 nullan tibi lingua est? GEL. Quae quidem dicat 'dabo'; 259-260 
 ventri reliqui eccam aliam quae dicat 'cedo'. 261 
- CROC. Malum quidem si vis &#151; GEL. Haec eadem dicit tibi. 
+ CROC. Malum quidem si vis — GEL. Haec eadem dicit tibi. 
  CROC. Quid nunc? ituru's an non? GEL. Abi sane domum, 
-iam illo venturum dicito. propera atque abi. &#151; 264-265 
+iam illo venturum dicito. propera atque abi. — 264-265 
 demiror quid illaec me ad se arcessi iusserit, 266 
 quae numquam iussit me ad se arcessi ante hunc diem, 
 postquam vir abiit eius. miror quid siet, 
@@ -488,7 +488,7 @@ Salva sum.
 Equidem plurimos: 
 verum ex multis nequiorem nullum quam hic est. GEL. Quo modo? 
 iam dudum ego istum patior dicere iniuste mihi. 
-praeterhac si me inritassis &#151; PIN. Edepol essuries male.  345 
+praeterhac si me inritassis — PIN. Edepol essuries male.  345 
  GEL. Animum inducam, ut istuc verum te elocutum esse arbitrer. 
  PIN. Munditias volo fieri. ecferte huc scopas simulque harundinem, 
 ut operam omnem araneorum perdam et texturam improbem 
@@ -553,11 +553,11 @@ ilicet, iam meo malost quod malevolentes gaudeant.
 Hercules, qui deus sis, sane discessisti non bene.  395 
  PAN. I intro, Pinacium, iube famulos rem divinam mi apparent. 
 bene vale. GEL. Vin administrem? PAN. Sat servorum habeo
-domi. &#151; 
+domi. — 
  GEL. Enim vero, Gelasime, opinor provenisti futtile, 
 si neque ille adest neque hic, qui venit, quicquam subvenit. 
 ibo intro ad libros et discam de dictis melioribus;    400 
-nam ni illos homines expello, ego occidi planissume. &#151;
+nam ni illos homines expello, ego occidi planissume. —
  
 
  
@@ -621,7 +621,7 @@ aliud posticum nostrarum harunc aedium:   450
 [posticam partem magis utuntur aedium]  450a 
 ea ibo opsonatum, eadem referam opsonium: 
 per hortum utroque commeatus continet. 
-ite hac secundum vos me. ego hunc lacero diem. &#151;
+ite hac secundum vos me. ego hunc lacero diem. —
  
 
  
@@ -658,7 +658,7 @@ libens accipiam certo, si promiseris.
  EP. Valeas. GEL. Certumnest? EP. Certum. cenabo
 domi. 
  GEL. [Quando quidem tu ad me non vis promittere] 
-sed &#151; quoniam nil processit hac, ego ivero 
+sed — quoniam nil processit hac, ego ivero 
 apertiore magis via; ita plane loquar:   485 
 vin ad te ad cenam veniam? EPIG. Si possim, velim; 
 verum hic apud me cenant alieni novem. 
@@ -670,7 +670,7 @@ Ambracia veniunt huc legati publice.
 summi accubent, ego infimatis infimus. 
  EPIG. Haud aequomst te inter oratores accipi. 
  GEL. Equidem hercle orator sum, sed procedit parum. 495 
- EPIG. Cras de reliquiis nos volo. multum vale. &#151; 
+ EPIG. Cras de reliquiis nos volo. multum vale. — 
  GEL. Perii hercle vero plane, nihil obnoxie. 
 uno Gelasimo minus est quam dudum fuit. 
 certumst mustelae posthac numquam credere, 
@@ -678,7 +678,7 @@ nam incertiorem nullam novi bestiam;   500
 quaen eapse deciens in die mutat locum, 
 ea ego auspicavi in re capitali mea? 
 certumst amicos convocare, ut consulam 
-qua lege nunc med essurire oporteat. &#151;
+qua lege nunc med essurire oporteat. —
  
 
  
@@ -768,7 +768,7 @@ quia nequit, qua lege licuit velle dixit fieri.
 'habeon rem pactam?' inquit. 'faciam ita' inquit 'ut fieri voles.' 
 sed ego ibo intro et gratulabor vostrum adventum filiis. 
 poste ibo lautum in pyelum, ibi fovebo senectutem meam. 
-post ubi lavero, otiosus vos opperiar accubans. &#151; 
+post ubi lavero, otiosus vos opperiar accubans. — 
  PAMPH. Graphicum mortalem Antiphonem, ut apologum fecit quam
 fabre. 570 
  EPIG. Etiam nunc scelestus se esse ducit pro adulescentulo. 
@@ -845,7 +845,7 @@ tantillum loculi, ubi catellus cubet, id mi satis est loci.     620
  E. Exorabo aliquo modo. veni. G. Hucine? E. Immo
 in carcerem; 
 nam hic quidem genium meliorem tuom non facies. eamus, tu. 
- PAMPH. Deos salutabo modo, poste ad te continuo transeo. &#151; 
+ PAMPH. Deos salutabo modo, poste ad te continuo transeo. — 
  G. Quid igitur? E. Dixi equidem, in carcerem ires. G. 
 Quin si iusseris, 
 eo quoque ibo. E. Di immortales, hic quidem pol summam in crucem 625 
@@ -854,14 +854,14 @@ quicumvis depugno multo facilius quam cum fame.
  EPIG. Dum parasitus mi atque fratri fuisti, rem confregimus. 
  GEL. Non nego ista apud te. EPIG. Satis spectatast mihi
 iam tua felicitas; 
-nunc ego nolo ex Gelasimo mihi fieri te Catagelasimum. &#151;   630 
+nunc ego nolo ex Gelasimo mihi fieri te Catagelasimum. —   630 
  GEL. Iamne abiisti? Gelasime, vide quid es capturus consili. 
 egone? tune. mihine? tibine. viden ut annonast gravis? 
 viden, benignitates hominum ut periere et prothymiae? 
 viden ridiculos nihili fieri, atque ipsos parasitarier? 
 numquam edepol me vivom quisquam in crastinum inspiciet diem; 635 
 nam mihi iam intus potione iuncea onerabo gulam, 
-neque ego hoc committam, ut me esse homines mortuom dicant fame. &#151;
+neque ego hoc committam, ut me esse homines mortuom dicant fame. —
 637-640
  
 
@@ -880,7 +880,7 @@ idem ego nunc facio, qui proviso Sagarinum,
 qui nihilo citius veniet tamen hac gratia.     645 
 iam hercle ego decumbam solus, si ille huc non venit. 
 cadum modo hinc a me huc cum vino transferam, 
-postidea accumbam. quasi nix tabescit dies. &#151;
+postidea accumbam. quasi nix tabescit dies. —
  
 
  
@@ -908,9 +908,9 @@ ibidem erus est noster), hoc mihi dono datumst.   665
 proin tu lavare propera. SANG. Lautus sum. STICH. Optime, 
 [sequere ergo hac me intro. SANG. Ego vero sequor. 
  STICH. ] volo eluamus hodie, peregrina omnia 
-relinque, Athenas nunc colamus. sequere me. &#151; 670 
+relinque, Athenas nunc colamus. sequere me. — 670 
  SANG. Sequor, et domum redeunti principium placet. 
-bona scaeva strenaque obviam occessit mihi. &#151;
+bona scaeva strenaque obviam occessit mihi. —
  
 
  
@@ -923,7 +923,7 @@ lectis sternendis studuimus munditiisque apparandis.
 inter illud tamen negotium meis curavi amicis, 
 Sticho et conservo Sagarino meo, cena cocta ut esset.   680 
 Stichus obsonatust, ceterum ego operam do: is adlegavit. 
-nunc ibo hinc et amicos meos curabo hic advenientes. &#151;
+nunc ibo hinc et amicos meos curabo hic advenientes. —
  
 
  

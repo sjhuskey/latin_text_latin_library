@@ -71,7 +71,7 @@ Pliny the Elder: Natural History, Book IV
  
 
  
- [14] inde Eliorum ager, qui antea Epioe vocabantur. ipsa Elis in mediterraneo et a Pylo XIII intus delubrum Olympii Iovis, ludorum claritate fastos Graeciae complexum, Pisaeorum quondam oppidum, praefluente Alpheo amne. at in ora promunturium Ichthys, amnis Alpheus &#151; navigatur VI p. &#151;, oppida Aulon, Leprium, promunturium Platanodes. omnia haec ad occasum versa,
+ [14] inde Eliorum ager, qui antea Epioe vocabantur. ipsa Elis in mediterraneo et a Pylo XIII intus delubrum Olympii Iovis, ludorum claritate fastos Graeciae complexum, Pisaeorum quondam oppidum, praefluente Alpheo amne. at in ora promunturium Ichthys, amnis Alpheus — navigatur VI p. —, oppida Aulon, Leprium, promunturium Platanodes. omnia haec ad occasum versa,
  
 
  
@@ -159,7 +159,7 @@ Pliny the Elder: Natural History, Book IV
  
 
  
- [36] In ora sinus Macedonica oppidum Chalastra et intus Phloros, Lete medioque litoris flexu Thessalonice liberae condicionis &#151; ad hanc a Dyrrhachio CCXLV &#151;, Therme in Thermaico sinu, oppida Dicaea, Palinandrea, Scione, promunturium Canastraeum, oppida Pallene, Phlegra. qua in regione montes Hypsizonus, Epytus, Alcyon, Elaeuomne, oppida Nissos, Phryxelon, Mendae et in Pallenensi Isthmo quondam Potidaea, nunc Cassandrea colonia, Anthemus, Olophyxus,
+ [36] In ora sinus Macedonica oppidum Chalastra et intus Phloros, Lete medioque litoris flexu Thessalonice liberae condicionis — ad hanc a Dyrrhachio CCXLV —, Therme in Thermaico sinu, oppida Dicaea, Palinandrea, Scione, promunturium Canastraeum, oppida Pallene, Phlegra. qua in regione montes Hypsizonus, Epytus, Alcyon, Elaeuomne, oppida Nissos, Phryxelon, Mendae et in Pallenensi Isthmo quondam Potidaea, nunc Cassandrea colonia, Anthemus, Olophyxus,
  
 
  
@@ -183,11 +183,11 @@ Pliny the Elder: Natural History, Book IV
  
 
  
- [42] ita finit Hister a septentrione, ab ortu Pontus ac Propontis, a meridie Aegaeum mare. cuius in ora a Strymone Apollonia, Oesyma, Neapolis, Datos. intus Philippi colonia &#151; absunt a Dyrrhachio CCCXXV &#151;, Scotusa, Topiros civitas. Mesti amnis ostium, mons Pangaeus. Heraclea, Olynthos, Abdera libera civitas. stagnum Bistonum et gens. oppidum fuit Tirida, Diomedis equorum stabulis dirum; nunc sunt Dicaea, Ismaron, locus Parthenion, Phalesina, Maronea, prius Orthagurea dicta.
+ [42] ita finit Hister a septentrione, ab ortu Pontus ac Propontis, a meridie Aegaeum mare. cuius in ora a Strymone Apollonia, Oesyma, Neapolis, Datos. intus Philippi colonia — absunt a Dyrrhachio CCCXXV —, Scotusa, Topiros civitas. Mesti amnis ostium, mons Pangaeus. Heraclea, Olynthos, Abdera libera civitas. stagnum Bistonum et gens. oppidum fuit Tirida, Diomedis equorum stabulis dirum; nunc sunt Dicaea, Ismaron, locus Parthenion, Phalesina, Maronea, prius Orthagurea dicta.
  
 
  
- [43] mons Serrium, Zone, tum locus Doriscum,X hominum capax &#151; ita Xerxes ibi dinumeravit exercitum &#151;, os Hebri, portus Stentoris, oppidum Aenos liberum cum Polydori tumulo, Ciconum quondam regio. a orisco incurvatur ora ad Macron Tichos CXII p., circa quem locum fluvius Melas, a quo sinus appellatur. oppida Cypsela, Bisanthe, Macron Tichos, dictum quia a Propontide ad Melanem sinum inter duo maria porrectus murus procurrentem excludit Cherronesum.
+ [43] mons Serrium, Zone, tum locus Doriscum,X hominum capax — ita Xerxes ibi dinumeravit exercitum —, os Hebri, portus Stentoris, oppidum Aenos liberum cum Polydori tumulo, Ciconum quondam regio. a orisco incurvatur ora ad Macron Tichos CXII p., circa quem locum fluvius Melas, a quo sinus appellatur. oppida Cypsela, Bisanthe, Macron Tichos, dictum quia a Propontide ad Melanem sinum inter duo maria porrectus murus procurrentem excludit Cherronesum.
  
 
  
@@ -199,7 +199,7 @@ Pliny the Elder: Natural History, Book IV
  
 
  
- [46]&#151; Sed a Bosporo sinus Lasthenes, portus Senum et alter qui Mulierum cognominatur. promunturium Chryseon Ceras, in quo oppidum Byzantium liberae condicionis, antea Lygos dictum; abest a Dyrrhachio DCCXI p.: tantum patet longitudo terrarum inter Hadriaticum mare et Propontidem.
+ [46]— Sed a Bosporo sinus Lasthenes, portus Senum et alter qui Mulierum cognominatur. promunturium Chryseon Ceras, in quo oppidum Byzantium liberae condicionis, antea Lygos dictum; abest a Dyrrhachio DCCXI p.: tantum patet longitudo terrarum inter Hadriaticum mare et Propontidem.
  
 
  
@@ -211,7 +211,7 @@ Pliny the Elder: Natural History, Book IV
  
 
  
- [49] et Hellespontus VII, ut diximus, stadiis Europam ab Asia dividens, IIII inter se contrarias urbes habet, in Europa Callipolim et Seston, in Asia Lampsacon et Abydon. dein promunturium Cherronesi Mastusia adversum Sigeo, cuius in fronte obliqua Cynossema &#151; ita appellatur Hecubae tumulus &#151;, statio Achaeorum et turris, delubrum Protesilai et in extrema Cherronesi fronte, quae vocatur Aeotium, oppidum Elaeus. dein petenti Melana sinum portus Coelos et Panhormus et supra dicta Cardia.
+ [49] et Hellespontus VII, ut diximus, stadiis Europam ab Asia dividens, IIII inter se contrarias urbes habet, in Europa Callipolim et Seston, in Asia Lampsacon et Abydon. dein promunturium Cherronesi Mastusia adversum Sigeo, cuius in fronte obliqua Cynossema — ita appellatur Hecubae tumulus —, statio Achaeorum et turris, delubrum Protesilai et in extrema Cherronesi fronte, quae vocatur Aeotium, oppidum Elaeus. dein petenti Melana sinum portus Coelos et Panhormus et supra dicta Cardia.
  
 
  

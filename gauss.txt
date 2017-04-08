@@ -89,7 +89,7 @@ nisi quantitates formae a+b&radic;-1 admittantur, tales
 quantitates fictiae tamquam peculiare quantitatum genus, quas
  imaginarias dixerunt, vt a realibus distinguerentur, consideratae
 et in totam analysin introductae sunt; quonam iure? hoc loco
-non disputo. &#151; Demonstrationem meam absque omni quantitatum
+non disputo. — Demonstrationem meam absque omni quantitatum
 imaginarium subsidio absoluam, etsi eadem libertate, qua
 omnes recentiores analystae vsi sunt, etiam mihi vti liceret.
  
@@ -115,7 +115,7 @@ quae in tali argumentatione reprehendi possent, taceam, quaeram
 tantummodo, vnde certi esse possimus, vltimam aequationem
 reuera vllam radicem habere? Quidni fieri posset, vt neque huic
 vltimae aequationi neque propositae, vlla magnitudo in toto quantitatum
-realium atque imaginariarum ambitu satisfaciat? &#151; Ceterum
+realium atque imaginariarum ambitu satisfaciat? — Ceterum
 periti facile perspicient, hanc vltimam aequationem necessario
 cum proposita omnino identicam fore, siquidem calculus rite
 fuerit institutus; scilicet eliminatis incognitis &beta;, &gamma; etc. aequationem
@@ -293,7 +293,7 @@ designare debet (vti d'A. pluribus locis innuit). Hoc
  e. g. manifestum est, si ponitur X=e 1/x , siue x=1/log X . Attamen
 si demonstrationem ad eum casum restringimus, vbi X est functio
 algebraica ipsius x (quod in praesenti negotio sufficit), propositio
-vtique est vera. &#151; Ceterum d'A. nihil pro confirmatione suppositionis
+vtique est vera. — Ceterum d'A. nihil pro confirmatione suppositionis
 suae attulit; cel. Bougainville supponit X esse functionem
 algebraicam ipsius x , et ad inuentionem seriei parallelogrammum
 Newtonianum commendat.
@@ -485,7 +485,7 @@ quam per aequationem gradus forsan maioris quam 2m determinari
 nequeant. Pro eo casu, vbi aequatio X=0 est quarti gradus,
 E. valores rationales co&euml;fficientium per u et co&euml;fficientes
 datos eruit; idem vero etiam in omnibus aequationibus altioribus
-fieri posse, vtique explicatione ampliori egebat. &#151; Ceterum
+fieri posse, vtique explicatione ampliori egebat. — Ceterum
 operae pretium esse videtur, in formulas illas, quae &alpha;, &beta; 
 etc. rationaliter per u, B, C etc. exprimant, profundius et generalissime
 inquirere; de qua re aliisque ad eliminationis theoriam (argumentum
@@ -545,8 +545,8 @@ realem incognitae, aut per valorem imaginariam sub forma
  a+b&radic;-1 contentum, aut forsan per valorem sub forma alia
 hucusque ignota contentum, aut per valorem, qui sub nulla
 omnino forma continetur. Sed quomodo huiusmodi quantitates
-de quibus ne ideam quidem fingere potes &#151; vera vmbrae vmbra
-&#151; summari aut multiplicari possint; hoc ea perspicuitate, quae
+de quibus ne ideam quidem fingere potes — vera vmbrae vmbra
+— summari aut multiplicari possint; hoc ea perspicuitate, quae
 in mathesi semper postulatur, certo non intelligitur. *4) 
  
 
@@ -612,7 +612,7 @@ fore functionem rationalem integram radicum a,b,c,d talem, in
 quam omnes eadem ratione ingrediantur, nullo negotio a priori
 praeuideri potest. Tales vero functiones semper rationaliter per
 co&euml;fficientes aequationis, cuius radices sunt a, b, c, d , exprimi
-possunt. &#151; Idem etiam manifestum est, si productum pqr sub
+possunt. — Idem etiam manifestum est, si productum pqr sub
 hanc formam redigatur:
  
  
@@ -621,7 +621,7 @@ hanc formam redigatur:
  
 quod productum euolutum omnes a, b, c, d eodem modo implicaturum
 esse facile praeuideri potest. Simul periti facile hinc colligent,
-quomodo hoc ad altiores aequationes applicare debeat. &#151;
+quomodo hoc ad altiores aequationes applicare debeat. —
 Completam demonstrationis expositionem, quam hic apponere breuitas
 non permittit, vna cum vberiori disquisitione de functionibus
 plures variabiles eodem modo inuoluentibus ad aliam occasionem
@@ -793,7 +793,7 @@ supplere et reuera praesertim ea, quae supra (art. 8.) obiectionem
 tertiam et quartam constituunt, tam profunde perscrutatus est, vt
 nihil amplius desiderandum restet, nisi forsan in disquisitione
 anteriori supra theoria eliminationis (cui inuestigatio haec tota
-innititur) quaedam dubia superesse videantur. &#151; Attamen obiectionem
+innititur) quaedam dubia superesse videantur. — Attamen obiectionem
 primam omnino non attigit, quin etiam tota disquisitio
 superstructa est suppositioni, quamuis aequationem m ti gradus
 reuera m radices habere.
@@ -995,7 +995,7 @@ ramos infinitos lineae primae constituere, puta primum et m+1 tum .
 Luculentissime hic ramorum situs exhibetur in fig. 2, pro casu
  m=4 constructa, vbi rami lineae secundae, vt a ramis lineae
 primae distinguantur, punctati exprimuntur, quod etiam de figura
-quarta est tenendum. *8) &#151; Quum vero hae conclusiones
+quarta est tenendum. *8) — Quum vero hae conclusiones
 maximi momenti sint, quantitatesque infinite magnae quosdam lectores
 offendere possint: illas etiam absque infinitorum subsidio in art.
 sequ. eruere docebo.
@@ -1271,7 +1271,7 @@ expressio illa semper ab omnibus geometris primae notae accepta
 est, neque audiendos censeo, qui quantitatem a+b&radic;-1 in eo
 solo casu imaginarium vocare voluerunt vbi a=0 , impossibilem 
 vero quando non sit a=0 , quum haec distinctio neque necessaria
-sit neque vllius vtilitatis. &#151; Si quantitates imaginariae omnino in
+sit neque vllius vtilitatis. — Si quantitates imaginariae omnino in
 analysi retineri debent (quod pluribus rationibus consultius videtur,
 quam ipsas abolere, modo satis solide stabiliantur): necessario
 tamquam aeque possibiles ac reales spectandae sunt; quamobrem
@@ -1286,7 +1286,7 @@ aequilaterum rectangulum impossibile esse, nemo erit qui neget.
 At si tale triangulum impossibile tamquam nouum triangulorum genus
 contemplari, aliasque triangulorum proprietates ad illud applicare
 voluerit, ecquis risum teneat? Hoc esset verbis ludere seu
-potius abuti. &#151; Quamuis vero etiam summi mathematici saepius
+potius abuti. — Quamuis vero etiam summi mathematici saepius
 veritates, quae quantitatum ad quas spectant possibilitatem manifesto
 supponunt, ad tales quoque applicauerint quarum possibilitas
 adhuc dubia erat; neque abnuerim, huiusmodi licentias plerumque
@@ -1297,7 +1297,7 @@ exemplar merito celebratur, sublimitate magis dignum videtur,
 tales libertates aut omnino proscribere, aut saltem parcius neque
 alias ipsis vti, nisi vbi etiam minus exercitati perspicere valeant,
 rem etiam absque illarum subsidio etsi forsan minus breuiter tamen
-aeque rigorose absolui potuisse. &#151; Ceterum haud negauerim, ea
+aeque rigorose absolui potuisse. — Ceterum haud negauerim, ea
 quae hic contra impossibilium abusum dixi, quodam respectu
 etiam contra imaginarias obiici posse: sed harum vindicationem
 nec non totius huius rei expositionem vberiorem ad aliam occasionem
@@ -1404,7 +1404,7 @@ circuli spatio se perdere deberet) circummeare, et tandem inter 2 et
 primam incideris. Hoc vero absurdum esse inde patet, quod in
 puncto, vbi in circulum ingressus es, superficiem primam supra te
 habuisti, in egressu, infra; quare necessario alicubi in superficiem
-primam ipsam incidere debuisti, siue in punctum lineae primae. &#151;
+primam ipsam incidere debuisti, siue in punctum lineae primae. —
 Ceterum ex hoc ratiocinio principiis geometriae situs innixo, quae
 haud minus valida sunt, quam principia geometriae magnitudinis,
 sequitur tantummodo, si in aliquo ramo lineae primae in circulum
