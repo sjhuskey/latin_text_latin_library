@@ -20,83 +20,83 @@ PHILOBIBLON
  
 
  
- I &#160;&#160; Quod thesaurus sapientia potissime sit in libris 
+ I    Quod thesaurus sapientia potissime sit in libris 
  
 
  
- II &#160;&#160; Qualis amor libris rationabiliter debeatur 
+ II    Qualis amor libris rationabiliter debeatur 
  
 
  
- III &#160;&#160; Qualiter in libris emendis sit pretium aestimandum 
+ III    Qualiter in libris emendis sit pretium aestimandum 
  
 
  
- IV &#160;&#160; Querimonia librorum contra clericos jam promotos 
+ IV    Querimonia librorum contra clericos jam promotos 
  
 
  
- V &#160;&#160; Querimonia librorum contra religiosos possessionatus 
+ V    Querimonia librorum contra religiosos possessionatus 
  
 
  
- VI &#160;&#160; Querimonia librorum contra religiosos mendicantes 
+ VI    Querimonia librorum contra religiosos mendicantes 
  
 
  
- VII &#160;&#160; Querimonia librorum contra bella 
+ VII    Querimonia librorum contra bella 
  
 
  
- VIII &#160;&#160; De multiplici opportunitate quam habuimus librorum copiam conquirendi 
+ VIII    De multiplici opportunitate quam habuimus librorum copiam conquirendi 
  
 
  
- IX &#160;&#160; Quod licet opera veterum amplius amaremus, non tamen damnavimus studia modernorum 
+ IX    Quod licet opera veterum amplius amaremus, non tamen damnavimus studia modernorum 
  
 
  
- X &#160;&#160; De successiva perfectione librorum 
+ X    De successiva perfectione librorum 
  
 
  
- XI &#160;&#160; Quare libros liberalium litterarum praetulimus libris juris 
+ XI    Quare libros liberalium litterarum praetulimus libris juris 
  
 
  
- XII &#160;&#160; Quare libros grammaticales tanta diligentia curavimus renovare 
+ XII    Quare libros grammaticales tanta diligentia curavimus renovare 
  
 
  
- XIII &#160;&#160; Quare non omnino negleximus fabulas poetarum 
+ XIII    Quare non omnino negleximus fabulas poetarum 
  
 
  
- XIV &#160;&#160; Qui deberet esse librorum potissimi dilectores 
+ XIV    Qui deberet esse librorum potissimi dilectores 
  
 
  
- XV &#160;&#160; Quot commoda confert amor librorum 
+ XV    Quot commoda confert amor librorum 
  
 
  
- XVI &#160;&#160; Quam meritorium sit libros novos scribere et veteres renovare 
+ XVI    Quam meritorium sit libros novos scribere et veteres renovare 
  
 
  
- XVII &#160;&#160; De debita honestate circa librorum custodiam adhibenda 
+ XVII    De debita honestate circa librorum custodiam adhibenda 
  
 
  
- XVIII &#160;&#160; Quod tantam librorum collegimus copiam ad communem profectum scholarium et non solum ad propriam voluptatem 
+ XVIII    Quod tantam librorum collegimus copiam ad communem profectum scholarium et non solum ad propriam voluptatem 
  
 
  
- XIX &#160;&#160; De moduo communicandi studentibus omnes libros nostros 
+ XIX    De moduo communicandi studentibus omnes libros nostros 
  
 
  
- XX &#160;&#160; Exhortatio scholarium ad rependedum pro nobis suffragia debitae pietatis 
+ XX    Exhortatio scholarium ad rependedum pro nobis suffragia debitae pietatis 
  
 
  
@@ -332,11 +332,11 @@ Jam volumus prosequi novum genus injuriae, quo tam in nostris personis laedimur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Quem recitas, meus est, O Fidentine, libellus; 
+        Quem recitas, meus est, O Fidentine, libellus; 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;Sed male quum recitas, incipit esse tuus. [ Epi. , i. 38]
+      Sed male quum recitas, incipit esse tuus. [ Epi. , i. 38]
  
 
  
@@ -379,31 +379,31 @@ Sed, quod dolentes referimus, jam Thersites ignavus arma contrectat Achilles ex 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Liber Bacchus respicitur 
+              Liber Bacchus respicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;et in ventrem traicitur 
+            et in ventrem traicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;nocte dieque; 
+              nocte dieque; 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;liber codex despicitur 
+            liber codex despicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;et a manu reicitur 
+            et a manu reicitur 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;longe lateque.
+              longe lateque.
  
 
  
-&#160;&#160;Tanquam si cujusdam aequivocationis multiplicate fallatur simplex monachica plebs moderna, dum Liber pater praeponitur libro patrum, calcibus epotandis non codicibus emendandis indulget hodie studium monachorum; quibus lasciviam musicam Timothei pudicis moribus aemulam non verentur adjungere, sicque cantus ludentis non planctus lugentis officium efficitur monachale. 
+  Tanquam si cujusdam aequivocationis multiplicate fallatur simplex monachica plebs moderna, dum Liber pater praeponitur libro patrum, calcibus epotandis non codicibus emendandis indulget hodie studium monachorum; quibus lasciviam musicam Timothei pudicis moribus aemulam non verentur adjungere, sicque cantus ludentis non planctus lugentis officium efficitur monachale. 
  
 
  
@@ -659,7 +659,7 @@ Sicut enim in corporis probitate praestantiores legimus praecessisse, quam moder
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omnia cum veterumm sint cxplorata libellis, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Multa loqui breviter sit novitatis opus. 
+        Omnia cum veterumm sint cxplorata libellis,         Multa loqui breviter sit novitatis opus. 
  
 
  
@@ -671,7 +671,7 @@ Mustum fumosum juvenilis ingenii philosophicae difficultati delibant, vinumque m
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omnes declinat ad ea lucra ministrant, &#160;&#160;&#160;&#160;&#160;&#160;Utque sciant discunt pauci, plures ut abundent; &#160;&#160;&#160;&#160;&#160;&#160;Sic te prostituunt, O virgo Scientia! sic te &#160;&#160;&#160;&#160;&#160;&#160;Venalem faciunt castis amplexibus aptam, &#160;&#160;&#160;&#160;&#160;&#160;Non te propter te quaerentes, sed lucra per te, &#160;&#160;&#160;&#160;&#160;&#160;Ditarique volunt potius, quam philosophari;
+        Omnes declinat ad ea lucra ministrant,       Utque sciant discunt pauci, plures ut abundent;       Sic te prostituunt, O virgo Scientia! sic te       Venalem faciunt castis amplexibus aptam,       Non te propter te quaerentes, sed lucra per te,       Ditarique volunt potius, quam philosophari;
  
 
  
@@ -679,7 +679,7 @@ et infra:
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sic Philosophia &#160;&#160;&#160;&#160;&#160;&#160;Exilium patitur, et Philopecunia regnat, 
+                sic Philosophia       Exilium patitur, et Philopecunia regnat, 
  
 
  
@@ -738,7 +738,7 @@ Quemadmodum namque in scriptoribus annalium considerare non est difficile quod s
  
 
  
-Quid fecisset Vergilius, Latinorum poeta praecipuus, si Theocritum, Lucretium et Homerum minime spoliasset et in eorum vitula non arasset? quid nisi Parthenium Pindarumque, cujus eloquentiam nullo modo potuit imitari, aliquatenus lectitasset? Quid Sallustius, Tullius, Boetius, Macrobius, Lactantius, Martianus, immo tota cohors generaliter Latinorum, si Athenarum studia vel Graecorum volumina non vidissent? &#160;&#160;Parum certe in scripturae gazophylacium Hieronymus, trium linguarum peritus, Ambrosius, Augustinus, qui tamen Graecas litteras se fatetur odisse, immo Gregorius, qui prorsus eas se nescisse describit, ad doctrinam ecclesiae contulissent, si nihil eisdem doctior Graecia commodasset. Cujus rivulis Roma rigata, sicut prius generavit philosophos ad Graecorum effigiem, pari forma postea protulit orthodoxae fidei tractatores. Sudores sunt Graecorum symbola quae cantamus, eorundem declarata consiliis et multorum martyrio confirmata. 
+Quid fecisset Vergilius, Latinorum poeta praecipuus, si Theocritum, Lucretium et Homerum minime spoliasset et in eorum vitula non arasset? quid nisi Parthenium Pindarumque, cujus eloquentiam nullo modo potuit imitari, aliquatenus lectitasset? Quid Sallustius, Tullius, Boetius, Macrobius, Lactantius, Martianus, immo tota cohors generaliter Latinorum, si Athenarum studia vel Graecorum volumina non vidissent?   Parum certe in scripturae gazophylacium Hieronymus, trium linguarum peritus, Ambrosius, Augustinus, qui tamen Graecas litteras se fatetur odisse, immo Gregorius, qui prorsus eas se nescisse describit, ad doctrinam ecclesiae contulissent, si nihil eisdem doctior Graecia commodasset. Cujus rivulis Roma rigata, sicut prius generavit philosophos ad Graecorum effigiem, pari forma postea protulit orthodoxae fidei tractatores. Sudores sunt Graecorum symbola quae cantamus, eorundem declarata consiliis et multorum martyrio confirmata. 
  
 
  
@@ -831,7 +831,7 @@ Idcirco prudentia veterum adinvenit remedium, quo lascivum humanum caperetur ing
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aut prodesse volunt aut delectare poctae. 
+        Aut prodesse volunt aut delectare poctae. 
  
 
  
@@ -839,7 +839,7 @@ Hoc idem in alio versu ejusdem libri patenter insinuat, ita scribens:
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Omne tulit punctum qui miscuit utile dulci. 
+        Omne tulit punctum qui miscuit utile dulci. 
  
 
  
@@ -917,7 +917,7 @@ Rursus mundanas pecunias parvipendunt ex animo, quotquot amor affecit librorum, 
  
 
  
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nulla libris erit apta manus ferrugine tincta, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nec nummata queunt corda vacare libris. &#160;&#160;&#160;&#160;&#160;&#160;Non est ejusdem nummos librosque probare; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Persequitur libros grex, Epicure, tuus. &#160;&#160;&#160;&#160;&#160;&#160;Nummipatae cum libricolis nequeunt simul esse; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ambos, crede mihi, non tenet una domus.
+        Nulla libris erit apta manus ferrugine tincta,         Nec nummata queunt corda vacare libris.       Non est ejusdem nummos librosque probare;         Persequitur libros grex, Epicure, tuus.       Nummipatae cum libricolis nequeunt simul esse;         Ambos, crede mihi, non tenet una domus.
  
 
  
@@ -1125,7 +1125,7 @@ DIFFICILE semper fuit sic homines limitare legibus honestatis, quin astutia succ
  
 
  
-In primis enim libros omnes et singulos, de quibus catalogum fecimus specialem, concedimus et donamus intuitu caritatis communitati scholarium in aula N Oxoniensi degentium, in perpetuam eleemosynam pro anima nostra et parentum nostrorum necnon pro animabus illustrissimi regis Angliae Edwardi tertii post conquestum ac devotissimae dominae reginae Philippae consortis ejusdem, ut iidem libri omnibus et singulis universitatis dictae villae scholaribus et magistris tam regularibus quam saecularibus commodentur pro tempore ad profectum et usum studendi, juxta modum quem immediate subjungimus, qui est talis. &#160;&#160;Quinque de scholaribus in aula preafata commorantibus assignentur per ejusdem aulae magistrum, quibus omnium librorum custodia deputetur, de quibus quinque personis tres et nullatenus pauciores librum vel libros ad inspectionem et usum dumtaxat studii valeant commodare; ad copiandum vero vel transcribendum nullum librum volumus extra saepta domus concedi. 
+In primis enim libros omnes et singulos, de quibus catalogum fecimus specialem, concedimus et donamus intuitu caritatis communitati scholarium in aula N Oxoniensi degentium, in perpetuam eleemosynam pro anima nostra et parentum nostrorum necnon pro animabus illustrissimi regis Angliae Edwardi tertii post conquestum ac devotissimae dominae reginae Philippae consortis ejusdem, ut iidem libri omnibus et singulis universitatis dictae villae scholaribus et magistris tam regularibus quam saecularibus commodentur pro tempore ad profectum et usum studendi, juxta modum quem immediate subjungimus, qui est talis.   Quinque de scholaribus in aula preafata commorantibus assignentur per ejusdem aulae magistrum, quibus omnium librorum custodia deputetur, de quibus quinque personis tres et nullatenus pauciores librum vel libros ad inspectionem et usum dumtaxat studii valeant commodare; ad copiandum vero vel transcribendum nullum librum volumus extra saepta domus concedi. 
  
 
  
