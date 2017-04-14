@@ -683,7 +683,7 @@ cornigeri Iouis et fulgentia templa subimus,
 exceptos hospes tectis inducit Arisbas. 
 stat fano uicina, nouum et memorabile, lympha, 
 quae nascente die, quae deficiente tepescit    670 
-quae&#60;que&#62; riget, medius cum sol accendit Olympum, 
+quae<que> riget, medius cum sol accendit Olympum, 
 atque eadem rursum nocturnis feruet in umbris. 
 tum loca plena deo, dites sine uomere glaebas 
 ostentat senior laetaque ita mente profatur: 
@@ -692,7 +692,7 @@ calcatosque Ioui lucos prece, Bostar, adora.
 nam cui dona Iouis non diuulgata per orbem, 
 in gremio Thebes geminas sedisse columbas? 
 quarum Chaonias pennis quae contigit oras 
-implet fatidico &#60;Do&#62;donida murmure quercum.    680 
+implet fatidico <Do>donida murmure quercum.    680 
 
 at quae Carpathium super aequor uecta per auras 
 in Libyen niueis tranauit concolor alis 
