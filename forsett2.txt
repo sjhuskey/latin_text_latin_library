@@ -374,7 +374,7 @@ PED. Ah! Iam mitesco rursus. Nos cholerici et cito succensemus, et cito placa-
 mur. O Phoenix unica orbis terrarum! Respice, non despice Pedantium, et vel uno 
 verbulo amabili laetitiam instilla febricitanti cordi meo. 
  
-LYD. Convalescas ut lubet: me multa manent domi negotia &#91; Exit. &#93;     810 
+LYD. Convalescas ut lubet: me multa manent domi negotia [ Exit. ]     810 
  
 PED. Evanuit vero? Quid putem? Contemptumne me? Non video vel in mori- 
 bus, vel in rebus gestis, vel in hac mediocritate ingenii quid despicere stulta pos- 
@@ -429,7 +429,7 @@ CRO. Incipe, ad appositum: ostium patet, invitat ultro te domus ipsa. Tu fac
 ut dominum hunc suum suppositium evomat illico. Ego te domi meae hospitis 
 expectabo.     850 
  
-TYR. Eo. &#91; Exit. &#93; 
+TYR. Eo. [ Exit. ] 
 CRO. Spero quidem iam id effecturum me, ut et iste sumptus nobis perpetuos 
 suggerat, et mihi deinceps faciliores sint ad Lydiam meam aditus, si istum istinc 
 abegero, qui iam nos, ut Argus, observat, inhians puellulae quasi praedae suae: 
