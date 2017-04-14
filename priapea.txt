@@ -938,9 +938,9 @@ Rusticus indocte si quid dixisse videbor,
 da veniam: libros non lego, poma lego. 
 sed rudis hic dominum totiens audire legentem 
 cogor Homereas edidicique notas. 
-ille vocat, quod nos psolen, &#968;&#959;&#955;&#972;&#949;&#957;&#964;&#945; &#954;&#949;&#961;&#945;&#965;&#957;&#972;&#957;, 
-et quod nos culum, &#954;&#959;&#965;&#955;&#949;&#972;&#957; ille vocat. 
-&#956;&#949;&#961;&#948;&#945;&#955;&#941;&#959;&#957; certe si res non munda vocatur, 
+ille vocat, quod nos psolen, ψολόεντα κεραυνόν,
+et quod nos culum, κουλεόν ille vocat.
+μερδαλέον certe si res non munda vocatur,
 et pediconum mentula merdalea est. 
 quod nisi Taenario placuisset Troica cunno 
 mentula, quod caneret, non habuisset opus. 
