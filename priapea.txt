@@ -434,7 +434,7 @@ collatas sibi quae suisque membris
 formicas facit altiles videri; 
 quoius viscera non aperta Tuscus 
 per pellem poterit videre aruspex; 
-quae suco caret usque putris &#x2020; pumex, 
+quae suco caret usque putris † pumex, 
 nemo viderit hanc ut expuentem; 
 quam pro sanguine pulverem scobemque 
 in venis medici putant habere ó 
@@ -490,7 +490,7 @@ Notas habemus quisque corporis formas:
 Phoebus comosus, Hercules lacertosus, 
 trahit figuram virginis tener Bacchus, 
 Minerva flava, lumine &lt;est&gt; Venus paeto, 
-fronte &#x2020; crinitos Arcadas vides Faunos, 
+fronte † crinitos Arcadas vides Faunos, 
 habet decentes nuntius deum plantas, 
 tutela Lemni dispares movet gressus, 
 intonsa semper Aesculapio barba est, 
@@ -574,7 +574,7 @@ ficosissimus ambulet poetas.
 
  
 Laetus Aristagoras natis bene vilicus uvis 
-de cera &#x2020; facta dat tibi poma, deus. 
+de cera † facta dat tibi poma, deus. 
 at tu sacrati contentus imagine pomi 
 fac veros fructus ille, Priape, ferat. 
  
@@ -698,7 +698,7 @@ pirumve, tanto quod periculo captes,
 magisve cera luteum nova prunum 
 sorbumve ventres lubricos moraturum. 
 praesigne rami nec mei ferunt morum 
-nucemve longam, quae vocatur &#x2020; alva 
+nucemve longam, quae vocatur † alva 
 amygdalumve flore purpurae fulgens. 
 non brassicarum ferre glorior caules 
 betasve, quantas hortus educet nullus, 
@@ -805,7 +805,7 @@ Si nummos tamen haec habet, puella est.
 
  
 Quicunque nostram fur fefellerit curam, 
-effeminato &#x2020; imminet procul &#x2020; dubio; 
+effeminato † imminet procul † dubio; 
 quaeque hic proterva carpserit manu poma 
 puella, nullum reperiat fututorem. 
  
@@ -865,7 +865,7 @@ cum sibi dilecta Sirius Erigone.
  
 
  
-Parum est mihi quod hic fixi &#x2020; sedem, 
+Parum est mihi quod hic fixi † sedem, 
 agente terra per caniculam rimas 
 siticulosam sustinemus aestatem; 
 parum, quod hiemis perfluont sinus imbres 
@@ -873,7 +873,7 @@ et in capillos grandines cadunt nostros
 rigetque dura barba vincta crystallo; 
 parum, quod acta sub laboribus luce 
 parem diebus pervigil traho noctem. 
-huc adde, quod me terribilem &#x2020; fuste 
+huc adde, quod me terribilem † fuste 
 manus sine arte rusticae dolaverunt, 
 interque cunctos ultimum deos numen 
 cucurbitarum ligneus vocor custos. 
@@ -883,7 +883,7 @@ ad hanc puella ó paene nomen adieci ó
 solet venire cum suo fututore, 
 quae tot figuras, quas Philaenis enarrat, 
 * * * 
-non &#x2020; inventis pruriosa discedat. 
+non † inventis pruriosa discedat. 
  
 
  
@@ -903,7 +903,7 @@ furetur licet usque, non videbo.
  
 Hic tibi qui rostro crescentia lilia morsit, 
 caeditur e tepida victima porcus hara. 
-ne tamen extraneum &#x2020; facias pecus omne, Priape, 
+ne tamen extraneum † facias pecus omne, Priape, 
 horti sit, facias, ianua clausa tui. 
  
 
@@ -1084,7 +1084,7 @@ Tithonum Priamumque Nestoremque.
  
 
  
-Immanem stomachum mihi &#x2020; videtis 
+Immanem stomachum mihi † videtis 
 qui densam facitis subinde saepem 
 et fures prohibetis huc adire. 
 hoc est laedere, dum iuvatis; hoc est 
@@ -1135,7 +1135,7 @@ non es poeta fascinosior nostro.
 At non longa bene est, at non bene mentula crassa 
 et quam si tractes, crescere posse putes? 
 me miserum, cupidas fallit mensura puellas: 
-non habet haec aliud mentula &#x2020; maius eo. 
+non habet haec aliud mentula † maius eo. 
 utilior Tydeus, qui, si quid credis Homero, 
 ingenio pugnax, corpore parvos erat. 
 sed potuit damno nobis novitasque pudorque 
@@ -1194,7 +1194,7 @@ lutosus affricabit oblitum latus.
 at, o sceleste penis, o meum malum, 
 gravi piaque lege noxiam lues. 
 licet querare: nec tibi tener puer 
-patebit ullus, &#x2020; imminente qui toro 
+patebit ullus, † imminente qui toro 
 iuvante verset arte mobilem natem, 
 puella nec iocosa te levi manu 
 fovebit apprimetve lucidum femur. 
