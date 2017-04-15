@@ -1,7 +1,7 @@
 Newton: Regulae Philosophandi from the Principia 
  
  
- PHILOSOPHI&AElig; NATURALIS PRINCIPIA MATHEMATICA 
+ PHILOSOPHIAe NATURALIS PRINCIPIA MATHEMATICA 
  
 AUCTORE ISAACO NEWTONO, EQ. AUR.
  
@@ -18,7 +18,7 @@ MDCCXXVI
  
  
  
- REGUL&AElig; PHILOSOPHANDI 
+ REGULAe PHILOSOPHANDI 
  
  Regula I 
 Causas rerum naturalium non plures admitti debere, quam qu&aelig; & ver&aelig; sint & earum ph&aelig;nomenis explicandis sufficiant. 

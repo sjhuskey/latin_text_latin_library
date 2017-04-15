@@ -441,12 +441,12 @@ qua tenus est unum inter se coniunctaque res est.
  Principio quoniam tenuem constare minutis 
 corporibus docui multoque minoribus esse 
 principiis factam quam liquidus umor aquai 
-aut nebula aut fumus;&AElig;nam longe mobilitate 
+aut nebula aut fumus;Aenam longe mobilitate 
 praestat et a tenui causa magis icta movetur, 
 quippe ubi imaginibus fumi nebulaeque movetur; 
 quod genus in somnis sopiti ubi cernimus alte 
 exhalare vaporem altaria ferreque fumum; 
-nam procul haec dubio nobis simulacra geruntur&AElig; 
+nam procul haec dubio nobis simulacra gerunturAe 
 nunc igitur quoniam quassatis undique vasis 
 diffluere umorem et laticem discedere cernis, 
 et nebula ac fumus quoniam discedit in auras, 
@@ -705,10 +705,10 @@ expertis animas nec leti lege solutas;
 nam neque tanto opere adnecti potuisse putandumst 
 corporibus nostris extrinsecus insinuatas, 
 quod fieri totum contra manifesta docet res 
-&AElig;namque ita conexa est per venas viscera nervos 
+Aenamque ita conexa est per venas viscera nervos 
 ossaque, uti dentes quoque sensu participentur; 
 morbus ut indicat et gelidai stringor aquai 
-et lapis oppressus subitis e frugibus asper&AElig; 
+et lapis oppressus subitis e frugibus asperAe 
 nec, tam contextae cum sint, exire videntur 
 incolumes posse et salvas exsolvere sese 
 omnibus e nervis atque ossibus articulisque, 
