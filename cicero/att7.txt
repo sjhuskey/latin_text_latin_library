@@ -43,7 +43,7 @@ Cicero: ad Atticum VII
  
 
  
-[6] quam non est facilis virtus: quam vero difficilis eius diuturna simulatio! Cum enim hoc rectum et gloriosum putarem, ex annuo sumptu qui mihi decretus esset me C. Coelio quaestori relinquere annuum, referre in aerarium ad HS +cI[c]+, ingemuit nostra cohors omne illud putans distribui sibi oportere, ut ego amicior invenirer Phrygum et Cilicum aerariis quam nostro. sed me non moverunt; nam et mea laus apud me plurimum valuit nec tamen quicquam honorifice in quemquam fieri potuit quod praetermiserim. sed haec fuerit ut ait Thucydides, ekbole logou non inutilis.
+[6] quam non est facilis virtus: quam vero difficilis eius diuturna simulatio! Cum enim hoc rectum et gloriosum putarem, ex annuo sumptu qui mihi decretus esset me C. Coelio quaestori relinquere annuum, referre in aerarium ad HS +cIↄ+, ingemuit nostra cohors omne illud putans distribui sibi oportere, ut ego amicior invenirer Phrygum et Cilicum aerariis quam nostro. sed me non moverunt; nam et mea laus apud me plurimum valuit nec tamen quicquam honorifice in quemquam fieri potuit quod praetermiserim. sed haec fuerit ut ait Thucydides, ekbole logou non inutilis.
  
 
  
@@ -361,7 +361,7 @@ quaeso, quid est hoc? aut quid agitur? mihi enim tenebrae sunt. 'Cingulum' inqui
  
 
  
- A. d. vi Kal. Febr. Capuam Calibus proficiscens, cum leviter lippirem, has litteras dedi. L. Caesar mandata Caesaris detulit ad Pompeium a. d. viii Kal., cum is esset cum consulibus Teani. probata condicio est, sed ita ut ille de iis oppidis quae extra suam provinciam occupavisset praesidia deduceret. id si fecisset, responsum est ad urbem nos redituros esse et rem per senatum confecturos. spero posse in praesentia pacem nos habere; nam et illum furoris et hunc nostrum copiarum suppaenitet. me Pompeius Capuam venire voluit et adiuvare dilectum; in quo parum prolixe respectent Campani coloni. gladiatores Caesaris qui Capuae sunt, de quibus ante ad te falsum ex A. Torquati litteris scripseram, sane commode Pompeius distribuit binos singulis patribus familiarum. scutorum in ludo I[c][c] fuerunt. eruptionem facturi fuisse dicebantur. sane multum in eo rei publicae provisum est.
+ A. d. vi Kal. Febr. Capuam Calibus proficiscens, cum leviter lippirem, has litteras dedi. L. Caesar mandata Caesaris detulit ad Pompeium a. d. viii Kal., cum is esset cum consulibus Teani. probata condicio est, sed ita ut ille de iis oppidis quae extra suam provinciam occupavisset praesidia deduceret. id si fecisset, responsum est ad urbem nos redituros esse et rem per senatum confecturos. spero posse in praesentia pacem nos habere; nam et illum furoris et hunc nostrum copiarum suppaenitet. me Pompeius Capuam venire voluit et adiuvare dilectum; in quo parum prolixe respectent Campani coloni. gladiatores Caesaris qui Capuae sunt, de quibus ante ad te falsum ex A. Torquati litteris scripseram, sane commode Pompeius distribuit binos singulis patribus familiarum. scutorum in ludo IↃↃ fuerunt. eruptionem facturi fuisse dicebantur. sane multum in eo rei publicae provisum est.
  
 
  

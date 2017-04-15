@@ -56,7 +56,7 @@ grammaticum in patria Graecum Nehonem, rhetorem Serapionem, filosophum
 Stilionem, Romae grammaticos Scaurinum Scaurini filium, doctorem
 celeberrimum, rhetores Iulium Frontinum et Baebium Macrianum et Iulium
 Granianum, cuuis hodieque declamatae feruntur. 4 Sed in Latinis non
-multum profecit, ut ex eiusdem orationibus apparet, quas &;tin&gt; senatu
+multum profecit, ut ex eiusdem orationibus apparet, quas <in> senatu
 habuit, vel contionibus, quas apud milites vel apud populum. Nec valde
 amavit Latinam facundiam, sed amavit litteratos homines vehementer, eos
 etiam reformidans, ne quid de se asperum scriberent. 5 Denique eos,
