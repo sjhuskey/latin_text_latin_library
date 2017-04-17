@@ -887,7 +887,7 @@ tuom.
  PHAN. At me huius miseret. LAMP. Sic faciundum censeo:
  da isti cistellam et intro abi cum istac semul.  770 
  PHAN. Tibi auscultabo. tene tu cistellam tibi,
- abeamus intro. sed quid &lt;est&GT; nomen tuae
+ abeamus intro. sed quid &lt;est> nomen tuae
  dominae? HAL. Melaenis. PHAN. I prae, iam ego te sequar.
  
 

@@ -63,7 +63,7 @@ Decepta Grecia credulitate demonum potius quam deorum numquam deterius suis diis
  
 [ho gar makarios, kouk oneidizo tuchas,
 Dios pephukos hos legousi Tantalos
-Koruphes hu&LT;per&gt; ...],
+Koruphes hu<per> ...],
  
 
  

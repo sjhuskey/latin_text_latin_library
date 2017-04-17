@@ -255,7 +255,7 @@ ferentes celsiorem petant partem et in editiora caeli aquilone pellantur.
  
 
  
-[7,3] &LT;at&GT; si illos aquilo propelleret, ad meridiem semper 
+[7,3] <at> si illos aquilo propelleret, ad meridiem semper 
 agerentur, quo uentus hic nititur: atqui uarie cucurrerunt, alii in 
 ortum, alii in occasum, omnes in flexum; quod iter non daret 
 uentus. Deinde si aquilonis illos impetus a terris in altum leuaret, 
@@ -613,8 +613,8 @@ Ueneris Genetricis circa undecimam horam diei emersit.
 dispares magnitudine, dissimiles colore: 
 aliis rubor est sine ulla luce, aliis candor et purum liquidumque 
 lumen, aliis flamma et haec non sincera nec tenuis sed multum 
-circa se uoluens fumidi ardoris; cruenti quidam minaces&LT;que&GT;, 
-qui&LT;a&GT; omen post se futuri sanguinis ferunt. Hi minuunt 
+circa se uoluens fumidi ardoris; cruenti quidam minaces<que>, 
+qui<a> omen post se futuri sanguinis ferunt. Hi minuunt 
 augentque lumen suum quemadmodum alia sidera, quae clariora 
 cum descendere sunt maioraque, quia ex loco propiore uisuntur, 
 minora cum redeunt et obscuriora, quia abducunt se longius.
