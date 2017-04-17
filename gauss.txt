@@ -185,17 +185,17 @@ paruum realem positiuum nancisci possit tribuendo ipsi x
 valorem realem: hanc functionem etiam valorem infinite paruum
 realem negatiuum obtinere posse per valorem ipsius x vel realem
 vel sub forma imaginaria p+q&radic;-1 contentum. Scilicet designante
- &Omega; valorem infinite paruum ipsius X , et &omega; valorem respondentem
+ Ω valorem infinite paruum ipsius X , et &omega; valorem respondentem
 ipsius x , asserit &omega; per seriem valde conuergentem
- a&Omega; &alpha; +b&Omega; &beta; +c&Omega; &gamma; etc. exprimi posse, vbi exponentes &alpha;, &beta;, &gamma; 
+ aΩ &alpha; +bΩ &beta; +cΩ &gamma; etc. exprimi posse, vbi exponentes &alpha;, &beta;, &gamma; 
 etc. sint quantitates rationales continuo crescentes, et quae adeo
 ad minimum in distantia certa ab initio positiuae euadant, terminosque,
 in quibus adsint, infinite paruos reddant. Iam si inter
 omnes hos exponentes nullus occurat, qui sit fractio denominatoris
 paris, omnes terminos seriei reales fieri tum pro positiuo
-tum pro negatiuo valore ipsius &Omega; ; si vero quaedam fractiones denominatoris
+tum pro negatiuo valore ipsius Ω ; si vero quaedam fractiones denominatoris
 paris inter illos exponentes repariantur, constare,
-pro valore negatiuo ipsius &Omega; terminos respondentes in forma
+pro valore negatiuo ipsius Ω terminos respondentes in forma
  p+q&radic;-1 contentos esse. Sed propter infinitam seriei conuergentiam
 in casu priori sufficere, si terminus primus (i. e. maximus)
 solus retineatur, in posteriori vltra eum terminum, qui
@@ -303,15 +303,15 @@ Newtonianum commendat.
 3. Quantitatibus infinite paruis liberius vtitur, quam cum
 geometrico rigore consistere potest aut saltem nostra aetate (vbi
 illae merito male audiunt) ab analysta scrupuloso concederetur,
-neque etiam saltum a valore infinite paruo ipsius &Omega; ad finitum satis
-luculenter explicauit. Propositionem suam, &Omega; etiam valorem
+neque etiam saltum a valore infinite paruo ipsius Ω ad finitum satis
+luculenter explicauit. Propositionem suam, Ω etiam valorem
 aliquem finitum consequi posse, non tam ex possibilitate valoris
-infinite parui ipsius &Omega; , concludere videtur quam inde potius, quod
-denotante &Omega; quantitatem valde paruam, propter magnam seriei
+infinite parui ipsius Ω , concludere videtur quam inde potius, quod
+denotante Ω quantitatem valde paruam, propter magnam seriei
 conuergentiam, quo plures termini seriei accipiantur, eo propius
 ad valorem verum ipsius &omega; accedatur, aut, quo plurium partium
 summa pro &omega; accipiatur, eo exactius aequtioni, quae relationem
-inter &omega; et &Omega; siue x et X exhibeat, satisfactum iri. Praeterea
+inter &omega; et Ω siue x et X exhibeat, satisfactum iri. Praeterea
 quod tota haec argumentatio nimis vaga videtur, quam vt ulla
 conclusio rigorosa inde colligi possit: obseruo, vtique dari series,
 quae quantumuis paruus valor quantitati, secundum cuius potestates
@@ -338,13 +338,13 @@ sit, ad quem accedere quidem quam prope velis possit X , ipsum
 vero nihilominus numquam attingere. Ex argumentis ab ill. d'A.
 allatis tantummodo sequitur, X omnem valorem, quem attigerit,
 adhuc quantitate finita superare posse, puta quando enaserit =S ,
-adhuc quantitate aliqua finita &Omega; augeri posse; quo facto, nouum
-incrementum &Omega;&prime; accedere, tunc iterum augmentum &Omega;&prime;&prime; etc., ita
+adhuc quantitate aliqua finita Ω augeri posse; quo facto, nouum
+incrementum Ω&prime; accedere, tunc iterum augmentum Ω&prime;&prime; etc., ita
 vt quotcunque incrementa iam adiecta sint, nullum pro vltimo haberi
 debeat, sed semper aliquod nouum accedere possit. At
 quamuis multitudo incrementorum possibilium nullis limitibus sit
-circumscripta: tamen vtique fieri posset, vt si incrementa &Omega;, &Omega;&prime;, &Omega;&prime;&prime; 
-etc. continuo decrescerent, nihilominus summa S+&Omega;+&Omega;&prime;+&Omega;&prime;&prime; 
+circumscripta: tamen vtique fieri posset, vt si incrementa Ω, Ω&prime;, Ω&prime;&prime; 
+etc. continuo decrescerent, nihilominus summa S+Ω+Ω&prime;+Ω&prime;&prime; 
 etc. limitem aliquem numquam attingeret, quotcunque termini
 considerentur.
  
