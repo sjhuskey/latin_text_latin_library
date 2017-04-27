@@ -175,7 +175,7 @@ mauis, in m factores simplices.
 Prima theorematis demonstratio illustri geometrae d'Alembert
 debetur, Recherches sur le calcul int&eacute;gral, Histoire de l'Acad. de
 Berlin, Ann&eacute;e 1746, p. 182. sqq. Eadem extat in Bongainville,
-Trait&eacute; du calcul int&eacute;gral, &agrave; Paris 1754. p. 47. sqq. Methodi
+Trait&eacute; du calcul int&eacute;gral, à Paris 1754. p. 47. sqq. Methodi
 huius praecipua momenta haec sunt.
 
  
@@ -574,7 +574,7 @@ quantit&eacute; pqr &eacute;toit une quantit&eacute; r&eacute;elle, et que son q
 &eacute;toit affirmatif; ce qui &eacute;toit encor douteux, vu que les racines
  a, b, c, d &eacute;tant imaginaire, il pourroit bien arriver, que le quarr&eacute;
 de la quantit&eacute; pqr , qui en es compos&eacute;e, fut negatif. Or je
-reponds &agrave; cela que ce cas ne sauroit jamais avoir lieu; car
+reponds à cela que ce cas ne sauroit jamais avoir lieu; car
 quelque imaginaires que soient les racines a,b,c,d, on sait pourtant,
 qu'il doit y avoir a+b+c+d=0 ; ab+ac+ad+bc 
  +bb+cd=B ; abc+abd+acd+bcd=-C *5) ;

@@ -7,7 +7,7 @@ Descartes: Meditatio II
 	
  
 
- De natura mentis humanae: quod ipsa sit notior qu&agrave;m corpus
+ De natura mentis humanae: quod ipsa sit notior quàm corpus
  
 
  
@@ -19,7 +19,7 @@ ratione solvendae sint; sed, tanquam in profundum gurgitem ex improviso
 delapsus, ita turbatus sum, ut nec possim in imo pedem figere, nec enatare
 ad summum. Enitar tamen &amp; tentabo rursus eandem viam quam heri fueram
 ingressus, removendo scilicet illud omne quod vel minimum dubitationis admittit,
-nihilo secius qu&agrave;m si omnino falsum esse comperissem; pergamque porro
+nihilo secius quàm si omnino falsum esse comperissem; pergamque porro
 donec aliquid certi, vel, si nihil aliud, saltem hoc ipsum pro certo, nihil
 esse certi, cognoscam. Nihil nisi punctum petebat Archimedes, quod esset
 firmum &amp; immobile, ut integram terram loco dimoveret; magna quoque speranda
@@ -94,7 +94,7 @@ quinimo mirabar potius tales facultates in quibusdam corporibus reperiri.
 &amp;, si fas est dicere, malignum, datâ operâ in omnibus, quantum
 potuit, me delusisse? Possumne affirmare me habere vel minimum quid ex iis
 omnibus, quae jam dixi ad naturam corporis perti[27]nere? Attendo, cogito,
-revolvo, nihil occurrit; fatigor eadem frustr&agrave; repetere. Quid ver&ograve;
+revolvo, nihil occurrit; fatigor eadem frustrà repetere. Quid ver&ograve;
 ex iis quae animae tribuebam? Nutriri vel incedere? Quandoquidem jam corpus
 non habeo, haec quoque nihil sunt nisi figmenta. Sentire? Nempe etiam hoc
 non fit sine corpore, &amp; permulta sentire visus sum in somnis quae deinde
@@ -120,17 +120,17 @@ quae mihi nota sunt, judicium ferre possum. Novi me existere; quaero quis
 sim ego ille quem novi. Certissimum est hujus sic praecise sumpti notitiam
 non pendere ab iis quae exi[28]stere nondum novi; non igitur ab iis ullis,
 quae ima[gi]natione effingo. Atque hoc verbum, effingo, admonet me erroris
-mei: nam fingerem rever&agrave;, si quid me esse imaginarer, quia nihil
-aliud est imaginari qu&agrave;m rei corporeae figuram, seu imaginem, contemplari.
+mei: nam fingerem reverà, si quid me esse imaginarer, quia nihil
+aliud est imaginari quàm rei corporeae figuram, seu imaginem, contemplari.
 Jam autem cert&ograve; scio me esse, simulque fieri posse ut omnes istae
 imagines, &amp; generaliter quaecunque ad corporis naturam referuntur, nihil
 sint praeter insomnia. Quibus animadversis, non minus ineptire videor, dicendo:
-imaginabor, ut distinctius agnoscam quisnam sim, qu&agrave;m si dicerem:
+imaginabor, ut distinctius agnoscam quisnam sim, quàm si dicerem:
 jam quidem sum experrectus, videoque nonnihil veri, sed quia nondum video
 satis evidenter, datâ operâ obdormiam, ut hoc ipsum mihi somnia
 verius evidentiusque repraesentent. Itaque cognosco nihil eorum quae possum
 imaginationis ope comprehendere, ad hanc quam de me habeo notitiam pertinere,
-mentemque ab illis diligentissime esse avocandam, ut suam ipsa naturam qu&agrave;m
+mentemque ab illis diligentissime esse avocandam, ut suam ipsa naturam quàm
 distinctissime percipiat. 
  
 
@@ -158,17 +158,17 @@ qui res corporeas tanquam per sensus animadverto: videlicet jam lucem video,
 strepitum audio, calorem sentio. Falsa haec sunt, dormio enim. At certe
 videre videor, audire, calescere. Hoc falsum esse non potest; hoc est proprie
 quod in me sentire appellatur; atque hoc praecise sic sumptum nihil aliud
-est qu&agrave;m cogitare. 
+est quàm cogitare. 
  
 
  
  10. Ex quibus equidem aliquanto melius incipio nosse quisnam sim;
 sed adhuc tamen videtur, nec possum abstinere quin putem, res corporeas,
 quarum imagines cogitatione formantur, &amp; quas ipsi sensus explorant,
-multo distinctius agnosci qu&agrave;m istud nescio quid me&icirc;, quod
+multo distinctius agnosci quàm istud nescio quid me&icirc;, quod
 sub imaginationem non venit: quanquam profecto sit mirum, res quas animadverto
-esse dubias, ignotas, a me alienas, distinctius qu&agrave;m quod verum est,
-quod cognitum, qu&agrave;m denique me ipsum, a me comprehendi. Sed video
+esse dubias, ignotas, a me alienas, distinctius quàm quod verum est,
+quod cognitum, quàm denique me ipsum, a me comprehendi. Sed video
 quid sit: gaudet aberrare mens mea, necdum se patitur intra veritatis limites
 cohiberi. Esto igitur, &amp; adhuc semel laxissimas habe [30] nas ei permittamus,
 ut, illis paulo post opportune reductis, facilius se regi patiatur. 
@@ -184,7 +184,7 @@ ceram: nuperrime ex favis fuit educta; nondum amisit omnem saporem sui mellis;
 nonnihil retinet odoris florum ex quibus collecta est; ejus color, figura,
 magnitudo, manifesta sunt; dura est, frigida est, facile tangitur, ac, si
 articulo ferias, emittet sonum; omnia denique illi adsunt quae requiri videntur,
-ut corpus aliquod possit qu&agrave;m distinctissime cognosci. Sed ecce,
+ut corpus aliquod possit quàm distinctissime cognosci. Sed ecce,
 dum loquor, igni admovetur: saporis reliquiae purgantur, odor expirat, color
 mutatur, figura tollitur, crescit magnitudo, fit liquida, fit calida, vix
 tangi potest, nec jam, si pulses, emittet sonum. Remanetne adhuc eadem cera?
@@ -201,7 +201,7 @@ quidem fuisse istam dulcedinem mellis, nec florum fragrantiam, nec istam
 albedinem, nec figuram, nec sonum, sed corpus quod mihi apparebat paulo
 ante modis istis conspicuum, nunc diversis. Quid est autem hoc praecise
 quod sic imaginor? Attenda [31] mus, &amp;, remotis iis quae ad ceram non
-pertinent, videamus quid supersit: nempe nihil aliud qu&agrave;m extensum
+pertinent, videamus quid supersit: nempe nihil aliud quàm extensum
 quid, flexibile, mutabile. Quid ver&ograve; est hoc flexibile, mutabile?
 An quod imaginor, hanc ceram ex figurâ rotundâ in quadratam,
 vel ex hac in triangularem verti posse? Nullo modo; nam innumerabilium ejusmodi
@@ -210,7 +210,7 @@ imaginando percurrere; nec igitur comprehensio hacc ab imaginandi facultate
 perficitur. Quid extensum? Nunquid etiam ipsa ejus extensio est ignota?
 Nam in cerâ liquescente fit major, major in ferventi, majorque rursus,
 si calor augeatur; nec recte judicarem quid sit cera, nisi putarem hanc
-etiam plures secund&ugrave;m extensionem varietates admittere, qu&agrave;m
+etiam plures secund&ugrave;m extensionem varietates admittere, quàm
 fuerim unquam imaginando complexus. Superest igitur ut concedam, me nequidem
 imaginari quid sit haec cera, sed solâ mente percipere; dico hanc
 in particulari, de cerâ enim in communi clarius est. Quaenam ver&ograve;
@@ -224,14 +224,14 @@ attendo.
  
 
  
- 13. Miror ver&ograve; interim qu&agrave;m prona sit mea mens in
+ 13. Miror ver&ograve; interim quàm prona sit mea mens in
 errores; nam quamvis haec apud me tacitus &amp; sine [32] voce considerem,
 haereo tamen in verbis ipsis, &amp; fere decipior ab ipso usu loquendi.
 Dicimus enim nos videre ceram ipsammet, si adsit, non ex colore vel figurâ
 eam adesse judicare. Unde concluderem statim: ceram ergo visione oculi,
 non solius mentis inspectione, cognosci; nisi jam forte respexissem ex fenestrâ
 homines in plateâ transeuntes, quos etiam ipsos non minus usitate
-qu&agrave;m ceram dico me videre. Quid autem video praeter pileos &amp;
+quàm ceram dico me videre. Quid autem video praeter pileos &amp;
 vestes, sub quibus latere possent automata? Sed judico homines esse. Atque
 ita id quod putabam me videre oculis, solâ judicandi facultate, quae
 in mente meâ est, comprehendo. 

@@ -39,7 +39,7 @@ Quam scripsit annum agens XIIII
 7. Puluerea facie atque oculis flammantibus horrens: 
 8. Treis secum famulos immania corpora habebat, 
 9. Nudos membra, atque unoculos , uulgoque Cyclopas 
-10. Recte appellatos, Steropes &agrave; fulgure, Brontes 
+10. Recte appellatos, Steropes à fulgure, Brontes 
 11. A tonitru, nomen sortitur ab igne Pyragmon: 
 12. His comitatus erat, cum me somno usque grauatum 
 13. Talibus increpuit: Puer (inquit) inique, patrisque; 
@@ -107,7 +107,7 @@ Quam scripsit annum agens XIIII
 75. Nempe deus, puero uires mentemque ministra. 
 76. VANDOPERAE locus est cuius Ferraria nomen, 
 77. Incumbens Barsae fluuio, septusque uiretis, 
-78. Haud procul &agrave; turri, quam quondam Vandala pubes 
+78. Haud procul à turri, quam quondam Vandala pubes 
 79. Struxit, ut historiae et ueterum monimenta loquuntur: 
 80. Hinc et Vandoperae facta adpellatio terrae: 
 81. Hic nostra est (inquam) Ferraria: praesidet illi 
@@ -168,7 +168,7 @@ Quam scripsit annum agens XIIII
 136. Vna, pulmentumque coquens, renouansque cubile, 
 137. Euerrensque casam, hanc humilem sibi strauerat ante: 
 138. Hanc habitat laetus, laeta cum coniuge, ibique 
-139. Coenitat, &agrave; coena fabellas audit, et utrem 
+139. Coenitat, à coena fabellas audit, et utrem 
 140. Inflat, praerudibusque modos integrat agresteis 
 141. Articulis: stupefactarum tum densa ferarum 
 142. Agmina conueniunt, hominemque audire canentem 
@@ -259,7 +259,7 @@ Quam scripsit annum agens XIIII
 227. Fornacem, structa est saxis uulgaribus, intus 
 228. Sunt silices duri, quibus est mirabile robur 
 229. Visque resistendi flabris ignique uoraci: 
-230. Hic gemini folles &agrave; tergo immania spirant 
+230. Hic gemini folles à tergo immania spirant 
 231. Terga boum, uibrante rota, quam uersat aquarum 
 232. Impetus adsidue, motantur, flantque uicissim, 
 233. Et flant, et reflant, alternis motibus aequi. 
@@ -277,7 +277,7 @@ Quam scripsit annum agens XIIII
 245. Hic riuis fluitat ferrum, saeuoque boatu 
 246. Stricturas uomit, et piceo cum turbine flammas, 
 247. Ingenteisque globos, quos lambere sydera credas: 
-248. Haud aliter qu&agrave;m sulphureis ardoribus Aetna 
+248. Haud aliter quàm sulphureis ardoribus Aetna 
 249. Cum fessum latus incassum sub pondere tanto 
 250. Nititur Enceladus motare, atque impos anhelat, 
 251. Fit tonitru, exuperant flammae, circunfremit aequor. 
@@ -314,10 +314,10 @@ Quam scripsit annum agens XIIII
 282. In tenues longasque trabes, ceram esse putares. 
 283. Egregie uero contusum et rite politum 
 284. Officium patris est aequa perpendere lance 
-285. Exacta hebdomade. Adcurrunt lignator et un&agrave; 
+285. Exacta hebdomade. Adcurrunt lignator et unà 
 286. Carbonarius, et fossor, fusorque fabrique: 
 287. Conueniunt hilares omnes, ut certa laborum 
-288. Praemia percipiant, contenti &agrave; patre recedunt. 
+288. Praemia percipiant, contenti à patre recedunt. 
 289. Is ne quem imprudens fraudet mercedis honore, 
 290. Scripta habet in libro rationum cuncta suorum 
 291. Nomina, se falli non uult, nec fallere quenquam: 
@@ -378,7 +378,7 @@ Quam scripsit annum agens XIIII
 346. (Qui natum in terras coelo demisit ab alto, 
 347. ut nos mortifera primorum labe parentum 
 348. Ablueret foedos. Et libertate bearet: 
-349. Vtque suo nostras animas &agrave; faucibus Orci 
+349. Vtque suo nostras animas à faucibus Orci 
 350. Sanguine seruaret moriens, coeloque locaret, 
 351. Et faceret reges, fidei per nobile donum.) 
 352. Vos (inquam) o pueri ueniam date, parcite uestro 

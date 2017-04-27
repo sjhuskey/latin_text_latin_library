@@ -21,7 +21,7 @@ sum capax; nihilque unquam ab illo fieri non posse judicavi, nisi propter
 hoc qu&ograve;d illud a me distincte percipi repugnaret. Praeterea ex imaginandi
 facultate, quâ me uti experior, dum circa res istas materiales versor,
 sequi videtur illas existere; nam attentius consideranti quidnam sit imaginatio,
-[72] nihil aliud esse apparet qu&agrave;m quaedam applicatio facultatis
+[72] nihil aliud esse apparet quàm quaedam applicatio facultatis
 cognoscitivae ad corpus ipsi intime praesens, ac proinde existens. 
 
  
@@ -115,18 +115,18 @@ illas absque ullo meo consensu mihi advenire, adeo ut neque possem objectum
 ullum sentire, quamvis vellem, nisi illud sens&ucirc;s organo esset praesens,
 nec possem non sentire c&ugrave;m erat praesens. C&ugrave;mque ideae sensu
 perceptae essent multo magis vividae &amp; expressae, &amp; suo etiam modo
-magis distinctae, qu&agrave;m ullae ex iis quas ipse prudens &amp; sciens
+magis distinctae, quàm ullae ex iis quas ipse prudens &amp; sciens
 meditando effingebam, vel memoriae meae impressas advertebam, fieri non
 posse videbatur ut a meipso procederent; ideoque supererat ut ab aliis quibusdam
 rebus advenirent. Quarum rerum c&ugrave;m nullam aliunde notitiam haberem
-qu&agrave;m ex istis ipsis ideis, non poterat aliud mihi venire in mentem
-qu&agrave;m illas iis similes esse. Atque etiam quia recordabar me prius
-usum fuisse sensibus qu&agrave;m ratione, videbamque ideas quas ipse effingebam
-non tam expressas esse, qu&agrave;m illae erant quas sensu percipiebam,
+quàm ex istis ipsis ideis, non poterat aliud mihi venire in mentem
+quàm illas iis similes esse. Atque etiam quia recordabar me prius
+usum fuisse sensibus quàm ratione, videbamque ideas quas ipse effingebam
+non tam expressas esse, quàm illae erant quas sensu percipiebam,
 &amp; plerumque ex earum partibus componi, facile mihi persuadebam nullam
 plane me habere in intellectu, quam non prius habuissem in sensu. Non etiam
 sine ratione corpus illud, quod speciali quodam jure meum ap[76]pellabam,
-magis ad me pertinere qu&agrave;m alia ulla arbitrabar: neque enim ab illo
+magis ad me pertinere quàm alia ulla arbitrabar: neque enim ab illo
 poteram unquam sejungi, ut a reliquis; omnes appetitus &amp; affectus in
 illo &amp; pro illo sentiebam; ac denique dolorem &amp; titillationem voluptatis
 in ejus partibus, non autem in aliis extra illud positis, advertebam. Cur
@@ -139,7 +139,7 @@ est affinitas (saltem quam ego intelligam) inter istam vellicationem &amp;
 cibi sumendi voluntatem, sive inter sensum rei dolorem inferentis, &amp;
 cogitationem tristitiae ab isto sensu exortae. Sed &amp; reliqua omnia,
 quae de sensuum objectis judicabam, videbar a naturâ didicisse: pri&ugrave;s
-enim illa ita se habere mihi persuaseram, qu&agrave;m rationes ullas quibus
+enim illa ita se habere mihi persuaseram, quàm rationes ullas quibus
 hoc ipsum probaretur expendissem. 
  
 
@@ -210,7 +210,7 @@ sine me, hoc est sine substantiâ intelligente cui insint: intellectionem
 enim nonnullam in suo formali conceptu includunt, unde percipio illas a
 me, ut modos a re, distingui. Agnosco etiam quasdam alias facultates, ut
 locum mutandi, varias figuras induendi, &amp; similes, quae quidem non magis
-qu&agrave;m praecedentes, absque [79] aliquâ substantiâ cui
+quàm praecedentes, absque [79] aliquâ substantiâ cui
 insint, possunt intelligi, nec proinde etiam absque illâ existere:
 sed manifestum est has, siquidem existant, inesse debere substantiae corporeae
 sive extensae, non autem intelligenti, quia nempe aliqua extensio, non autem
@@ -231,9 +231,9 @@ eminenter. Atqui, c&ugrave;m Deus non sit fallax, omnino manifestum est
 illum nec per se immediate istas ideas mihi immittere, nec etiam mediante
 aliquâ creaturâ, in quâ earum realitas objectiva, non
 formaliter, sed eminenter tant&ugrave;m contineatur. C&ugrave;m enim nullam
-plane facultatem mihi dederit ad hoc agnoscendum, sed contr&agrave; magnam
+plane facultatem mihi dederit ad hoc agnoscendum, sed contrà magnam
 [80] propensionem ad credendum illas a rebus corporeis emitti, non video
-quâ ratione posset intelligi ipsum non esse fallacem, si aliunde qu&agrave;m
+quâ ratione posset intelligi ipsum non esse fallacem, si aliunde quàm
 a rebus corporeis emitterentur. Ac proinde res corporeae existunt. Non tamen
 forte omnes tales omnino existunt, quales illas sensu comprehendo, quoniam
 ista sensuum comprehensio in multis valde obscura est &amp; confusa; sed
@@ -253,15 +253,15 @@ reperiatur, nisi aliqua etiam sit in me facultas a Deo tributa ad illam
 emendandam, certam mihi spem ostendit veritatis etiam in iis assequendae.
 Et sane non dubium est quin ea omnia quae doceor a naturâ aliquid
 habeant veritatis: per naturam enim, generaliter spectatam, nihil nunc aliud
-qu&agrave;m vel Deum, ipsum, vel rerum creatarum coordinationem a Deo institutam
-intelligo; nec aliud per naturam meam in particulari, qu&agrave;m complexionem
+quàm vel Deum, ipsum, vel rerum creatarum coordinationem a Deo institutam
+intelligo; nec aliud per naturam meam in particulari, quàm complexionem
 eorum omnium quae mihi a Deo sunt tributa. 
  
 
  
 
  12. Nihil autem est quod me ista natura magis expresse doceat,
-qu&agrave;m qu&ograve;d habeam corpus, cui male est c&ugrave;m dolorem sentio,
+quàm qu&ograve;d habeam corpus, cui male est c&ugrave;m dolorem sentio,
 quod cibo vel potu indiget, c&ugrave;m famem aut sitim patior, &amp; similia;
 nec proinde dubitare debeo, quin aliquid in eo sit veritatis. [81] 
 
@@ -273,11 +273,11 @@ nec proinde dubitare debeo, quin aliquid in eo sit veritatis. [81]
 &amp; c., me non tant&ugrave;m adesse meo corpori ut nauta adest navigio,
 sed illi arctissime esse conjunctum &amp; quasi permixtum, adeo ut unum
 quid cum illo componam. Alioqui enim, c&ugrave;m corpus laeditur, ego, qui
-nihil aliud sum qu&agrave;m res cogitans, non sentirem idcirco dolorem,
+nihil aliud sum quàm res cogitans, non sentirem idcirco dolorem,
 sed puro intellectu laesionem istam perciperem, ut nauta visu percipit si
 quid in nave frangatur; &amp; c&ugrave;m corpus cibo vel potu indiget, hoc
 ipsum expresse intelligerem, non confusos famis &amp; sitis sensus haberem.
-Nam certe isti sensus sitis, famis, doloris &amp;c., nihil aliud sunt qu&agrave;m
+Nam certe isti sensus sitis, famis, doloris &amp;c., nihil aliud sunt quàm
 confusi quidam cogitandi modi ab unione &amp; quasi permixtione mentis cum
 corpore exorti. 
  
@@ -311,7 +311,7 @@ alia remota corpora ejus sint tant&ugrave;m magnitudinis &amp; figurae,
 quam sensibus meis exhibent, &amp; alia ejusmodi. Sed ne quid in hac re
 non satis distincte percipiam, accurati&ugrave;s debeo definire quid proprie
 intelligam, c&ugrave;m dico me aliquid doceri a naturâ. Nempe h&icirc;c
-naturam stricti&ugrave;s sumo, qu&agrave;m pro complexione eorum omnium
+naturam stricti&ugrave;s sumo, quàm pro complexione eorum omnium
 quae mihi a Deo tributa sunt; in hac enim complexione multa continentur
 quae ad mentem solam pertinent, ut qu&ograve;d percipiam id quod factum
 est infectum esse non posse, &amp; reliqua omnia quae lumine naturali sunt
@@ -324,7 +324,7 @@ quae sensum doloris inferunt, &amp; ea prosequi quae sensum voluptatis,
 sensuum perceptionibus sine praevio intellect&ucirc;s examine de rebus extra
 nos positis concludamus, quia de iis verum scire [83] ad mentem solam, non
 autem ad compositum, videtur pertinere. Ita quamvis stella non magis oculum
-meum qu&agrave;m ignis exiguae facis afficiat, nulla tamen in eo realis
+meum quàm ignis exiguae facis afficiat, nulla tamen in eo realis
 sive positiva propensio est ad credendum illam non esse majorem, sed hoc
 sine ratione ab ineunte aetate judicavi; &amp; quamvis ad ignem accedens
 sentio calorem, ut etiam ad eundem nimis prope accedens sentio dolorem,
@@ -351,9 +351,9 @@ naturâ exhibentur, atque etiam circa internos sensus in quibus errores
 videor deprehendisse: ut c&ugrave;m quis, grato cibi alicujus sapore delusus,
 venenum intus latens assumit. [84] Sed nempe tunc tant&ugrave;m a naturâ
 impellitur ad illud appetendum in quo gratus sapor consistit, non autem
-ad venenum, quod plane ignorat; nihilque hinc aliud concludi potest, qu&agrave;m
+ad venenum, quod plane ignorat; nihilque hinc aliud concludi potest, quàm
 naturam istam non esse omnisciam: quod non mirum, quia, c&ugrave;m homo
-sit res limitata, non alia illi competit qu&agrave;m limitatae perfectionis.
+sit res limitata, non alia illi competit quàm limitatae perfectionis.
 
  
 
@@ -363,11 +363,11 @@ sit res limitata, non alia illi competit qu&agrave;m limitatae perfectionis.
 impellimur: ut c&ugrave;m ii qui aegrotant, potum vel cibum appetunt sibi
 paulo post nociturum. Dici forsan h&icirc;c poterit, illos ob id errare,
 qu&ograve;d natura eorum sit corrupta; sed hoc difficultatem non tollit,
-quia non minus vere homo aegrotus creatura Dei est qu&agrave;m sanus; nec
+quia non minus vere homo aegrotus creatura Dei est quàm sanus; nec
 proinde minus videtur repugnare illum a Deo fallacem naturam habere. Atque
 ut horologium ex rotis &amp; ponderibus confectum non minus accurate leges
 omnes naturae observat, c&ugrave;m male fabricatum est &amp; horas non recte
-indicat, qu&agrave;m c&ugrave;m omni ex parte artificis voto satisfacit:
+indicat, quàm c&ugrave;m omni ex parte artificis voto satisfacit:
 ita, si considerem hominis corpus, quatenus machinamentum qu&ograve;ddam
 est ex ossibus, nervis, musculis, venis, sanguine &amp; pellibus ita aptum
 &amp; compositum, ut, etiamsi nulla in eo mens existeret, eosdem tamen haberet
@@ -375,7 +375,7 @@ omnes motus qui nunc in eo non ab imperio voluntatis nec proinde a mente
 procedunt, facile agnosco illi aeque naturale fore, si, exempli causâ,
 hydrope laboret, eam faucium ariditatem pati, quae sitis sensum menti inferre
 solet, atque etiam ab illâ ejus nervos &amp; reliquas partes ita disponi
-ut potum sumat ex quo morbus augeatur, qu&agrave;m, c&ugrave;m nullum tale
+ut potum sumat ex quo morbus augeatur, quàm, c&ugrave;m nullum tale
 in eo vitium est, a simili [85] faucium siccitate moveri ad potum sibi utile
 assumendum. Et quamvis, respiciens ad praeconceptum horologii usum, dicere
 possim illud, c&ugrave;m horas non recte indicat, a naturâ suâ
@@ -384,7 +384,7 @@ tanquam comparatum ad motus qui in eo fieri solent, putem illud etiam a
 naturâ suâ aberrare, si ejus fauces sint aridae, c&ugrave;m
 potus ad ipsius conservationem non prodest; satis tamen animadverto hanc
 ultimam naturae acceptionem ab alterâ mult&ugrave;m differre: haec
-enim nihil aliud est qu&agrave;m denominatio a cogitatione meâ, hominem
+enim nihil aliud est quàm denominatio a cogitatione meâ, hominem
 aegrotum &amp; horologium male fabricatum cum ideâ hominis sani &amp;
 horologii recte facti comparante, dependens, rebusque de quibus dicitur
 extrinseca; per illam ver&ograve; aliquid intelligo quod revera in rebus
@@ -414,7 +414,7 @@ intelligo; &amp; quamvis toti corpori tota mens unita esse videatur, abscisso
 tamen pede, vel brachio, vel quâvis aliâ corporis parte, nihil
 ideo de mente subductum esse cognosco; neque etiam facultates volendi, sentiendi,
 intelligendi &amp;c. ejus partes dici possunt, quia una &amp; eadem mens
-est quae vult, quae sentit, quae intelligit. Contr&agrave; ver&ograve; nulla
+est quae vult, quae sentit, quae intelligit. Contrà ver&ograve; nulla
 res corporea sive extensa potest a me cogitari, quam non facile in partes
 cogitatione dividam, atque hoc ipso illam divisibilem esse intelligam: quod
 unum sufficeret ad me docendum, mentem a corpore omnino esse diversam, si
@@ -438,7 +438,7 @@ ut probant innumera experimenta, quae h&icirc;c recensere non est opus..
 pars possit ab aliâ parte aliquantum remotâ moveri, quin possit
 etiam moveri eodem modo a quâlibet ex iis quae interjacent, quamvis
 illa remotior nihil agat. Ut, exempli causâ, in fune A, B, C, D, si
-trahatur ejus ultima pars D, non alio pacto movebitur prima A, qu&agrave;m
+trahatur ejus ultima pars D, non alio pacto movebitur prima A, quàm
 moveri etiam posset, si traheretur una ex intermediis B vel C, &amp; ultima
 D maneret immota. Nec dissimili ratione, c&ugrave;m sentio dolorem pedis,
 docuit me Physica sensum illum fieri ope nervorum per pedem sparsorum, qui,
@@ -457,9 +457,9 @@ Et idem de quolibet alio sensu est putandum.
 
  22. Adverto denique, quandoquidem unusquisque ex motibus, qui fiunt
 in eâ parte cerebri quae immediate mentem afficit, non nisi unum aliquem
-sensum illi infert, nihil hac in re melius posse excogitari, qu&agrave;m
+sensum illi infert, nihil hac in re melius posse excogitari, quàm
 si eum inferat qui, ex omnibus quos inferre potest, ad hominis sani conservationem
-qu&agrave;m maxime &amp; qu&agrave;m frequentissime conducit. Experientiam
+quàm maxime &amp; quàm frequentissime conducit. Experientiam
 autem testari, tales esse omnes sensus nobis a naturâ inditos; ac
 proinde nihil plane in iis reperiri, quod non Dei potentiam bonitatemque
 testetur. Ita, exempli causâ, [88] c&ugrave;m nervi qui sunt in pede
@@ -474,7 +474,7 @@ aliud quidlibet; sed nihil aliud ad corporis conservationem aeque conduxisset.
 Eodem modo, c&ugrave;m potu indigemus, quaedam inde oritur siccitas in gutture,
 nervos ejus movens &amp; illorum ope cerebri interiora; hicque motus mentem
 afficit sensu sitis, quia nihil in toto hoc negotio nobis utilius est scire,
-qu&agrave;m qu&ograve;d potu ad conservationem valetudinis egeamus, &amp;
+quàm qu&ograve;d potu ad conservationem valetudinis egeamus, &amp;
 sic de caeteris.  
  
 
@@ -488,12 +488,12 @@ vel etiam in ipso cerebro, eundem plane motum excitet qui solet excitari
 pede male affecto, sentietur dolor tanquam in pede, sensusque naturaliter
 falletur, quia, c&ugrave;m ille idem motus in cerebro non possit nisi eundem
 semper sensum menti inferre, multoque frequentius oriri soleat a causâ
-quae laedit pedem, qu&agrave;m ab aliâ alibi existente, rationi consenta[89]neum
-est ut pedis potius qu&agrave;m alterius partis dolorem menti semper exhibeat.
+quae laedit pedem, quàm ab aliâ alibi existente, rationi consenta[89]neum
+est ut pedis potius quàm alterius partis dolorem menti semper exhibeat.
 Et si quando faucium ariditas, non ut solet ex eo qu&ograve;d ad corporis
 valetudinem potus conducat, sed ex contrariâ aliquâ causâ
 oriatur, ut in hydropico contingit, longe melius est illam tunc fallere,
-qu&agrave;m si contr&agrave; semper falleret, c&ugrave;m corpus est bene
+quàm si contrà semper falleret, c&ugrave;m corpus est bene
 constitutum; &amp; sic de reliquis. 
  
 
@@ -504,7 +504,7 @@ constitutum; &amp; sic de reliquis.
 omnes quibus natura mea obnoxia est animadvertam, sed etiam ut illos aut
 emendare aut vitare facile possim. Nam sane, c&ugrave;m sciam omnes sensus
 circa ea, quae ad corporis commodum spectant, multo frequentius verum indicare
-qu&agrave;m falsum, possimque uti fere semper pluribus ex iis ad eandem
+quàm falsum, possimque uti fere semper pluribus ex iis ad eandem
 rem examinandam, &amp; insuper memoriâ, quae praesentia cum praecedentibus
 connoctit, &amp; intellectu, qui jam omnes errandi causas perspexit; non
 amplius vereri debeo ne illa, quae mihi quotidie a sensibus exhibentur,
@@ -516,7 +516,7 @@ a memoriâ conjungantur, ut ea quae vigilanti occurrunt; nam sane,
 si quis, dum vigilo, mihi derepente appareret, statimque postea dispareret,
 ut fit in somnis, ita scilicet ut nec unde venisset, nec quo abiret, viderem,
 non immerito spectrum potius, aut phantasma in cerebro meo effictum,
-qu&agrave;m verum hominem esse judicarem. C&ugrave;m ver&ograve; eae res
+quàm verum hominem esse judicarem. C&ugrave;m ver&ograve; eae res
 occurrunt, quas distincte, unde, ubi, &amp; quando mihi adveniant, adverto,
 earumque perceptionem absque ullâ interruptione cum totâ reliquâ
 vitâ connecto, plane certus sum, non in somnis, sed vigilanti occurrere.
