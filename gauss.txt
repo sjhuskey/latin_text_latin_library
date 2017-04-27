@@ -38,12 +38,12 @@ Quaelibet aequatio algebraica determinata reduci potest ad formam
  x m +Ax m-1 +Bx m-2 + etc. +M=0 , ita vt m sit
 numerus integer positiuus. Si partem primam huius aequationis
 per X denotamus, aequationique X=0 per plures valores inaequales
-ipsius x satisfieri supponimus, puta ponendo x=&alpha; , x=&beta; ,
- x=&gamma; etc. functio X per productum e factoribus x-&alpha; , x-&beta; ,
+ipsius x satisfieri supponimus, puta ponendo x=α , x=&beta; ,
+ x=&gamma; etc. functio X per productum e factoribus x-α , x-&beta; ,
  x-&gamma; etc. diuisibilis erit. Vice versa, si productum e pluribus
-factoribus simplicibus x-&alpha; , x-&beta; , x-&gamma; etc. functionem X metitur:
+factoribus simplicibus x-α , x-&beta; , x-&gamma; etc. functionem X metitur:
 aequationi X=0 satisfiet, aequando ipsam x cuicunque
-quantitatum &alpha;, &beta;, &gamma; etc. Denique si X producto ex m factoribus
+quantitatum α, &beta;, &gamma; etc. Denique si X producto ex m factoribus
 talibus simplicibus aequalis est (siue omnes diuersi sint, siue quidam
 ex ipsis identici): alii factores simplices praeter hos functionem
  X metiri non poterunt. Quamobrem aequatio m ti gradus plures
@@ -104,10 +104,10 @@ digna tamen, ne quid deesse videatur, paucis illa attingam.
 ''Vt demonstrent, quamuis aequationem x m +Ax m-1 +Bx m-2 
  + etc. +M=0 , siue X=0 , reuera habere m radices, suscipiunt
 probare, X in m factores simplices resolui posse. Ad hunc
-finem assumunt m factores simplices x-&alpha; , x-&beta; , x-&gamma; etc. vbi
- &alpha;, &beta;, &gamma; etc. adhuc sunt incognitae, productumque ex illis aequale
+finem assumunt m factores simplices x-α , x-&beta; , x-&gamma; etc. vbi
+ α, &beta;, &gamma; etc. adhuc sunt incognitae, productumque ex illis aequale
 ponunt functioni X . Tum ex comparatione co&euml;fficientium deducunt
- m aequationes, ex quibus incognitas &alpha;, &beta;, &gamma; etc. determinari
+ m aequationes, ex quibus incognitas α, &beta;, &gamma; etc. determinari
 posse aiunt, quippe quarum multitudo etiam sit m . Scilicet m-1 
 incognitas eliminari posse, vnde emergere aequationem, quae,
 quam placuerit, incognitam solam contineat. '' Vt de reliquis,
@@ -119,7 +119,7 @@ realium atque imaginariarum ambitu satisfaciat? — Ceterum
 periti facile perspicient, hanc vltimam aequationem necessario
 cum proposita omnino identicam fore, siquidem calculus rite
 fuerit institutus; scilicet eliminatis incognitis &beta;, &gamma; etc. aequationem
- &alpha; m +A&alpha; m-1 +B&alpha; m-2 + etc. +M=0 prodire debere. Plura
+ α m +Aα m-1 +Bα m-2 + etc. +M=0 prodire debere. Plura
 de isto ratiocinio exponere necesse non est.
  
 Quidam auctores, qui debilitatem huius methodi percepisse
@@ -187,7 +187,7 @@ realem negatiuum obtinere posse per valorem ipsius x vel realem
 vel sub forma imaginaria p+q&radic;-1 contentum. Scilicet designante
  Ω valorem infinite paruum ipsius X , et &omega; valorem respondentem
 ipsius x , asserit &omega; per seriem valde conuergentem
- aΩ &alpha; +bΩ &beta; +cΩ &gamma; etc. exprimi posse, vbi exponentes &alpha;, &beta;, &gamma; 
+ aΩ α +bΩ &beta; +cΩ &gamma; etc. exprimi posse, vbi exponentes α, &beta;, &gamma; 
 etc. sint quantitates rationales continuo crescentes, et quae adeo
 ad minimum in distantia certa ab initio positiuae euadant, terminosque,
 in quibus adsint, infinite paruos reddant. Iam si inter
@@ -252,8 +252,8 @@ elici posse, in quarum altera p, X et constantes reperiantur altera
 a p libera solas q, X et constantes inuoluat. Quamobrem
 quum X per valores reales ipsarum p,q omnes valores ab R vsque
 ad T percurrerit, per praecc. X versus valorem U adhuc propius
-accedere posse tribuendo ipsius p, q valores tales &alpha;+&gamma;&radic;-1 ,
- &beta;+&delta;&radic;-1 resp. Hinc vero fieri x=&alpha;-&delta;+(&gamma;+&beta;)&radic;-1 , i. e. 
+accedere posse tribuendo ipsius p, q valores tales α+&gamma;&radic;-1 ,
+ &beta;+&delta;&radic;-1 resp. Hinc vero fieri x=α-&delta;+(&gamma;+&beta;)&radic;-1 , i. e. 
 adhuc sub forma p+q&radic;-1 esse, contra hyp.
  
 
@@ -387,20 +387,20 @@ dignitatem numeri 2, functionem x 2m +Bx 2x-2 +Cx 2m-3
  + etc. +M=X (in qua co&euml;fficiens termini secundi est =0 )
 semper in duos factores reales resolui posse, in quibus x vsque
 ad m dimensiones ascendat. Ad hunc finem duos factores assumit,
- x m -ux m-1 +&alpha; x m-2 +&beta; x m-3 + etc., et x m + 
- ux m-1 +&lambda; x m-2 +&mu; x m-3 etc. vbi co&euml;fficientes u, &alpha;, &beta; etc. 
+ x m -ux m-1 +α x m-2 +&beta; x m-3 + etc., et x m + 
+ ux m-1 +&lambda; x m-2 +&mu; x m-3 etc. vbi co&euml;fficientes u, α, &beta; etc. 
  &lambda;, &mu; etc. adhuc incogniti sunt, horumque productum aequale
 ponit functioni X . Tum co&euml;fficientium comparatio suppeditat
  2m-1 aequationes, manifestoque demonstrari tantummodo debet,
-incognitis u,&alpha;,&beta; etc. &lambda;, &mu; etc. (quarum multitudo etiam est
+incognitis u,α,&beta; etc. &lambda;, &mu; etc. (quarum multitudo etiam est
  2-1 ) tales valores reales tribui posse, qui aequationibus illis
 satisfaciant. Iam E. affirmat, si primo u tamquam cognita consideretur,
 ita vt multitudo incognitarum vnitate minor sit quam
 multitudo aequationum, his secundum methodos algebraicas notas
-rite combinatis omnes &alpha;, &beta; etc. &lambda;, &mu; etc. rationaliter et sine
+rite combinatis omnes α, &beta; etc. &lambda;, &mu; etc. rationaliter et sine
 vlla radicum extractione per u et co&euml;fficientes B, C etc. determinari
 posse, adeoque valores reales nancisci, simulac u realis fiat.
-Praeterea vero omnes &alpha;, &beta; etc. &lambda;, &mu; etc. eliminari poterunt, ita
+Praeterea vero omnes α, &beta; etc. &lambda;, &mu; etc. eliminari poterunt, ita
 vt prodeat aequatio U=0 , vbi U erit functio integra solius u et
 co&euml;fficientium cognitorum. Hanc aequationem ipsam per methodum
 eliminationis vulgarem euoluere, opus immensum fore,
@@ -410,9 +410,9 @@ Attamen sufficit, vnam illius aequationis proprietatem nouisse,
 scilicet quod terminus vltimus in U (qui incognitam u non implicat)
 necessario est negatiuus, vnde sequi constat, aequationem
 ad minimum vnum radicem realem habere, siue u et proin etiam 
- &alpha;, &beta; etc. &lambda;, &mu; etc. ad minimum vno modo realiter determinari
+ α, &beta; etc. &lambda;, &mu; etc. ad minimum vno modo realiter determinari
 posse: illam vero proprietatem per sequentes reflexiones confirmare
-licet. Quum x m -ux m-1 +&alpha; x m-2 + etc. supponatur
+licet. Quum x m -ux m-1 +α x m-2 + etc. supponatur
 esse factor functionis X : necessario u erit summa m radicum
 aequationis X=0 , adeoque totidem valores habere debebit,
 quot modis diuersis ex 2m radicibus m excerpi possunt, siue per
@@ -470,7 +470,7 @@ Contra hanc demonstrationem obiici potest.
 
  
 1. Regulam, secundum quam E. concludit, ex 2m-1 
-aequationibus 2m-2 incognitas &alpha;,&beta; etc. &lambda;, &mu; etc. omnes rationaliter
+aequationibus 2m-2 incognitas α,&beta; etc. &lambda;, &mu; etc. omnes rationaliter
 determinari posse, neutiquam esse generalem, sed
 saepissime exceptionem pati. Si quis e. g. in art. 3, aliaque incognitarum 
 tamquam cognita spectata, reliquas per hanc et coefficientes
@@ -480,13 +480,13 @@ quam per aequationem m-1 ti gradus determinari posse. Quamquam
 vero hic statim a priori perspici potest, illud necessario ita euenire
 debuisse: tamen merito dubitari posset, annon etiam in
 casu praesenti pro quibusdam valoribus ipsius m res eodem modo
-se habebat; vt incognitae &alpha;,&beta; etc. &lambda;, &mu; etc. ex u,B,C etc. aliter
+se habebat; vt incognitae α,&beta; etc. &lambda;, &mu; etc. ex u,B,C etc. aliter
 quam per aequationem gradus forsan maioris quam 2m determinari
 nequeant. Pro eo casu, vbi aequatio X=0 est quarti gradus,
 E. valores rationales co&euml;fficientium per u et co&euml;fficientes
 datos eruit; idem vero etiam in omnibus aequationibus altioribus
 fieri posse, vtique explicatione ampliori egebat. — Ceterum
-operae pretium esse videtur, in formulas illas, quae &alpha;, &beta; 
+operae pretium esse videtur, in formulas illas, quae α, &beta; 
 etc. rationaliter per u, B, C etc. exprimant, profundius et generalissime
 inquirere; de qua re aliisque ad eliminationis theoriam (argumentum
 haudquaquam exhaustum) pertinentibus alia occasione
@@ -495,21 +495,21 @@ fusius agere suscipiam.
  
 2. Etiamsi autem demonstratum fuerit, cuiusuis gradus sit
 aequatio X=0 , semper formulas inueniri posse, quae ipsas
- &alpha;, &beta; etc. &lambda;, &mu; etc. rationaliter per u, B, C etc. exhibeant: tamen
+ α, &beta; etc. &lambda;, &mu; etc. rationaliter per u, B, C etc. exhibeant: tamen
 certum est, pro valoribus quibusdam determinatis co&euml;fficientium
  B, C etc. formulas illas indeterminatas euadere posse, ita vt non
 solum impossibile sit, incognitas illas rationaliter ex u, B, C 
 etc. definire, sed adeo reuera quibusdam in casibus valori alicui reali
-ipsius u nulli valores reales ipsarum &alpha;, &beta; etc. &lambda;, &mu; etc. respondeant.
+ipsius u nulli valores reales ipsarum α, &beta; etc. &lambda;, &mu; etc. respondeant.
 Ad confirmationem huius rei breuitatis gratia ablego lectorem
 ad diss. ipsam E. vbi p. 236. aequatio quarti gradus fusius
 explicata est. Statim quisque videbit, formulas pro co&euml;fficientibus
- &alpha;, &beta; indeterminatas fieri, si C=0 et pro u assumatur
+ α, &beta; indeterminatas fieri, si C=0 et pro u assumatur
 valor 0 , illorumque valores non solum sine extractione radicum
 assignari non posse, sed adeo ne reales quidem esse, si fuerit
  BB-4D quantitas negatiua. Quamquam vero in hoc casu u 
 adhuc alios valores reales habere, quibus valores reales ipsarum
- &alpha;, &beta; respondeant, facile perspici potest: tamen vereri aliquis
+ α, &beta; respondeant, facile perspici potest: tamen vereri aliquis
 posset, ne huius difficultatis enodatio (quam E. omnino non attigit)
 in aequationibus altioribus multo maiorem operam facessat.
 Certe haec res in demonstratione exacta neutiquam silentio praeteriri
@@ -760,22 +760,22 @@ similiterque formulam, quae co&euml;fficientem M&prime;&prime; per u&prime;&prim
 exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u&prime;&prime; etc. Hoc
 luculentissime perspicietur, si aequationem quarti gradus pro exemplo
 assumimus. Ponamus itaque m=4 , sintque radices aequationis
- Z=0 , hae &alpha;, &beta;, &gamma;, &delta; . Tum patet aequationem U=0 fore
-sexti gradus ipsiusque radices -(&alpha;+&beta;) , -(&alpha;+&gamma;) , -(&alpha;+&delta;) ,
+ Z=0 , hae α, &beta;, &gamma;, &delta; . Tum patet aequationem U=0 fore
+sexti gradus ipsiusque radices -(α+&beta;) , -(α+&gamma;) , -(α+&delta;) ,
  -(&beta;+&gamma;) , -(&beta;+&delta;) , -(&gamma;+&delta;) . Aequatio U&prime;=0 autem erit
-decimi quinti gradus, et valores ipsius u&prime; hi 2&alpha;+&beta;+&gamma; , 2&alpha;+&beta;+&delta; ,
- 2&alpha;+&gamma;+&delta; , 2&beta;+&alpha;+&gamma; , 2&beta;+&alpha;+&delta; , 2&beta;+&gamma;+&delta; , 2&gamma;+&alpha;+&beta; ,
- 2&gamma;+&alpha;+&delta; , 2&gamma;+&beta;+&delta; , 2&delta;+&alpha;+&beta; , 2&delta;+&alpha;+&gamma; , 2&delta;+&beta;+&gamma; ,
- &alpha;+&beta;+&gamma;+&delta; , &alpha;+&beta;+&gamma;+&delta; , &alpha;+&beta;+&gamma;+&delta; . Iam in hac aequatione,
+decimi quinti gradus, et valores ipsius u&prime; hi 2α+&beta;+&gamma; , 2α+&beta;+&delta; ,
+ 2α+&gamma;+&delta; , 2&beta;+α+&gamma; , 2&beta;+α+&delta; , 2&beta;+&gamma;+&delta; , 2&gamma;+α+&beta; ,
+ 2&gamma;+α+&delta; , 2&gamma;+&beta;+&delta; , 2&delta;+α+&beta; , 2&delta;+α+&gamma; , 2&delta;+&beta;+&gamma; ,
+ α+&beta;+&gamma;+&delta; , α+&beta;+&gamma;+&delta; , α+&beta;+&gamma;+&delta; . Iam in hac aequatione,
 quippe cuius gradus est impar, subsistendum erit, habebitque
-ea reuera radicem realem &alpha;+&beta;+&gamma;+&delta; (quae primo co&euml;fficienti in
+ea reuera radicem realem α+&beta;+&gamma;+&delta; (quae primo co&euml;fficienti in
  Z mutato signo aequalis adeoque non modo realis sed etiam rationalis
 erit, si co&euml;fficientes in Z sunt rationales). Sed nullo negotio
 perspici potest, si formula detur, quae valorem ipsius M&prime; 
 per valorem respondentem ipsius u&prime; rationaliter exhibeat, hanc
-necessario pro u&prime;=&alpha;+&beta;+&gamma;+&delta; indeterminatam fieri. Hic enim
+necessario pro u&prime;=α+&beta;+&gamma;+&delta; indeterminatam fieri. Hic enim
 valor ter erit radix aequationis U&prime;=0 , respondebuntque ipsi tres
-valores ipsius M&prime; , puta (&alpha;+&beta;)(&gamma;+&delta;) , (&alpha;+&gamma;)(&beta;+&delta;) et (&alpha;+&delta;)(&beta;+&gamma;) ,
+valores ipsius M&prime; , puta (α+&beta;)(&gamma;+&delta;) , (α+&gamma;)(&beta;+&delta;) et (α+&delta;)(&beta;+&gamma;) ,
 qui omnes irrationales esse possunt. Manifesto autem formula
 rationalis neque valorem irrationalem ipsius M&prime; in hoc casu producere
 posset, neque tres valores diuersos. Ex hoc specimine
@@ -962,7 +962,7 @@ Sumto enim initio abscissarum in C , abscissisque x versus G , applicatis
 quidquid sit n , r n sin n&phi;=nx n-1 y-(n. n-1. n-2) / (1. 2. 3) x n-3 y 3 
  +(n. .. n-4) / (1. .. .5) x n-5 y 5 - etc., r n cos n&phi;=x n -(n. n-1) / (1. 2) x n-2 yy 
  +(n. n-1. n-2. n-3) / (1. 2. 3. 4) x n-4 y 4 - etc. Quamobrem tum T tum U 
-constabunt ex pluribus huiusmodi terminis ax &alpha; y &beta; , denotantibus &alpha; ,
+constabunt ex pluribus huiusmodi terminis ax α y &beta; , denotantibus α ,
  &beta; numeros integros positiuos, quorum summa, vbi maxima est,
 sit =m . Ceterum facile praeuideri potest, cunctos terminos ipsius
  T factorem y inuoluere, adeoque lineam primam proprie ex recta
