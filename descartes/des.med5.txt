@@ -7,14 +7,14 @@ Descartes: Meditatio V
 	
  
 
- De essenti&acirc; rerum materialium; &amp; iterum de Deo,
+ De essentiâ rerum materialium; &amp; iterum de Deo,
 qu&ograve;d existat.
  
 
  
 
  1. Multa mihi supersunt de Dei attributis, multa de me&icirc; ipsius
-sive mentis meae natur&acirc; investiganda; sed illa forte ali&agrave;s
+sive mentis meae naturâ investiganda; sed illa forte ali&agrave;s
 resumam, jamque nihil magis urgere videtur (postquam animadverti quid cavendum
 atque agendum sit ad assequendam veritatem), qu&agrave;m ut ex dubiis, in
 quae superioribus diebus incidi, coner emergere, videamque an aliquid certi
@@ -23,7 +23,7 @@ de rebus materialibus haberi possit.
 
  
   2. Et quidem, priusquam inquiram an aliquae tales res extra me
-existant, considerare debeo illarum ideas, quatenus sunt in me&acirc; cogitatione,
+existant, considerare debeo illarum ideas, quatenus sunt in meâ cogitatione,
 &amp; videre quaenam ex iis sint distinctae, quaenam confusae. 
  E ]  
  
@@ -31,7 +31,7 @@ existant, considerare debeo illarum ideas, quatenus sunt in me&acirc; cogitation
  
   3. Nempe distincte imaginor quantitatem, quam vulgo Philosophi
 appellant continuam, sive ejus quantitatis aut potius rei quantae extensionem
-in longum, latum &amp; profundum; numero in e&acirc; varias partes; quaslibet
+in longum, latum &amp; profundum; numero in eâ varias partes; quaslibet
 istis partibus magnitudines, figuras, situs, &amp; motus locales, motibusque
 istis quaslibet durationes assigno. 
  
@@ -52,11 +52,11 @@ in me erant, licet non prius in illa obtutum mentis convertissem.
 innumeras ideas quarumdam rerum, quae, etiam si extra me fortasse nullibi
 existant, non tamen dici possunt nihil esse; &amp; quamvis a me quodammodo
 ad arbitrium cogitentur, non tamen a me finguntur, sed suas habent veras
-&amp; immutabiles naturas. Ut c&ugrave;m, exempli caus&acirc;, triangulum
+&amp; immutabiles naturas. Ut c&ugrave;m, exempli causâ, triangulum
 imaginor, etsi fortasse talis figura nullibi gentium extra cogitationem
 meam existat, nec unquam extiterit, est tamen profecto determinata quaedam
 ejus natura, sive essentia, sive forma, immutabilis &amp; aeterna, quae
-a me non efficta est, nec a mente me&acirc; dependet; ut patet ex eo qu&ograve;d
+a me non efficta est, nec a mente meâ dependet; ut patet ex eo qu&ograve;d
 demonstrari possint variae proprietates de isto triangulo, nempe qu&ograve;d
 ejus tres anguli sint acquales duobus rectis, qu&ograve;d maximo ejus angulo
 maximum latus subtendatur, &amp; similes, quas velim nolim clare nunc agnosco,
@@ -84,13 +84,13 @@ agnoscebam, pro omnium certissimis habuisse.  E ]
 
  
   7. Jam ver&ograve; si ex eo solo, qu&ograve;d alicujus rei ideam
-possim ex cogitatione me&acirc; depromere, sequitur ea omnia, quae ad illam
+possim ex cogitatione meâ depromere, sequitur ea omnia, quae ad illam
 rem pertinere clare &amp; distincte percipio, revera ad illam pertinere,
 nunquid inde haberi etiam potest argumentum, quo Dei existentia probetur?
 Certe ejus ideam, nempe entis summe perfecti, non minus apud me invenio,
 qu&agrave;m ideam cujusvis figurae aut numeri; nec minus clare &amp; distincte
 intelligo ad ejus naturam pertinere ut semper existat, qu&agrave;m id qu&ograve;d
-de aliqu&acirc; figur&acirc; aut numero demonstro ad ejus figurae aut numeri
+de aliquâ figurâ aut numero demonstro ad ejus figurae aut numeri
 naturam etiam pertinere; ac proinde, quamvis non omnia, quae superioribus
 hisce diebus meditatus sum, vera essent, in eodem ad minimum certitudinis
 gradu esse deberet apud me Dei existen[66]tia, in quo fuerunt hactenus Mathematicae
@@ -98,14 +98,14 @@ veritates.
  
 
  
-  8. Quanquam sane hoc prim&acirc; fronte non est omnino perspicuum,
+  8. Quanquam sane hoc primâ fronte non est omnino perspicuum,
 sed quandam sophismatis speciem refert. C&ugrave;m enim assuetus sim in
-omnibus aliis rebus existentiam ab essenti&acirc; distinguere, facile mihi
-persuadeo illam etiam ab essenti&acirc; Dei sejungi posse, atque ita Deum
+omnibus aliis rebus existentiam ab essentiâ distinguere, facile mihi
+persuadeo illam etiam ab essentiâ Dei sejungi posse, atque ita Deum
 ut non existentem cogitari. Sed tamen diligentius attendenti fit manifestum,
-non magis posse existentiam ab essenti&acirc; Dei separari, qu&agrave;m
-ab essenti&acirc; trianguli magnitudinem trium ejus angulorum acqualium
-duobus rectis, sive ab ide&acirc; montis ideam vallis: adeo ut non magis
+non magis posse existentiam ab essentiâ Dei separari, qu&agrave;m
+ab essentiâ trianguli magnitudinem trium ejus angulorum acqualium
+duobus rectis, sive ab ideâ montis ideam vallis: adeo ut non magis
 repugnet cogitare Deum (hoc est ens summe perfectum) cui desit existentia
 (hoc est cui desit aliqua perfectio), qu&agrave;m cogitare montem cui desit
 vallis. 
@@ -131,8 +131,8 @@ non possim cogitare Deum nisi existentem, sequitur existentiam a Deo esse
 inseparabilem, ac proinde illum rever&agrave; existere; non qu&ograve;d
 mea cogitatio hoc efficiat, sive aliquam necessitatem ulli rei imponat,
 sed contr&agrave; quia ipsius rei, nempe existentiae Dei, necessitas me
-determinat ad hoc cogitandum: neque enim mihi liberum est Deum absque existenti&acirc;
-(hoc est ens summe perfectum absque summ&acirc; perfectione) cogitare, ut
+determinat ad hoc cogitandum: neque enim mihi liberum est Deum absque existentiâ
+(hoc est ens summe perfectum absque summâ perfectione) cogitare, ut
 liberum est equum vel cum alis vel sine alis imaginari. 
 
  
@@ -159,7 +159,7 @@ ex eo numero esse; im&ograve; etiam idipsum nequidem fingere possum, quamdiu
 nihil volo admittere nisi quod clare &amp; distincte intelligo. Ac proinde
 magna differentia est inter ejusmodi falsas positiones, &amp; ideas veras
 mihi ingenitas, quarum prima &amp; praecipua est idea Dei. Nam sane multis
-modis intelligo illam non esse quid fictitium a cogitatione me&acirc; dependens,
+modis intelligo illam non esse quid fictitium a cogitatione meâ dependens,
 sed imaginem verae &amp; immutabilis naturae: ut, primo, quia nulla alia
 res potest a me excogitari, ad cujus essentiam existentia pertineat, praeter
 solum Deum; deinde, quia non possum duos aut plures ejusmodi Deos intelligere,
@@ -170,7 +170,7 @@ nec mutari.
  
 
  
-  12. Sed ver&ograve;, qu&acirc;cumque tandem utar probandi ratione,
+  12. Sed ver&ograve;, quâcumque tandem utar probandi ratione,
 semper e&ograve; res redit, ut ea me sola plane persuadeant, quae clare
 &amp; distincte percipio. Et quidem ex iis quae ita percipio, etsi nonnulla
 unicuique obvia sint, alia ver&ograve; nonnisi ab iis qui propi&ugrave;s
@@ -187,7 +187,7 @@ esse, sive Deum, ad cujus solius essentiam existentia pertinet, existere?
  
 
  
-  13. Atque, quamvis mihi attent&acirc; consideratione opus fuerit
+  13. Atque, quamvis mihi attentâ consideratione opus fuerit
 ad hoc ipsum percipiendum, nunc tamen non modo de eo aeque certus sum ac
 de omni alio quod certissimum videtur, sed praeterea etiam animadverto caeterarum
 rerum certitudinem ab hoc ipso ita pendere, ut absque eo nihil unquam perfecte
@@ -201,15 +201,15 @@ ejus etiam sum naturae ut non possim obtutum mentis in eandem rem semper
 defigere ad illam clare percipiendam, recurratque saepe memoria judicii
 ante facti, c&ugrave;m non amplius attendo ad rationes propter quas tale
 quid judicavi, rationes aliae afferri possunt quae me, si Deum ignorarem,
-facile ab opinione dejicerent, atque ita de null&acirc; unquam re veram
+facile ab opinione dejicerent, atque ita de nullâ unquam re veram
 &amp; certam scientiam, sed vagas tant&ugrave;m &amp; mutabiles opiniones,
-haberem. Sic, exempli caus&acirc;, c&ugrave;m naturam trianguli considero,
+haberem. Sic, exempli causâ, c&ugrave;m naturam trianguli considero,
 evidentissime quidem mihi, utpote Geometriae principiis imbuto, apparet
 ejus tres angulos aequales esse duobus rectis, nec possum non credere id
 verum esse, quamdiu ad [70] ejus demonstrationem attendo; sed statim atque
-mentis aciem ab ill&acirc; deflexi, quantumvis adhuc recorder me illam clarissime
+mentis aciem ab illâ deflexi, quantumvis adhuc recorder me illam clarissime
 perspexisse, facile tamen potest accidere ut dubitem an sit vera, si quidem
-Deum ignorem. Possum enim mihi persuadere me talem a natur&acirc; factum
+Deum ignorem. Possum enim mihi persuadere me talem a naturâ factum
 esse, ut interdum in iis fallar quae me puto qu&agrave;m evidentissime percipere,
 c&ugrave;m praesertim meminerim me saepe multa pro veris &amp; certis habuisse,
 quae postmodum, aliis rationibus adductus, falsa esse judicavi. 
@@ -239,10 +239,10 @@ sit evidens, illud omnino est verum.
 
  
   16. Atque ita plane video omnis scientiae certitudinem &amp; veritatem
-ab un&acirc; veri Dei cognitione pendere, adeo ut, priusquam illum nossem,
-nihil de ull&acirc; ali&acirc; re perfecte scire potuerim. Jam ver&ograve;
+ab unâ veri Dei cognitione pendere, adeo ut, priusquam illum nossem,
+nihil de ullâ aliâ re perfecte scire potuerim. Jam ver&ograve;
 innumera, tum de ipso Deo aliisque rebus intellectualibus, tum etiam de
-omni ill&acirc; natur&acirc; corpore&acirc;, quae est purae Matheseos objectum,
+omni illâ naturâ corporeâ, quae est purae Matheseos objectum,
 mihi plane nota &amp; certa esse possunt. 
  
  
