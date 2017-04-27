@@ -12,14 +12,14 @@ Descartes: Praefatio
 
  
 
- 1. Quaestiones de Deo &amp; mente humanâ jam ante paucis
-attigi in Dissertatione de Methodo recte regendae rationis &amp;veritatis
+ 1. Quaestiones de Deo & mente humanâ jam ante paucis
+attigi in Dissertatione de Methodo recte regendae rationis &veritatis
 in scientiis investigandae, gallice editâ anno 1637, non quidem
-ut ipsas ibi accurate tractarem, sed tant&ugrave;m ut delibarem, &amp; ex
+ut ipsas ibi accurate tractarem, sed tant&ugrave;m ut delibarem, & ex
 lectorum judiciis addiscerem quâ ratione postea essent tractandae.
 Tanti enim momenti mihi visae sunt, ut plus unâ vice de ipsis agendum
 esse judicarem; viamque sequor ad eas explicandas tam parum tritam, atque
-ab usu communi tam remotam, ut non utile putarim ipsam in gallico &amp;
+ab usu communi tam remotam, ut non utile putarim ipsam in gallico &
 passim ab omnibus legendo scripto fusi&ugrave;s docere, ne debiliora etiam
 ingenia credere possent eam sibi esse ingrediendam.
 
@@ -49,7 +49,7 @@ cognoscam, sequatur nihil etiam aliud revera ad illam pertinere.
  
 
  4. Alterum est, ex eo quod ideam rei me perfectioris in me habeam,
-non sequi ipsam ideam esse me perfectiorem, &amp; multo min&ugrave;s illud
+non sequi ipsam ideam esse me perfectiorem, & multo min&ugrave;s illud
 quod per istam ideam repraesentatur existere. Sed respondeo h&icirc;c subesse
 aequivocationem in voce ideae: sumi enim potest vel materialiter, pro operatione
 intellect&ucirc;s, quo sensu me perfectior dici nequit, vel objective, pro
@@ -64,31 +64,31 @@ in me sit, sequatur illam rem revera existere, fuse in sequentibus exponetur.
 non tam meae his de rebus rationes quàm conclusiones argumentis ex
 Atheorum locis [9] communibus mutuatis impugnabantur. Et quoniam istiusmodi
 argumenta nullam vim habere possunt apud eos, qui rationes meas intelligent,
-adeoque praepostera &amp; imbecillia sunt multorum judicia, ut magis a primum
-acceptis opinionibus, quantumvis falsis &amp; a ratione alienis, persuadeantur,
-quàm a verâ &amp; firmâ, sed posterius auditâ,
+adeoque praepostera & imbecillia sunt multorum judicia, ut magis a primum
+acceptis opinionibus, quantumvis falsis & a ratione alienis, persuadeantur,
+quàm a verâ & firmâ, sed posterius auditâ,
 ipsarum refutatione, nolo h&icirc;c ad illa respondere, ne mihi sint prius
 referenda. Tant&ugrave;mque generaliter dicam ea omnia, quae vulgo jactantur
 ab Atheis ad existentiam Dei impugnandam, semper ex eo pendere, quod vel
-humani affectus Deo affingantur, vel mentibus nostris tanta vis &amp; sapientia
-arrogetur, ut quidnam Deus facere possit ac debeat, determinare &amp; comprehendere
+humani affectus Deo affingantur, vel mentibus nostris tanta vis & sapientia
+arrogetur, ut quidnam Deus facere possit ac debeat, determinare & comprehendere
 conemur; adeo ut, mod&ograve; tant&ugrave;m memores simus mentes nostras
-considerandas esse ut finitas, Deum autem ut incomprehensibilem &amp; infinitum,
+considerandas esse ut finitas, Deum autem ut incomprehensibilem & infinitum,
 nullam ista difficultatem sint nobis paritura.
 
  
 
  6. Jam ver&ograve;, postquam hominum judicia semel utcunque sum
-expertus, iterum h&icirc;c aggredior easdem de Deo &amp; mente humanâ
+expertus, iterum h&icirc;c aggredior easdem de Deo & mente humanâ
 quaestiones, simulque totius primae Philosophiae initia tractare; sed ita
 ut nullum vulgi plausum, nullamque Lectorum frequentiam expectem: quin etiam
 nullis author sum ut haec legant, nisi tant&ugrave;m iis qui seri&ograve;
 mecum meditari, mentemque a sensibus, simulque ab omnibus praejudiciis,
 abducere poterunt ac volent, quales non nisi admodum paucos reperiri satis
-scio. Quantum autem ad illos, qui, rationum mearum seriem &amp; nexum comprehendere
+scio. Quantum autem ad illos, qui, rationum mearum seriem & nexum comprehendere
 non curantes, in singulas tant&ugrave;m clausulas, ut [10] multis in more
 est, argutari studebunt, non magnum ex hujus scripti lectione fructum sunt
-percepturi; &amp; quamvis forte in multis cavillandi occasionem inveniant,
+percepturi; & quamvis forte in multis cavillandi occasionem inveniant,
 non facile tamen aliquid quod urgeat aut responsione dignum sit objicient.
 
  
@@ -96,12 +96,12 @@ non facile tamen aliquid quod urgeat aut responsione dignum sit objicient.
  7. Quia ver&ograve; nequidem etiam aliis spondeo me in omnibus
 primâ fronte satisfacturum, nec tantum mihi arrogo ut confidam me
 omnia posse praevidere quae alicui difficilia videbuntur, primo quidem in
-Meditationibus illas ipsas cogitationes exponam, quarum ope ad certam &amp;
+Meditationibus illas ipsas cogitationes exponam, quarum ope ad certam &
 evidentem cognitionem veritatis mihi videor pervenisse, ut experiar an fort&egrave;
 iisdem rationibus, quibus ego persuasus sum, alios etiam possim persuadere.
-Postea vero respondebo ad objectiones virorum aliquot ingenio &amp; doctrinâ
+Postea vero respondebo ad objectiones virorum aliquot ingenio & doctrinâ
 excellentium, ad quos hae Meditationes, antequam typis mandarentur, examinandae
-missae sunt. Satis enim multa &amp; varia ab illis fuerunt objecta, ut ausim
+missae sunt. Satis enim multa & varia ab illis fuerunt objecta, ut ausim
 sperare non facile quicquam aliis, saltem alicujus momenti, venturum in
 mentem, quod ii nondum attigerint. Ideoque rogo etiam atque etiam Lectores,
 ut non prius de Meditationibus judicium ferant, quàm objectiones
