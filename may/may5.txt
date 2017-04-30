@@ -80,7 +80,7 @@ Captivam, domini gladios optare videtur.
 Ecce alia in Phario facies miseranda triumpho    65 
 Corda movet vulgi: incessit regina catenis 
 Arsino&euml;, passis per candida colla capillis, 
-Et teneras, modo quae gess&ecirc;re Aegyptia sceptra, 
+Et teneras, modo quae gessêre Aegyptia sceptra, 
 Auratis palmas manicis religata tenebat. 
 Quamvis Arsino&euml;n non h&icirc;c sententia mortis    70 
 Dura manet, parcit clementia Caesaris illi: 
@@ -91,7 +91,7 @@ H&icirc;c soror, abstulerat crimen Fortuna futurum!    75
 Nam miserae Arsino&euml; donatam a Caesare vitam 
 Crimine majori posthac soror impia tollet. 
 Maxima sed populi subiit miseratio mentes, 
-Cum vid&ecirc;re Afro pueri captiva triumpho 
+Cum vidêre Afro pueri captiva triumpho 
 Ora Jubae; cujus Libyco rex maximus orbe    80 
 Nuper erat genitor, qui tot modo regna, tot urbes, 
 Tot populos latâ tenuit ditione remotos. 
@@ -271,8 +271,8 @@ Tendebat, sponsae quaerens vestigia carae,    255
 Pyrenenque suam mosto clamore vocabat. 
 Pyrenen silvae, Pyrenen antra ferarum, 
 Et curvae toto resonabant monte cavernae. 
-Ingemuit locus ipse; ferae tremu&ecirc;re; metuque 
-Montani latu&ecirc;re lupi; nec quaerere praedam    260 
+Ingemuit locus ipse; ferae tremuêre; metuque 
+Montani latuêre lupi; nec quaerere praedam    260 
 Immanes audent ursi, torvive leones, 
 Dum nemore atque jugis graditur Tirynthius altis. 
 Sed, postquam laceros artus atque ora puellae 
@@ -304,7 +304,7 @@ Naturaeque putant segnem donare senectam.
 Augurii sacri, divinarumque peritam 
 Flammarum, pubem dives Gallaecia mittit.    290 
 Calla&iuml;ci veniunt, qui, demto Marte, laborem 
-Non ullum nov&ecirc;re viri: nam semina sulcis 
+Non ullum novêre viri: nam semina sulcis 
 Injicit, et duro glebas invertit aratro, 
 Femina, dum manibus peraguntur bella virorum. 
 A Minii ripis patrii venit impiger Astur,    295 

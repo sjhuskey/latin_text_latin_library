@@ -584,7 +584,7 @@ qu'il doit y avoir a+b+c+d=0 ; ab+ac+ad+bc
 est determinable comme on sait , par les quantités B,C,D , et sera
 par conseéquent réel, tout comme nous avons vu, qu'il est effectivement
  pqr=-C, et ppqqrr=CC . On reconnoitra aisément
-de m&ecirc;me, que dans les plus hautes équations cette m&ecirc;me
+de même, que dans les plus hautes équations cette même
 circonstance doit avoir lieu, et qu'on ne sauroit me faire des objections
 de ce coté.'' Conditionem, productum pqr etc. rationaliter 
 per B,C etc. determinari posse, E. nullibi adiecit, attamen
@@ -1360,7 +1360,7 @@ fuisse, si analystarum methodum imitatus essem.
  
 *6) In hanc expositionem error irrepsisse videtur, scilicet p. 118. l. 5.
 loco characteris v (on choissoit seulement celles o&ugrave; entroit p etc. ),
-necessario legere oportet, une m&ecirc;me racine quelconque de l'équation
+necessario legere oportet, une même racine quelconque de l'équation
 proposée , aut simile quid, quum illud nullum sensum habeat.
  
 

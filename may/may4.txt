@@ -15,14 +15,14 @@ LIBER QUARTUS
  
 Non funesta tamen clades, quas fecerat, omnes 
 Terra capit Thapsi; tantaeve jacere ruinae 
-Angusto potu&ecirc;re loco. Quot fata per oras 
+Angusto potuêre loco. Quot fata per oras 
 Thapsicae spargent ingentia vulnera pugnae! 
 Ne non diversis famam regionibus olim    5 
 Funera tantorum faciant divisa virorum. 
 Rex Juba, Petreio et paucis comitantibus, urbem 
 Ad Zamam, imperii sedem, quâ pignora cara, 
 Uxoresque suas, gazasque reliquerat omnes, 
-Advenit infelix. Sed jam claus&ecirc;re rebelles    10 
+Advenit infelix. Sed jam clausêre rebelles    10 
 Zamenses regi portas, victoque negârunt 
 Introitus, odium saevi crudele tyranni 
 Ausi fortunâ tandem pereunte fateri. 
@@ -99,7 +99,7 @@ Petreius cecidit. "Retine, Petreie, parumper
 "Sit Latium precor usque jugum grave; perfidiamque 
 "Hanc vestrum domino, domino perjore, luatis. "    85 
 Tunc iterum gladio pectus ferit: evolat acer 
-Spiritus; aeternaeque culos claus&ecirc;re tenebrae. 
+Spiritus; aeternaeque culos clausêre tenebrae. 
 Ecce alios luctus, aliudque per aequora funus 
 Nobile Thapsiacis Fortuna vehebat ab arvis. 
 Scipio, dux belli, tantâ de clade superstes,    90 
@@ -127,7 +127,7 @@ Testatus, clamat: "Pelagusque ipsaeque procellae,
 "Nam neque me Libye vicit: sed viribus ipsa 
 "Scipiadem, seseque, suis h&icirc;c Roma subegit. 
 "Cum patria a patriâ vincor; moriorque, cadente 
-"Libertate, libens. Mis&ecirc;re hunc Numina ventum    115 
+"Libertate, libens. Misêre hunc Numina ventum    115 
 "Adversum, ut morerer, ne, spe delusus inani, 
 "Optarem forsan tanto superesse dolori. 
 "Hispanas iterum Romana ad prolia gentes 
@@ -149,7 +149,7 @@ Flebilis hos cineres; nec tanto nomine dignas
 Exsequias tibi Roma dabit; passisve capillis 
 Scipiadem, extremum generis, lugebit ademtum.    135 
 Agmina, de campis passim fugientia, cunctas 
-Impl&ecirc;rant magnis Libyae terroribus oras. 
+Implêrant magnis Libyae terroribus oras. 
 Praesidiis tum forte Uticam Cato nobilis urbem 
 Ausoniis tenuit; qui, notâ clade senat&ucirc;s, 
 Scipiadaeque fugâ, victorem arcere parabat;    140 
@@ -234,17 +234,17 @@ Composita est; ideo nullo dissolvitur aevo;
 Sed sibi, corporeo laxata a carcere, vivit. 
 Felices posthac animae, quas corpora nullis    220 
 Fodârunt vitiis, nullaque libide morsas 
-Detinu&ecirc;re olim; quae, dum sub carne latebant, 
+Detinuêre olim; quae, dum sub carne latebant, 
 Contemplatrices abstractae a carne volârant 
 Saepius ad colos, colis post fata, quibuscum 
 Fodera sanxerunt viventes sacra, locantur:    225 
 Aeternâque illic laetantes luce fruuntur: 
 At tenebrosae animae, nimium quae carnibus olim 
-Demersae jacu&ecirc;re suis, queis tetra libido 
+Demersae jacuêre suis, queis tetra libido 
 Atque voluptates solum, quas sensus alebat, 
 In terris notae, posthac de carne solutae,    230 
 Adspectum coli, cum quo commercia nulla 
-Viventes habu&ecirc;re, timent; nec luce fruuntur: 
+Viventes habuêre, timent; nec luce fruuntur: 
 Sed tenebris dilecta nimis prope corpora semper 
 Ferales errant umbrae, mostaeque sepulcra 
 Bustaque foda colunt. Hinc noctu spectra videntur,    235 
@@ -303,7 +303,7 @@ Hic dubitans haesit paulum Cato. "Non datur ergo
 "Et non displiceat duro servire Catoni. 
 "Ah! potius fragilem hanc sit fas abrumpere vitam, 
 "Quam te, Libertas, violem. Sed, Numina si te    290 
-"Nunc tandem juss&ecirc;re mori, tua funera saltem 
+"Nunc tandem jussêre mori, tua funera saltem 
 "Prosequar, et Stygias liber comitabor ad umbras. 
 "Non ultra dubitare licet. " Tunc pectora dextrâ 
 Nuda ferit moriensque cadit; morientis ad ictum 
@@ -316,7 +316,7 @@ Dilacerat; mortemque docet non posse negari.    300
 Caesar, Thapsiacâ victor de clade reversus, 
 Tendit Adrumentum, cum jam victoria passim 
 Securum praestabat iter. Non arma nec ullae 
-Insidiae claus&ecirc;re vias. Ignoscit ubique 
+Insidiae clausêre vias. Ignoscit ubique 
 Supplicibus; cum nulla videt restare pericla,    305 
 Tutaque fortunâ facta est clementia tantâ. 
 Inde Uticam advenit Caesar; fataque Catonis 
@@ -358,7 +358,7 @@ Rem notam populis adstans Libys incola narrat:
 "Haec, Caesar, multos jam non habitata per annos, 
 "Antra immensa olim monstrum exitiale tenebat, 
 "Pestis, et ira Deum, serpens, cui saecula nulla    345 
-"Produx&ecirc;re parem terris; non tanta palude 
+"Produxêre parem terris; non tanta palude 
 "Lernaeâ tumuit reparatis anguibus Hydra; 
 "Nec qui poma draco custodiit aurea; nec, quem, 
 "Servantem vigili Phryxeum lumine vellus, 
@@ -377,17 +377,17 @@ Rem notam populis adstans Libys incola narrat:
 "Atque cruentati taurorum caede leones, 
 "Flumina dum libant, monstri conduntur in alvo. 
 "Atque utinam his tantum praedia contenta fuisset 
-"Ingluvies; peri&ecirc;re homines, quicumque per aestum    365 
+"Ingluvies; periêre homines, quicumque per aestum    365 
 "Umbrosae fessi petierunt tegmina silvae, 
 "Aut quicumque istos, adverso numine ducti, 
-"Adven&ecirc;re viri gelidos haurire liquores. 
+"Advenêre viri gelidos haurire liquores. 
 "Nam, simul ac nigro serpens caput extulit antro 
-"Horrendus, totamque impl&ecirc;runt sibila silvam,    370 
+"Horrendus, totamque implêrunt sibila silvam,    370 
 "Attonitos timor invasit; non ulla salutis 
 "Spes manibus, non ulla fugâ: deprendere praedam 
 "Distendit subito toto se corpore serpens. 
 "Saepius in flumen, monstrum vitare nefandum, 
-"Desilu&ecirc;re viri: sed non praestare salutem    375 
+"Desiluêre viri: sed non praestare salutem    375 
 "Flumen eis potuit: nantes comprendit in undis; 
 "Nec mergi licuit miseris: pejora manebant 
 "Fata illos: monstri obsconâ conduntur in alvo. 
@@ -407,7 +407,7 @@ Rem notam populis adstans Libys incola narrat:
 "Dux capere arma jubet, nec solis ensibus illic, 
 "Aut pilis, sed ballistis, quae monia summa 
 "Et turres quaterent, monstro nova bella parari. 
-"Protinus insonu&ecirc;re tubae; tunc ergit alte    395 
+"Protinus insonuêre tubae; tunc ergit alte    395 
 "Se, dirumque caput serpens attollit in auras, 
 "Undique despiciens campos; tantusque videtur 
 "Quantus is est, geminas colo qui dividit Arctos. 
@@ -421,7 +421,7 @@ Rem notam populis adstans Libys incola narrat:
 "Sternit humo, latas caudâ dum verrit arenas. 
 "Consternuntur equi passim, frenisque rebelles 
 "Invitos saevi dominos serpentis ab irâ, 
-"Dum fugiunt campo, portant: cess&ecirc;re manipli; 
+"Dum fugiunt campo, portant: cessêre manipli; 
 "Tergaque vertissent (si fas credere) cuncti,    410 
 "Ni tandem valido contortum hastile lacerto, 
 "Dum sese arrectus tollit, sub pectore diro 
@@ -456,7 +456,7 @@ Rem notam populis adstans Libys incola narrat:
 "Horrendus tandem serpens tot jugera magno 
 "Ventre premens, ipsâ metuenus morte jacebat. " 
 Postquam oculos silvae miracula tanta vetustae 
-Caesaris impl&ecirc;ssent, Uticâ discessit ab urbe; 
+Caesaris implêssent, Uticâ discessit ab urbe; 
 Et, victi per regna Jubae victricia ducens    445 
 Agmina, regalis famosa ad monia Zamae 
 Pervenit. Ducis h&icirc;c Petreii animosa Jubaeque 

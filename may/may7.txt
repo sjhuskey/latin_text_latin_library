@@ -114,7 +114,7 @@ Tessera: sicque alacri compellat voce senatum:
 "Cur gravis metuenda, Patres, sit nostra potestas, 
 "Quae vitam tot devictis dedit hostibus, et tot    100 
 "Exsulibus reditum? quis jussu Caesaris unquam, 
-"Dun silu&ecirc;re tubae, jugulatus concidit hostis? 
+"Dun siluêre tubae, jugulatus concidit hostis? 
 "Scipiadae chartas post Thapsi bella cremavi 
 "Non lectas, ne quos victor deprendere possem, 
 "Et punire hostes: potius quam caede tueri    105 
@@ -138,7 +138,7 @@ Tessera: sicque alacri compellat voce senatum:
 "Convertam. Ausonias aquilas, amissaque signa, 
 "Aut referam, aut moriar; dignis aut cladibus ultus 
 "Tunc erit, aut caeso comitatus Caesare, Crassus."    125 
-Assens&ecirc;re Patres: placuit tam nobile bellum, 
+Assensêre Patres: placuit tam nobile bellum, 
 Et tantus ductor: cui Parthica bella senatus 
 Nequidquam mandat. Coeptis ingentibus obstant 
 Fata; nec Ausoniae decus hoc, nec Caesaris armis, 
@@ -200,7 +200,7 @@ Cassius aggreditur: "Non vanis, Brute, querelis
 "Victori satis est, nisi sit quoque sola potestas.    185 
 "Vera ideo imperii quaerens insignia, sceptrum 
 "Et diadema petit: probat hoc (quod vidimus omnes) 
-"Sacra tribunorum (dum detrax&ecirc;re coronam 
+"Sacra tribunorum (dum detraxêre coronam 
 "Caesareae nuper status) violata potestas. 
 "An coram populo (quamvis tum respuit) illi    190 
 "Obtulit invito diadema Antonius audax? 
@@ -214,7 +214,7 @@ Cassius aggreditur: "Non vanis, Brute, querelis
 "Majore invidiâ caedes peragenda manebit." 
 Ingemuit Brutus, tristique has pectore voces    200 
 Edidit: "O Cassi! frustra, quod Numina nobis 
-"Imposu&ecirc;re, jugum jam detrectamus acerbum. 
+"Imposuêre, jugum jam detrectamus acerbum. 
 "An libertatem Superi, causamque senat&ucirc;s, 
 "Tot damnaverunt bellis, tot cladibus, ut jam 
 "Insidiis possint et proditione tueri?    205 
@@ -222,7 +222,7 @@ Edidit: "O Cassi! frustra, quod Numina nobis
 "Libertas populi Latii, quam caede dolosâ, 
 "Fraudibus, et gladio occulto videatur egere. 
 "Talibus insidiis hostes, civesque nefandos, 
-"Vincere Romani dux&ecirc;re ignobile prisci.    210 
+"Vincere Romani duxêre ignobile prisci.    210 
 "Incertae potius patriam permittere belli 
 "Fortunae voluit, quam si te tollere, Pyrrhe, 
 "Fabricius: nec non, quamvis Sertorius audax 
@@ -234,10 +234,10 @@ Edidit: "O Cassi! frustra, quod Numina nobis
 "Praeferre imperio crudelia tempora Sullae, 
 "Ni furias praeferre Deis audebit? Ut illi    220 
 "Degeneres nimium proceres, pavidique, vocantur, 
-"Qui tantum subi&ecirc;re jugum; sic Caesaris ista 
+"Qui tantum subiêre jugum; sic Caesaris ista 
 "Virtuti et meritis ingrata vocabitur aetas; 
 "Plusque senes illi damnabunt crimina nostra, 
-"Tempora qui saevi memin&ecirc;re immania Sullae.    225 
+"Tempora qui saevi meminêre immania Sullae.    225 
 "Sed me praecipue miserum quâ cuncta notabit 
 "Posteritas famâ, quem tanto Caesar amore, 
 "Totque sibi meritis semper devinxit? Iniqua 
@@ -278,7 +278,7 @@ Cassius; "Exoptes Parthis si, Brute, triumphum    240
 "Quid nunc egisset Brutus, qui talia fecit, 
 "Cum nova libertas, et reges nuper abacti?" 
 Hac postquam juvenem flexisset Cassius arte,    265 
-Cum Decimo proceres reliqui ven&ecirc;re; datâque 
+Cum Decimo proceres reliqui venêre; datâque 
 Acceptâque fide, sanxerunt foedera dira; 
 Et libertatem amissam, quam sanguine tanto 
 Tot bellis frustra quaes&icirc;ssent, quaeque, Deorum 
@@ -293,8 +293,8 @@ Has Idus frustra monuit Spurinna timendas.
 Sol quoque moesta dedit tantae praesagia mortis: 
 Lugenti similem, madidâ nunc iride cinctum, 
 Nunc caput obscurâ tectum ferrugine, solem    280 
-Attoniti vid&ecirc;re homines; pecudesque locutae. 
-Destitu&ecirc;re amnes cursum; terraeque cavernas 
+Attoniti vidêre homines; pecudesque locutae. 
+Destituêre amnes cursum; terraeque cavernas 
 Spiritus erumpens detexerat. Imbre tumescens 
 Eridanus subito vicinos merserat agros: 
 Et, subito ad ripas rediens, per prata reliquit    285 
@@ -305,7 +305,7 @@ Caesaream propiora necem sed signa notabant.
 Nam, quos victor equos finito Marte sacrârat    290 
 Caesar, et emeritos bellis permiserat alto 
 Depasci nemore, et per dulcia rura vagari, 
-Ante necem domini multis lux&ecirc;re diebus. 
+Ante necem domini multis luxêre diebus. 
 Non illis amnes, non illis pascua curae; 
 Sed lacrymis prata humectant: caedemque cruentam    295 
 Praecedente die, cum lauri regia ramum 
@@ -315,7 +315,7 @@ Et Pompeianâ captam laceravit in aulâ.
 Horrida prodigiis adexerat nox ultima vitae    300 
 Caesareae; diris turbata Palatia monstris 
 Excutiunt somnum cunctis; et flebile totis 
-Aedibus auditur murmur. Patu&ecirc;re reclusae 
+Aedibus auditur murmur. Patuêre reclusae 
 Sponte fores; raucum dederant crepitantia Martis 
 Arma sonum; moestisque canes ululatibus implent    305 
 Atria; ferales effundit saepe querelas 
@@ -349,7 +349,7 @@ Dimissas nuper monuit revocare cohortes,
 Et stipatores fidos: non esse pavoris, 
 Sed pietatis, opus, Divorum ostenta timere.    335 
 Cuui Caesar contra: "Plus me, Calpurnia, luctus 
-"Et lactymae mov&ecirc;re tuae, quam tristia vatum 
+"Et lactymae movêre tuae, quam tristia vatum 
 "Responsa, infaustae volucres, aut ulla dierum 
 "Vana superstitio poterant, Ostenta timere 
 "Si nunc inciperem, quae non mihi tempora posthac    340 
@@ -383,8 +383,8 @@ Conjugis amplexus; magnaeque capacia turbae,
 Et tantos pariter mox exceptura clientes, 
 Magnifico splendent excelsa Palatia cultu. 
 Festini proceres, magnique ad limina Patres,    370 
-Luce salutatum primâ ven&ecirc;re, domumque 
-Admissi impl&ecirc;runt. Animus non omnibus unus: 
+Luce salutatum primâ venêre, domumque 
+Admissi implêrunt. Animus non omnibus unus: 
 Caesareo quidam vere laetantur honore: 
 Pars alia, invidiae stimulis agitata nefandis, 
 Quem mactare parant, falso venerantur honore;    375 
@@ -394,7 +394,7 @@ Praecipue dederat, ductorem saepe morantem
 Incitat: et spretis hortatur adire senatum 
 Prodigiis. Tandem, Patrum famulante catervâ,    380 
 Progreditur Caesar. Quamvis ostendere caedem 
-Venturam Superi non cessav&ecirc;re minaces, 
+Venturam Superi non cessavêre minaces, 
 Progreditur tamen; atque (o mira potentia fati!) 
 Dum transit, chartam oblatam, quae nomina tanta 
 Conjuratorum, facinusque ex ordine totum,    385 
@@ -402,8 +402,8 @@ Detegit, ante sinu, quam sit perlecta, recondit;
 Funestamque intrat fatis urgentibus aedem. 
 Caesaris intenti jugulo stant undique Patres, 
 Et conjurati proceres; altamque curulem 
-Circumdant. Primo adspectu cecid&ecirc;re parumper    390 
-Audaces animi, et fortes tremu&ecirc;re lacerti. 
+Circumdant. Primo adspectu cecidêre parumper    390 
+Audaces animi, et fortes tremuêre lacerti. 
 Jam paene inceptum damnant. Armare videtur 
 Ingens fama ducem, majestas laurea frontis, 
 Terribilis decor, et gestarum gloria rerum. 

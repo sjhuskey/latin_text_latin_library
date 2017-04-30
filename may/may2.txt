@@ -65,9 +65,9 @@ Nec placidam celare studet, sed pascere, flammam.
 "Aut quae fama, potest? quid sic durissima virtus    50 
 "Oppugnata ageret? facies absolveret ista 
 "Judice raptorem colo: nam talia quondam 
-"Stupra Deis summis celebres tribu&ecirc;re po&euml;tae, 
-"Aethere qui toties posu&ecirc;re Tonantis amicas, 
-"Et formâ eximias fec&ecirc;re hero&iuml;das astra.    55 
+"Stupra Deis summis celebres tribuêre po&euml;tae, 
+"Aethere qui toties posuêre Tonantis amicas, 
+"Et formâ eximias fecêre hero&iuml;das astra.    55 
 "Temporibus si visa illis Cleopatra fuisset, 
 "Non coma Niliacae Berenices aurea colo 
 "Fulsisset, pulchrae nec Pleiades astra fuissent; 
@@ -139,7 +139,7 @@ Donaque, et illustris gestarum gloria rerum,
 Femineae poterant menti. Nec crimen inesse 
 Concubitu nimium tali, Cleopatra, putabunt,    125 
 Qui Ptolemaeorum thalamos, consuetaque jura 
-Incestae nov&ecirc;re dom&ucirc;s, fratemque sorori 
+Incestae novêre dom&ucirc;s, fratemque sorori 
 Conjugio junctum, sacrae sub nomine taedae 
 Majus adulterio delictum. Turpius &icirc;sset 
 (Quis credat?) justi ad thalamos Cleopatri mariti;    130 
@@ -185,7 +185,7 @@ Atque inopes, qui cum mundo commercia solis
 Naufragiis Nasamones habent: Garamantes, iniquo    170 
 Sub colo positi, steriles qui semper arenas, 
 Squalidaque arva tenent solis fecunda venenis. 
-Cumque his Marmaridae medicas eg&ecirc;re catervas, 
+Cumque his Marmaridae medicas egêre catervas, 
 Serpent&ucirc;m morsus cantu curare parati. 
 Audaces Numidae, et frenorum nescia turba,    175 
 Massyli, levibus n&ocirc;runt qui flectere virgis 
@@ -197,7 +197,7 @@ Venatoris equi celerem, cervique fugacis,
 Assueti; atque Mibae vicino sole perusti, 
 Qui ferrum infamant, scelerataque tela venenis; 
 Et, membra hirsutâ capri qui pelle tegentur, 
-Cinyphii ven&ecirc;re Macae; fortisque juventus,    185 
+Cinyphii venêre Macae; fortisque juventus,    185 
 Quam Vaga, quamque Uzzita dabat, quam regia Zama 
 Nutrivit, vexilla Jubae comitantur euntis. 
 Scipiadae Latiisque aquilis haec agmina jungit 
@@ -238,13 +238,13 @@ Destrueret rursum imperii fastigia tanti:
 Nec plus res Latias facie Cleopatra nocente, 
 Quam gladii ultores, et Thessala castra, juvaret. 
 Non tamen a Phariis primo civilia bella    225 
-Deliciis trax&ecirc;re ducem, tantumve soporem 
-Excuss&ecirc;re tubae Latiae. Rex debilis illum, 
+Deliciis traxêre ducem, tantumve soporem 
+Excussêre tubae Latiae. Rex debilis illum, 
 Et cito casurus, Pharances, excitat, ut non 
 Ipse ruat solus: sed secum nobilioris 
 Fata trahat populi. Sic, cum leo magnus apertis    230 
 Dormivit campis, passim formidine nullâ 
-Illaesi carps&ecirc;re greges sua pabula; parvus 
+Illaesi carpsêre greges sua pabula; parvus 
 Forte culex stimulis audacibus ora leonis 
 Cum pupugit, somno excusso, fera nobilis irâ 
 Infredens magnâ, postquam protriverit hostem    235 
@@ -296,7 +296,7 @@ Quam verbis abiens solatur Caesar amicis:
 "A te, quae fusca Aegypti lucentibus arva 
 "Irradias oculis, et splendidiora Deorum 
 "Tramite colesti, cui lactea nomina Graeci 
-"Antiqui tribu&ecirc;re, facis; sine quâ mihi tellus 
+"Antiqui tribuêre, facis; sine quâ mihi tellus 
 "Nulla placet, triste exsilium Roma ipsa videtur.    285 
 "Sed nos hinc majora vocant certamina; nondum 
 "Attigit optati Caesar fastigia regni. 
@@ -376,7 +376,7 @@ Terga premens, horas contraxerat inde diurnas    360
 Phobus; et acris hiems cursum frenârat aquarum, 
 Nudaque vestierat niveis nemora alta pruinis, 
 Sed praeceps Caesar, quem nunquam in bella ruentem 
-Tempestas tristesve hiemes potu&ecirc;re morari, 
+Tempestas tristesve hiemes potuêre morari, 
 Ter jam Romuleâ factus dictator in urbe,    365 
 Vela dedit ventis, paulumque moratus in oris 
 Sicaniis, iterum Lilybaeo a litore solvit; 
