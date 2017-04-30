@@ -629,7 +629,7 @@ THRASEAS PAETUS, HELVIDIUS PRISCUS
  C. VIP. moderator orbis Caesar has ad vos,
 patres, 
 dedit exhibendas litteras: illas legam. 
-&igrave;dii me, daeque, quam pereo, peius velint
+"dii me, daeque, quam pereo, peius velint
   
 perire, si quid, quo modo, scribam, scio.  2615 
 ut criminetur filius matrem, grave: 
@@ -937,9 +937,9 @@ SEN. utcunque caedas plurimos, illum tamen,
   2815 
 qui surrogandus, caedere priorem nequis. 
  
- NERO &igrave;utcunque caedas plurimos, illum
+ NERO "utcunque caedas plurimos, illum
 tamen, 
-qui surrogandus, caedere priorem nequis?î 
+qui surrogandus, caedere priorem nequis?"
 mentem efferatam frangis hoc dicto: nequit 
 successor interire, nisi strage omnium.
   2820 
