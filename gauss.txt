@@ -253,7 +253,7 @@ a p libera solas q, X et constantes inuoluat. Quamobrem
 quum X per valores reales ipsarum p,q omnes valores ab R vsque
 ad T percurrerit, per praecc. X versus valorem U adhuc propius
 accedere posse tribuendo ipsius p, q valores tales α+&gamma;&radic;-1 ,
- β+&delta;&radic;-1 resp. Hinc vero fieri x=α-&delta;+(&gamma;+β)&radic;-1 , i. e. 
+ β+δ&radic;-1 resp. Hinc vero fieri x=α-δ+(&gamma;+β)&radic;-1 , i. e. 
 adhuc sub forma p+q&radic;-1 esse, contra hyp.
  
 
@@ -760,22 +760,22 @@ similiterque formulam, quae co&euml;fficientem M&prime;&prime; per u&prime;&prim
 exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u&prime;&prime; etc. Hoc
 luculentissime perspicietur, si aequationem quarti gradus pro exemplo
 assumimus. Ponamus itaque m=4 , sintque radices aequationis
- Z=0 , hae α, β, &gamma;, &delta; . Tum patet aequationem U=0 fore
-sexti gradus ipsiusque radices -(α+β) , -(α+&gamma;) , -(α+&delta;) ,
- -(β+&gamma;) , -(β+&delta;) , -(&gamma;+&delta;) . Aequatio U&prime;=0 autem erit
-decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+&gamma; , 2α+β+&delta; ,
- 2α+&gamma;+&delta; , 2β+α+&gamma; , 2β+α+&delta; , 2β+&gamma;+&delta; , 2&gamma;+α+β ,
- 2&gamma;+α+&delta; , 2&gamma;+β+&delta; , 2&delta;+α+β , 2&delta;+α+&gamma; , 2&delta;+β+&gamma; ,
- α+β+&gamma;+&delta; , α+β+&gamma;+&delta; , α+β+&gamma;+&delta; . Iam in hac aequatione,
+ Z=0 , hae α, β, &gamma;, δ . Tum patet aequationem U=0 fore
+sexti gradus ipsiusque radices -(α+β) , -(α+&gamma;) , -(α+δ) ,
+ -(β+&gamma;) , -(β+δ) , -(&gamma;+δ) . Aequatio U&prime;=0 autem erit
+decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+&gamma; , 2α+β+δ ,
+ 2α+&gamma;+δ , 2β+α+&gamma; , 2β+α+δ , 2β+&gamma;+δ , 2&gamma;+α+β ,
+ 2&gamma;+α+δ , 2&gamma;+β+δ , 2δ+α+β , 2δ+α+&gamma; , 2δ+β+&gamma; ,
+ α+β+&gamma;+δ , α+β+&gamma;+δ , α+β+&gamma;+δ . Iam in hac aequatione,
 quippe cuius gradus est impar, subsistendum erit, habebitque
-ea reuera radicem realem α+β+&gamma;+&delta; (quae primo co&euml;fficienti in
+ea reuera radicem realem α+β+&gamma;+δ (quae primo co&euml;fficienti in
  Z mutato signo aequalis adeoque non modo realis sed etiam rationalis
 erit, si co&euml;fficientes in Z sunt rationales). Sed nullo negotio
 perspici potest, si formula detur, quae valorem ipsius M&prime; 
 per valorem respondentem ipsius u&prime; rationaliter exhibeat, hanc
-necessario pro u&prime;=α+β+&gamma;+&delta; indeterminatam fieri. Hic enim
+necessario pro u&prime;=α+β+&gamma;+δ indeterminatam fieri. Hic enim
 valor ter erit radix aequationis U&prime;=0 , respondebuntque ipsi tres
-valores ipsius M&prime; , puta (α+β)(&gamma;+&delta;) , (α+&gamma;)(β+&delta;) et (α+&delta;)(β+&gamma;) ,
+valores ipsius M&prime; , puta (α+β)(&gamma;+δ) , (α+&gamma;)(β+δ) et (α+δ)(β+&gamma;) ,
 qui omnes irrationales esse possunt. Manifesto autem formula
 rationalis neque valorem irrationalem ipsius M&prime; in hoc casu producere
 posset, neque tres valores diuersos. Ex hoc specimine
