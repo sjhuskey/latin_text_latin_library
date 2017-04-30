@@ -173,9 +173,9 @@ mauis, in m factores simplices.
 
  
 Prima theorematis demonstratio illustri geometrae d'Alembert
-debetur, Recherches sur le calcul int&eacute;gral, Histoire de l'Acad. de
-Berlin, Ann&eacute;e 1746, p. 182. sqq. Eadem extat in Bongainville,
-Trait&eacute; du calcul int&eacute;gral, à Paris 1754. p. 47. sqq. Methodi
+debetur, Recherches sur le calcul intégral, Histoire de l'Acad. de
+Berlin, Année 1746, p. 182. sqq. Eadem extat in Bongainville,
+Traité du calcul intégral, à Paris 1754. p. 47. sqq. Methodi
 huius praecipua momenta haec sunt.
 
  
@@ -378,7 +378,7 @@ agam; conf. interim infra art. 23.
  
 Post d'Alembertum ill. Euler disquisitiones suas de eodem
 argumento promulgauit, Recherches sur les racines imaginaires des
-&eacute;quations, Hist. de l'Acad. de Berlin A. 1749. p. 223 sqq. 
+équations, Hist. de l'Acad. de Berlin A. 1749. p. 223 sqq. 
 Methodum duplicem hic tradidit: prioris summa continetur in sequentibus.
  
  
@@ -569,24 +569,24 @@ gradus explicat, haec sunt (vbi a, b, c, d sunt radices
 aequationes propositae x 4 +Bxx+Cx+D=0 ):
 
  
-''On m'objectera sans doute, que j'al suppos&eacute; ici, que la
-quantit&eacute; pqr &eacute;toit une quantit&eacute; r&eacute;elle, et que son quarr&eacute; ppqqrr 
-&eacute;toit affirmatif; ce qui &eacute;toit encor douteux, vu que les racines
- a, b, c, d &eacute;tant imaginaire, il pourroit bien arriver, que le quarr&eacute;
-de la quantit&eacute; pqr , qui en es compos&eacute;e, fut negatif. Or je
+''On m'objectera sans doute, que j'al supposé ici, que la
+quantité pqr étoit une quantité réelle, et que son quarré ppqqrr 
+étoit affirmatif; ce qui étoit encor douteux, vu que les racines
+ a, b, c, d étant imaginaire, il pourroit bien arriver, que le quarré
+de la quantité pqr , qui en es composée, fut negatif. Or je
 reponds à cela que ce cas ne sauroit jamais avoir lieu; car
 quelque imaginaires que soient les racines a,b,c,d, on sait pourtant,
 qu'il doit y avoir a+b+c+d=0 ; ab+ac+ad+bc 
  +bb+cd=B ; abc+abd+acd+bcd=-C *5) ;
  abcd 
- =D , ces quantit&eacute;s B,C,D &eacute;tant r&eacute;elles. Mais puisque p= 
+ =D , ces quantités B,C,D étant réelles. Mais puisque p= 
  a+b, q=a+c, r=a+b , leur produit pqr=(a+b)(a+c)a+d) 
-est determinable comme on sait , par les quantit&eacute;s B,C,D , et sera
-par conse&eacute;quent r&eacute;el, tout comme nous avons vu, qu'il est effectivement
- pqr=-C, et ppqqrr=CC . On reconnoitra ais&eacute;ment
-de m&ecirc;me, que dans les plus hautes &eacute;quations cette m&ecirc;me
+est determinable comme on sait , par les quantités B,C,D , et sera
+par conseéquent réel, tout comme nous avons vu, qu'il est effectivement
+ pqr=-C, et ppqqrr=CC . On reconnoitra aisément
+de m&ecirc;me, que dans les plus hautes équations cette m&ecirc;me
 circonstance doit avoir lieu, et qu'on ne sauroit me faire des objections
-de ce cot&eacute;.'' Conditionem, productum pqr etc. rationaliter 
+de ce coté.'' Conditionem, productum pqr etc. rationaliter 
 per B,C etc. determinari posse, E. nullibi adiecit, attamen
 semper subintellexisse videtur, quum absque illa demonstratio
 nullam vim habere possit. Iam verum quidem est in aequationibus
@@ -1360,8 +1360,8 @@ fuisse, si analystarum methodum imitatus essem.
  
 *6) In hanc expositionem error irrepsisse videtur, scilicet p. 118. l. 5.
 loco characteris v (on choissoit seulement celles o&ugrave; entroit p etc. ),
-necessario legere oportet, une m&ecirc;me racine quelconque de l'&eacute;quation
-propos&eacute;e , aut simile quid, quum illud nullum sensum habeat.
+necessario legere oportet, une m&ecirc;me racine quelconque de l'équation
+proposée , aut simile quid, quum illud nullum sensum habeat.
  
 
  
