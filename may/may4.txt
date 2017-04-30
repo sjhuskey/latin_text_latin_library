@@ -125,7 +125,7 @@ Testatus, clamat: "Pelagusque ipsaeque procellae,
 "Hannibal ex acie testantur, fata nepotis    110 
 "Ne pudeat vestri, miserandaque bella, videre. 
 "Nam neque me Libye vicit: sed viribus ipsa 
-"Scipiadem, seseque, suis h&icirc;c Roma subegit. 
+"Scipiadem, seseque, suis hîc Roma subegit. 
 "Cum patria a patriâ vincor; moriorque, cadente 
 "Libertate, libens. Misêre hunc Numina ventum    115 
 "Adversum, ut morerer, ne, spe delusus inani, 
@@ -336,7 +336,7 @@ Audito, ingemuit; questusque, "O invide!" dixit,
 "Barbaricae potius quam nostro elegit amori. 
 "Sed tamen ille, suas sperans reparare ruinas, 
 "Auxilium infido, non mortem, a rege petivit, 
-"Quam tamen invitus subiit: tu sponte per&icirc;sti, 
+"Quam tamen invitus subiit: tu sponte perîsti, 
 "Invidiam facture mihi. Sed detrahet illam    325 
 "Invidiam, et spes injustas clementia vincet. 
 "Deflebo funus, natumque amplectar honore; 
@@ -394,7 +394,7 @@ Rem notam populis adstans Libys incola narrat:
 "Sic impune diu silvâ grassatus in istâ, 
 "Egressus tandem est, et se ad majora paravit.    380 
 "Quid pecudum strages, quid singula fata virorum 
-"Persequar? haud vacat h&icirc;c privatas dicere clades. 
+"Persequar? haud vacat hîc privatas dicere clades. 
 "In populos furit; et totis cum gentibus atrox 
 "Bella gerens, ausus Romana lacessere castra est. 
 "Cum primum turmas Libyes ad litora duxit    385 
@@ -459,7 +459,7 @@ Postquam oculos silvae miracula tanta vetustae
 Caesaris implêssent, Uticâ discessit ab urbe; 
 Et, victi per regna Jubae victricia ducens    445 
 Agmina, regalis famosa ad monia Zamae 
-Pervenit. Ducis h&icirc;c Petreii animosa Jubaeque 
+Pervenit. Ducis hîc Petreii animosa Jubaeque 
 Funera cognoscens, animo tam tristia fata, 
 Fortunaeque vices summae miseratur amaras. 
 Tunc urbe exceptus, Zamenses laudat, et illis    450 
