@@ -25,7 +25,7 @@ Augustine: De Civitate Dei Liber IV
  
 
  
-[IV] Remota itaque iustitia quid sunt regna nisi magna latrocinia? quia et latrocinia quid sunt nisi parua regna? Manus et ipsa hominum est, imperio principis regitur, pacto societatis astringitur, placiti lege praeda diuiditur. Hoc malum si in tantum perditorum hominum accessibus crescit, ut et loca teneat sedes constituat, ciuitates occupet populos subiuget, euidentius regni nomen adsumit, quod ei iam in manifesto confert non dempta cupiditas, sed addita inpunitas. Eleganter enim et ueraciter Alexandro illi Magno quidam comprehensus pirata respondit. Nam cum idem rex hominem interrogaret, quid ei uideretur, ut mare haberet infestum, ille libera contumacia: Quod tibi, inquit, ut orbem terrarum; sed quia &lt;id&gt ego exiguo nauigio facio, latro uocor; quia tu magna classe, imperator. 
+[IV] Remota itaque iustitia quid sunt regna nisi magna latrocinia? quia et latrocinia quid sunt nisi parua regna? Manus et ipsa hominum est, imperio principis regitur, pacto societatis astringitur, placiti lege praeda diuiditur. Hoc malum si in tantum perditorum hominum accessibus crescit, ut et loca teneat sedes constituat, ciuitates occupet populos subiuget, euidentius regni nomen adsumit, quod ei iam in manifesto confert non dempta cupiditas, sed addita inpunitas. Eleganter enim et ueraciter Alexandro illi Magno quidam comprehensus pirata respondit. Nam cum idem rex hominem interrogaret, quid ei uideretur, ut mare haberet infestum, ille libera contumacia: Quod tibi, inquit, ut orbem terrarum; sed quia <id&gt ego exiguo nauigio facio, latro uocor; quia tu magna classe, imperator. 
  
 
  

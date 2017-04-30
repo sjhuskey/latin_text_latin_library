@@ -161,7 +161,7 @@ neque iam quo pacto celem erilis filiae
 probrum, propinqua partitudo cui appetit,     75 
 queo comminisci; neque quicquam meliust mihi, 
 ut opinor, quam ex me ut unam faciam litteram 
-longam, &lt;meum> laqueo collum quando obstrinxero. 
+longam, <meum> laqueo collum quando obstrinxero. 
 
  
  I.ii 
@@ -224,11 +224,11 @@ causa facere, ut aequom est germanam sororem.
 quamquam haud falsa sum nos odiosas haberi; 
 nam multum loquaces merito omnes habemur, 
 nec mutam profecto repertam ullam esse    125 
-&lt;aut> hodie dicunt mulierem &lt;aut> ullo in saeclo. 
+<aut> hodie dicunt mulierem <aut> ullo in saeclo. 
 verum hoc, frater, unum tamen cogitato, 
 tibi proximam me mihique esse item te; 
 ita aequom est quod in rem esse utrique arbitremur 
-et mihi te et tibi &lt;me> consulere et monere;     130 
+et mihi te et tibi <me> consulere et monere;     130 
 neque occultum id haberi neque per metum mussari, 
 quin participem pariter ego te et tu me ut facias. 
 eo nunc ego secreto ted huc foras seduxi, 
@@ -282,7 +282,7 @@ scio quid dictura es: hanc esse pauperem. haec pauper placet.
 me? num quid vis? M. Vale.      175 
  EVN. Et tu, frater.— MEG. Ego conveniam Euclionem,
 si domi est. 
-sed eccum &lt;video>. nescio unde sese homo recipit domum. 
+sed eccum <video>. nescio unde sese homo recipit domum. 
 
  
  II.ii 
@@ -370,7 +370,7 @@ nam si opulentus it petitum pauperioris gratiam,
 pauper metuit congrediri, per metum male rem gerit. 
 idem, quando occasio illaec periit, post sero cupit. 
  EVCL. Si hercle ego te non elinguandam dedero usque ab radicibus,   250 
-impero auctorque &lt;ego> sum, ut tu me cuivis castrandum loces. 
+impero auctorque <ego> sum, ut tu me cuivis castrandum loces. 
  MEG. Video hercle ego te me arbitrari, Euclio, hominem idoneum, 
 quem senecta aetate ludos facias, haud merito meo. 
  EVCL. Neque edepol, Megadore, facio, neque, si cupiam, copia
@@ -414,14 +414,14 @@ nam ecastor malum maerore metuo ne mixtum bibam.—
  PYTHODICVS Postquam obsonavit erus et conduxit coquos  280 
 tibicinasque hasce apud forum, edixit mihi 
 ut dispertirem obsonium hic bifariam. 
- ANTHRAX Me quidem hercle, dicam &lt;tibi> palam, non divides; 
+ ANTHRAX Me quidem hercle, dicam <tibi> palam, non divides; 
 si quo tu totum me ire vis, operam dabo. 
  CONGRIO Bellum et pudicum vero prostibulum popli.   285 
 post si quis vellet, te haud non velles dividi. 
  PYTH. Atque ego istuc, Anthrax, alio vorsum dixeram, 
 non istuc quo tu insimulas. sed erus nuptias 
 meus hodie faciet. ANTHR. Cuius ducit filiam? 
- PYTH. Vicini huius Euclionis &lt;senis> e proximo.  290 
+ PYTH. Vicini huius Euclionis <senis> e proximo.  290 
 ei adeo obsoni hinc iussit dimidium dari, 
 cocum alterum itidemque alteram tibicinam. 
  ANTHR. Nempe huc dimidium dicis, dimidium domum? 
@@ -471,9 +471,9 @@ me vituperas? fur. ANTHR. Etiam fur, trifurcifer.
  
  II.v 
  PYTH. Tace nunciam tu, atque agnum hinc uter est pinguior 
-&lt;cape atque abi intro ad nos.> ANTHR. Licet.— PYTH. 
+<cape atque abi intro ad nos.> ANTHR. Licet.— PYTH. 
 Tu, Congrio, 
-&lt;quem illic reliquit agnum,> eum sume atque abi    328a 
+<quem illic reliquit agnum,> eum sume atque abi    328a 
 *** intro illuc, et vos illum sequimini. 
 vos ceteri ite huc ad nos. CONG. Hercle iniuria 
 dispertivisti: pinguiorem agnum isti habent. 
@@ -555,7 +555,7 @@ perii hercle. aurum rapitur, aula quaeritur.
 [nimirum occidor, nisi ego intro huc propere propero currere.] 
 Apollo, quaeso, subveni mi atque adiuva, 
 confige sagittis fures thensaurarios,   395 
-&lt;si> cui in re tali iam subvenisti antidhac. 
+<si> cui in re tali iam subvenisti antidhac. 
 sed cesso prius quam prorsus perii currere? 
 
  
@@ -625,7 +625,7 @@ adeo ut tu meam sententiam iam noscere possis:
 si ad ianuam huc accesseris, nisi iussero, propius, 
 ego te faciam miserrimus mortalis uti sis. 
 scis iam meam sententiam.— CONG. Quo abis? redi rursum. 
-ita me bene amet Laverna, &lt;uti> te iam, nisi reddi   445 
+ita me bene amet Laverna, <uti> te iam, nisi reddi   445 
 mihi vasa iubes, pipulo hic differam ante aedis. 
 quid ego nunc agam? ne ego edepol veni huc auspicio malo. 
 nummo sum conductus: plus iam medico mercedest opus. 
@@ -738,8 +738,8 @@ si nitidior sis filiai nuptiis.           540
 qui habent, meminerunt sese unde oriundi sient. 
 neque pol, Megadore, mihi neque quoiquam pauperi 
 opinione melius res structa est domi. 
- MEG. Immo est &lt;quod satis est>, et di faciant ut siet   545 
-plus plusque &lt;et> istuc sospitent quod nunc habes. 
+ MEG. Immo est <quod satis est>, et di faciant ut siet   545 
+plus plusque <et> istuc sospitent quod nunc habes. 
  EVCL. Illud mihi verbum non placet 'quod nunc habes.' 
 tam hoc scit me habere quam egomet. anus fecit palam. 
  MEG. Quid tu te solus e senatu sevocas? 
@@ -802,7 +802,7 @@ retinere ad salutem, non enim quo incumbat eo impellere.
 quasi pueri qui nare discunt scirpea induitur ratis,    595 
 qui laborent minus, facilius ut nent et moveant manus, 
 eodem modo servom ratem esse amanti ero aequom censeo, 
-ut &lt;eum> toleret, ne pessum abeat tamquam * * ] 
+ut <eum> toleret, ne pessum abeat tamquam * * ] 
 ~ erile imperium ediscat, ut quod frons velit oculi sciant; 
 quod iubeat citis quadrigis citius properet persequi.    600 
 qui ea curabit, abstinebit censione bubula, 
@@ -827,7 +827,7 @@ tuae fide concredidi aurum, in tuo luco et fano est situm.—     615
  STROB. Di immortales, quod ego hunc hominem facinus audivi loqui: 
 se aulam onustam auri abstrusisse hic intus in fano Fide. 
 cave tu illi fidelis, quaeso, potius fueris, quam mihi. 
-atque hic pater est, ut ego opinor, huius, erus quam amat, &lt;virginis>. 
+atque hic pater est, ut ego opinor, huius, erus quam amat, <virginis>. 
 ibo hinc intro, perscrutabor fanum, si inveniam uspiam     620 
 aurum, dum hic est occupatus. sed si repperero, o Fides, 
 mulsi congialem plenam faciam tibi fideliam. 
@@ -843,7 +843,7 @@ atque in pectus emicare. sed ego cesso currere?
 
  
  IV.iv 
-&lt;I> foras, lumbrice, qui sub terra erepsisti modo, 
+<I> foras, lumbrice, qui sub terra erepsisti modo, 
 qui modo nusquam comparebas, nunc, cum compares, peris. 
 ego pol te, praestrigiator, miseris iam accipiam modis.    630 
  STROBILVS Quae te mala crux agitat? quid tibi mecum est commerci, senex? 
@@ -928,7 +928,7 @@ super Euclionis filia. nunc te obsecro
 resecroque, mater, quod dudum obsecraveram: 
 fac mentionem cum avonculo, mater mea.     685 
  EVNOMIA Scis tute facta velle me quae tu velis, 
-et istuc confido &lt;a&gt; fratre me impetrassere; 
+et istuc confido <a> fratre me impetrassere; 
 et causa iusta est, siquidem ita est ut praedicas, 
 te eam compressisse vinulentum virginem. 
  LYC. Egone ut te advorsum mentiar, mater mea?   690 
@@ -998,7 +998,7 @@ cui tanta mala maestitudoque optigit. LYC. Animo bono es.
 facinus, quod tuom 
 sollicitat animum, id ego feci et fateor. EVCL. Quid ego ex
 te audio? 
- LYC. Id quod verumst. E. Quid ego &lt;de te> commerui,
+ LYC. Id quod verumst. E. Quid ego <de te> commerui,
 adulescens, mali,   735 
 quam ob rem ita faceres meque meosque perditum ires liberos? 
  LYC. Deus impulsor mihi fuit, is me ad illam inlexit. EVCL. 
@@ -1046,12 +1046,12 @@ de alia re rescivisse censui, quod ad me attinet;        770
 ~ magna est res quam ego tecum otiose, si otium est, cupio loqui. 
  EVCL. Dic bona fide: tu id aurum non surripuisti? LYC. 
 Bona. 
- E. Neque &lt;eum> scis qui abstulerit? L. Istuc quoque
+ E. Neque <eum> scis qui abstulerit? L. Istuc quoque
 bona. E. Atque id si scies 
 qui abstulerit, mihi indicabis? LYC. Faciam. EVCL. Neque
 partem tibi 
 ab eo qui habet indipisces neque furem excipies? LYC. Ita.      775 
- EVCL. Quid &lt;si> fallis? LYC. Tum me faciat quod volt
+ EVCL. Quid <si> fallis? LYC. Tum me faciat quod volt
 magnus Iuppiter. 
  EVCL. Sat habeo. age nunc loquere quid vis. LYC. Si me
 novisti minus, 
@@ -1163,7 +1163,7 @@ ut admemordit hominem
  
  Non. 98M 
  (EVCL.) nec noctu nec diu 
-quietus umquam &lt;servabam> eam: nunc dormiam. 
+quietus umquam <servabam> eam: nunc dormiam. 
 
  
  Non. 120M 

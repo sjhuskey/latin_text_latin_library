@@ -225,7 +225,7 @@ IV. 7 Sed ut Aristoteles, vir summo ingenio, scientia, copia, cum motus esset Is
  
 
  
- 54 principii autem nulla est origo; nam e principio oriuntur omnia, ipsum autem nulla ex re alia nasci potest; nec enim esset id principium, quod gigneretur aliunde. quod si numquam oritur, ne occidit quidem umquam; nam principium extinctum nec ipsum ab alio renascetur, nec ex se aliud creabit, siquidem necesse est a principio oriri omnia. ita fit, ut motus principium ex eo sit, quod ipsum a se movetur; id autem nec nasci potest nec mori, vel concidat omne caelum omnisque natura &lt;et&gt; consistat necesse est nec vim ullam nanciscatur, qua a primo inpulsa moveatur. cum pateat igitur aeternum id esse, quod se ipsum moveat, quis est qui hanc naturam animis esse tributam neget? inanimum est enim omne, quod pulsu agitatur externo; quod autem est animal, id motu cietur interiore et suo; nam haec est propria natura animi atque vis. quae si est una ex omnibus quae se ipsa [semper] moveat, neque nata certe est et aeterna est'. 
+ 54 principii autem nulla est origo; nam e principio oriuntur omnia, ipsum autem nulla ex re alia nasci potest; nec enim esset id principium, quod gigneretur aliunde. quod si numquam oritur, ne occidit quidem umquam; nam principium extinctum nec ipsum ab alio renascetur, nec ex se aliud creabit, siquidem necesse est a principio oriri omnia. ita fit, ut motus principium ex eo sit, quod ipsum a se movetur; id autem nec nasci potest nec mori, vel concidat omne caelum omnisque natura <et> consistat necesse est nec vim ullam nanciscatur, qua a primo inpulsa moveatur. cum pateat igitur aeternum id esse, quod se ipsum moveat, quis est qui hanc naturam animis esse tributam neget? inanimum est enim omne, quod pulsu agitatur externo; quod autem est animal, id motu cietur interiore et suo; nam haec est propria natura animi atque vis. quae si est una ex omnibus quae se ipsa [semper] moveat, neque nata certe est et aeterna est'. 
  
 
  
@@ -373,7 +373,7 @@ XXXIV. 82 Video te alte spectare et velle in caelum migrare. spero fore ut conti
  
 
  
- XXXVIII. 91 Itaque non deterret sapientem mors,quae propter incertos casus cotidie imminet,propter brevitatem vitae numquam potest longe abesse,quo minus in omne tempus rei p. suisque consulat,cum posteritatem ipsam,cuius sensum habiturus non sit,ad se putet pertinere.quare licet etiam mortalem esse animum iudicantem aeterna moliri,non gloriae cupiditate,quam sensurus non sis,sed virtutis,quam necessario gloria,etiamsi tu id non agas,consequatur. Natura vero &lt;si&gt; se sic habet,ut,quo modo initium nobis rerum omnium ortus noster adferat,sic exitum mors,ut nihil pertinuit ad nos ante ortum, sic nihil post mortem pertinebit.in quo quid potest esse mali,cum mors nec ad vivos pertineat nec ad mortuos? 
+ XXXVIII. 91 Itaque non deterret sapientem mors,quae propter incertos casus cotidie imminet,propter brevitatem vitae numquam potest longe abesse,quo minus in omne tempus rei p. suisque consulat,cum posteritatem ipsam,cuius sensum habiturus non sit,ad se putet pertinere.quare licet etiam mortalem esse animum iudicantem aeterna moliri,non gloriae cupiditate,quam sensurus non sis,sed virtutis,quam necessario gloria,etiamsi tu id non agas,consequatur. Natura vero <si> se sic habet,ut,quo modo initium nobis rerum omnium ortus noster adferat,sic exitum mors,ut nihil pertinuit ad nos ante ortum, sic nihil post mortem pertinebit.in quo quid potest esse mali,cum mors nec ad vivos pertineat nec ad mortuos? 
  
 
  
@@ -393,7 +393,7 @@ XXXIX. 93 Pellantur ergo istae ineptiae paene aniles, ante tempus mori miserum e
  
 
  
- 96 quodsi expectando et desiderando pendemus animis, cruciamur, angimur, pro di immortales, quam illud iter iucundum esse debet, quo confecto nulla reliqua cura, nulla sollicitudo futura sit! quam me delectat Theramenes! quam elato animo est! etsi enim flemus, cum legimus, tamen non miserabiliter vir clarus emoritur: qui cum coniectus in carcerem triginta iussu tyrannorum venenum ut sitiens obduxisset, reliquum sic e poculo eiecit, ut id resonaret, quo sonitu reddito adridens 'popino' inquit 'hoc pulchro Critiae', qui in eum fuerat taeterrimus. Graeci enim &lt;in&gt; conviviis solent nominare, cui poculum tradituri sint. lusit vir egregius extremo spiritu, cum iam praecordiis conceptam mortem contineret, vereque ei, cui venenum praebiberat, mortem eam est auguratus, quae brevi consecuta est. 
+ 96 quodsi expectando et desiderando pendemus animis, cruciamur, angimur, pro di immortales, quam illud iter iucundum esse debet, quo confecto nulla reliqua cura, nulla sollicitudo futura sit! quam me delectat Theramenes! quam elato animo est! etsi enim flemus, cum legimus, tamen non miserabiliter vir clarus emoritur: qui cum coniectus in carcerem triginta iussu tyrannorum venenum ut sitiens obduxisset, reliquum sic e poculo eiecit, ut id resonaret, quo sonitu reddito adridens 'popino' inquit 'hoc pulchro Critiae', qui in eum fuerat taeterrimus. Graeci enim <in> conviviis solent nominare, cui poculum tradituri sint. lusit vir egregius extremo spiritu, cum iam praecordiis conceptam mortem contineret, vereque ei, cui venenum praebiberat, mortem eam est auguratus, quae brevi consecuta est. 
  
 
  
@@ -401,7 +401,7 @@ XXXIX. 93 Pellantur ergo istae ineptiae paene aniles, ante tempus mori miserum e
  
 
  
- 98 sin vera sunt quae dicuntur, migrationem esse mortem in eas oras, quas qui e vita excesserunt incolunt, id multo iam beatius est. tene, cum ab is, qui se iudicum numero haberi volunt, evaseris, ad eos venire, qui vere iudices appellentur, Minoem Rhadamanthum Aeacum Triptolemum, convenireque eos qui iuste &lt;et&gt; cum fide vixerint —haec peregrinatio mediocris vobis videri potest? ut vero conloqui cum Orpheo Musaeo Homero Hesiodo liceat, quanti tandem aestimatis? equidem saepe emori, si fieri posset, vellem, ut ea quae dico mihi liceret invisere. quanta delectatione autem adficerer, cum Palamedem, cum Aiacem, cum alios iudicio iniquo circumventos convenirem! temptarem etiam summi regis, qui maximas copias duxit ad Troiam, et Ulixi Sisyphique prudentiam, nec ob eam rem, cum haec exquirerem sicut hic faciebam, capite damnarer.— Ne vos quidem, iudices i qui me absolvistis, mortem timueritis. 
+ 98 sin vera sunt quae dicuntur, migrationem esse mortem in eas oras, quas qui e vita excesserunt incolunt, id multo iam beatius est. tene, cum ab is, qui se iudicum numero haberi volunt, evaseris, ad eos venire, qui vere iudices appellentur, Minoem Rhadamanthum Aeacum Triptolemum, convenireque eos qui iuste <et> cum fide vixerint —haec peregrinatio mediocris vobis videri potest? ut vero conloqui cum Orpheo Musaeo Homero Hesiodo liceat, quanti tandem aestimatis? equidem saepe emori, si fieri posset, vellem, ut ea quae dico mihi liceret invisere. quanta delectatione autem adficerer, cum Palamedem, cum Aiacem, cum alios iudicio iniquo circumventos convenirem! temptarem etiam summi regis, qui maximas copias duxit ad Troiam, et Ulixi Sisyphique prudentiam, nec ob eam rem, cum haec exquirerem sicut hic faciebam, capite damnarer.— Ne vos quidem, iudices i qui me absolvistis, mortem timueritis. 
  
 
  
@@ -433,7 +433,7 @@ XXXIX. 93 Pellantur ergo istae ineptiae paene aniles, ante tempus mori miserum e
  
 
  
- 107 non ipsa saxa magis sensu omni vacabunt quam ille 'latere pendens', cui se hic cruciatum censet optare. quae essent dura, si sentiret, &lt;sunt&gt; nulla sine sensu. illud vero perquam inane: 'Neque sepulcrum, quo recipiat, habeat, portum corporis, Ubi remissa humana vita corpus requiescat malis.' vides, quanto haec in errore versentur: portum esse corporis et requiescere in sepulcro putat mortuum; magna culpa Pelopis, qui non erudierit filium nec docuerit, quatenus esset quidque curandum. 
+ 107 non ipsa saxa magis sensu omni vacabunt quam ille 'latere pendens', cui se hic cruciatum censet optare. quae essent dura, si sentiret, <sunt> nulla sine sensu. illud vero perquam inane: 'Neque sepulcrum, quo recipiat, habeat, portum corporis, Ubi remissa humana vita corpus requiescat malis.' vides, quanto haec in errore versentur: portum esse corporis et requiescere in sepulcro putat mortuum; magna culpa Pelopis, qui non erudierit filium nec docuerit, quatenus esset quidque curandum. 
  
 
  
@@ -445,7 +445,7 @@ XXXIX. 93 Pellantur ergo istae ineptiae paene aniles, ante tempus mori miserum e
  
 
  
-XLVI. 110 verum multitudinis iudicium de bonis &lt;bonum&gt; si quando est, magis laudandum est quam illi ob eam rem beati. non possum autem dicere, quoquo modo hoc accipietur, Lycurgum Solonem legum et publicae disciplinae carere gloria, Themistoclem Epaminondam bellicae virtutis. ante enim Salamina ipsam Neptunus obruet quam Salaminii tropaei memoriam, priusque e Boeotia Leuctra tollentur quam pugnae Leuctricae gloria. multo autem tardius fama deseret Curium Fabricium Calatinum, duo Scipiones duo Africanos, Maximum Marcellum Paulum, Catonem Laelium, innumerabilis alios; quorum similitudinem aliquam qui arripuerit, non eam fama populari, sed vera bonorum laude metiens, fidenti animo, si ita res feret, gradietur ad mortem; in qua aut summum bonum aut nullum malum esse cognovimus. secundis vero suis rebus volet etiam mori; non enim tum cumulus bonorum iucundus esse potest quam molesta decessio. 
+XLVI. 110 verum multitudinis iudicium de bonis <bonum> si quando est, magis laudandum est quam illi ob eam rem beati. non possum autem dicere, quoquo modo hoc accipietur, Lycurgum Solonem legum et publicae disciplinae carere gloria, Themistoclem Epaminondam bellicae virtutis. ante enim Salamina ipsam Neptunus obruet quam Salaminii tropaei memoriam, priusque e Boeotia Leuctra tollentur quam pugnae Leuctricae gloria. multo autem tardius fama deseret Curium Fabricium Calatinum, duo Scipiones duo Africanos, Maximum Marcellum Paulum, Catonem Laelium, innumerabilis alios; quorum similitudinem aliquam qui arripuerit, non eam fama populari, sed vera bonorum laude metiens, fidenti animo, si ita res feret, gradietur ad mortem; in qua aut summum bonum aut nullum malum esse cognovimus. secundis vero suis rebus volet etiam mori; non enim tum cumulus bonorum iucundus esse potest quam molesta decessio. 
  
 
  
@@ -469,7 +469,7 @@ XLVI. 110 verum multitudinis iudicium de bonis &lt;bonum&gt; si quando est, magi
  
 
  
- 116 his et talibus auctoribus usi confirmant causam rebus a diis inmortalibus iudicatam. Alcidamas quidem, rhetor antiquus in primis nobilis, acripsit etima laudationem mortis, quae constat ex enumeratione humanorum malorum; cui rationes eae quae exquisitius a philosophis colliguntur defuerunt, ubertas orationis non defuit. Clarae vero mortes pro patria oppetitae non solum gloriosae rhetoribus, sed etiam beatae videri solent. repetunt ab Erechtheo, cuius etiam filiae cupide mortem expetiverunt pro vita civium; &lt;commemorant&gt; Codrum, qui se in medios inmisit hostis veste famulari, ne posset adgnosci, si esset ornatu regio, quod oraculum erat datum, si rex interfectus esset, victrices Athenas fore; Menoeceus non praetermittitur, qui item oraculo edito largitus est patriae suum sanguinem; &lt;nam&gt; Iphigenia Aulide duci se immolandam iubet, ut hostium elicatur suo. veniunt inde ad propiora: XLIX. Harmodius in ore est et Aristogiton; Lacedaemonius Leonidas, Thebanus Epaminondas viget. nostros non norunt, quos enumerare magnum est: ita sunt multi, quibus videmus optabilis mortes fuisse cum gloria. 
+ 116 his et talibus auctoribus usi confirmant causam rebus a diis inmortalibus iudicatam. Alcidamas quidem, rhetor antiquus in primis nobilis, acripsit etima laudationem mortis, quae constat ex enumeratione humanorum malorum; cui rationes eae quae exquisitius a philosophis colliguntur defuerunt, ubertas orationis non defuit. Clarae vero mortes pro patria oppetitae non solum gloriosae rhetoribus, sed etiam beatae videri solent. repetunt ab Erechtheo, cuius etiam filiae cupide mortem expetiverunt pro vita civium; <commemorant> Codrum, qui se in medios inmisit hostis veste famulari, ne posset adgnosci, si esset ornatu regio, quod oraculum erat datum, si rex interfectus esset, victrices Athenas fore; Menoeceus non praetermittitur, qui item oraculo edito largitus est patriae suum sanguinem; <nam> Iphigenia Aulide duci se immolandam iubet, ut hostium elicatur suo. veniunt inde ad propiora: XLIX. Harmodius in ore est et Aristogiton; Lacedaemonius Leonidas, Thebanus Epaminondas viget. nostros non norunt, quos enumerare magnum est: ita sunt multi, quibus videmus optabilis mortes fuisse cum gloria. 
  
 
  

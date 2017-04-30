@@ -114,7 +114,7 @@ LIBER PRIMVS
  Ei mihi! quid faciam? Vereor ne nomine lecto 
   durus et auersa cetera mente legas! 
  Videris! Audebo tibi me scripsisse fateri 
-  &lt; . . . . . . . . . . . . . . &gt;             10 
+  < . . . . . . . . . . . . . . >             10 
  qui, cum me poena dignum grauiore fuisse 
   confiteor, possum uix grauiora pati. 
  Hostibus in mediis interque pericula uersor, 

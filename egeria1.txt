@@ -52,7 +52,7 @@ cum pasceret pecora soceri sui, iterum locutus est ei Deus de rubo in igne.
 
  
 3. Et quoniam nobis ita erat iter,
-ut prius montem Dei ascenderemus, qui hinc paret, &lt;quia> unde veniebamus,
+ut prius montem Dei ascenderemus, qui hinc paret, <quia> unde veniebamus,
 melior ascensus erat, et illinc denuo ad illud caput vallis descenderemus,
 id est ubi rubus erat, quia melior descensus montis Dei erat inde: itaque
 ergo hoc placuit, ut visis omnibus, quae desiderabamus, descendentes a
@@ -321,11 +321,11 @@ pervidet, quae ibi facta sunt.
  
 9. Haec est ergo vallis, ubi celebrata
 est pascha completo anno profectionis filiorum Israhel de terra Aegypti,
-quoniam in ipsa valle &lt;filii> Israhel commorati sunt aliquandiu, id
+quoniam in ipsa valle <filii> Israhel commorati sunt aliquandiu, id
 est donec sanctus Moyses ascenderet in montem Dei et descenderet primum
 et iterato; et denuo tandiu ibi inmorati sunt, donec fieret tabernaculum
 et singula, quae ostensa sunt in montem Dei. Nam ostensus est nobis et
-ille locus, in quo confixum &lt;a> Moyse est primitus tabernaculum et perfecta
+ille locus, in quo confixum <a> Moyse est primitus tabernaculum et perfecta
 sunt singula, quae iusserat Deus in montem Moysi, ut fierent.
  
 
@@ -748,11 +748,11 @@ Loth, ostensus est nobis, qui locus etiam in scripturis legitur.
  
 7. Sed mihi credite, dominae venerabiles,
 quia columna ipsa iam non paret, locus autem ipse tantum ostenditur: columna
-autem ipsa dicitur mari mortuo fuisse cooperta. Certe locum &lt;cum> videremus,
+autem ipsa dicitur mari mortuo fuisse cooperta. Certe locum <cum> videremus,
 columnam nullam vidimus, et ideo fallere vos super hanc rem non possum.
 Nam episcopus loci ipsius, id est de Segor, dixit nobis, quoniam iam aliquot
 anni essent, a quo non pareret columna illa. Nam de Segor forsitan sexto
-miliario ipse locus &lt;est>, ubi stetit columna illa, quod nunc totum
+miliario ipse locus <est>, ubi stetit columna illa, quod nunc totum
 cooperit aqua.
  
 
@@ -773,7 +773,7 @@ ibi fixa habuissent: nam et signa ibi parebant castrorum.
  
 
  
-10. Sane &lt;de> illa parte montis,
+10. Sane <de> illa parte montis,
 quam dixi sinistra, quae erat super mare mortuum, ostensus est nobis mons
 praecisus valde, qui dictus est ante &laquo;Agri specula&raquo;. Hic est
 mons, in quo posuit Balac, filius Beor, Balaam divinum ad maledicendos
@@ -1240,7 +1240,7 @@ ostendere.
 civitatem, dominae sorores venerabiles, ubi fuit primitus domus Abrahae,
 nunc et martyrium ibi positum est, id est sancti cuiusdam monachi nomine
 Helpidi. Hoc autem nobis satis gratum evenit, ut pridie martyrium die ibi
-veniremus, id est sancti ipsius Helpidii, nono K&lt;al>. Maias, ad quam
+veniremus, id est sancti ipsius Helpidii, nono K<al>. Maias, ad quam
 diem necesse fuit undique et de omnibus Mesopotamiae finibus omnes monachos
 in Charra descendere, etiam et illos maiores, qui in solitudine sedebant,
 quos ascites vocant, per diem ipsum, qui ibi satis granditer attenditur,

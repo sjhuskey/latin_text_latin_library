@@ -100,7 +100,7 @@ basilico accipiere victu.
  TOX. Haec dies summa hodie est, mea amica sitne libera, 
 an sempiternam servitutem serviat. SAG. Quid nunc vis ergo?  
 34a 
- TOX. &lt;Facere ami>cum tibi me potis es sempiternum. SAG. 
+ TOX. <Facere ami>cum tibi me potis es sempiternum. SAG. 
 Quem ad modum? 
  TOX. Vt mihi des nummos sescentos, quos pro capite illius pendam, 
 quos continuo tibi reponam in hoc triduo, aut quadriduo. 
@@ -119,21 +119,21 @@ si quis credat.
 iam pollicerer: 45 
 hoc meumst ut faciam sedulo. TOX. Quidquid erit, recipe te ad
 me. 
-quaere tamen, ego item sedulo. SAG. Si quid erit, &lt;te fac>iam
+quaere tamen, ego item sedulo. SAG. Si quid erit, <te fac>iam
 ut scias. 
- TOX. *** obsecro te resecro&lt;que>, operam da hanc mihi 
+ TOX. *** obsecro te resecro<que>, operam da hanc mihi 
 fidelem. SAG. Ah, odio me enicas.     
 48a 
  TOX. Amoris vitio, non meo, nunc tibi morologus fio. 
  SAG. At pol ego aps te concessero.— TOX. Iamne abis?
 bene ambulato. 
 sed recipe quam primum potes, cave fuas mi in quaestione. 
-usque ero domi, dum excoxero lenoni malam &lt;rem magnam>.—
+usque ero domi, dum excoxero lenoni malam <rem magnam>.—
  
 
  
  I.ii 
- SATVRIO Veterem atque antiquom quaestum maio&lt;rum meum> 
+ SATVRIO Veterem atque antiquom quaestum maio<rum meum> 
 servo atque obtineo et magna cum cura colo. 
 nam numquam quisquam meorum maiorum fuit,  
 55 
@@ -204,7 +204,7 @@ calefieri iussi reliquias. SAT. Pernam quidem
 ius est adponi frigidam postridie. 
  TOX. Ita fieri iussi. SAT. Ecquid hallecis? TOX. 
 Vah, rogas? 
- SAT. Sapis multum ad genium. TOX. Sed &lt;tu>, ecquid
+ SAT. Sapis multum ad genium. TOX. Sed <tu>, ecquid
 meministi, here 
 qua de re ego tecum mentionem feceram? 
  SAT. Memini: ut murena et conger ne calefierent; 
@@ -280,7 +280,7 @@ continuo tu illam a lenone adserito manu.
  TOX. Abi et istuc cura. interibi ego puerum volo   
 165 
 mittere ad amicam meam, ut habeat animum bonum, 
-me esse effecturum &lt;hoc> hodie. nimis longum loquor.—
+me esse effecturum <hoc> hodie. nimis longum loquor.—
  
 
  
@@ -356,7 +356,7 @@ apud hanc obieci *
  SOPH. Paegnium, deliciae pueri, salve. quid agis? ut vales? 
  PAEG. Sophoclidisca, di me amabunt. SOPH. Quid me? PAEG. 
 Vtrum  205 
-  hercle &lt;di volent>; 
+  hercle <di volent>; 
 sed si ut digna es faciant, odio hercle habeant et faciant male. 
  SOPH. Mitte male loqui. PAEG. Quom ut digna es dico,
 bene, non male loquor. 
@@ -376,12 +376,12 @@ ut te autumo?
  PAEG. Fatear, si ita sim. SOPH. Iam abi, vicisti. PAEG. 
 Abi nunciam ergo. 215 
   SOPH. Hoc mi expedi, 
-quo agis? PAEG. Quo tu? SOPH. Dic tu. &lt; PAEG. 
+quo agis? PAEG. Quo tu? SOPH. Dic tu. < PAEG. 
 Dic tu. SOPH. > Prior 
   rogavi. PAEG. At post scies. 
  SOPH. Eo ego hinc haud longe. PAEG. Et quidem ego haud
-longe &lt;hinc eo>. 
-  SOPH. Quo ergo &lt;is>, scelus? 
+longe <hinc eo>. 
+  SOPH. Quo ergo <is>, scelus? 
  PAEG. Nisi sciero prius ex te, tu ex me numquam hoc quod rogitas
 scies. 
  SOPH. Numquam ecastor hodie scibis prius quam ex te audivero. 
@@ -416,7 +416,7 @@ atque ego hanc [nunc] operam perdo. SOPH. Quid iam? PAEG.
 Quia peritae 
   praedico. 
 sed ego cesso. SOPH. Mane. PAEG. Molesta es. SOPH. 
-Ergo &lt;ero> quoque, 
+Ergo <ero> quoque, 
   nisi scio, 
 quo agas te. PAEG. Ad vos. SOPH. Et pol ego ad vos. PAEG. 
 Quid eo? 235 
@@ -1060,7 +1060,7 @@ captusne est pater? VIR. Non captus, sed quod habuit perdidit.
  DOR. Quis fuit? dic nomen. VIR. Quid illum miserum memorem
 qui fuit? 
 nunc et illum miserum et me miseram aequom est nominarier. 
- DOR. Quoius modi is &lt;suo> in populo habitust? VIR. 
+ DOR. Quoius modi is <suo> in populo habitust? VIR. 
 Nemo quisquam acceptior: 
 servi liberique amabant. TOX. Hominem miserum praedicas, 
 quom et ipsus prorsus perditust et benevolentis perdidit.    
@@ -1164,7 +1164,7 @@ meus.
 
  
  IV.vii 
- TOX. Postquam illic &lt;hinc> abiit, dicere hic quidvis licet. 
+ TOX. Postquam illic <hinc> abiit, dicere hic quidvis licet. 
 ne hic tibi dies inluxit lucrificabilis. 
 nam non emisti hanc, verum fecisti lucri. 
  DOR. Ille quidem iam scit, quid negoti gesserit, 

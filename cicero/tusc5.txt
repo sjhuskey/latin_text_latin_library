@@ -163,7 +163,7 @@ sit et externarum et ad corpus pertinentium, quam consilium valere?
 ad me adspirare non posses.' Praeclare, si Aristo Chius aut si Stoicus Zenon 
 diceret, qui, nisi quod turpe esset, nihil malum duceret; tu vero, Metrodore, 
 qui omne bonum in visceribus medullisque condideris et definieris summum bonum 
-firma corporis adfectione explorataque &lt;eius&gt; spe contineri, Fortunae aditus interclusisti? Quo modo? isto enim bono iam exspoliari potes.
+firma corporis adfectione explorataque <eius> spe contineri, Fortunae aditus interclusisti? Quo modo? isto enim bono iam exspoliari potes.
  
 
  
@@ -193,7 +193,7 @@ legibus impositis disputant: nos in diem vivimus; quodcumque nostros animos
 probabilitate percussit, id dicimus, itaque soli sumus liberi. Verum tamen, 
 quoniam de constantia paulo ante diximus, non ego hoc loco id quaerendum puto, 
 verumne sit, quod Zenoni placuerit quodque eius auditori Aristoni, bonum esse 
-solum, quod honestum esset, sed si ita esset, tum &lt;fueritne consentaneum&gt;, ut totum hoc beate vivere in una virtute poneret.
+solum, quod honestum esset, sed si ita esset, tum <fueritne consentaneum>, ut totum hoc beate vivere in una virtute poneret.
  
 
  
@@ -287,14 +287,14 @@ ut Africanus:
 'A sole exoriente supra Maeotis paludes Nemo est 
  qui factis aequiperare queat.' 
 
- [ 50 ] Quod si &lt;est&gt;, beata, vita glorianda et 
+ [ 50 ] Quod si <est>, beata, vita glorianda et 
 praedicanda et prae se ferenda est; nihil est enim aliud quod praedicandum et 
 prae se ferendum sit. Quibus positis intellegis quid sequatur; et quidem, nisi 
 ea vita beata est, quae est eadem honesta, sit aliud necesse est melius vita 
 beata; quod erit enim honestum, certe fatebuntur esse melius; ita erit beata 
 vita melius aliquid; quo quid potest dici perversius? Quid? cum fatentur satis 
 magnam vim esse in vitiis ad miseram vitam, nonne fatendum est eandem 
-vim &lt;in&gt; virtute 
+vim <in> virtute 
 esse ad beatam vitam? contrariorum enim contraria sunt consequentia.
 
  
@@ -394,7 +394,7 @@ quidam ex eius adsentatoribus, Damocles, commemoraret in sermone copias eius, op
  
 
  
- XXIV . [ 68 ] Sed ne verbis solum attingamus ea quae volumus ostendere, proponenda quaedam quasi moventia sunt, quae nos magis ad cognitionem intellegentiamque convertant. Sumatur enim nobis quidam praestans vir optumis artibus, isque animo parumper et cogitatione fingatur. Primum ingenio eximio sit necesse est; tardis enim mentibus virtus non facile comitatur; deinde ad investigandam veritatem studio incitato. Ex quo triplex ille animi fructus existet, unus in cognitione rerum positus et in explicatione naturae, alter in discriptione expetendarum fugiendarumque rerum &lt;et in ratione be&gt;ne vivendi, tertius in iudicando, quid cuique rei sit consequens quid repugnans, in quo inest omnis cum subtilitas disserendi, tum veritas iudicandi.
+ XXIV . [ 68 ] Sed ne verbis solum attingamus ea quae volumus ostendere, proponenda quaedam quasi moventia sunt, quae nos magis ad cognitionem intellegentiamque convertant. Sumatur enim nobis quidam praestans vir optumis artibus, isque animo parumper et cogitatione fingatur. Primum ingenio eximio sit necesse est; tardis enim mentibus virtus non facile comitatur; deinde ad investigandam veritatem studio incitato. Ex quo triplex ille animi fructus existet, unus in cognitione rerum positus et in explicatione naturae, alter in discriptione expetendarum fugiendarumque rerum <et in ratione be>ne vivendi, tertius in iudicando, quid cuique rei sit consequens quid repugnans, in quo inest omnis cum subtilitas disserendi, tum veritas iudicandi.
  
 
  
@@ -402,7 +402,7 @@ quidam ex eius adsentatoribus, Damocles, commemoraret in sermone copias eius, op
  
 
  
- XXV . [ 70 ] Haec tractanti animo et noctes et dies cogitanti existit illa &lt;a&gt;deo Delphis praecepta cognitio, ut ipsa se mens agnoscat coniunctamque cum divina mente se sentiat, ex quo insatiabili gaudio compleatur. Ipsa enirn cogitatio de vi et natura deorum studium incendit illius aeternitatem imitandi, neque se in brevitate vitae conlocatam putat, cum rerum causas alias ex aliis aptas et necessitate nexas videt, quibus ab aeterno tempore fluentibus in aeternum ratio tamen mensque, moderatur.
+ XXV . [ 70 ] Haec tractanti animo et noctes et dies cogitanti existit illa <a>deo Delphis praecepta cognitio, ut ipsa se mens agnoscat coniunctamque cum divina mente se sentiat, ex quo insatiabili gaudio compleatur. Ipsa enirn cogitatio de vi et natura deorum studium incendit illius aeternitatem imitandi, neque se in brevitate vitae conlocatam putat, cum rerum causas alias ex aliis aptas et necessitate nexas videt, quibus ab aeterno tempore fluentibus in aeternum ratio tamen mensque, moderatur.
  
 
  
@@ -431,7 +431,7 @@ non enim video, quo modo sedare possint mala praesentia praeteritae voluptates
  
  XXVII . [ 76 ] Sint enim tria genera 
 bonorum, ut iam a laqueis Stoicorum, quibus usum me pluribus quam soleo 
-intellego, recedamus, sint sane illa genera bonorum, dum corporis &lt;et&gt; externa iaceant humi et tantum modo, quia sumenda sint, appellentur bona, animi autem illa divina longe lateque se pandant caelumque contingant; ut, ea qui adeptus sit, cur eum beatum modo et non beatissimum etiam dixerim? Dolorem vero sapiens extimescet? is enim huic maxime sententiae repugnat. Nam contra mortem nostram atque nostrorum contraque aegritudinem et reliquas animi perturbationes satis esse videmur superiorum dierum disputationibus armati et parati; dolor esse videtur acerrumus virtutis adversarius; is ardentis faces intentat, is fortitudinem, magnitudinem animi, patientiam se debilitaturum minatur.
+intellego, recedamus, sint sane illa genera bonorum, dum corporis <et> externa iaceant humi et tantum modo, quia sumenda sint, appellentur bona, animi autem illa divina longe lateque se pandant caelumque contingant; ut, ea qui adeptus sit, cur eum beatum modo et non beatissimum etiam dixerim? Dolorem vero sapiens extimescet? is enim huic maxime sententiae repugnat. Nam contra mortem nostram atque nostrorum contraque aegritudinem et reliquas animi perturbationes satis esse videmur superiorum dierum disputationibus armati et parati; dolor esse videtur acerrumus virtutis adversarius; is ardentis faces intentat, is fortitudinem, magnitudinem animi, patientiam se debilitaturum minatur.
  
 
  
@@ -447,7 +447,7 @@ intellego, recedamus, sint sane illa genera bonorum, dum corporis &lt;et&gt; ext
  
 
  
- XXVIII . [ 80 ] Sed adhibeat oratio modum et redeat illuc, unde deflexit. Dabit, inquam, se in tormenta vita beata nec iustitiam temperantiam in primisque fortitudinem, magnitudinem animi, patientiam prosecuta, cum tortoris os viderit, consistet virtutibusque omnibus sine ullo animi terrore ad cruciatum profectis resistet extra fores, ut ante dixi, limenque carceris. Quid enim ea foedius, quid deformius sola relicta, &lt;a&gt; comitatu pulcherrimo segregata? quod tamen fieri nullo pacto potest; nec enim virtutes sine beata vita cohaerere possunt nec illa sine virtutibus.
+ XXVIII . [ 80 ] Sed adhibeat oratio modum et redeat illuc, unde deflexit. Dabit, inquam, se in tormenta vita beata nec iustitiam temperantiam in primisque fortitudinem, magnitudinem animi, patientiam prosecuta, cum tortoris os viderit, consistet virtutibusque omnibus sine ullo animi terrore ad cruciatum profectis resistet extra fores, ut ante dixi, limenque carceris. Quid enim ea foedius, quid deformius sola relicta, <a> comitatu pulcherrimo segregata? quod tamen fieri nullo pacto potest; nec enim virtutes sine beata vita cohaerere possunt nec illa sine virtutibus.
  
 
  
@@ -476,7 +476,7 @@ beatum esse sapientem—, [ 84 ] sed quaeramus unam quamque reliquorum sententia
  
 
  
- XXX . Sunt autem haec de finibus, ut opinor, retentae defensaeque sententiae: primum simplices quattuor, nihil bonum nisi honestum, ut Stoici, nihil bonum nisi voluptatem, ut Epicurus, nihil bonum nisi vacuitatem &lt;doloris&gt;, ut Hieronymus, nihil bonum nisi naturae primis bonis aut omnibus aut maxumis frui, ut Carneades contra Stoicos disserebat.
+ XXX . Sunt autem haec de finibus, ut opinor, retentae defensaeque sententiae: primum simplices quattuor, nihil bonum nisi honestum, ut Stoici, nihil bonum nisi voluptatem, ut Epicurus, nihil bonum nisi vacuitatem <doloris>, ut Hieronymus, nihil bonum nisi naturae primis bonis aut omnibus aut maxumis frui, ut Carneades contra Stoicos disserebat.
  
 
  
@@ -488,11 +488,11 @@ beatum esse sapientem—, [ 84 ] sed quaeramus unam quamque reliquorum sententia
  
 
  
-[ 87 ] Sequetur igitur horum ratione vel ad supplicium beata vita virtutem cumque ea descendet in taurum Aristotele Xenocrate Speusippo Polemone auctoribus nec eam minis aut blandimentis corrupta deseret. Eadem Calliphontis erit Diodorique sententia, quorum uterque honestatem sic complectitur, ut omnia quae sine ea sint, longe [et] retro ponenda censeat. Reliqui habere se videntur angustius, enatant tamen, Epicurus Hieronymus et si qui sunt qui desertum illum Carneadeum &lt;finem&gt; curent defendere; nemo est enim eorum quin bonorum animum putet esse iudicem eumque condocefaciat, ut ea, quae bona malave videantur, possit contemnere.
+[ 87 ] Sequetur igitur horum ratione vel ad supplicium beata vita virtutem cumque ea descendet in taurum Aristotele Xenocrate Speusippo Polemone auctoribus nec eam minis aut blandimentis corrupta deseret. Eadem Calliphontis erit Diodorique sententia, quorum uterque honestatem sic complectitur, ut omnia quae sine ea sint, longe [et] retro ponenda censeat. Reliqui habere se videntur angustius, enatant tamen, Epicurus Hieronymus et si qui sunt qui desertum illum Carneadeum <finem> curent defendere; nemo est enim eorum quin bonorum animum putet esse iudicem eumque condocefaciat, ut ea, quae bona malave videantur, possit contemnere.
  
 
  
-[ 88 ] Nam quae tibi Epicuri videtur, eadem erit Hieronymi et Carneadis causa et hercule omnium reliquorum. Quis enim parum est contra mortem aut dolorem paratus? Ordiamur ab eo, si placet, quem mollem, quem voluptarium dicimus. Quid? is tibi mortemne videtur aut dolorem timere, qui eum diem, quo moritur, beatum appellat maxumisque doloribus adfectus eos ipsos inventorum suorum memoria et recordatione confutat? Nec haec sic agit, ut ex tempore quasi effuttire videatur. De morte enim ita sentit, ut dissoluto animante sensum extinctum putet, quod autem sensu careat, nihil ad nos id iudicet pertinere. Item &lt;in&gt; dolore certa habet quae sequatur, cuius magnitudinem brevitate consolatur, longinquitatem levitate.
+[ 88 ] Nam quae tibi Epicuri videtur, eadem erit Hieronymi et Carneadis causa et hercule omnium reliquorum. Quis enim parum est contra mortem aut dolorem paratus? Ordiamur ab eo, si placet, quem mollem, quem voluptarium dicimus. Quid? is tibi mortemne videtur aut dolorem timere, qui eum diem, quo moritur, beatum appellat maxumisque doloribus adfectus eos ipsos inventorum suorum memoria et recordatione confutat? Nec haec sic agit, ut ex tempore quasi effuttire videatur. De morte enim ita sentit, ut dissoluto animante sensum extinctum putet, quod autem sensu careat, nihil ad nos id iudicet pertinere. Item <in> dolore certa habet quae sequatur, cuius magnitudinem brevitate consolatur, longinquitatem levitate.
  
 
  
@@ -525,11 +525,11 @@ beatum esse sapientem—, [ 84 ] sed quaeramus unam quamque reliquorum sententia
 
  
 [ 95 ] Totumque hoc de voluptate sic ille praecipit, ut
-voluptatem ipsam per se, quia voluptas sit, semper optandam &lt;et&gt; expetendam putet, eademque ratione dolorem ob id ipsum, quia dolor sit, semper esse fugiendum; itaque hac usurum compensatione sapientem, &lt;ut&gt; et voluptatem fugiat, si ea maiorem dolorem effectura sit, et dolorem suscipiat maiorem efficientem voluptatem; omniaque iucunda, quamquam sensu corporis iudicentur, ad animum referri tamen.
+voluptatem ipsam per se, quia voluptas sit, semper optandam <et> expetendam putet, eademque ratione dolorem ob id ipsum, quia dolor sit, semper esse fugiendum; itaque hac usurum compensatione sapientem, <ut> et voluptatem fugiat, si ea maiorem dolorem effectura sit, et dolorem suscipiat maiorem efficientem voluptatem; omniaque iucunda, quamquam sensu corporis iudicentur, ad animum referri tamen.
  
 
  
-[ 96 ] Quocirca corpus gaudere tam diu, dum praesentem sentiret voluptatem, animum et praesentem percipere pariter cum corpore et prospicere venientem nec praeteritam praeterfluere sinere. Ita perpetuas et contextas voluptates in sapiente fore semper, cum expectatio speratarum voluptatum &lt;cum&gt;
+[ 96 ] Quocirca corpus gaudere tam diu, dum praesentem sentiret voluptatem, animum et praesentem percipere pariter cum corpore et prospicere venientem nec praeteritam praeterfluere sinere. Ita perpetuas et contextas voluptates in sapiente fore semper, cum expectatio speratarum voluptatum <cum>
  perceptarum memoria iungeretur.
  
 
@@ -568,7 +568,7 @@ habere se mortuum dicit, quae ne vivus quidem diutius habebat quam fruebatur.'
  
 
  
-[ 102 ] Cur igitur divitiae desiderentur, aut ubi pauper tas beatos esse non sinit? Signis, credo, tabulis studes. Si quis est qui bis delectetur, nonne melius tenues homines fruuntur quam illi qui is abundant? Est enim carum rerum omnium &lt;in&gt; nostra urbe summa in publico copia. Quae qui privatim habent, nec tam multa et raro vident, cum in sua rura venerunt; quos tamen pungit aliquid, cum, illa unde habeant, recordantur. Dies deficiat, si velim paupertatis causam defendere. Aperta enim res est, et cotidie nos ipsa natura admonet, quam paucis, quam parvis rebus egeat, quam vilibus.
+[ 102 ] Cur igitur divitiae desiderentur, aut ubi pauper tas beatos esse non sinit? Signis, credo, tabulis studes. Si quis est qui bis delectetur, nonne melius tenues homines fruuntur quam illi qui is abundant? Est enim carum rerum omnium <in> nostra urbe summa in publico copia. Quae qui privatim habent, nec tam multa et raro vident, cum in sua rura venerunt; quos tamen pungit aliquid, cum, illa unde habeant, recordantur. Dies deficiat, si velim paupertatis causam defendere. Aperta enim res est, et cotidie nos ipsa natura admonet, quam paucis, quam parvis rebus egeat, quam vilibus.
  
 
  
@@ -588,7 +588,7 @@ habere se mortuum dicit, quae ne vivus quidem diutius habebat quam fruebatur.'
  
 
  
-[ 107 ] 'At multantur bonis exules'. Quid tum? parumne multa de toleranda paupertate dicuntur? Iam vero exilium, si rerum naturam, non ignominiam nominis quaerimus, quantum a perpetua peregrinatione differt? In qua aetates suas philosophi nobilissimi consumpserunt, Xenocrates Crantor, Arcesilas Lacydes, Aristoteles Theophrastus, Zeno Cleanthes, Chrysippus Antipater, Carneades Clitomachus, Philo Antiochus, Panaetius Posidonius, innumerabiles alii, qui semel egressi numquam domum reverterunt. 'At enim sine ignominia'. &lt;An potest exilium ignominia&gt; adficere sapientem? de sapiente enim haec omnis oratio est, cui iure id accidere non possit; nam iure exulantem consolari non oportet.
+[ 107 ] 'At multantur bonis exules'. Quid tum? parumne multa de toleranda paupertate dicuntur? Iam vero exilium, si rerum naturam, non ignominiam nominis quaerimus, quantum a perpetua peregrinatione differt? In qua aetates suas philosophi nobilissimi consumpserunt, Xenocrates Crantor, Arcesilas Lacydes, Aristoteles Theophrastus, Zeno Cleanthes, Chrysippus Antipater, Carneades Clitomachus, Philo Antiochus, Panaetius Posidonius, innumerabiles alii, qui semel egressi numquam domum reverterunt. 'At enim sine ignominia'. <An potest exilium ignominia> adficere sapientem? de sapiente enim haec omnis oratio est, cui iure id accidere non possit; nam iure exulantem consolari non oportet.
  
 
  
@@ -638,7 +638,7 @@ ad investigandum adhibet oculos advocatos.
  
 
  
-[ 114 ] Democritus luminibus amissis alba scilicet discernere et atra non poterat, at vero bona mala, aequa iniqua, honesta turpia, utilia inutilia, magna parva poterat, et sine varietate colorum licebat vivere beate, sine notione rerum non licebat. Atque hic vir impediri etiam animi aciem aspectu oculorum arbitrabatur, et cum alii saepe, quod ante pedes esset, non viderent, ille &lt;in&gt; infinitatem omnem peregrinabatur, ut nulla in extremitate consisteret. Traditum est etiam Homerum caecum fuisse; at eius picturam, non poŒsin videmus: quae regio, quae ora, qui locus Graeciae, quae species formaque pugnae, quae acies, quod remigium qui motus hominum, qui ferarum non ita expictus est, ut, quae ipse non viderit, nos ut videremus, effecerit? Quid ergo? aut Homero delectationem animi ac voluptatem aut cuiquam docto defuisse umquam arbitramur?
+[ 114 ] Democritus luminibus amissis alba scilicet discernere et atra non poterat, at vero bona mala, aequa iniqua, honesta turpia, utilia inutilia, magna parva poterat, et sine varietate colorum licebat vivere beate, sine notione rerum non licebat. Atque hic vir impediri etiam animi aciem aspectu oculorum arbitrabatur, et cum alii saepe, quod ante pedes esset, non viderent, ille <in> infinitatem omnem peregrinabatur, ut nulla in extremitate consisteret. Traditum est etiam Homerum caecum fuisse; at eius picturam, non poŒsin videmus: quae regio, quae ora, qui locus Graeciae, quae species formaque pugnae, quae acies, quod remigium qui motus hominum, qui ferarum non ita expictus est, ut, quae ipse non viderit, nos ut videremus, effecerit? Quid ergo? aut Homero delectationem animi ac voluptatem aut cuiquam docto defuisse umquam arbitramur?
  
 
  

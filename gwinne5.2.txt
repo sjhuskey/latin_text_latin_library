@@ -97,7 +97,7 @@ celare maius; agere sit triplex nefas.
 nimiumque vereor conscius celo diu.  3675 
  
 
- [&lt;Actus II, scena 2&gt;] 
+ [<Actus II, scena 2>] 
 
  VOLUSIUS PROCULUS, NERO, EPICHARIS, FLAVIUS, TIGELLINUS
   
@@ -310,7 +310,7 @@ Germanus. illi, ut extero, maior fides.
  
 
  NERO DUM CONSULTAT, MILICHUS, UXOR
-MILICHI, &lt;EPAPHRODITUS,&gt; MOX SCEVINUS, &lt;FENIUS RUFUS&gt;
+MILICHI, <EPAPHRODITUS,> MOX SCEVINUS, <FENIUS RUFUS>
  
 
  UXOR timenda multa: si taces, totus
@@ -1093,7 +1093,7 @@ abrumpo venas. Caesarem hic placet liquor.
  Actus V, scena 6 (Actus II, scena 5) 
 
  SENECA, CENTURIO, PAUVLINA, STAT. ANNAeUS, IUNIUS
-GALLIO, NOV. PRISCUS, LUCILIUS, &lt;CLEONICUS, GRANIUS SILVANUS&gt;
+GALLIO, NOV. PRISCUS, LUCILIUS, <CLEONICUS, GRANIUS SILVANUS>
  
 
  

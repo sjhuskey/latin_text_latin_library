@@ -18,7 +18,7 @@ LIBER QVARTVS
  
 
  
-[2] Magnum videor dicere: attendite etiam quem ad modum dicam. Non enim verbi neque criminis augendi causa complector omnia: cum dico nihil istum eius modi rerum in tota provincia reliquisse, Latine me scitote, non accusatorie loqui. Etiam planius: nihil in aedibus cuiusquam, ne in &lt;hospitis&gt; quidem, nihil in locis communibus, ne in fanis quidem, nihil apud Siculum, nihil apud civem Romanum, denique nihil istum, quod ad oculos animumque acciderit, neque privati neque publici neque profani neque sacri tota in Sicilia reliquisse. 
+[2] Magnum videor dicere: attendite etiam quem ad modum dicam. Non enim verbi neque criminis augendi causa complector omnia: cum dico nihil istum eius modi rerum in tota provincia reliquisse, Latine me scitote, non accusatorie loqui. Etiam planius: nihil in aedibus cuiusquam, ne in <hospitis> quidem, nihil in locis communibus, ne in fanis quidem, nihil apud Siculum, nihil apud civem Romanum, denique nihil istum, quod ad oculos animumque acciderit, neque privati neque publici neque profani neque sacri tota in Sicilia reliquisse. 
  
 
  
@@ -106,11 +106,11 @@ LIBER QVARTVS
  
 
  
-[26] Verum haec tum queremur si quid de vobis per eum ordinem agetur, qui ordo a vobis adhuc solis contemptus est. In populi Romani quidem conspectum quo ore vos commisistis? nec prius illam crucem, quae etiam nunc civis Romani sanguine redundat, quae fixa est ad portum urbemque vestram, revellistis neque in profundum abiecistis locumque illum omnem expiastis, quam Romam atque in horum conventum adiretis? In Mamertinorum solo foederato atque pacato monumentum istius crudelitatis constitutum est. Vestrane urbs electa est ad quam cum adirent ex Italia &lt;cives&gt; crucem civis Romani prius quam quemquam amicum populi Romani viderent? quam vos Reginis, quorum civitati invidetis, itemque incolis vestris, civibus Romanis, ostendere soletis, quo minus sibi adrogent minusque vos despiciant, cum videant ius civitatis illo supplicio esse mactatum. 
+[26] Verum haec tum queremur si quid de vobis per eum ordinem agetur, qui ordo a vobis adhuc solis contemptus est. In populi Romani quidem conspectum quo ore vos commisistis? nec prius illam crucem, quae etiam nunc civis Romani sanguine redundat, quae fixa est ad portum urbemque vestram, revellistis neque in profundum abiecistis locumque illum omnem expiastis, quam Romam atque in horum conventum adiretis? In Mamertinorum solo foederato atque pacato monumentum istius crudelitatis constitutum est. Vestrane urbs electa est ad quam cum adirent ex Italia <cives> crucem civis Romani prius quam quemquam amicum populi Romani viderent? quam vos Reginis, quorum civitati invidetis, itemque incolis vestris, civibus Romanis, ostendere soletis, quo minus sibi adrogent minusque vos despiciant, cum videant ius civitatis illo supplicio esse mactatum. 
  
 
  
-[27] Verum haec emisse te dicis. Quid? illa Attalica tota Sicilia nominata ab eodem Heio [peripetasmata] emere oblitus es? Licuit eodem modo ut signa. Quid enim actum est? an litteris pepercisti? Verum hominem amentem hoc fugit: minus clarum putavit fore quod de armario quam quod de sacrario esset ablatum. At quo modo abstulit? Non possum dicere planius quam ipse apud vos dixit Heius. Cum quaesissem num quid aliud de bonis eius pervenisset ad Verrem, respondit istum ad se misisse ut sibi mitteret Agrigentum peripetasmata. Quaesivi misisset&lt;ne&gt;; respondit, id quod necesse erat, se dicto audientem fuisse praetori, misisse. Rogavi pervenissentne Agrigentum; dixit pervenisse. Quaesivi quem ad modum revertissent; negavit adhuc revertisse. Risus populi atque admiratio omnium vestrum facta est. 
+[27] Verum haec emisse te dicis. Quid? illa Attalica tota Sicilia nominata ab eodem Heio [peripetasmata] emere oblitus es? Licuit eodem modo ut signa. Quid enim actum est? an litteris pepercisti? Verum hominem amentem hoc fugit: minus clarum putavit fore quod de armario quam quod de sacrario esset ablatum. At quo modo abstulit? Non possum dicere planius quam ipse apud vos dixit Heius. Cum quaesissem num quid aliud de bonis eius pervenisset ad Verrem, respondit istum ad se misisse ut sibi mitteret Agrigentum peripetasmata. Quaesivi misisset<ne>; respondit, id quod necesse erat, se dicto audientem fuisse praetori, misisse. Rogavi pervenissentne Agrigentum; dixit pervenisse. Quaesivi quem ad modum revertissent; negavit adhuc revertisse. Risus populi atque admiratio omnium vestrum facta est. 
  
 
  
@@ -166,7 +166,7 @@ LIBER QVARTVS
  
 
  
-[41] Res clara Sicilia tota, propter caelati argenti cupiditatem reos fieri rerum capitalium, neque solum reos fieri, sed etiam absentis. Diodorus Romae sordidatus circum patronos atque hospites cursare, rem omnibus narrare. Litterae mittuntur isti a patre vehementes, ab amicis item, videret quid ageret de Diodoro, quo progrederetur; rem claram esse et invidiosam; insanire hominem, periturum hoc uno crimine, nisi cavisset. Iste etiam tum patrem, si non in parentis, at in hominum numero putabat; ad iudicium nondum se satis instruxerat; primus annus erat provinciae, non &lt;erat&gt;, ut in Sthenio, iam refertus pecunia. Itaque furor eius paululum non pudore, sed metu ac timore repressus est. Condemnare Diodorum non audet absentem, de reis eximit. Diodorus interea praetore isto prope triennium provincia domoque caruit. 
+[41] Res clara Sicilia tota, propter caelati argenti cupiditatem reos fieri rerum capitalium, neque solum reos fieri, sed etiam absentis. Diodorus Romae sordidatus circum patronos atque hospites cursare, rem omnibus narrare. Litterae mittuntur isti a patre vehementes, ab amicis item, videret quid ageret de Diodoro, quo progrederetur; rem claram esse et invidiosam; insanire hominem, periturum hoc uno crimine, nisi cavisset. Iste etiam tum patrem, si non in parentis, at in hominum numero putabat; ad iudicium nondum se satis instruxerat; primus annus erat provinciae, non <erat>, ut in Sthenio, iam refertus pecunia. Itaque furor eius paululum non pudore, sed metu ac timore repressus est. Condemnare Diodorum non audet absentem, de reis eximit. Diodorus interea praetore isto prope triennium provincia domoque caruit. 
  
 
  
@@ -358,7 +358,7 @@ LIBER QVARTVS
  
 
  
-[90] Quam in te tantam virtutem esse aut dignitatem arbitratus es ut conarere clientelam tam splendidae, tam inlustris provinciae traducere ad te, auferre a certissimis antiquissimisque patronis? Tu ista nequitia, stultitia, inertia non modo totius Siciliae, sed unius tenuissimi Siculi clientelam tueri potes? tibi Marcelli statua pro patibulo in clientis Marcellorum fuit? tu ex illius honore in eos ipsos qui honorem illi habuerant supplicia quaerebas? Quid postea? quid tandem tuis statuis fore arbitrabare? an vero id quod accidit? Nam Tyndaritani statuam istius, quam sibi propter Marcellos altiore etiam basi poni iusserat, deturbarunt simul ac successum isti audierunt. Dedit igitur tibi nunc fortuna Siculorum C. Marcellum iudicem, ut, cuius ad statuam Siculi te praetore alligabantur, eius religione te &lt;his iudicibus&gt; vinctum adstrictumque dedamus. 
+[90] Quam in te tantam virtutem esse aut dignitatem arbitratus es ut conarere clientelam tam splendidae, tam inlustris provinciae traducere ad te, auferre a certissimis antiquissimisque patronis? Tu ista nequitia, stultitia, inertia non modo totius Siciliae, sed unius tenuissimi Siculi clientelam tueri potes? tibi Marcelli statua pro patibulo in clientis Marcellorum fuit? tu ex illius honore in eos ipsos qui honorem illi habuerant supplicia quaerebas? Quid postea? quid tandem tuis statuis fore arbitrabare? an vero id quod accidit? Nam Tyndaritani statuam istius, quam sibi propter Marcellos altiore etiam basi poni iusserat, deturbarunt simul ac successum isti audierunt. Dedit igitur tibi nunc fortuna Siculorum C. Marcellum iudicem, ut, cuius ad statuam Siculi te praetore alligabantur, eius religione te <his iudicibus> vinctum adstrictumque dedamus. 
  
 
  
@@ -510,11 +510,11 @@ LIBER QVARTVS
  
 
  
-[128] Quid? ex aede Liberi simulacrum Aristaei non tuo imperio palam ablatum est? Quid? ex aede Iovis religiosissimum simulacrum Iovis Imperatoris, quem Graeci Vrion nominant, pulcherrime factum nonne abstulisti? Quid? ex aede Liberae &lt;agninum&gt; caput illud pulcherrimum, quod visere solebamus, num dubitasti tollere? Atque ille Paean sacrificiis anniversariis simul cum Aesculapio apud illos colebatur; Aristaeus, qui [ut Graeci ferunt, Liberi filius] inventor olei esse dicitur, una cum Libero patre apud illos eodem erat in templo consecratus. 
+[128] Quid? ex aede Liberi simulacrum Aristaei non tuo imperio palam ablatum est? Quid? ex aede Iovis religiosissimum simulacrum Iovis Imperatoris, quem Graeci Vrion nominant, pulcherrime factum nonne abstulisti? Quid? ex aede Liberae <agninum> caput illud pulcherrimum, quod visere solebamus, num dubitasti tollere? Atque ille Paean sacrificiis anniversariis simul cum Aesculapio apud illos colebatur; Aristaeus, qui [ut Graeci ferunt, Liberi filius] inventor olei esse dicitur, una cum Libero patre apud illos eodem erat in templo consecratus. 
  
 
  
-[129] Iovem autem Imperatorem quanto honore in suo templo fuisse arbitramini? Conicere potestis, si recordari volueritis quanta religione fuerit eadem specie ac forma signum illud quod ex Macedonia captum in Capitolio posuerat &lt;T.&gt; Flamininus. Etenim tria ferebantur in orbe terrarum signa Iovis Imperatoris uno in genere pulcherrime facta, unum illud Macedonicum quod in Capitolio vidimus, alterum in Ponti ore et angustiis, tertium quod Syracusis ante Verrem praetorem fuit. Illud Flamininus ita ex aede sua sustulit ut in Capitolio, hoc est in terrestri domicilio Iovis poneret. 
+[129] Iovem autem Imperatorem quanto honore in suo templo fuisse arbitramini? Conicere potestis, si recordari volueritis quanta religione fuerit eadem specie ac forma signum illud quod ex Macedonia captum in Capitolio posuerat <T.> Flamininus. Etenim tria ferebantur in orbe terrarum signa Iovis Imperatoris uno in genere pulcherrime facta, unum illud Macedonicum quod in Capitolio vidimus, alterum in Ponti ore et angustiis, tertium quod Syracusis ante Verrem praetorem fuit. Illud Flamininus ita ex aede sua sustulit ut in Capitolio, hoc est in terrestri domicilio Iovis poneret. 
  
 
  
@@ -530,7 +530,7 @@ LIBER QVARTVS
  
 
  
-[133] Licet iste dicat emisse se, sicuti solet dicere, credite hoc mihi, iudices: nulla umquam civitas tota Asia et Graecia signum ullum, tabulam pictam &lt;ullam&gt;, ullum denique ornamentum urbis sua voluntate cuiquam vendidit; nisi forte existimatis, posteaquam iudicia severa Romae fieri desierunt, Graecos homines haec venditare coepisse, quae tum non modo non venditabant, cum iudicia fiebant, verum etiam coemebant; aut nisi arbitramini L. Crasso, Q. Scaevolae, C. Claudio, potentissimis hominibus, quorum aedilitates ornatissimas vidimus, commercium istarum rerum cum Graecis hominibus non fuisse, iis qui post iudiciorum dissolutionem aediles facti sunt fuisse. 
+[133] Licet iste dicat emisse se, sicuti solet dicere, credite hoc mihi, iudices: nulla umquam civitas tota Asia et Graecia signum ullum, tabulam pictam <ullam>, ullum denique ornamentum urbis sua voluntate cuiquam vendidit; nisi forte existimatis, posteaquam iudicia severa Romae fieri desierunt, Graecos homines haec venditare coepisse, quae tum non modo non venditabant, cum iudicia fiebant, verum etiam coemebant; aut nisi arbitramini L. Crasso, Q. Scaevolae, C. Claudio, potentissimis hominibus, quorum aedilitates ornatissimas vidimus, commercium istarum rerum cum Graecis hominibus non fuisse, iis qui post iudiciorum dissolutionem aediles facti sunt fuisse. 
  
 
  
@@ -586,7 +586,7 @@ LIBER QVARTVS
  
 
  
-[147] Cum ad praetorem in ius adissemus, excogitat sane acute quid decernat; nam ante quam verbum facerem, de sella surrexit atque abiit. Itaque tum de foro, cum iam advesperasceret, discessimus. Postridie mane ab eo postulo ut Syracusanis liceret senatus consultum, quod pridie fecissent, mihi reddere. Ille enim vero negat et ait indignum facinus esse quod ego in senatu Graeco verba fecissem; quod quidem apud Graecos Graece locutus essem, id ferri nullo modo posse. Respondi homini ut potui, ut debui, ut volui. Cum multa tum etiam hoc &lt;me&gt; memini dicere, facile esse perspicuum quantum inter hunc et illum Numidicum, verum ac germanum Metellum, interesset; illum noluisse sua laudatione iuvare L. Lucullum, sororis virum, quicum optime convenisset, hunc homini alienissimo a civitatibus laudationes per vim et metum comparare. 
+[147] Cum ad praetorem in ius adissemus, excogitat sane acute quid decernat; nam ante quam verbum facerem, de sella surrexit atque abiit. Itaque tum de foro, cum iam advesperasceret, discessimus. Postridie mane ab eo postulo ut Syracusanis liceret senatus consultum, quod pridie fecissent, mihi reddere. Ille enim vero negat et ait indignum facinus esse quod ego in senatu Graeco verba fecissem; quod quidem apud Graecos Graece locutus essem, id ferri nullo modo posse. Respondi homini ut potui, ut debui, ut volui. Cum multa tum etiam hoc <me> memini dicere, facile esse perspicuum quantum inter hunc et illum Numidicum, verum ac germanum Metellum, interesset; illum noluisse sua laudatione iuvare L. Lucullum, sororis virum, quicum optime convenisset, hunc homini alienissimo a civitatibus laudationes per vim et metum comparare. 
  
 
  

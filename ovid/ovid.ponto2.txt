@@ -14,7 +14,7 @@ LIBER SECVNDVS
  
 
  
- I. &lt;GERMANICO&gt; 
+ I. <GERMANICO> 
  
 
  
@@ -126,7 +126,7 @@ Dixerit hoc aliquis tutum non esse: fatemur,
 Tuta petant alii: fortuna miserrima tuta est; 
   nam timor euentu deterioris abest. 
 Qui rapitur . . . . . . . . . . . . . 
-  porrigit &lt;et&gt; spinas duraque saxa . . . . . 
+  porrigit <et> spinas duraque saxa . . . . . 
 accipitremque timens pennis trepidantibus ales     35 
   audet ad humanos fessa uenire sinus, 
 nec se uicino dubitat committere tecto 
@@ -662,7 +662,7 @@ Nam caput e nostra citius ceruice recedet     65
 quam caream raptis, o publica numina, uobis: 
   uos eritis nostrae portus et ara fugae. 
 Vos ego complectar, Geticis si cingar ab armis, 
-  utque meas aquilas, &lt;sic mea&gt; signa sequar.     70 
+  utque meas aquilas, <sic mea> signa sequar.     70 
 Aut ego me fallo nimioque cupidine ludor 
   aut spes exilii commodioris adest; 
 nam minus et minus est facies in imagine tristis 

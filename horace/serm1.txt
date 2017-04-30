@@ -811,7 +811,7 @@ iudicio volgi, sanus fortasse tuo, quod
 nollem onus haud umquam solitus portare molestum. 
 nam mihi continuo maior quaerenda foret res    100 
 atque salutandi plures, ducendus et unus 
-et comes alter, uti ne solus rusve peregre&lt;ve&gt; 
+et comes alter, uti ne solus rusve peregre<ve> 
 exirem, plures calones atque caballi 
 pascendi, ducenda petorrita. nunc mihi curto 
 ire licet mulo vel si libet usque Tarentum,    105 

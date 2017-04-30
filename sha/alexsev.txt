@@ -60,7 +60,7 @@ multum profecit, ut ex eiusdem orationibus apparet, quas <in> senatu
 habuit, vel contionibus, quas apud milites vel apud populum. Nec valde
 amavit Latinam facundiam, sed amavit litteratos homines vehementer, eos
 etiam reformidans, ne quid de se asperum scriberent. 5 Denique eos,
-&lt;quos&gt; dignos [ad desce] videbat, singula quaeque, quae publice privatim
+<quos> dignos [ad desce] videbat, singula quaeque, quae publice privatim
 agebat, se ipso docente volebat addiscere, si forte ipsi non adfuissent,
 esque petebat ut, si vera essent, in litteras mitterent.
  

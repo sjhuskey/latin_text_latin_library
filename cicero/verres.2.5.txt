@@ -61,7 +61,7 @@ LIBER QVINTVS
  
 
  
- [13] Atque haec sicubi &lt;facta sunt&gt;, ita facta sunt ut homines populares aut nobiles supplicio aut exsilio levarentur, at non ab iis ipsis qui iudicassent, at non statim, at non eorum facinorum damnati quae ad vitam et ad fortunas omnium pertinerent. Hoc vero novum et eius modi est ut magis propter reum quam propter rem ipsam credibile videatur, ut homines servos, ut ipse qui iudicarat, ut statim e medio supplicio dimiserit, ut eius facinoris damnatos servos quod ad omnium liberorum caput et sanguinem pertineret. 
+ [13] Atque haec sicubi <facta sunt>, ita facta sunt ut homines populares aut nobiles supplicio aut exsilio levarentur, at non ab iis ipsis qui iudicassent, at non statim, at non eorum facinorum damnati quae ad vitam et ad fortunas omnium pertinerent. Hoc vero novum et eius modi est ut magis propter reum quam propter rem ipsam credibile videatur, ut homines servos, ut ipse qui iudicarat, ut statim e medio supplicio dimiserit, ut eius facinoris damnatos servos quod ad omnium liberorum caput et sanguinem pertineret. 
  
 
  
@@ -73,7 +73,7 @@ LIBER QVINTVS
  
 
  
- [16] Quid? de Apollonio, Diocli filio, Panhormitano, cui Gemino cognomen est, praeteriri potest? Ecquid hoc tota Sicilia clarius, ecquid indignius, ecquid manifestius proferri potest? Quem, ut Panhormum venit, ad se vocari et de tribunali citari iussit concursu magno frequentiaque conventus. Homines statim loqui: 'Mirabar quod Apollonius, homo pecuniosus, tam diu ab isto maneret integer; excogitavit nescio quid, &lt;nescio quid&gt; attulit; profecto homo dives repente a Verre non sine causa citatur.' Exspectatio summa omnium quidnam id esset, cum exanimatus subito ipse accurrit cum adulescente filio; nam pater grandis natu iam diu lecto tenebatur. 
+ [16] Quid? de Apollonio, Diocli filio, Panhormitano, cui Gemino cognomen est, praeteriri potest? Ecquid hoc tota Sicilia clarius, ecquid indignius, ecquid manifestius proferri potest? Quem, ut Panhormum venit, ad se vocari et de tribunali citari iussit concursu magno frequentiaque conventus. Homines statim loqui: 'Mirabar quod Apollonius, homo pecuniosus, tam diu ab isto maneret integer; excogitavit nescio quid, <nescio quid> attulit; profecto homo dives repente a Verre non sine causa citatur.' Exspectatio summa omnium quidnam id esset, cum exanimatus subito ipse accurrit cum adulescente filio; nam pater grandis natu iam diu lecto tenebatur. 
  
 
  
@@ -173,7 +173,7 @@ LIBER QVINTVS
  
 
  
- [41] O divina senatus frequentis in aede Bellonae admurmuratio! Memoria tenetis, iudices, cum advesperasceret et paulo ante esset de hoc Tempsano incommodo nuntiatum, cum inveniretur nemo qui in illa loca cum imperio mitteretur, dixisset&lt;que&gt; quidam Verrem esse non longe a Tempsa, quam valde universi admurmuraverint, quam palam principes dixerint contra. Et his tot criminibus testimoniisque convictus in eorum tabella spem sibi aliquam proponit, quorum omnium palam causa incognita voce damnatus est? 
+ [41] O divina senatus frequentis in aede Bellonae admurmuratio! Memoria tenetis, iudices, cum advesperasceret et paulo ante esset de hoc Tempsano incommodo nuntiatum, cum inveniretur nemo qui in illa loca cum imperio mitteretur, dixisset<que> quidam Verrem esse non longe a Tempsa, quam valde universi admurmuraverint, quam palam principes dixerint contra. Et his tot criminibus testimoniisque convictus in eorum tabella spem sibi aliquam proponit, quorum omnium palam causa incognita voce damnatus est? 
  
 
  
@@ -233,7 +233,7 @@ LIBER QVINTVS
  
 
  
- [57] Hic mihi etiam audebit mentionem facere Mamertinae laudationis! in qua quam multa sint vulnera quis est vestrum, iudices, quin intellegat? Primum &lt;enim&gt; in iudiciis qui decem laudatores dare non potest, honestius est ei nullum dare quam illum quasi legitimum numerum consuetudinis non explere. Tot in Sicilia civitates sunt quibus tu per triennium praefuisti: arguunt ceterae, paucae et parvae &lt;vi&gt; et metu repressae silent, una laudat. Hoc quid est nisi intellegere quid habeat utilitatis vera laudatio, sed tamen ita provinciae praefuisse ut hac utilitate necessario sit carendum? 
+ [57] Hic mihi etiam audebit mentionem facere Mamertinae laudationis! in qua quam multa sint vulnera quis est vestrum, iudices, quin intellegat? Primum <enim> in iudiciis qui decem laudatores dare non potest, honestius est ei nullum dare quam illum quasi legitimum numerum consuetudinis non explere. Tot in Sicilia civitates sunt quibus tu per triennium praefuisti: arguunt ceterae, paucae et parvae <vi> et metu repressae silent, una laudat. Hoc quid est nisi intellegere quid habeat utilitatis vera laudatio, sed tamen ita provinciae praefuisse ut hac utilitate necessario sit carendum? 
  
 
  
@@ -325,7 +325,7 @@ LIBER QVINTVS
  
 
  
- [81] Hic dies aestivos praetor populi Romani, custos defensorque provinciae, sic vixit ut muliebria cotidie convivia essent, vir accumberet nemo praeter ipsum et praetextatum filium—etsi recte sine exceptione dixeram virum, cum isti essent, neminem fuisse. Non numquam etiam libertus Timarchides adhibebatur, mulieres autem nuptae nobiles praeter unam mimi Isidori filiam, quam iste propter amorem ab Rhodio tibicine abduxerat. &lt;Erat&gt; Pipa quaedam, uxor Aeschrionis Syracusani, de qua muliere plurimi versus qui in istius cupiditatem facti sunt tota Sicilia percelebrantur; erat Nice, facie eximia, ut praedicatur, uxor Cleomeni Syracusani. 
+ [81] Hic dies aestivos praetor populi Romani, custos defensorque provinciae, sic vixit ut muliebria cotidie convivia essent, vir accumberet nemo praeter ipsum et praetextatum filium—etsi recte sine exceptione dixeram virum, cum isti essent, neminem fuisse. Non numquam etiam libertus Timarchides adhibebatur, mulieres autem nuptae nobiles praeter unam mimi Isidori filiam, quam iste propter amorem ab Rhodio tibicine abduxerat. <Erat> Pipa quaedam, uxor Aeschrionis Syracusani, de qua muliere plurimi versus qui in istius cupiditatem facti sunt tota Sicilia percelebrantur; erat Nice, facie eximia, ut praedicatur, uxor Cleomeni Syracusani. 
  
 
  
@@ -401,7 +401,7 @@ LIBER QVINTVS
  
 
  
- [100] O spectaculum miserum atque acerbum! ludibrio esse urbis gloriam, populi Romani nomen, &lt;omnium&gt; hominum conventum atque multitudinem piratico myoparoni! in portu Syracusano de classe populi Romani triumphum agere piratam, cum praetoris inertissimi nequissimique oculos praedonum remi respergerent! Posteaquam e portu piratae non metu aliquo adfecti sed satietate exierunt, tum coeperunt quaerere homines causam illius tantae calamitatis. Dicere omnes et palam disputare minime esse mirandum si remigibus militibusque dimissis, reliquis egestate et fame perditis, praetore tot dies cum mulierculis perpotante, tanta ignominia et calamitas esset accepta. 
+ [100] O spectaculum miserum atque acerbum! ludibrio esse urbis gloriam, populi Romani nomen, <omnium> hominum conventum atque multitudinem piratico myoparoni! in portu Syracusano de classe populi Romani triumphum agere piratam, cum praetoris inertissimi nequissimique oculos praedonum remi respergerent! Posteaquam e portu piratae non metu aliquo adfecti sed satietate exierunt, tum coeperunt quaerere homines causam illius tantae calamitatis. Dicere omnes et palam disputare minime esse mirandum si remigibus militibusque dimissis, reliquis egestate et fame perditis, praetore tot dies cum mulierculis perpotante, tanta ignominia et calamitas esset accepta. 
  
 
  
@@ -453,7 +453,7 @@ LIBER QVINTVS
  
 
  
-[113] Deinde etiam illud video esse dictum quod, si recte vos populus Romanus cognovit, non falso ille de vobis iam in morte ipsa praedicavit, non posse Verrem testis interficiendo &lt;testimonium&gt; exstinguere; graviorem apud sapientis iudices se fore ab inferis testem quam si vivus in iudicium produceretur; tum avaritiae solum, si viveret, nunc, cum ita esset necatus, sceleris audaciae crudelitatis testem fore. Iam illa praeclara: non testium modo catervas, cum tua res ageretur, sed ab dis manibus innocentium Poenas sceleratorumque Furias in tuum iudicium esse venturas; sese ideo leviorem suum casum fingere, quod iam ante aciem securium tuarum Sextique, tui carnificis, vultum et manum vidisset, cum in conventu civium Romanorum iussu tuo securi cives Romani ferirentur. 
+[113] Deinde etiam illud video esse dictum quod, si recte vos populus Romanus cognovit, non falso ille de vobis iam in morte ipsa praedicavit, non posse Verrem testis interficiendo <testimonium> exstinguere; graviorem apud sapientis iudices se fore ab inferis testem quam si vivus in iudicium produceretur; tum avaritiae solum, si viveret, nunc, cum ita esset necatus, sceleris audaciae crudelitatis testem fore. Iam illa praeclara: non testium modo catervas, cum tua res ageretur, sed ab dis manibus innocentium Poenas sceleratorumque Furias in tuum iudicium esse venturas; sese ideo leviorem suum casum fingere, quod iam ante aciem securium tuarum Sextique, tui carnificis, vultum et manum vidisset, cum in conventu civium Romanorum iussu tuo securi cives Romani ferirentur. 
  
 
  
@@ -465,7 +465,7 @@ LIBER QVINTVS
  
 
  
-[116] Nam si cum aliorum improbitate certet, longe omnis multumque superabit; sed secum &lt;cum&gt; ipse certat, id agit ut semper superius suum facinus novo scelere vincat. Phalacrum Centuripinum dixeram exceptum esse a Cleomene, quod in eius quadriremi Cleomenes vectus esset; tamen, quia pertimuerat adulescens, quod eandem suam causam videbat esse quam illorum qui innocentes peribant, accedit ad hominem Timarchides; a securi negat esse ei periculum, virgis ne caederetur monet ut caveat. Ne multa, ipsum dicere adulescentem audistis se ob hunc metum pecuniam Timarchidi numerasse. 
+[116] Nam si cum aliorum improbitate certet, longe omnis multumque superabit; sed secum <cum> ipse certat, id agit ut semper superius suum facinus novo scelere vincat. Phalacrum Centuripinum dixeram exceptum esse a Cleomene, quod in eius quadriremi Cleomenes vectus esset; tamen, quia pertimuerat adulescens, quod eandem suam causam videbat esse quam illorum qui innocentes peribant, accedit ad hominem Timarchides; a securi negat esse ei periculum, virgis ne caederetur monet ut caveat. Ne multa, ipsum dicere adulescentem audistis se ob hunc metum pecuniam Timarchidi numerasse. 
  
 
  
@@ -501,7 +501,7 @@ LIBER QVINTVS
  
 
  
-[125] Vestros quondam nautas contra Carthaginem Scipio duxit, at nunc navem contra praedones paene inanem Cleomenes ducit; vobiscum Africanus hostium spolia et praemia laudis communicavit, at nunc, per &lt;Verrem&gt; spoliati, nave a praedonibus abducta, ipsi in hostium loco numeroque ducimini. Quid vero? illa Segestanorum non solum litteris tradita neque commemorata verbis, sed multis officiis illorum usurpata et comprobata cognatio quos tandem fructus huiusce necessitudinis in istius imperio tulit? Nempe hoc iure fuit, iudices, ut ex sinu patriae nobilissimus adulescens istius carnifici Sextio dederetur. Cui civitati maiores nostri maximos agros atque optimos concesserunt, quam immunem esse voluerunt, haec apud te cognationis fidelitatis vetustatis auctoritatis ne hoc quidem iuris obtinuit, ut unius honestissimi atque innocentissimi civis mortem ac sanguinem deprecaretur. 
+[125] Vestros quondam nautas contra Carthaginem Scipio duxit, at nunc navem contra praedones paene inanem Cleomenes ducit; vobiscum Africanus hostium spolia et praemia laudis communicavit, at nunc, per <Verrem> spoliati, nave a praedonibus abducta, ipsi in hostium loco numeroque ducimini. Quid vero? illa Segestanorum non solum litteris tradita neque commemorata verbis, sed multis officiis illorum usurpata et comprobata cognatio quos tandem fructus huiusce necessitudinis in istius imperio tulit? Nempe hoc iure fuit, iudices, ut ex sinu patriae nobilissimus adulescens istius carnifici Sextio dederetur. Cui civitati maiores nostri maximos agros atque optimos concesserunt, quam immunem esse voluerunt, haec apud te cognationis fidelitatis vetustatis auctoritatis ne hoc quidem iuris obtinuit, ut unius honestissimi atque innocentissimi civis mortem ac sanguinem deprecaretur. 
  
 
  
@@ -521,7 +521,7 @@ LIBER QVINTVS
  
 
  
-[131] Quapropter si quem forte inveneris qui hoc navale crimen conetur defendere, is ita defendat &lt;ut&gt; illa communia quae ad causam nihil pertinent praetermittat, me culpae fortunam adsignare, calamitatem crimini dare, me amissionem classis obicere, cum multi viri fortes in communi incertoque periculo belli et terra et mari saepe offenderint. Nullam tibi obicio fortunam, nihil est quod ceterorum res minus commode gestas proferas, nihil est quod multorum naufragia fortunae colligas. Ego navis inanis fuisse dico, remiges nautasque dimissos, reliquos stirpibus vixisse palmarum; praefuisse classi populi Romani Siculum, perpetuo sociis atque amicis Syracusanum; te illo tempore ipso superioribusque diebus omnibus in litore cum mulierculis perpotasse dico; harum rerum omnium auctores testisque produco. 
+[131] Quapropter si quem forte inveneris qui hoc navale crimen conetur defendere, is ita defendat <ut> illa communia quae ad causam nihil pertinent praetermittat, me culpae fortunam adsignare, calamitatem crimini dare, me amissionem classis obicere, cum multi viri fortes in communi incertoque periculo belli et terra et mari saepe offenderint. Nullam tibi obicio fortunam, nihil est quod ceterorum res minus commode gestas proferas, nihil est quod multorum naufragia fortunae colligas. Ego navis inanis fuisse dico, remiges nautasque dimissos, reliquos stirpibus vixisse palmarum; praefuisse classi populi Romani Siculum, perpetuo sociis atque amicis Syracusanum; te illo tempore ipso superioribusque diebus omnibus in litore cum mulierculis perpotasse dico; harum rerum omnium auctores testisque produco. 
  
 
  

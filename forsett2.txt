@@ -365,7 +365,7 @@ iratus Achilles: corque meum penitus turgescit trisitibusiris.      800
 DRO. Quid? Tuum hoc corpus aethereum ut illud lutum terrenum attingat? Ab- 
 surdum: quin potius sicut ex bovillo cadavere computrescente prodeunt vermes, 
 sic corruptio Croboli illius (qualis qualis sit) generatio sit Pedantii, de quo quoad 
-humilitatem vere dici potest (&lt;non&gt; quod sublunaris est, sed quod ad artes attinet) 
+humilitatem vere dici potest (<non> quod sublunaris est, sed quod ad artes attinet) 
 supercoelestis est.     805 
  
 LYD. Mihi abeundum est, cum videam vos irasci tantopere. 

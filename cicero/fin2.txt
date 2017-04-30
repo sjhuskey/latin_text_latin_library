@@ -101,7 +101,7 @@ Cicero: de Finibus II
  
 
  
- [21] Si ea, quae sunt luxuriosis efficientia voluptatum, liberarent eos deorum et mortis et doloris metu docerentque qui essent fines cupiditatum, nihil haberemus &lt;quod reprehenderemus&gt;, cum undique complerentur voluptatibus nec haberent ulla ex parte aliquid aut dolens aut aegrum, id est autem malum.' Hoc loco tenere se Triarius non potuit. Obsecro, inquit, Torquate, haec dicit Epicurus? quod mihi quidem visus est, cum sciret, velle tamen confitentem audire Torquatum. At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit; sed quid sentiat, non videtis. Si alia sentit, inquam, alia loquitur, numquam intellegam quid sentiat; sed plane dicit quod intellegit. idque si ita dicit, non esse reprehendendos luxuriosos, si sapientes sint, dicit absurde, similiter et si dicat non reprehendendos parricidas, si nec cupidi sint nec deos metuant nec mortem nec dolorem. et tamen quid attinet luxuriosis ullam exceptionem dari aut fingere aliquos, qui, cum luxuriose viverent, a summo philosopho non reprehenderentur eo nomine dumtaxat, cetera caverent? 
+ [21] Si ea, quae sunt luxuriosis efficientia voluptatum, liberarent eos deorum et mortis et doloris metu docerentque qui essent fines cupiditatum, nihil haberemus <quod reprehenderemus>, cum undique complerentur voluptatibus nec haberent ulla ex parte aliquid aut dolens aut aegrum, id est autem malum.' Hoc loco tenere se Triarius non potuit. Obsecro, inquit, Torquate, haec dicit Epicurus? quod mihi quidem visus est, cum sciret, velle tamen confitentem audire Torquatum. At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit; sed quid sentiat, non videtis. Si alia sentit, inquam, alia loquitur, numquam intellegam quid sentiat; sed plane dicit quod intellegit. idque si ita dicit, non esse reprehendendos luxuriosos, si sapientes sint, dicit absurde, similiter et si dicat non reprehendendos parricidas, si nec cupidi sint nec deos metuant nec mortem nec dolorem. et tamen quid attinet luxuriosis ullam exceptionem dari aut fingere aliquos, qui, cum luxuriose viverent, a summo philosopho non reprehenderentur eo nomine dumtaxat, cetera caverent? 
  
 
  
@@ -117,7 +117,7 @@ Cicero: de Finibus II
  
 
  
- [25] semper Laelius bene. quid bene? dicet Lucilius: 'cocto, condito', sed cedo caput cenae: 'sermone bono', quid ex eo? 'si quaeris, libenter'; veniebat enim ad cenam, ut animo quieto satiaret desideria naturae. recte ergo is negat umquam bene cenasse Gallonium, recte miserum, cum praesertim in eo omne studium consumeret. quem libenter cenasse nemo negat. cur igitur non bene? quia, quod bene, id recte, frugaliter, honeste; ille porro [male] prave, nequiter, turpiter cenabat; non igitur &lt;bene&gt;. nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat; quod non faceret, si in voluptate summum bonum poneret. 
+ [25] semper Laelius bene. quid bene? dicet Lucilius: 'cocto, condito', sed cedo caput cenae: 'sermone bono', quid ex eo? 'si quaeris, libenter'; veniebat enim ad cenam, ut animo quieto satiaret desideria naturae. recte ergo is negat umquam bene cenasse Gallonium, recte miserum, cum praesertim in eo omne studium consumeret. quem libenter cenasse nemo negat. cur igitur non bene? quia, quod bene, id recte, frugaliter, honeste; ille porro [male] prave, nequiter, turpiter cenabat; non igitur <bene>. nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat; quod non faceret, si in voluptate summum bonum poneret. 
  
 
  
@@ -157,11 +157,11 @@ Cicero: de Finibus II
  
 
  
- [35] ita tres sunt fines expertes honestatis, unus Aristippi vel Epicuri, alter Hieronymi, Carneadi tertius, tres, in quibus honestas cum aliqua accessione, Polemonis, Calliphontis, Diodori, una simplex, cuius Zeno auctor, posita in decore tota, id est in honestate; nam Pyrrho, Aristo, Erillus iam diu abiecti. reliqui sibi constiterunt, ut extrema cum initiis convenirent, ut Aristippo voluptas, Hieronymo doloris vacuitas, Carneadi frui principiis naturalibus esset extremum. Epicurus autem cum in prima commendatione voluptatem dixisset, si eam, quam Aristippus, idem tenere debuit ultimum bonorum, quod ille; sin eam, quam Hieronymus, &lt;ne&gt; fecisset idem, ut voluptatem illam Aristippi in prima commendatione poneret. 
+ [35] ita tres sunt fines expertes honestatis, unus Aristippi vel Epicuri, alter Hieronymi, Carneadi tertius, tres, in quibus honestas cum aliqua accessione, Polemonis, Calliphontis, Diodori, una simplex, cuius Zeno auctor, posita in decore tota, id est in honestate; nam Pyrrho, Aristo, Erillus iam diu abiecti. reliqui sibi constiterunt, ut extrema cum initiis convenirent, ut Aristippo voluptas, Hieronymo doloris vacuitas, Carneadi frui principiis naturalibus esset extremum. Epicurus autem cum in prima commendatione voluptatem dixisset, si eam, quam Aristippus, idem tenere debuit ultimum bonorum, quod ille; sin eam, quam Hieronymus, <ne> fecisset idem, ut voluptatem illam Aristippi in prima commendatione poneret. 
  
 
  
- [36] Nam quod ait sensibus ipsis iudicari voluptatem bonum esse, dolorem malum, plus tribuit sensibus, quam nobis leges permittunt, &lt;cum&gt; privatarum litium iudices sumus. nihil enim possumus iudicare, nisi quod est nostri iudicii—in quo frustra iudices solent, cum sententiam pronuntiant, addere: 'si quid mei iudicii est'; si enim non fuit eorum iudicii, nihilo magis hoc non addito illud est iudicatum—. quid iudicant sensus? dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum. 
+ [36] Nam quod ait sensibus ipsis iudicari voluptatem bonum esse, dolorem malum, plus tribuit sensibus, quam nobis leges permittunt, <cum> privatarum litium iudices sumus. nihil enim possumus iudicare, nisi quod est nostri iudicii—in quo frustra iudices solent, cum sententiam pronuntiant, addere: 'si quid mei iudicii est'; si enim non fuit eorum iudicii, nihilo magis hoc non addito illud est iudicatum—. quid iudicant sensus? dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum. 
  
 
  
@@ -189,7 +189,7 @@ Cicero: de Finibus II
  
 
  
- [43] Quae quod Aristoni et Pyrrhoni omnino visa sunt pro nihilo, ut inter optime valere et gravissime aegrotare nihil prorsus dicerent interesse, recte iam pridem contra eos desitum est disputari. dum enim in una virtute sic omnia esse voluerunt, ut eam rerum selectione expoliarent nec ei quicquam, aut unde oriretur, darent, aut ubi niteretur, virtutem ipsam, quam amplexabantur, sustulerunt. Erillus autem ad scientiam omnia revocans unum quoddam bonum vidit, sed nec optimum nec quo vita gubernari possit. itaque hic ipse iam pridem est reiectus; post enim Chrysippum &lt;eum&gt; non sane est disputatum. Restatis igitur vos; nam cum Academicis incerta luctatio est, qui nihil affirmant et quasi desperata cognitione certi id sequi volunt, quodcumque veri simile videatur. 
+ [43] Quae quod Aristoni et Pyrrhoni omnino visa sunt pro nihilo, ut inter optime valere et gravissime aegrotare nihil prorsus dicerent interesse, recte iam pridem contra eos desitum est disputari. dum enim in una virtute sic omnia esse voluerunt, ut eam rerum selectione expoliarent nec ei quicquam, aut unde oriretur, darent, aut ubi niteretur, virtutem ipsam, quam amplexabantur, sustulerunt. Erillus autem ad scientiam omnia revocans unum quoddam bonum vidit, sed nec optimum nec quo vita gubernari possit. itaque hic ipse iam pridem est reiectus; post enim Chrysippum <eum> non sane est disputatum. Restatis igitur vos; nam cum Academicis incerta luctatio est, qui nihil affirmant et quasi desperata cognitione certi id sequi volunt, quodcumque veri simile videatur. 
  
 
  
@@ -217,7 +217,7 @@ Cicero: de Finibus II
  
 
  
- [50] quid nunc 'honeste' dicit? idemne, quod iucunde? ergo ita: non posse honeste vivi, nisi honeste vivatur? an nisi populari fama? sine ea igitur iucunde negat posse &lt;se&gt; vivere? quid turpius quam sapientis vitam ex insipientium sermone pendere? quid ergo hoc loco intellegit honestum? certe nihil nisi quod possit ipsum propter se iure laudari. nam si propter voluptatem, quae est ista laus, quae possit e macello peti? non is vir est, ut, cum honestatem eo loco habeat, ut sine ea iucunde neget posse vivi, illud honestum, quod populare sit, sentiat et sine eo neget iucunde vivi posse, aut quicquam aliud honestum intellegat, nisi quod sit rectum ipsumque per se sua vi, sua natura, sua sponte laudabile. 
+ [50] quid nunc 'honeste' dicit? idemne, quod iucunde? ergo ita: non posse honeste vivi, nisi honeste vivatur? an nisi populari fama? sine ea igitur iucunde negat posse <se> vivere? quid turpius quam sapientis vitam ex insipientium sermone pendere? quid ergo hoc loco intellegit honestum? certe nihil nisi quod possit ipsum propter se iure laudari. nam si propter voluptatem, quae est ista laus, quae possit e macello peti? non is vir est, ut, cum honestatem eo loco habeat, ut sine ea iucunde neget posse vivi, illud honestum, quod populare sit, sentiat et sine eo neget iucunde vivi posse, aut quicquam aliud honestum intellegat, nisi quod sit rectum ipsumque per se sua vi, sua natura, sua sponte laudabile. 
  
 
  
@@ -233,7 +233,7 @@ Cicero: de Finibus II
  
 
  
- [54] an tu me de L. Tubulo putas dicere? qui cum praetor quaestionem inter sicarios exercuisset, ita aperte cepit pecunias ob rem iudicandam, ut anno proximo P. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. quo plebiscito decreta a senatu est consuli quaestio Cn. Caepioni. profectus in exilium Tubulus statim nec respondere ausus; erat enim res aperta. Non igitur de improbo, sed &lt;de&gt; callido improbo quaerimus, qualis Q. Pompeius in foedere Numantino infitiando fuit, nec vero omnia timente, sed primum qui animi conscientiam non curet, quam scilicet comprimere nihil est negotii. is enim, qui occultus et tectus dicitur, tantum abest ut se indicet, perficiet etiam ut dolere alterius improbe facto videatur. quid est enim aliud esse versutum? 
+ [54] an tu me de L. Tubulo putas dicere? qui cum praetor quaestionem inter sicarios exercuisset, ita aperte cepit pecunias ob rem iudicandam, ut anno proximo P. Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri. quo plebiscito decreta a senatu est consuli quaestio Cn. Caepioni. profectus in exilium Tubulus statim nec respondere ausus; erat enim res aperta. Non igitur de improbo, sed <de> callido improbo quaerimus, qualis Q. Pompeius in foedere Numantino infitiando fuit, nec vero omnia timente, sed primum qui animi conscientiam non curet, quam scilicet comprimere nihil est negotii. is enim, qui occultus et tectus dicitur, tantum abest ut se indicet, perficiet etiam ut dolere alterius improbe facto videatur. quid est enim aliud esse versutum? 
  
 
  
@@ -281,7 +281,7 @@ Cicero: de Finibus II
  
 
  
- [66] stuprata per vim Lucretia a regis filio testata civis se ipsa interemit. hic dolor populi Romani duce et auctore Bruto causa civitati libertatis fuit, ob eiusque mulieris memoriam primo anno et vir et pater eius consul est factus. tenuis Lucius Verginius unusque de multis sexagesimo anno post libertatem receptam virginem filiam sua manu occidit potius, quam ea Ap. Claudii libidini, qui tum erat summo &lt;ne&gt; imperio, dederetur. 
+ [66] stuprata per vim Lucretia a regis filio testata civis se ipsa interemit. hic dolor populi Romani duce et auctore Bruto causa civitati libertatis fuit, ob eiusque mulieris memoriam primo anno et vir et pater eius consul est factus. tenuis Lucius Verginius unusque de multis sexagesimo anno post libertatem receptam virginem filiam sua manu occidit potius, quam ea Ap. Claudii libidini, qui tum erat summo <ne> imperio, dederetur. 
  
 
  
@@ -345,7 +345,7 @@ Cicero: de Finibus II
  
 
  
- [82] Sed haec nihil sane ad rem; illa videamus, quae a te de amicitia dicta sunt. e quibus unum mihi videbar ab ipso Epicuro dictum cognoscere, amicitiam a voluptate non posse divelli ob eamque rem colendam esse, quod, &lt;quoniam&gt; sine ea tuto et sine metu vivi non posset, ne iucunde quidem posset. satis est ad hoc responsum. Attulisti aliud humanius horum recentiorum, numquam dictum ab ipso illo, quod sciam, primo utilitatis causa amicum expeti, cum autem usus accessisset, tum ipsum amari per se etiam omissa spe voluptatis. hoc etsi multimodis reprehendi potest, tamen accipio, quod dant. mihi enim satis est, ipsis non satis. nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate. 
+ [82] Sed haec nihil sane ad rem; illa videamus, quae a te de amicitia dicta sunt. e quibus unum mihi videbar ab ipso Epicuro dictum cognoscere, amicitiam a voluptate non posse divelli ob eamque rem colendam esse, quod, <quoniam> sine ea tuto et sine metu vivi non posset, ne iucunde quidem posset. satis est ad hoc responsum. Attulisti aliud humanius horum recentiorum, numquam dictum ab ipso illo, quod sciam, primo utilitatis causa amicum expeti, cum autem usus accessisset, tum ipsum amari per se etiam omissa spe voluptatis. hoc etsi multimodis reprehendi potest, tamen accipio, quod dant. mihi enim satis est, ipsis non satis. nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate. 
  
 
  
@@ -393,7 +393,7 @@ Cicero: de Finibus II
  
 
  
- [94] Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit. video enim et magnos et eosdem bene longinquos dolores, quorum alia toleratio est verior, qua uti vos non potestis, qui honestatem ipsam per se non amatis. fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore. quam ob rem turpe putandum est, non dico dolere—nam id quidem est interdum necesse—, sed saxum illud Lemnium clamore Philocteteo funestare, Quod eiulatu, questu, gemitu, fremitibus Resonando mutum flebiles voces refert. Huic Epicurus praecentet, si potest, cui  &lt;e&gt; viperino morsu venae viscerum Veneno inbutae taetros cruciatus cient! Sic Epicurus: 'Philocteta, st! brevis dolor.' At iam decimum annum in spelunca iacet. 'Si longus, levis; dat enim intervalla et relaxat.' 
+ [94] Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit. video enim et magnos et eosdem bene longinquos dolores, quorum alia toleratio est verior, qua uti vos non potestis, qui honestatem ipsam per se non amatis. fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore. quam ob rem turpe putandum est, non dico dolere—nam id quidem est interdum necesse—, sed saxum illud Lemnium clamore Philocteteo funestare, Quod eiulatu, questu, gemitu, fremitibus Resonando mutum flebiles voces refert. Huic Epicurus praecentet, si potest, cui  <e> viperino morsu venae viscerum Veneno inbutae taetros cruciatus cient! Sic Epicurus: 'Philocteta, st! brevis dolor.' At iam decimum annum in spelunca iacet. 'Si longus, levis; dat enim intervalla et relaxat.' 
  
 
  
@@ -405,11 +405,11 @@ Cicero: de Finibus II
  
 
  
- [97] non ego iam Epaminondae, non Leonidae mortem huius morti antepono, quorum alter cum vicisset Lacedaemonios apud Mantineam atque ipse gravi vulnere exanimari se videret, ut primum dispexit, quaesivit salvusne esset clipeus. cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam. ita multo sanguine profuso in laetitia et in victoria est mortuus. Leonidas autem, rex Lacedaemoniorum, se in Thermopylis trecentosque eos, quos eduxerat Sparta, cum esset proposita aut fuga turpis aut gloriosa mors, opposuit hostibus. praeclarae mortes sunt imperatoriae; philosophi autem in suis lectulis plerumque moriuntur. refert tamen, quo modo. &lt;beatus&gt; sibi videtur esse moriens. magna laus. 'Compensabatur', inquit, 'cum summis doloribus laetitia.' 
+ [97] non ego iam Epaminondae, non Leonidae mortem huius morti antepono, quorum alter cum vicisset Lacedaemonios apud Mantineam atque ipse gravi vulnere exanimari se videret, ut primum dispexit, quaesivit salvusne esset clipeus. cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam. ita multo sanguine profuso in laetitia et in victoria est mortuus. Leonidas autem, rex Lacedaemoniorum, se in Thermopylis trecentosque eos, quos eduxerat Sparta, cum esset proposita aut fuga turpis aut gloriosa mors, opposuit hostibus. praeclarae mortes sunt imperatoriae; philosophi autem in suis lectulis plerumque moriuntur. refert tamen, quo modo. <beatus> sibi videtur esse moriens. magna laus. 'Compensabatur', inquit, 'cum summis doloribus laetitia.' 
  
 
  
- [98] Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es. primum enim, si vera sunt ea, quorum recordatione te gaudere dicis, hoc est, si vera sunt tua scripta et inventa, gaudere non potes. nihil enim iam habes, quod ad corpus referas; est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere. 'Praeteritis', inquit, 'gaudeo.' Quibusnam praeteritis? si ad corpus pertinentibus, rationes tuas te video compensare cum istis doloribus, non memoriam corpore perceptarum voluptatum; sin autem ad animum, falsum est, quod negas animi ullum esse gaudium, quod non referatur ad corpus. cur deinde Metrodori liberos commendas? quid &lt;in&gt; isto egregio tuo officio et tanta fide—sic enim existimo—ad corpus refers? 
+ [98] Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es. primum enim, si vera sunt ea, quorum recordatione te gaudere dicis, hoc est, si vera sunt tua scripta et inventa, gaudere non potes. nihil enim iam habes, quod ad corpus referas; est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere. 'Praeteritis', inquit, 'gaudeo.' Quibusnam praeteritis? si ad corpus pertinentibus, rationes tuas te video compensare cum istis doloribus, non memoriam corpore perceptarum voluptatum; sin autem ad animum, falsum est, quod negas animi ullum esse gaudium, quod non referatur ad corpus. cur deinde Metrodori liberos commendas? quid <in> isto egregio tuo officio et tanta fide—sic enim existimo—ad corpus refers? 
  
 
  
@@ -417,7 +417,7 @@ Cicero: de Finibus II
  
 
  
- [100] Sed ut epistulam laudandam arbitror eam, quam modo totidem fere verbis interpretatus sum, quamquam ea cum summa eius philosophia nullo modo congruebat, sic eiusdem testamentum non solum &lt;a&gt; philosophi gravitate, sed etiam ab ipsius sententia iudico discrepare. scripsit enim et multis saepe verbis et breviter arteque in eo libro, quem modo nominavi, mortem nihil ad nos pertinere. quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. hoc ipsum elegantius poni meliusque potuit. nam quod ita positum est, quod dissolutum sit, id esse sine sensu, id eius modi est, ut non satis plane dicat quid sit dissolutum. 
+ [100] Sed ut epistulam laudandam arbitror eam, quam modo totidem fere verbis interpretatus sum, quamquam ea cum summa eius philosophia nullo modo congruebat, sic eiusdem testamentum non solum <a> philosophi gravitate, sed etiam ab ipsius sententia iudico discrepare. scripsit enim et multis saepe verbis et breviter arteque in eo libro, quem modo nominavi, mortem nihil ad nos pertinere. quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. hoc ipsum elegantius poni meliusque potuit. nam quod ita positum est, quod dissolutum sit, id esse sine sensu, id eius modi est, ut non satis plane dicat quid sit dissolutum. 
  
 
  

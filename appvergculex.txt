@@ -45,7 +45,7 @@ te cultrice vagus saltus feror inter en antra.
   Et tu, cui meritis oritur fiducia chartis, 
 Octavi venerande, meis adlabere coeptis,    25 
 sancte puer. tibi namque canit non pagina bellum 
-triste Iovis ponitque &lt;tumultus, heu quibus arsit&gt; 
+triste Iovis ponitque <tumultus, heu quibus arsit> 
 Phlegra, Giganteo sparsa est quae sanguine tellus, 
 nec Centaureos Lapithas compellit in ensis; 
 urit Erichthonias Oriens non ignibus arces;    30 
@@ -299,7 +299,7 @@ sed fortuna valens audacem fecerat ante:
 iam rapidi steterant amnes et turba ferarum 
 blanda voce sequax regionem insiderat Orphei 
 iamque imam viridi radicem moverat alte    280 
-quercus humo &lt;steterantque comae&gt; silvaeque sonorae 
+quercus humo <steterantque comae> silvaeque sonorae 
 sponte sua cantus rapiebant cortice avara. 
 labentis biiuges etiam per sidera Lunae 
 pressit equos: et tu currentes, menstrua virgo, 
@@ -336,8 +336,8 @@ classibus ambustis flamma lacrimante daretur.
 hinc erat oppositus contra Telamonius heros    315 
 obiectoque dabat clipeo certamina, et illinc 
 Hector erat, Troiae summum decus, acer uterque. 
-fluminibus veluti fragor edi&lt;tur: intonat ense&gtl, 
-tegminibus telisque super &lt;stat alter, ut hosti&gtl 
+fluminibus veluti fragor edi<tur: intonat ense&gtl, 
+tegminibus telisque super <stat alter, ut hosti&gtl 
 eriperet reditus, alter Vulcania ferro    320 
 vulnera protectus depellere navibus instat. 
 hoc erat Aeacides vultu laetatus honores 
@@ -348,7 +348,7 @@ rursus acerba fremunt, Paris hunc quod letat et huius    325
 huic gerit aversos proles Laertia vultus, 
 et iam Strymonii Rhesi victorque Dolonis 
 Pallade iam laetatur ovans rursusque tremescit 
-iam Ciconas iamque horret atrox Laestrygone &lt;natos&gt;    330 
+iam Ciconas iamque horret atrox Laestrygone <natos>    330 
 illum Scylla rapax, canibus succincta Molossis, 
 Aetnaeusque Cyclops, illum metuenda Charybdis 
 pallentesque lacus et squalida Tartara terrent. 
@@ -376,7 +376,7 @@ immoriturque super fluctus et saxa Capherei
 Euboicas aut per cautes Aegaeaque late    355 
 litora, cum Phrygiae passim vaga praeda peremptae 
 omnis in aequoreo fluitat iam naufraga fluctu. 
-hic alii &lt;re&gtlsident pariles virtutis honore 
+hic alii <re&gtlsident pariles virtutis honore 
 heroes mediisque siti sunt sedibus omnes, 
 omnes Roma decus magni quos suscipit orbis.    360 
 hic Fabii Deciique, hic est et Horatia virtus, 
@@ -411,7 +411,7 @@ quantumcumque sibi vires tribuere seniles
 rivum praeter aquae viridi sub fronde latentem    390 
 conformare locum capit impiger. hunc et in orbem 
 destinat ac ferri capulum repetivit in usum, 
-gramineam &lt;ut&gt; viridi foderet de caespite terram. 
+gramineam <ut> viridi foderet de caespite terram. 
 iam memor inceptum peragens sibi cura laborem 
 congestum cumulavit opus atque aggere multo    395 
 telluris tumulus formatum crevit in orbem. 

@@ -185,7 +185,7 @@ Cicero: ad Atticum X
  
 
  
-[1] Nisi te valde amarem et multo quidem plus quam tu putas, non extimuissem rumorem qui de te prolatus est, cum praesertim falsum esse existimarem. sed quia te nimio plus diligo, non possum dissimulare mihi famam quoque, quamvis sit falsa, magni esse. &lt;te iturum esse&gt; trans mare credere non possum, cum tanti facias Dolabellam &lt;et&gt; Tulliam tuam, feminam lectissimam, tantique ab omnibus nobis fias; quibus me hercule dignitas amplitudoque tua paene carior est quam tibi ipsi. sed tamen non sum arbitratus esse amici non commoveri etiam improborum sermone atque eo feci studiosius quod iudicabam duriores partis mihi impositas esse ab offensione nostra, quae magis a zelotupiai mea quam ab iniuria tua nata est. sic enim volo te tibi persuadere, mihi neminem esse cariorem te excepto Caesare meo, meque illud una iudicare Caesarem maxime in suis M. Ciceronem reponere.
+[1] Nisi te valde amarem et multo quidem plus quam tu putas, non extimuissem rumorem qui de te prolatus est, cum praesertim falsum esse existimarem. sed quia te nimio plus diligo, non possum dissimulare mihi famam quoque, quamvis sit falsa, magni esse. <te iturum esse> trans mare credere non possum, cum tanti facias Dolabellam <et> Tulliam tuam, feminam lectissimam, tantique ab omnibus nobis fias; quibus me hercule dignitas amplitudoque tua paene carior est quam tibi ipsi. sed tamen non sum arbitratus esse amici non commoveri etiam improborum sermone atque eo feci studiosius quod iudicabam duriores partis mihi impositas esse ab offensione nostra, quae magis a zelotupiai mea quam ab iniuria tua nata est. sic enim volo te tibi persuadere, mihi neminem esse cariorem te excepto Caesare meo, meque illud una iudicare Caesarem maxime in suis M. Ciceronem reponere.
  
 
  
@@ -333,7 +333,7 @@ Cicero: ad Atticum X
  
 
  
- [3] de Caelio saepe mecum agito nec, si quid habuero tale, a dimittam. Hispanias spero firmas esse. Massiliensium factum cum ipsum per se luculentum est tum mihi argumento est recte esse in Hispaniis. minus enim auderent, si aliter esset et scirent; nam et vicini et diligentes sunt. odium autem recte animadvertis significatum &lt;in&gt; theatro. legiones etiam has quas in Italia assumpsit alienissimas esse video. sed tamen nihil inimicius quam sibi ipse. illud recte times ne ruat. si desperarit, certe ruet. quo magis efficiendum aliquid est, fortuna velim meliore, animo Caeliano. sed primum quidque. quod, qualecumque erit, continuo scies.
+ [3] de Caelio saepe mecum agito nec, si quid habuero tale, a dimittam. Hispanias spero firmas esse. Massiliensium factum cum ipsum per se luculentum est tum mihi argumento est recte esse in Hispaniis. minus enim auderent, si aliter esset et scirent; nam et vicini et diligentes sunt. odium autem recte animadvertis significatum <in> theatro. legiones etiam has quas in Italia assumpsit alienissimas esse video. sed tamen nihil inimicius quam sibi ipse. illud recte times ne ruat. si desperarit, certe ruet. quo magis efficiendum aliquid est, fortuna velim meliore, animo Caeliano. sed primum quidque. quod, qualecumque erit, continuo scies.
  
 
  

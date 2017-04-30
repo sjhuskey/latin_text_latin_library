@@ -97,7 +97,7 @@ M. SYLVIUS OTHO maritus Poppaeae
 CHARON portitor 
 POPPAEA SABINA primum Rufii Crispini, tum M. Othonis, demum Neronis uxor 
 PARIS histrio 
-&lt;PUER NUNTIUS&gt; 
+<PUER NUNTIUS> 
 ANICETUS libertus, classis apud Misenum praefectus 
 HERCULEUS triarchus 
 OLOARITUS Centurio classiarius 
@@ -148,7 +148,7 @@ MISSICIUS miles praetorianus
 CENTURIO PRAETORIANUS 
 VOCES INTUS CIVIUM AUT MILITUM 
   PROLOGUS 
- Post horrendum fragorem, fulgur tonitru, ab inferis emergit chorus noctigena e Nemesi et tribus Furiis; qui quasi praeses tragaediae ubi perambulata scena consedit tacitus, diversis sellis; Lydia subinde concinente musica, Valeria Messalina imperatrix cum Caio Silio adultero, strepente circum procaci choro, gerit cothurnos, thyrsum quatit, ducit choreas, illa crine fluxo, hic vinctus hedera. liberti interim (qui summa apud imperatorem dignitate, gratia &lt;fruuntur&gt;) Narcissus ab epistolis, Pallas a rationibus, et Calistus, hor-rescunt, dimirantur, fremunt: an accusanda imperatrix consulunt; hi metu desistunt; ille impetu se proripit ad Claudium. mox tubis resonantibus ab hostia procedit Claudius, cui instat Narcissus ad latus, et ad aurem, ne detur locus audiendae Messalinae, quae filio Britannico, et filia Octavia comitantibus it obviam, quasi deprecatura lachrymis, in genua provolvitur. Narcissus amovet. Claudius non movetur: pergit in aulam. Narcissus in scenam rediens et Messalinam et Sillium quasi ad necem trahit, accinctus militibus, qui caedem exequantur. his per silentium (nisi quod musica accommodetur tragica) peractis, sic προλογίζει  Nemesis. 
+ Post horrendum fragorem, fulgur tonitru, ab inferis emergit chorus noctigena e Nemesi et tribus Furiis; qui quasi praeses tragaediae ubi perambulata scena consedit tacitus, diversis sellis; Lydia subinde concinente musica, Valeria Messalina imperatrix cum Caio Silio adultero, strepente circum procaci choro, gerit cothurnos, thyrsum quatit, ducit choreas, illa crine fluxo, hic vinctus hedera. liberti interim (qui summa apud imperatorem dignitate, gratia <fruuntur>) Narcissus ab epistolis, Pallas a rationibus, et Calistus, hor-rescunt, dimirantur, fremunt: an accusanda imperatrix consulunt; hi metu desistunt; ille impetu se proripit ad Claudium. mox tubis resonantibus ab hostia procedit Claudius, cui instat Narcissus ad latus, et ad aurem, ne detur locus audiendae Messalinae, quae filio Britannico, et filia Octavia comitantibus it obviam, quasi deprecatura lachrymis, in genua provolvitur. Narcissus amovet. Claudius non movetur: pergit in aulam. Narcissus in scenam rediens et Messalinam et Sillium quasi ad necem trahit, accinctus militibus, qui caedem exequantur. his per silentium (nisi quod musica accommodetur tragica) peractis, sic προλογίζει  Nemesis. 
  NEMESIS 
  emissus atro Dite quid spondet chorus, 
 e filiabus quatuor Noctis nigrae?  3 

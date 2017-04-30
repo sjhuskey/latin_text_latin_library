@@ -188,7 +188,7 @@ BRUTUS
  
 
  
-[ 43 ] Nam quem Thucydides, qui et Atheniensis erat et summo loco natus summusque vir et paulo aetate posterior, tantum &lt;morbo&gt; mortuum scripsit et in Attica clam humatum, addidit fuisse suspicionem veneno sibi conscivisse mortem: hunc isti aiunt, cum taurum immolavisset, excepisse sanguinem patera et eo poto mortuum concidisse. hanc enim mortem rhetorice et tragice ornare potuerunt; illa mors volgaris nullam praebebat materiem ad ornatum. quare quoniam tibi ita quadrat, omnia fuisse Themistocli paria et Coriolano, pateram quoque a me sumas licet, praebebo etiam hostiam, ut Coriolanus sit plane alter Themistocles.
+[ 43 ] Nam quem Thucydides, qui et Atheniensis erat et summo loco natus summusque vir et paulo aetate posterior, tantum <morbo> mortuum scripsit et in Attica clam humatum, addidit fuisse suspicionem veneno sibi conscivisse mortem: hunc isti aiunt, cum taurum immolavisset, excepisse sanguinem patera et eo poto mortuum concidisse. hanc enim mortem rhetorice et tragice ornare potuerunt; illa mors volgaris nullam praebebat materiem ad ornatum. quare quoniam tibi ita quadrat, omnia fuisse Themistocli paria et Coriolano, pateram quoque a me sumas licet, praebebo etiam hostiam, ut Coriolanus sit plane alter Themistocles.
  
 
  
@@ -310,7 +310,7 @@ Suadai . . . medulla.
  
 
  
- [ 68 ] Attico genere dicendi se gaudere dicunt. sapienter id quidem; atque utinam imitarentur nec ossa solum, sed etiam sanguinem! gratum est tamen, quod volunt. cur igitur Lysias et Hyperides amatur, cum penitus ignoretur Cato? antiquior est huius sermo et quaedam horridiora verba. ita enim tum loquebantur. id muta, quod tum ille non potuit, et adde numeros et, &lt;ut&gt; aptior sit oratio, ipsa verba compone et quasi coagmenta, quod ne Graeci quidem veteres factitaverunt: iam neminem antepones Catoni.
+ [ 68 ] Attico genere dicendi se gaudere dicunt. sapienter id quidem; atque utinam imitarentur nec ossa solum, sed etiam sanguinem! gratum est tamen, quod volunt. cur igitur Lysias et Hyperides amatur, cum penitus ignoretur Cato? antiquior est huius sermo et quaedam horridiora verba. ita enim tum loquebantur. id muta, quod tum ille non potuit, et adde numeros et, <ut> aptior sit oratio, ipsa verba compone et quasi coagmenta, quod ne Graeci quidem veteres factitaverunt: iam neminem antepones Catoni.
  
 
  
@@ -374,7 +374,7 @@ quos olim Fauni vatesque canebant, 	cum neque Musarum scopulos nec dicti studios
  
 
  
-[ 82 ] Tum ipse L. Cotta est veterator habitus; sed C. Laelius et P. Africanus in primis eloquentes, quorum exstant orationes, ex quibus existumari de ingeniis oratorum potest. sed inter hos aetate paulum his antecedens sine controversia Ser. Galba eloquentia praestitit; et nimirum is princeps ex Latinis illa oratorum propria et quasi legituma opera tractavit, ut egrederetur a proposito ornandi causa, ut delectaret animos aut permoveret, ut augeret rem, ut miserationibus, ut communibus locis uteretur. sed nescio quomodo huius, quem constat eloquentia praestitisse, exiliores orationes sunt et redolentes magis antiquitatem quam aut Laeli &lt;aut&gt; Scipionis aut etiam ipsius Catonis; itaque exaruerunt, vix iam ut appareant.
+[ 82 ] Tum ipse L. Cotta est veterator habitus; sed C. Laelius et P. Africanus in primis eloquentes, quorum exstant orationes, ex quibus existumari de ingeniis oratorum potest. sed inter hos aetate paulum his antecedens sine controversia Ser. Galba eloquentia praestitit; et nimirum is princeps ex Latinis illa oratorum propria et quasi legituma opera tractavit, ut egrederetur a proposito ornandi causa, ut delectaret animos aut permoveret, ut augeret rem, ut miserationibus, ut communibus locis uteretur. sed nescio quomodo huius, quem constat eloquentia praestitisse, exiliores orationes sunt et redolentes magis antiquitatem quam aut Laeli <aut> Scipionis aut etiam ipsius Catonis; itaque exaruerunt, vix iam ut appareant.
  
 
  
@@ -938,11 +938,11 @@ Atque in his oratoribus illud animadvertendum est, posse esse summos qui inter s
  
 
  
-[ 206 ] sed idem Aelius Stoicus &lt;esse&gt; voluit, orator autem nec studuit unquam nec fuit. scribebat tamen orationes, quas alii dicerent; ut Q. Metello f., ut Q. Caepioni, ut Q. Pompeio Rufo; quamquam is etiam ipse scripsit eas quibus pro se est usus, sed non sine Aelio.
+[ 206 ] sed idem Aelius Stoicus <esse> voluit, orator autem nec studuit unquam nec fuit. scribebat tamen orationes, quas alii dicerent; ut Q. Metello f., ut Q. Caepioni, ut Q. Pompeio Rufo; quamquam is etiam ipse scripsit eas quibus pro se est usus, sed non sine Aelio.
  
 
  
-[ 207 ] his enim scriptis etiam ipse interfui, cum essem apud Aelium adulescens eumque audire perstudiose solerem. Cottam autem miror summum ipsum oratorem minimeque ineptum Aelianas leves oratiunculas voluisse existimari suas. his duobus eiusdem aetatis adnu merabatur nemo tertius, sed mihi placebat Pomponius maxime vel dicam minime displicebat. locus erat omnino in maxumis causis praeter eos de quibus supra dixi nemini; propterea quod Antonius, qui maxume expetebatur, facilis in causis recipiendis erat; fast idiosior Crassus, sed tamen recipiebat. horum qui neutrum habebat, confugiebat ad Philippum fere aut ad Caesarem; Cotta &lt;tum et&gt; Sulpicius expetebantur. ita ab his sex patronis causae inlustres agebantur; neque tam multa quam nostra aetate iudicia fiebant , neque hoc quod nunc fit, ut causae singulae defenderentur a pluribus, quo nihil est vitiosius.
+[ 207 ] his enim scriptis etiam ipse interfui, cum essem apud Aelium adulescens eumque audire perstudiose solerem. Cottam autem miror summum ipsum oratorem minimeque ineptum Aelianas leves oratiunculas voluisse existimari suas. his duobus eiusdem aetatis adnu merabatur nemo tertius, sed mihi placebat Pomponius maxime vel dicam minime displicebat. locus erat omnino in maxumis causis praeter eos de quibus supra dixi nemini; propterea quod Antonius, qui maxume expetebatur, facilis in causis recipiendis erat; fast idiosior Crassus, sed tamen recipiebat. horum qui neutrum habebat, confugiebat ad Philippum fere aut ad Caesarem; Cotta <tum et> Sulpicius expetebantur. ita ab his sex patronis causae inlustres agebantur; neque tam multa quam nostra aetate iudicia fiebant , neque hoc quod nunc fit, ut causae singulae defenderentur a pluribus, quo nihil est vitiosius.
  
 
  
@@ -982,7 +982,7 @@ Recte, inquam, iudicas, Brute. etenim istius genus est ex ipsius sapientiae stir
  
 
  
-O generosam, inquit, stirpem et tamquam in unam arborem plura genera sic in istam domum multorum insitam atque &lt;inluminatam&gt; sapientiam!.
+O generosam, inquit, stirpem et tamquam in unam arborem plura genera sic in istam domum multorum insitam atque <inluminatam> sapientiam!.
  
 
  
@@ -1006,7 +1006,7 @@ Similiter igitur suspicor, ut conferamus parva magnis, Curionis, etsi pupillus r
  
 
  
-[ 218 ] Magna haec immemoris ingeni signa; sed nihil turpius quam quod etiam in scriptis obliviscebatur quid paulo ante posuisset: ut in eo libro, ubi se exeuntem e senatu et cum Pansa nostro et cum Curione filio conloquentem facit, cum senatum Caesar consul habuisset, omnisque ille sermo ductus &lt;est&gt; a percontatione fili quid in senatu esset actum. in quo multis verbis cum inveheretur in Caesarem Curio disputatioque esset inter eos, ut est consuetudo dialogorum, cum sermo esset institutus senatu misso, quem senatum Caesar consul habuisset, reprendit eas res, quas idem Caesar anno post et deinceps reliquis annis administravisset in Gallia.
+[ 218 ] Magna haec immemoris ingeni signa; sed nihil turpius quam quod etiam in scriptis obliviscebatur quid paulo ante posuisset: ut in eo libro, ubi se exeuntem e senatu et cum Pansa nostro et cum Curione filio conloquentem facit, cum senatum Caesar consul habuisset, omnisque ille sermo ductus <est> a percontatione fili quid in senatu esset actum. in quo multis verbis cum inveheretur in Caesarem Curio disputatioque esset inter eos, ut est consuetudo dialogorum, cum sermo esset institutus senatu misso, quem senatum Caesar consul habuisset, reprendit eas res, quas idem Caesar anno post et deinceps reliquis annis administravisset in Gallia.
  
 
  
@@ -1054,7 +1054,7 @@ Quid autem, inquam, Brute, stultius quam, si ea vituperare volebat quae vitupera
  
 
  
-[ 229 ] Is L. Crasso Q. Scaevola consulibus primum in foro dixit et apud hos ipsos quidem consules, et cum eorum qui adfuerunt tum ipsorum consulum, qui omnibus intellegentia anteibant, iudicio discessit probatus. undeviginti annos natus erat eo tempore, est autem L. Paullo C. Marcello consulibus mortuus: ex quo videmus eum in patronorum numero annos quattuor et quadraginta fuisse. hoc de oratore paulo post plura dicemus; hoc autem loco voluimus &lt;eius&gt; aetatem in disparem oratorum aetatem includere. quamquam id quidem omnibus usu venire necesse fuit, quibus paulo longior vita contigit, ut et cum multo maioribus natu, quam essent ipsi, et cum aliquanto minoribus compararentur. ut Accius isdem aedilibus ait se et Pacuvium docuisse fabulam, quom ille octoginta, ipse triginta annos natus esset:
+[ 229 ] Is L. Crasso Q. Scaevola consulibus primum in foro dixit et apud hos ipsos quidem consules, et cum eorum qui adfuerunt tum ipsorum consulum, qui omnibus intellegentia anteibant, iudicio discessit probatus. undeviginti annos natus erat eo tempore, est autem L. Paullo C. Marcello consulibus mortuus: ex quo videmus eum in patronorum numero annos quattuor et quadraginta fuisse. hoc de oratore paulo post plura dicemus; hoc autem loco voluimus <eius> aetatem in disparem oratorum aetatem includere. quamquam id quidem omnibus usu venire necesse fuit, quibus paulo longior vita contigit, ut et cum multo maioribus natu, quam essent ipsi, et cum aliquanto minoribus compararentur. ut Accius isdem aedilibus ait se et Pacuvium docuisse fabulam, quom ille octoginta, ipse triginta annos natus esset:
  
 
  
@@ -1194,7 +1194,7 @@ Atqui et ita est, inquit, et vementer placet; nec vero sine causa. nam et didici
  
 
  
-[ 250 ] Itaque et lectis utitur verbis et frequentibus &lt;sententis&gt;, splendore vocis, dignitate motus fit speciosum et inlustre quod dicitur, omniaque sic suppetunt, ut ei nullam deesse virtutem oratoris putem; maxumeque laudandus est, qui hoc tempore ipso, cum liceat in hoc communi nostro et quasi fatali malo, consoletur se cum conscientia optumae mentis tum etiam usurpatione et renovatione doctrinae. vidi enim Mytilenis nuper virum atque, ut dixi, vidi plane virum. itaque cum eum antea tui similem in dicendo viderim, tum vero nunc a doctissimo viro tibique, ut intellexi, amicissimo Cratippo instructum omni copia multo videbam similiorem.
+[ 250 ] Itaque et lectis utitur verbis et frequentibus <sententis>, splendore vocis, dignitate motus fit speciosum et inlustre quod dicitur, omniaque sic suppetunt, ut ei nullam deesse virtutem oratoris putem; maxumeque laudandus est, qui hoc tempore ipso, cum liceat in hoc communi nostro et quasi fatali malo, consoletur se cum conscientia optumae mentis tum etiam usurpatione et renovatione doctrinae. vidi enim Mytilenis nuper virum atque, ut dixi, vidi plane virum. itaque cum eum antea tui similem in dicendo viderim, tum vero nunc a doctissimo viro tibique, ut intellexi, amicissimo Cratippo instructum omni copia multo videbam similiorem.
  
 
  
@@ -1202,7 +1202,7 @@ Atqui et ita est, inquit, et vementer placet; nec vero sine causa. nam et didici
  
 
  
-Et ille: praeclare, inquit, tibi constas, ut de iis qui nunc sint nihil velis ipse dicere; et hercule si sic ageres, ut de iis egisti qui iam mortui sunt, neminem ut praetermitteres, ne tu in multos Autronios et Staienos incurreres. quare sive hanc turbam effugere voluisti sive veritus &lt;es&gt; ne quis se aut praeteritum aut non satis laudatum queri posset, de Caesare tamen potuisti dicere, praesertim cum et tuum de illius ingenio notissimum iudicium esset nec illius de tuo obscurum.
+Et ille: praeclare, inquit, tibi constas, ut de iis qui nunc sint nihil velis ipse dicere; et hercule si sic ageres, ut de iis egisti qui iam mortui sunt, neminem ut praetermitteres, ne tu in multos Autronios et Staienos incurreres. quare sive hanc turbam effugere voluisti sive veritus <es> ne quis se aut praeteritum aut non satis laudatum queri posset, de Caesare tamen potuisti dicere, praesertim cum et tuum de illius ingenio notissimum iudicium esset nec illius de tuo obscurum.
  
 
  
@@ -1210,7 +1210,7 @@ Et ille: praeclare, inquit, tibi constas, ut de iis qui nunc sint nihil velis ip
  
 
  
- [ 253 ] Qui[n] etiam in maxumis occupationibus ad te ipsum, inquit in me intuens, de ratione Latine loquendi accuratissume scripserit primoque in libro dixerit verborum dilectum originem esse eloquentiae tribueritque, mi Brute, huic nostro, qui me de illo maluit quam se dicere, laudem singularem; nam scripsit his verbis, cum hunc nomine esset adfatus: ac si, cogitata praeclare eloqui &lt;ut&gt; possent, nonnulli studio et usu elaboraverunt, cuius te paene principem copiae atque inventorem bene de nomine ac dignitate populi Romani meritum esse existumare debemus: hunc facilem et cotidianum novisse sermonem nunc pro relicto est habendum?
+ [ 253 ] Qui[n] etiam in maxumis occupationibus ad te ipsum, inquit in me intuens, de ratione Latine loquendi accuratissume scripserit primoque in libro dixerit verborum dilectum originem esse eloquentiae tribueritque, mi Brute, huic nostro, qui me de illo maluit quam se dicere, laudem singularem; nam scripsit his verbis, cum hunc nomine esset adfatus: ac si, cogitata praeclare eloqui <ut> possent, nonnulli studio et usu elaboraverunt, cuius te paene principem copiae atque inventorem bene de nomine ac dignitate populi Romani meritum esse existumare debemus: hunc facilem et cotidianum novisse sermonem nunc pro relicto est habendum?
  
 
  
@@ -1302,7 +1302,7 @@ Hoc loco Atticus: putarem te, inquit, ambitiosum esse, si, ut dixisti, ii quos i
  
 
  
-[ 271 ] Itaque ne hos quidem equites Romanos amicos nostros, qui nuper mortui sunt, &lt;omittam,&gt; P. Cominium Spoletinum, quo accusante defendi C. Cornelium, in quo et compositum dicendi genus et acre et expeditum fuit; T. Accium Pisaurensem, cuius accusationi r espondi pro A. Cluentio, qui et accurate dicebat et satis copiose, eratque praeterea doctus Hermagorae praeceptis, quibus etsi ornamenta non satis opima dicendi, tamen, ut hastae velitibus amentatae, sic apta quaedam et parata singulis causarum generibus argumenta traduntur.
+[ 271 ] Itaque ne hos quidem equites Romanos amicos nostros, qui nuper mortui sunt, <omittam,> P. Cominium Spoletinum, quo accusante defendi C. Cornelium, in quo et compositum dicendi genus et acre et expeditum fuit; T. Accium Pisaurensem, cuius accusationi r espondi pro A. Cluentio, qui et accurate dicebat et satis copiose, eratque praeterea doctus Hermagorae praeceptis, quibus etsi ornamenta non satis opima dicendi, tamen, ut hastae velitibus amentatae, sic apta quaedam et parata singulis causarum generibus argumenta traduntur.
  
 
  
@@ -1354,7 +1354,7 @@ Quidnam est, inquit, istuc? et quem ad modum distinguis?
  
 
  
- [ 281 ] Hoc modo, inquam. cum honos sit praemium virtutis iudicio studioque civium delatum ad aliquem, qui eum sententiis, qui suffragiis adeptus est, is mihi et honestus et honoratus videtur. qui autem occasione aliqua etiam invitis suis civibus nactus est imperium, ut ille cupiebat, hunc nomen honoris adeptum, non honorem puto. quae si ille audire voluisset, maxuma cum gratia et gloria ad summam amplitudinem pervenisset, ascendens gradibus magistratuum, ut pater eius fecerat, ut reliqui clariores viri. quae quidem etiam cum P. Crasso M. f., &lt;cum&gt; initio aetatis ad amicitiam se meam contulisset, saepe egisse me arbitror, cum eum vementer hortarer, ut eam laudis viam rectissimam esse duceret, quam maiores eius ei tritam reliquissent.
+ [ 281 ] Hoc modo, inquam. cum honos sit praemium virtutis iudicio studioque civium delatum ad aliquem, qui eum sententiis, qui suffragiis adeptus est, is mihi et honestus et honoratus videtur. qui autem occasione aliqua etiam invitis suis civibus nactus est imperium, ut ille cupiebat, hunc nomen honoris adeptum, non honorem puto. quae si ille audire voluisset, maxuma cum gratia et gloria ad summam amplitudinem pervenisset, ascendens gradibus magistratuum, ut pater eius fecerat, ut reliqui clariores viri. quae quidem etiam cum P. Crasso M. f., <cum> initio aetatis ad amicitiam se meam contulisset, saepe egisse me arbitror, cum eum vementer hortarer, ut eam laudis viam rectissimam esse duceret, quam maiores eius ei tritam reliquissent.
  
 
  
@@ -1374,7 +1374,7 @@ Dicebat, inquam, ita; sed et ipse errabat et alios etiam errare cogebat. nam si 
  
 
  
-[ 285 ] Sin autem ieiunitatem et siccitatem et inopiam, dummodo sit polita, dum urbana, dum elegans, in Attico genere ponit, hoc recte dumtaxat; sed quia sunt in Atticis &lt;aliis&gt; alia meliora, videat ne ignoret et gradus et dissimilitudines et vim et varietatem Atticorum. 'Atticos', inquit, 'volo imitari.' quos? nec enim est unum genus. nam quid est tam dissimile quam Demosthenes et Lysias, quam idem et Hyperides, quam horum omnium Aeschines? quem igitur imitaris? si aliquem: ceteri ergo Attice non dicebant? si omnis: qui potes, cum sint ipsi dissimillumi inter se? in quo illud etiam quaero, Phalereus ille Demetrius Atticene dixerit. mihi quidem ex illius orationibus redolere ipsae Athenae videntur. at est floridior, ut ita dicam, quam Hyperides, quam Lysias: natura quaedam aut voluntas ita dicendi fuit.
+[ 285 ] Sin autem ieiunitatem et siccitatem et inopiam, dummodo sit polita, dum urbana, dum elegans, in Attico genere ponit, hoc recte dumtaxat; sed quia sunt in Atticis <aliis> alia meliora, videat ne ignoret et gradus et dissimilitudines et vim et varietatem Atticorum. 'Atticos', inquit, 'volo imitari.' quos? nec enim est unum genus. nam quid est tam dissimile quam Demosthenes et Lysias, quam idem et Hyperides, quam horum omnium Aeschines? quem igitur imitaris? si aliquem: ceteri ergo Attice non dicebant? si omnis: qui potes, cum sint ipsi dissimillumi inter se? in quo illud etiam quaero, Phalereus ille Demetrius Atticene dixerit. mihi quidem ex illius orationibus redolere ipsae Athenae videntur. at est floridior, ut ita dicam, quam Hyperides, quam Lysias: natura quaedam aut voluntas ita dicendi fuit.
  
 
  
@@ -1466,7 +1466,7 @@ Vero, inquam, Brute; sed in Cumano aut in Tusculano aliquando, si modo licebit, 
  
 
  
-[ 301 ] Hortensius igitur cum admodum adulescens orsus esset in foro dicere, celeriter ad maiores causas adhiberi coeptus est; &lt;et&gt; quamquam inciderat in Cottae et Sulpici aetatem, qui annis decem maiores &lt;erant&gt;, excellente tum Crasso et Antonio, dein Philippo, post Iulio, cum his ipsis dicendi gloria comparabatur. primum memoria tanta, quantam in nullo cognovisse me arbitror, ut quae secum commentatus esset, ea sine scripto verbis eisdem redderet, quibus cogitavisset. hoc adiumento ille tanto sic utebatur, ut sua et commentata et scripta et nullo referente omnia adversariorum dicta meminisset.
+[ 301 ] Hortensius igitur cum admodum adulescens orsus esset in foro dicere, celeriter ad maiores causas adhiberi coeptus est; <et> quamquam inciderat in Cottae et Sulpici aetatem, qui annis decem maiores <erant>, excellente tum Crasso et Antonio, dein Philippo, post Iulio, cum his ipsis dicendi gloria comparabatur. primum memoria tanta, quantam in nullo cognovisse me arbitror, ut quae secum commentatus esset, ea sine scripto verbis eisdem redderet, quibus cogitavisset. hoc adiumento ille tanto sic utebatur, ut sua et commentata et scripta et nullo referente omnia adversariorum dicta meminisset.
  
 
  
@@ -1486,7 +1486,7 @@ Vero, inquam, Brute; sed in Cumano aut in Tusculano aliquando, si modo licebit, 
  
 
  
-[ 306 ] Ego autem iuris civilis studio multum operae dabam Q. Scaevolae P. f., qui quamquam nemini &lt;se&gt; ad docendum dabat, tamen consulentibus respondendo studiosos audiendi docebat. atque huic anno proxumus Sulla consule et Pompeio fuit. tum P. Sulpici in tribunatu cotidie contionantis totum genus dicendi penitus cognovimus; eodemque tempore, cum princeps Academiae Philo cum Atheniensium optumatibus Mithridatico bello domo profugisset Romamque venisset, totum ei me tradidi admirabili quodam ad philosophiam studio concitatus; in quo hoc etiam commorabar adtentius—etsi rerum ipsarum varietas et magnitudo summa me delectatione retinebat—, sed tamen sublata iam esse in perpetuum ratio iudiciorum videbatur.
+[ 306 ] Ego autem iuris civilis studio multum operae dabam Q. Scaevolae P. f., qui quamquam nemini <se> ad docendum dabat, tamen consulentibus respondendo studiosos audiendi docebat. atque huic anno proxumus Sulla consule et Pompeio fuit. tum P. Sulpici in tribunatu cotidie contionantis totum genus dicendi penitus cognovimus; eodemque tempore, cum princeps Academiae Philo cum Atheniensium optumatibus Mithridatico bello domo profugisset Romamque venisset, totum ei me tradidi admirabili quodam ad philosophiam studio concitatus; in quo hoc etiam commorabar adtentius—etsi rerum ipsarum varietas et magnitudo summa me delectatione retinebat—, sed tamen sublata iam esse in perpetuum ratio iudiciorum videbatur.
  
 
  
@@ -1498,7 +1498,7 @@ Vero, inquam, Brute; sed in Cumano aut in Tusculano aliquando, si modo licebit, 
  
 
  
-[ 309 ] Eram cum Stoico Diodoto, qui cum habitavisset apud me &lt;se&gt; cumque vixisset, nuper est domi meae mortuus. a quo cum in aliis rebus tum studiosissime in dialectica exercebar, quae quasi contracta et astricta eloquentia putanda est; sine qua etiam tu, Brute, iudicavisti te illam iustam eloquentiam, quam dialecticam esse dilatatam putant, consequi non posse. huic ego doctori et eius artibus variis atque multis ita eram tamen deditus ut ab exercitationibus oratoriis nullus dies vacuus esset.
+[ 309 ] Eram cum Stoico Diodoto, qui cum habitavisset apud me <se> cumque vixisset, nuper est domi meae mortuus. a quo cum in aliis rebus tum studiosissime in dialectica exercebar, quae quasi contracta et astricta eloquentia putanda est; sine qua etiam tu, Brute, iudicavisti te illam iustam eloquentiam, quam dialecticam esse dilatatam putant, consequi non posse. huic ego doctori et eius artibus variis atque multis ita eram tamen deditus ut ab exercitationibus oratoriis nullus dies vacuus esset.
  
 
  
@@ -1562,7 +1562,7 @@ Sed quoniam omnis hic sermo noster non solum enumerationem oratoriam verum etiam
  
 
  
-[ 324 ] Maxume vero perspecta est utriusque nostrum exercitatio paulo ante quam perterritum armis hoc studium, Brute, nostrum conticuit subito et obmutuit: cum lege Pompeia ternis horis ad dicendum datis ad causas simillumas inter se vel potius easdem novi veniebamus cotidie. quibus quidem causis tu etiam, Brute, praesto fuisti complurisque et nobiscum et solus egisti, ut qui non satis diu vixerit Hortensius tamen hunc cursum confecerit: annis ante decem causas agere coepit quam tu es natus; idem quarto &lt;et&gt; sexagensumo anno, perpaucis ante mortem diebus, una tecum socerum tuum defendit Appium. dicendi autem genus quod fuerit in utroque, orationes utriusque etiam posteris nostris indicabunt.
+[ 324 ] Maxume vero perspecta est utriusque nostrum exercitatio paulo ante quam perterritum armis hoc studium, Brute, nostrum conticuit subito et obmutuit: cum lege Pompeia ternis horis ad dicendum datis ad causas simillumas inter se vel potius easdem novi veniebamus cotidie. quibus quidem causis tu etiam, Brute, praesto fuisti complurisque et nobiscum et solus egisti, ut qui non satis diu vixerit Hortensius tamen hunc cursum confecerit: annis ante decem causas agere coepit quam tu es natus; idem quarto <et> sexagensumo anno, perpaucis ante mortem diebus, una tecum socerum tuum defendit Appium. dicendi autem genus quod fuerit in utroque, orationes utriusque etiam posteris nostris indicabunt.
  
 
  
@@ -1574,7 +1574,7 @@ Sed quoniam omnis hic sermo noster non solum enumerationem oratoriam verum etiam
  
 
  
-[ 327 ] Erat excellens iudicio volgi et facile primas tenebat adulescens. etsi enim genus illud dicendi auctoritatis habebat parum, tamen aptum esse aetati videbatur. et certe, quod et ingeni quaedam forma lucebat &lt;usu&gt; et exercitatione perfecta eratque verborum astricta comprensio, summam hominum admirationem excitabat. sed cum iam honores et illa senior auctoritas gravius quiddam requireret, remanebat idem nec decebat idem; quodque exercitationem studiumque dimiserat, quod in eo fuerat acerrimum, concinnitas illa crebritasque sententiarum pristina manebat, sed ea vestitu illo orationis, quo consuerat, ornata non erat. hoc tibi ille, Brute, minus fortasse placuit quam placuisset, si illum flagrantem studio et florentem facultate audire potuisses.
+[ 327 ] Erat excellens iudicio volgi et facile primas tenebat adulescens. etsi enim genus illud dicendi auctoritatis habebat parum, tamen aptum esse aetati videbatur. et certe, quod et ingeni quaedam forma lucebat <usu> et exercitatione perfecta eratque verborum astricta comprensio, summam hominum admirationem excitabat. sed cum iam honores et illa senior auctoritas gravius quiddam requireret, remanebat idem nec decebat idem; quodque exercitationem studiumque dimiserat, quod in eo fuerat acerrimum, concinnitas illa crebritasque sententiarum pristina manebat, sed ea vestitu illo orationis, quo consuerat, ornata non erat. hoc tibi ille, Brute, minus fortasse placuit quam placuisset, si illum flagrantem studio et florentem facultate audire potuisses.
  
 
  

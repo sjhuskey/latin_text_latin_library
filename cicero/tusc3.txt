@@ -70,7 +70,7 @@ Cicero: Tusculan Disputations III
 
  
  VI . [ 12 ] -Cadere, opinor, in sapientem aegritudinem tibi dixisti videri.    -Et vero ita existimo.    -Humanum
- id quidem, quod ita existumas. Non enim e silice nati sumus, sed est natura in animis tenerum quiddam atque molle, quod aegritudine quasi tempestate quatiatur, nec absurde Crantor ille, qui &lt;in&gt;
+ id quidem, quod ita existumas. Non enim e silice nati sumus, sed est natura in animis tenerum quiddam atque molle, quod aegritudine quasi tempestate quatiatur, nec absurde Crantor ille, qui <in>
  nostra Academia vel in rimis fuit nobilis, 'minime' inquit 'adsentior is qui istam nescio quam indolentiam magno opere laudant, quae nec potest ulla esse nec debet. Ne aegrotus sim; si' inquit 'fuero, sensus adsit, sive secetur quid sive avellatur a corpore. Nam istuc nihil dolere non sine magna mercede contingit inmanitatis in animo, stuporis in corpore.'
  
 
@@ -239,7 +239,7 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
  
 
  
-[ 35 ] Nam revocatio illa, quam adfert, cum a contuendis nos malis avocat, nulla est. Non est enim in nostra potestate fodicantibus eis rebus, quas malas esse opinemur, dissimulatio vel oblivio: lacerant, vexant, stimulos admovent, ignis adhibent, respirare non sinunt. Et tu oblivisci iubes, quod contra naturam est, qui, &lt;quod&gt; a natura datum est, auxilium extorqueas inveterati doloris? Est enim tarda illa quidem medicina, sed tamen magna, quam adfert longinquitas et dies. Iubes me bona cogitare, oblivisci malorum. Diceres aliquid, et magno quidem philosopho dignum, si ea bona esse sentires, quae essent homine dignissima.
+[ 35 ] Nam revocatio illa, quam adfert, cum a contuendis nos malis avocat, nulla est. Non est enim in nostra potestate fodicantibus eis rebus, quas malas esse opinemur, dissimulatio vel oblivio: lacerant, vexant, stimulos admovent, ignis adhibent, respirare non sinunt. Et tu oblivisci iubes, quod contra naturam est, qui, <quod> a natura datum est, auxilium extorqueas inveterati doloris? Est enim tarda illa quidem medicina, sed tamen magna, quam adfert longinquitas et dies. Iubes me bona cogitare, oblivisci malorum. Diceres aliquid, et magno quidem philosopho dignum, si ea bona esse sentires, quae essent homine dignissima.
  
 
  
@@ -251,7 +251,7 @@ Haec mala, o stultissime Aceta, ipse tibi addidisti; non inerant in is quae tibi
  
 
  
-[ 38 ] Hoc dicit, et hoc ille acriculus me audiente Athenis senex Zeno, istorum acutissimus, contendere et magna voce dicere solebat: eum esse beatum, qui praesentibus voluptatibus frueretur confideretque se fruiturum aut in omni aut in magna parte vitali dolore non interveniente, aut si interveniret, si summus foret, futurum brevem, sin productior, plus habiturum iucundi quam mali; haec cogitantem fore beatum, praesertim cum et ante perceptis bonis contentus esset &lt;et&gt; nec mortem nec deos extimesceret. Habes formam Epicuri vitae beatae verbis Zenonis expressam, nihil ut possit negari.
+[ 38 ] Hoc dicit, et hoc ille acriculus me audiente Athenis senex Zeno, istorum acutissimus, contendere et magna voce dicere solebat: eum esse beatum, qui praesentibus voluptatibus frueretur confideretque se fruiturum aut in omni aut in magna parte vitali dolore non interveniente, aut si interveniret, si summus foret, futurum brevem, sin productior, plus habiturum iucundi quam mali; haec cogitantem fore beatum, praesertim cum et ante perceptis bonis contentus esset <et> nec mortem nec deos extimesceret. Habes formam Epicuri vitae beatae verbis Zenonis expressam, nihil ut possit negari.
  
 
  
@@ -581,7 +581,7 @@ Sed plures sunt causae suscipiendi doloris:
  
 
  
- XXX . Sed de hoc alias; nunc illud satis est, non attribuere ad amissionem amicorum miseriam nostram, ne illos plus quam ipsi velint, si sentiant, plus certe quam nosmet ipsos diligamus. Nam quod aiunt plerosque consolationibus nihil levari adiunguntque consolatores ipsos confiteri se miseros, cum ad eos impetum suum fortuna converterit, utrumque dissolvitur. Sunt enim ista non naturae vitia, sed culpae. Stultitiam. autem accusare quamvis copiose licet. Nam et qui non levantur, &lt;se&gt; ipsi &lt;se&gt; ad miseriam invitant, et qui suos casus aliter ferunt atque ut auctores aliis ipsi fuerunt, non sunt vitiosiores quam fere plerique, qui avari avaros, gloriae cupidos gloriosi reprehendunt. Est enim proprium stultitiae aliorum vitia cernere, oblivisci suorum.
+ XXX . Sed de hoc alias; nunc illud satis est, non attribuere ad amissionem amicorum miseriam nostram, ne illos plus quam ipsi velint, si sentiant, plus certe quam nosmet ipsos diligamus. Nam quod aiunt plerosque consolationibus nihil levari adiunguntque consolatores ipsos confiteri se miseros, cum ad eos impetum suum fortuna converterit, utrumque dissolvitur. Sunt enim ista non naturae vitia, sed culpae. Stultitiam. autem accusare quamvis copiose licet. Nam et qui non levantur, <se> ipsi <se> ad miseriam invitant, et qui suos casus aliter ferunt atque ut auctores aliis ipsi fuerunt, non sunt vitiosiores quam fere plerique, qui avari avaros, gloriae cupidos gloriosi reprehendunt. Est enim proprium stultitiae aliorum vitia cernere, oblivisci suorum.
  
 
  
@@ -598,7 +598,7 @@ Sed plures sunt causae suscipiendi doloris:
 
  
 [ 76 ] Sunt qui unum officium consolantis putent malum illud omnino non esse, ut Cleanthi placet; sunt qui non magnum malum, ut Peripatetici; sunt qui abducant a malis ad bona, ut Epicurus; sunt qui satis putent estendere nihil inopinati accidisse,
-&lt; ut cyrenaici&gt; [nihil mali]. Chrysippus aut caput esse censet in consolando detrahere illam opinionem maerenti,
+< ut cyrenaici> [nihil mali]. Chrysippus aut caput esse censet in consolando detrahere illam opinionem maerenti,
  se officio fungi putet iusto atque debito. Sunt etiam qui haec omnia genera consolando colligant—alius enim alio modo movetur—, ut fere nos in Consolatione omnia in consolationem unam coniecimus; erat enim in tumore animus, et omnis in eo temptabatur curatio. Sed sumendum tempus est non minus in animorum morbis quam in corporum; ut Prometheus ille Aeschyli, cui cum dœctum esset:
 
  
@@ -645,7 +645,7 @@ natum et quemvis baiolum interesse, cum se Alcibiades adflictaret lacrimansque S
  
 
  
-[ 82 ] et tamen, ut medici toto corpore curando minimae etiam parti, si condoluit, medentur, sic philosophia cum universam aegritudinem sustulit, &lt;sustulit&gt; etiam, si quis error alicunde, extitit, si paupertas momordit, si ignominia pupugit, si quid tenebrarum obfudit exilium, aut eorum quae modo dixi si quid extitit. Etsi singularum rerum sunt propriae consolationes, de quibus audies tu quidem, cum voles. Sed ad eundem fontem revertendum est, aegritudine procul abesse a sapiente, quod inanis sit, quod frustra suscipiatur, quod non natura exoriatur, sed iudicio, sed opinione, sed quadam invitatione ad dolendum, cum id decreverimus ita fieri oportere.
+[ 82 ] et tamen, ut medici toto corpore curando minimae etiam parti, si condoluit, medentur, sic philosophia cum universam aegritudinem sustulit, <sustulit> etiam, si quis error alicunde, extitit, si paupertas momordit, si ignominia pupugit, si quid tenebrarum obfudit exilium, aut eorum quae modo dixi si quid extitit. Etsi singularum rerum sunt propriae consolationes, de quibus audies tu quidem, cum voles. Sed ad eundem fontem revertendum est, aegritudine procul abesse a sapiente, quod inanis sit, quod frustra suscipiatur, quod non natura exoriatur, sed iudicio, sed opinione, sed quadam invitatione ad dolendum, cum id decreverimus ita fieri oportere.
  
 
  

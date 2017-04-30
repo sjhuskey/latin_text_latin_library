@@ -432,7 +432,7 @@ at dum illa vivet, vivet ut moriens Nero.
  
 
  Exeunt ad Agrippinam Seneca, Burrhus, et caeteri, praeter
-&lt;Neronem,&gt; Poppaeam et Anicetum. 
+<Neronem,> Poppaeam et Anicetum. 
 
  POP. an sic abibit? sic refrigescis, Nero? 
 sic fluctuaris? sic Agrippinam tenes? 

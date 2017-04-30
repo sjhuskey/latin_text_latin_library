@@ -234,12 +234,12 @@ aliquod inter duos valores reales R, S percurrere posse supponatur
 ( i. e. tum ipsi R , tum ipsi S , tum omnibus valoribus realibus
 intermediis aequalis fieri), tribuendo ipsi x valores semper in
 forma p+q&radic;-1 contentos; functionem X quauis quantitate
-finita reali adhuc augeri vel diminui posse (prout S&gt;R vel S&lt;R ),
+finita reali adhuc augeri vel diminui posse (prout S>R vel S<R ),
 manente x semper sub forma p+q&radic;-1 . Si enim quantitas
 realis U daretur (inter quam et R supponitur S iacere), cui X per
 talem valorem ipsius x aequalis fieri non posset, necessario valorem
  maximum ipsius X dari (scilicet quando S>R ; minimum
-vero, quando S&lt;R ), puta T , quem ex valore ipsius
+vero, quando S<R ), puta T , quem ex valore ipsius
  x , p+q&radic;-1 ,
 consequeretur, ita vt ipsi x nullus valor sub simili forma contentus
 tribui posset, qui functionem X vel minimo excessu propius
@@ -1153,7 +1153,7 @@ i. e. cum nullo puncto per numerum maiorem quam 2m expresso
 iunctum esse potest, alioquin enim linea iungens necessario axem
 secaret. Si itaque 1 cum puncto n iunctum esse supponitur, erit
  n . Ex simili ratione si 2 cum n&prime; iunctum esse statuitur,
-erit n&prime;&lt;n , quia alioquin ramus 2 ... n&prime; ramum 1 ... n necessario
+erit n&prime;<n , quia alioquin ramus 2 ... n&prime; ramum 1 ... n necessario
 secaret. Ex eadem caussa punctum 3 cum aliquo punctorum inter
 4 et n&prime; iacentium iunctum erit, patetque si 3,4,5 etc. iuncta
 esse supponantur cum n&prime;&prime;, n&prime;&prime;&prime;, n&prime;&prime;&prime;&prime; etc., n&prime;&prime;&prime; iacere inter 5 et n&prime;&prime;, n&prime;&prime;&prime;&prime; 
@@ -1384,7 +1384,7 @@ intueri poterunt. Longitudo lineae CG assumta est =10 .
  
  
 *9) Quando S>&radic;1/2 ,
-conditio prima secundam; quando vero S&lt;&radic;1/2 secunda primam implicabit.
+conditio prima secundam; quando vero S<&radic;1/2 secunda primam implicabit.
  
 
 

@@ -489,7 +489,7 @@ pedicaberis irrumaberisque.
 Notas habemus quisque corporis formas: 
 Phoebus comosus, Hercules lacertosus, 
 trahit figuram virginis tener Bacchus, 
-Minerva flava, lumine &lt;est&gt; Venus paeto, 
+Minerva flava, lumine <est> Venus paeto, 
 fronte † crinitos Arcadas vides Faunos, 
 habet decentes nuntius deum plantas, 
 tutela Lemni dispares movet gressus, 

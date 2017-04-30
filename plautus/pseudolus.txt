@@ -420,7 +420,7 @@ non periclumst ne quid recte monstres. BAL. Non lenoniumst.
 atque adeo, si facere possim, pietas prohibet. BAL. Audio. 
 pietatem ergo istam amplexator noctu pro Phoenicio. 
 sed cum pietatem te amori video tuo praevortere, 
-omnes &lt;homines> tibi patres sunt? nullus est tibi quem roges 
+omnes <homines> tibi patres sunt? nullus est tibi quem roges 
 mutuom argentum? CAL. Quin nomen quoque iam interiit mutuom. 295 
  PS. Heus tu, postquam hercle isti a mensa surgunt satis poti
 viri, 
@@ -744,7 +744,7 @@ novo modo novom aliquid inventum adferre addecet;
 si id facere nequeat, det locum illi qui queat.    570 
 concedere aliquantisper hinc mi intro lubet, 
 dum concenturio in corde sycophantias. 
-&lt;sed mox> exibo, non ero vobis morae; 
+<sed mox> exibo, non ero vobis morae; 
 tibicen vos interibi hic delectaverit.—  573a
  
 
@@ -1013,7 +1013,7 @@ Abite ergo ocius.
 quidquid incerti mi in animo prius aut ambiguom fuit, 
 nunc liquet, nunc defaecatumst cor mihi; nunc perviumst: 760 
 omnes ordine sub signis ducam legiones meas, 
-avi sinistra, auspicio liquido atque ex &lt;mea> sententia; 
+avi sinistra, auspicio liquido atque ex <mea> sententia; 
 confidentia est inimicos meos me posse perdere. 
 nunc ibo ad forum atque onerabo meis praeceptis Simiam, 
 quid agat, ne quid titubet, docte ut hanc ferat fallaciam.  765 
@@ -1247,7 +1247,7 @@ Ha ha hae.
  PS. Lepido victu, vino, unguentis et inter pocula pulpamentis; 
 ibidem una aderit mulier lepida, tibi savia super savia quae det. 
  SIM. Lepide accipis me. PS. Immo si efficies, tum faxo
-magis &lt;id> dicas. 
+magis <id> dicas. 
  SIM. Nisi effecero, cruciabiliter carnifex me accipito.     950 
 sed propera mihi monstrare, ubi sit os lenonis aedium. 
  PS. Tertium hoc est. SIM. St, tace, aedes hiscunt. PS. 
@@ -1342,7 +1342,7 @@ numquam edepol quemquam vidi, quam hic est Simia;
 nimisque ego illum hominem metuo et formido male, 
 ne malus item erga me sit ut erga illum fuit,     1020 
 ne in re secunda nunc mi obvertat cornua, 
-si occasionem capsit qui sit &lt;mihi> malus; 
+si occasionem capsit qui sit <mihi> malus; 
 atque edepol equidem nolo, nam illi bene volo. 
 nunc in metu sum maximo, triplici modo:     1024-1025 
 primum omnium iam hunc comparem metuo meum, 1026 
@@ -1644,7 +1644,7 @@ pergitin pergere? ah, serviendum mihi
 hodie est; magnum hoc vitium vino est:   1250 
 pedes captat primum, luctator dolosust. 
 profecto edepol ego nunc probe habeo madulsam: 
-ita victu excurato, ita magnis munditiis &lt;et> dis dignis, 
+ita victu excurato, ita magnis munditiis <et> dis dignis, 
 itaque in loco festivo sumus festive accepti. 
 quid opust me multas agere ambages? hoc  1255 
 est homini quam ob rem vitam amet, 
@@ -1669,7 +1669,7 @@ ad hunc me modum intuli illis satis facete,
 nimis ex discipulina, quippe ego qui       1274a 
 probe Ionica perdidici. sed palliolatim amictus 
 sic haec incessi ludibundus.          1275a 
-plaudunt &lt;et> 'parum' clamitant mi, ut revertar. 
+plaudunt <et> 'parum' clamitant mi, ut revertar. 
 occepi denuo, hoc modo: nolui 
 idem; amicae dabam me meae,         1277a 
 ut me amaret: ubi circumvortor, cado: 
@@ -1741,7 +1741,7 @@ habeo tergum.  1325
  PS. 
 Redi modo: non 
   eris deceptus. 
- SIM. Redeo. PS. Simul mecum &lt;i> potatum. SIM. 
+ SIM. Redeo. PS. Simul mecum <i> potatum. SIM. 
 Egone eam? PS. Fac quod 
   te iubeo: 
 si is, aut dimidium aut plus etiam faxo hinc feres. SIM. Eo,

@@ -75,13 +75,13 @@ Plautus: Bacchides
  Prisc. GL 2.575K 
  scio spiritum eius maiorem esse multo
  quam folles taurini habent, cum liquescunt  10 
- petrae, ferrum ubi fit. &lt;Cuiatis tibi visust?>
+ petrae, ferrum ubi fit. <Cuiatis tibi visust?>
  Praenestinum opino esse, ita erat gloriosus.
  
 
  
  Don. Ter. An. 1.2.34 
- neque &lt;id> haud subditiva gloria oppidum arbitror.
+ neque <id> haud subditiva gloria oppidum arbitror.
  
 
  
@@ -187,7 +187,7 @@ et bacchanal tuom.
 suadeat?
  PIST. Magis illectum tuom quam lectum metuo. mala tu es bestia.   55 
  nam huic aetati non conducit, mulier, latebrosus locus.
- BACCH. Egomet, apud me &lt;si> quid stulte facere cupias, prohibeam.
+ BACCH. Egomet, apud me <si> quid stulte facere cupias, prohibeam.
  sed ego apud me te esse ob eam rem, miles cum veniat, volo,
  quia, cum tu aderis, huic mihique haud faciet quisquam iniuriam:
  tu prohibebis, et eadem opera tuo sodali operam dabis;    60 
@@ -292,7 +292,7 @@ istic habet?
  tace atque sequere, Lyde, me. LYD. Illuc sis vide,
  non paedagogum iam me, sed Lydum vocat.
  PIST. Non par videtur neque sit consentaneum,
- cum haec &lt;qui emit> intus sit et cum amica accubet  140 
+ cum haec <qui emit> intus sit et cum amica accubet  140 
  cumque osculetur et convivae alii accubent,
  praesentibus illis paedagogus una ut siet.
  LYD. An hoc ad eas res opsonatumst, obsecro?
@@ -395,7 +395,7 @@ prius:
  nam iam huc adveniet miles. CHRYS. Et miles quidem?
  PIST. Qui de amittenda Bacchide aurum hic exiget.
  CHRYS. Veniat quando volt, atque ita ne mihi sit morae.
- domist: non metuo nec &lt;ego> quoiquam supplico,   225 
+ domist: non metuo nec <ego> quoiquam supplico,   225 
  dum quidem hoc valebit pectus perfidia meum.
  abi intro, ego hic curabo. tu intus dicito
  Mnesilochum adesse Bacchidi. PIST. Faciam ut iubes.—
@@ -652,7 +652,7 @@ certo scio.
  MNES. Acris postulatio haec est. cum huius dicta intellego,
  mira sunt ni Pistoclerus Lydum pugnis contudit.     450 
  LYD. Sed quis hic est, quem astantem video ante ostium? o Philoxene,
- deos propitios me videre quam illum &lt;haud> mavellem mihi.
+ deos propitios me videre quam illum <haud> mavellem mihi.
  PHIL. Quis illic est? LYD. Mnesilochus, gnati tui sodalis
 [Pistocleri].
  haud consimili ingenio atque ille est qui in lupanari accubat.
@@ -689,7 +689,7 @@ omnem rem scio
  LYD. Itane oportet rem mandatam gerere amici sedulo,
  ut ipsus in gremio osculantem mulierem teneat sedens?
  nullon pacto res mandata potest agi, nisi identidem
- manus ferat &lt;ei> ad papillas, labra ab labris nusquam auferat?   480 
+ manus ferat <ei> ad papillas, labra ab labris nusquam auferat?   480 
  nam alia memorare quae illum facere vidi dispudet:
  cum manum sub vestimenta ad corpus tetulit Bacchidi
  me praesente, neque pudere quicquam. quid verbis opust?
@@ -890,7 +890,7 @@ vale.  605
  malos quam bonos par magis me iuvare.
  omnibus probris, quae improbis viris   620 
  digna sunt, dignior nullus est homo;
- qui patri reddidi omne aurum amans, &lt;mihi>
+ qui patri reddidi omne aurum amans, <mihi>
  quod fuit prae manu. sumne ego homo miser?
  perdidi me simulque operam Chrysali.
  PI. Consolandus hic mist, ibo ad eum.  625 
@@ -904,19 +904,19 @@ vale.  605
 pluris pretist   630 
  quam ego sum. PI. Militis parasitus venerat modo aurum petere
 hinc,
- eum ego meis dictis malis his foribus atque hac &lt;platea abegi>;
- reppuli, reieci hominem. MN. Quid mi id prodest? &lt;quom ipse
+ eum ego meis dictis malis his foribus atque hac <platea abegi>;
+ reppuli, reieci hominem. MN. Quid mi id prodest? <quom ipse
 veniet,>
  quid faciam? nil habeo miser. ille quidem hanc abducet, scio.
  PI. Si mihi sit, non pollicear. MN. Scio, dares, novi
-&lt;tuom>.   635 
- sed nisi ames, non habeam tibi fidem tantam; &lt;eo quod amas tamen>
- nunc agitas sat tute tuarum rerum; &lt;sin liber sies>
- egone ut opem mi ferre posse putem inopem te? &lt;non potest>.
+<tuom>.   635 
+ sed nisi ames, non habeam tibi fidem tantam; <eo quod amas tamen>
+ nunc agitas sat tute tuarum rerum; <sin liber sies>
+ egone ut opem mi ferre posse putem inopem te? <non potest>.
  PI. Tace modo: deus respiciet nos aliquis. MN. Nugae.
-&lt;vale>.  638a 
+<vale>.  638a 
  P. Mane. M. Quid est? P. Tuam copiam eccam Chrysalum
-video. &lt;tace.>
+video. <tace.>
  
 
  
@@ -956,7 +956,7 @@ statui ex
  MNES. Chrysale, occidi. CHRYS. Fortassis tu auri dempsisti
 parum?
  MNES. Quam, malum, parum? immo vero nimio minus multo parum.
- CHRYS. Quid igitur, stulte? &lt;an tu,> quoniam occasio ad eam
+ CHRYS. Quid igitur, stulte? <an tu,> quoniam occasio ad eam
 rem fuit
  mea virtute parta, ut quantum velles tantum sumeres,
  sic hoc digitulis duobus sumebas primoribus?    675 
@@ -1032,7 +1032,7 @@ dici volo.
  CHRYS. Quid parasti? PIST. Quae parari tu iussisti omnia.
  CHRYS. Cape stilum propere et tabellas tu has tibi. MNES. 
 Quid postea?
- CHRYS. Quod iubebo scribito istic. nam propterea &lt;te> volo
+ CHRYS. Quod iubebo scribito istic. nam propterea <te> volo
  scribere, ut pater cognoscat litteras quando legat.    730 
  scribe. MNES. Quid scribam? CHRYS. Salutem tuo patri
 verbis tuis.
@@ -1108,7 +1108,7 @@ accubitum semel,
  omnia rescivi scelera ex Mnesilocho tua.
  CHRYS. Men criminatust? optimest: ego sum malus,
  ego sum sacer, scelestus. specta rem modo;
- ego verbum faciam &lt;nullum>. NIC. Etiam, carnufex,  785 
+ ego verbum faciam <nullum>. NIC. Etiam, carnufex,  785 
  minitare? CHRYS. Nosces tu illum actutum qualis sit.
  nunc has tabellas ferre me iussit tibi.
  orabat, quod istic esset scriptum ut fieret.
@@ -1249,7 +1249,7 @@ pater.
 crucem.
  CLEOM. Hodie exigam aurum hoc? CHRYS. Exige, ac suspende
 te:
- ne supplicare &lt;hunc> censeas &lt;tibi>, nihili homo.—
+ ne supplicare <hunc> censeas <tibi>, nihili homo.—
  ille est amotus. sine me — per te, ere, opsecro   905 
  deos immortales — ire huc intro ad filium.
  NIC. Quid eo intro ibis? CHRYS. Vt eum dictis plurumis
@@ -1299,7 +1299,7 @@ te:
  Mnesilochust Alexander, qui erit exitio rei patriae suae;
  is Helenam avexit, cuia causa nunc facio obsidium Ilio.
  nam illi itidem Vlixem audivi, ut ego sum, fuisse et audacem et malum:
- &lt;in> dolis ego prensus sum, ille mendicans paene inventus interiit,  950 
+ <in> dolis ego prensus sum, ille mendicans paene inventus interiit,  950 
  dum ibi exquirit fata Iliorum; adsimiliter mi hodie optigit.
  vinctus sum, sed dolis me exemi: item se ille servavit dolis.
  Ilio tria fuisse audivi fata quae illi forent exitio:
@@ -1359,7 +1359,7 @@ igitur.
  CHRYS. Nolo inquam. NIC. At volo inquam. CHRYS. 
 Quid opust?
  NIC. At enim id quod te iubeo facias.
- CHRYS. Iustumst &lt;ut> tuos tibi servos tuo arbitratu serviat.
+ CHRYS. Iustumst <ut> tuos tibi servos tuo arbitratu serviat.
  NIC. Hoc age sis nunciam. C. Vbi lubet, recita: aurium
 operam tibi dico.  995 
  NIC. Cerae quidem haud parsit neque stilo;
@@ -1456,7 +1456,7 @@ turbas turbet,
  quam se ad vitam et quos ad mores praecipitem inscitus capessat,
  magis curae est magisque adformido, ne is pereat neu corrumpatur.
  scio, fui ego illa aetate et feci illa omnia, sed more modesto;
- neque placitant mores quibus video volgo &lt;in> gnatos esse parentes:    1080 
+ neque placitant mores quibus video volgo <in> gnatos esse parentes:    1080 
  [duxi, habui scortum, potavi, dedi, donavi, sed enim id raro.]
  ego dare me meo gnato institui, ut animo obsequium sumere possit;
  aequom esse puto, sed nimis nolo desidiae ei dare ludum.
@@ -1498,7 +1498,7 @@ sunt posthac
  eam sibi hunc annum conductam,
  relicuom id auri factum quod ego ei
  stultissimus homo promisissem: hoc,
- hoc est quo &lt;cor> peracescit;
+ hoc est quo <cor> peracescit;
  hoc est demum quod percrucior,
  me hoc aetatis ludificari,   1100 
  [immo edepol sic ludos factum]
@@ -1572,7 +1572,7 @@ petam.
  B. Soror, est quod te volo secreto. S. Eho, amabo. N. 
 Quo illaec abeunt?
  BACCH. Senem illum tibi dedo ulteriorem, lepide ut lenitum reddas;  1150 
- ego ad hunc iratum adgrediar, &lt;si> possumus nos hos intro inlicere
+ ego ad hunc iratum adgrediar, <si> possumus nos hos intro inlicere
 huc.
  S. Meum pensum ego lepide accurabo, quamquam odiost mortem amplexari.
  B. Facito ut facias. S. Taceas. tu tuom facito: ego quod
@@ -1604,7 +1604,7 @@ filio non sum iratus,
  filios et servom? an ego experior
  tecum vim maiorem? PHIL. Abin hinc?
  non homo tu quidem es, qui istoc pacto tam lepidam inlepide appelles.
- BACCH. Senex optime quantumst in terra, sine &lt;me> hoc exorare
+ BACCH. Senex optime quantumst in terra, sine <me> hoc exorare
 abs te,   1170 
  ut istuc delictum desistas tanto opere ire oppugnatum.
  NIC. Ni abeas, quamquam tu bella es,

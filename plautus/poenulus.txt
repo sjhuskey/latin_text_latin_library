@@ -115,7 +115,7 @@ fuere, summo genere et summis ditiis;   60
 eorum alter vivit, alter est emortuos. 
 propterea apud vos dico confidentius, 
 quia mihi pollictor dixit qui eum pollinxerat. 
-sed illi seni qui mortuost, &lt;ei> filius, 
+sed illi seni qui mortuost, <ei> filius, 
 unicus qui fuerat, ab divitiis a patre    65 
 puer septuennis surripitur Carthagine, 
 sexennio prius quidem quam moritur pater. 
@@ -156,7 +156,7 @@ quia amare cernit, tangere hominem volt bolo.
 illam minorem in concubinatum sibi 
 volt emere miles quidam, qui illam deperit. 
 Sed pater illarum Poenus, postquam eas perdidit, 
-mari te&lt;rraque> usquequaque quaeritat.    105 
+mari te<rraque> usquequaque quaeritat.    105 
 ubi quamque in urbem est ingressus, ilico 
 omnes meretrices, ubi quisque habitant, invenit; 
 dat aurum, ducit noctem, rogitat postibi 
@@ -368,7 +368,7 @@ exornatae ut simus. AD. Immo vero sane commode;
 nam pro erili et nostro quaestu satis bene ornatae sumus.  285 
 non enim potis est quaestus fieri, ni sumptus sequitur, scio, 
 et tamen quaestus non consistet, si eum sumptus superat, soror. 
-eo illud satiust, satis quod habitu, &lt;haud satis est quod> plus
+eo illud satiust, satis quod habitu, <haud satis est quod> plus
 quam sat est. 
  AGOR. Ita me di ament, ut illa me amet malim quam di, Milphio. 
 nam illa mulier lapidem silicem subigere, ut se amet, potest.    290 
@@ -789,7 +789,7 @@ Abeo.— ADV.
  COLL. St,       608a 
 tace. ADV. Quid est? COLL. Fores hae fecerunt magnum
 flagitium modo. 
- ADV. Quid &lt;id> est flagiti? COLL. Crepuerunt clare.
+ ADV. Quid <id> est flagiti? COLL. Crepuerunt clare.
  ADV. 
 Di te perduint. 
 pone nos recede. COLL. Fiat. ADV. Nos priores ibimus. 
@@ -879,7 +879,7 @@ salutat. salvom te advenire gaudeo.
  LYC. Hospitium te aiunt quaeritare. COLL. Quaerito. 
  LYC. Ita illi dixerunt, qui hinc a me abierunt modo, 
 te quaeritare a muscis. COLL. Minime gentium.   690 
- LYC. Quid ita? COLL. Quia &lt;a> muscis si mi hospitium
+ LYC. Quid ita? COLL. Quia <a> muscis si mi hospitium
 quaererem, 
 adveniens irem in carcerem recta via. 
 ego id quaero hospitium, ubi ego curer mollius, 
@@ -982,7 +982,7 @@ lupo agnum eripere postulant. nugas agunt.
 quem tibi nos esse Spartiatam diximus,    780 
 qui ad te trecentos Philippeos modo detulit. 
 idque in istoc adeo aurum inest marsuppio. 
- LYC. Vae vostrae aetati. ADV. Id quidem &lt;in> mundo
+ LYC. Vae vostrae aetati. ADV. Id quidem <in> mundo
 est tuae. 
  AGOR. Age omitte actutum, furcifer, marsuppium: 
 manifesto fur es mihi. quaeso hercle, operam date,  785 
@@ -1054,7 +1054,7 @@ quam apud lenonem hunc servitutem colere. quid illuc est genus,
 quae illic hominum corruptelae fiunt. di vostram fidem,   830 
 quodvis genus ibi hominum videas, quasi Acheruntem veneris, 
 equitem peditem, libertinum, furem an fugitivom velis, 
-verberatum, vinctum, addictum: qui habet quod det, &lt;ut>ut homo est, 
+verberatum, vinctum, addictum: qui habet quod det, <ut>ut homo est, 
 omnia genera recipiuntur; itaque in totis aedibus 
 tenebrae latebrae, bibitur estur quasi in popina, hau secus. 835 
 ibi tu videas litteratas fictiles epistulas, 
@@ -1279,7 +1279,7 @@ dare hic nescio quid. audin pollicitarier?
  HAN. Me har bocca. MIL. Istuc tibi sit potius quam mihi. 
  AGOR. Quid ait? MIL. Miseram esse praedicat buccam sibi. 
 fortasse medicos nos esse arbitrarier. 
- AGOR. Si &lt;ita> est, nega esse; nolo ego errare hospitem. 1005 
+ AGOR. Si <ita> est, nega esse; nolo ego errare hospitem. 1005 
  MIL. Audin tu? HAN. Rufeyn nyccho issam. AGOR. 
 Sic volo 
 profecto vera cuncta huic expedirier. 
@@ -1353,7 +1353,7 @@ quo me privatum aegre patior mortuo.
 sed si ita est, ut tu sis Iahonis filius, 
 signum esse oportet in manu laeva tibi, 
 ludenti puero quod memordit simia. 
-ostende, inspiciam. &lt; AGOR. Em ostendo.> HAN. Aperi.
+ostende, inspiciam. < AGOR. Em ostendo.> HAN. Aperi.
 audi atque ades: 1075 
  * * *               1075a 
  AGOR. Mi patrue, salve. HAN. Et tu salve, Agorastocles. 
@@ -1493,7 +1493,7 @@ eo sumus gnatae genere, ut deceat nos esse a culpa castas.
  HAN. Iuppiter, qui genus colis alisque hominum, per quem vivimus
 vitalem aevom, 
 quem penes spes vitae sunt hominum omnium, da diem hunc sospitem quaeso, 
-~ rebus meis agundis, ut quibus annos multos carui quasque &lt;e> patria 
+~ rebus meis agundis, ut quibus annos multos carui quasque <e> patria 
 perdidi parvas ~ redde is libertatem, invictae praemium ut esse sciam
 pietati. 1190 
  AGOR. Omnia faciet Iuppiter faxo, 
@@ -1508,7 +1508,7 @@ si tibi illi non os oblitumst fuligine?   1195
  AGOR. O patrue, o patrue mi. HAN. Quid est, 
 fratris mei gnate, gnate, quid vis? expedi. 
  AGOR. At enim hoc volo agas. HAN. At enim ago istuc. 
- AGOR. &lt;O> patrue mi patruissime. 
+ AGOR. <O> patrue mi patruissime. 
  HAN. Quid est? AGOR. Est lepida et lauta. ut sapit. 
  HAN. Ingenium patris habet quod sapit. 
  AG. Quae res? iam diu edepol sapientiam tuam haec quidem abusast. 
@@ -1762,7 +1762,7 @@ omitte genua. LYC. Mitto, si ita sententia est.
  LYC. Di meliora faxint. ANTAM. Sic est: hodie cenabis
 toris.  1400 
 aurum argentum collum, leno, tris res nunc debes simul. 
- HAN. Quid me &lt;in> hac re facere deceat, egomet mecum cogito. 
+ HAN. Quid me <in> hac re facere deceat, egomet mecum cogito. 
 si volo hunc ulcisci, litis sequar in alieno oppido, 
 quantum audivi ingenium et mores eius quo pacto sient. 
  ADELPH. Mi pater, ne quid tibi cum istoc rei sit pessumo, obsecro. 1405 
@@ -1774,7 +1774,7 @@ leno, quando ex nervo emissu's— compingare in carcerem.
 purgatum volo. 1410 
 si quid dixi iratus advorsum animi tui sententiam, 
 id uti ignoscas quaeso; et quom istas invenisti filias, 
-ita me di ament &lt;ut> mihi volup est. HAN. Ignosco et credo
+ita me di ament <ut> mihi volup est. HAN. Ignosco et credo
 tibi. 
  ANTAM. Leno, tu autem amicam mihi des facito aut [auri] mihi
 reddas minam. 

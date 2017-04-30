@@ -136,7 +136,7 @@ Ingens exin oborta est epulonum exspectatio. Nec ulla tamen ego ratione conterri
  
 
  
-Fuit in illo conventiculo matrona quaedam pollens et opulens. Quae more ceterorum visum meum mercata ac dehinc multiformibus ludicris delectata per admirationem adsiduam paulatim in admirabilem mei cupidinem incidit; nec ullam vaesanae libidini medelam capiens ad instar asinariae Pasiphaae complexus meos ardenter exspectabat, grandi denique praemio cum altore depecta est noctis unius concubitum; at ille nequaquam &lt;anxius, ecquid&gt; posset de me suave provenire, lucro suo tantum contentus, adnuit. 
+Fuit in illo conventiculo matrona quaedam pollens et opulens. Quae more ceterorum visum meum mercata ac dehinc multiformibus ludicris delectata per admirationem adsiduam paulatim in admirabilem mei cupidinem incidit; nec ullam vaesanae libidini medelam capiens ad instar asinariae Pasiphaae complexus meos ardenter exspectabat, grandi denique praemio cum altore depecta est noctis unius concubitum; at ille nequaquam <anxius, ecquid> posset de me suave provenire, lucro suo tantum contentus, adnuit. 
  
 
  

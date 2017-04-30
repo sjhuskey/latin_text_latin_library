@@ -144,7 +144,7 @@ ignis pererrat: ignis, en ignis furit,   3180
 
 populatur, ingrassatur hac, illac. 
 
- Intrat 2. ad Austrum 1 &lt;et&gt;3 
+ Intrat 2. ad Austrum 1 <et>3 
 
  CIV. 2 ubi?
 
@@ -1248,7 +1248,7 @@ Antoniamque Claudii comitem volo.
 ite, ite fortes; ite faelices.  
  
 
- Exit Piso cum Laterano &lt;et&gt; caeteri. 
+ Exit Piso cum Laterano <et> caeteri. 
 
  SCEV. vale 
 

@@ -290,7 +290,7 @@ hoc erit remissibile. Est delictum ad mortem; non pro illo dico, ut quis
 
 postulet, hoc erit inremissibile. [15] Ita
 
-ubi est postulationis &lt;ratio&gt;, illic etiam remissionis; ubi nec
+ubi est postulationis <ratio>, illic etiam remissionis; ubi nec
 
 postulationis, ibi aeque nec remissionis. Secundum hanc differentiam delictorum
 
@@ -322,7 +322,7 @@ itaque opponunt, quod huius quoque paenitentiae fructum, id est ueniam, in sua
 
 potestate usurpauerunt. Quantum enim ad illos, a quibus pacem humanam
 
-consequitur, &lt;frustra agitur&gt;. Quantum autem ad nos, qui solum Dominum
+consequitur, <frustra agitur>. Quantum autem ad nos, qui solum Dominum
 
 meminimus delicta concedere, et utique mortalia, non frustra agetur. [4] Ad
 
@@ -362,9 +362,9 @@ elogium. [3] Nec enim interest
 
 nuptam alienam an uiduam quis incurset, dum non suam feminam; sicut nec
 
-&lt;de&gt; locis refert, in cubiculis an in turribus pudicitia trucidetur. Omne
+<de> locis refert, in cubiculis an in turribus pudicitia trucidetur. Omne
 
-homicidium &lt;et&gt; extra siluam latrocinium est. [4] Ita
+homicidium <et> extra siluam latrocinium est. [4] Ita
 
 et ubicumque uel in quacumque semetipsum adulterat et stuprat, qui aliter quam
 
@@ -712,7 +712,7 @@ tenebris inuenitur, quam Christiano, qui iam in Dei luce est. [12] Denique
 
 et oui et drachmae unus error adscribitur. Nam si iam in Christianum peccatorem
 
-defingerentur post fidem perditum, et &lt;de&gt; iterata amissione eorum et
+defingerentur post fidem perditum, et <de> iterata amissione eorum et
 
 restitutione tractaretur. [13] Decedam
 
@@ -734,7 +734,7 @@ igitur et fidelis elapsus in spectaculum quadrigarii furoris et gladiatorii
 
 cruoris et scaenicae foeditatis et xysticae uanitatis, in lusus, in conuiuia
 
-saecularis sollemnitatis, &lt;si&gt; in officium, in ministerium alienae
+saecularis sollemnitatis, <si> in officium, in ministerium alienae
 
 idololatriae aliquas artes adhibuit curiositatis in uerbum ancipitis negationis
 
@@ -914,7 +914,7 @@ duo utique filii illuc spectabunt, quo et drachma et ouis. Quibus enim
 
 cohaerent, eandem habent causam, eandem utique mussitationem Pharisaeorum erga
 
-commercium Domini &lt;et&gt; ethnicorum. [5] Aut
+commercium Domini <et> ethnicorum. [5] Aut
 
 si quis dubitat ethnicos fuisse publicanos apud Iudaeam usurpatam iam pridem
 
@@ -1526,7 +1526,7 @@ scire, nondum scit quemadmodum oporteat eum scire ! [10] Nonne
 
 et tunc in faciem alicuius impingens, quis enim, inquit, te discernit
 
-? Quid autem habes, quod non accepisti? &lt;Si autem accepisti,&gt; quid
+? Quid autem habes, quod non accepisti? <Si autem accepisti,> quid
 
 gloriaris, quasi non acceperis ? Nonne et illos in os caedit?
 
@@ -2012,7 +2012,7 @@ prohibens regnare delinquentiam in corpore nostro mortali, cuius infirmitatem
 
 carnis nouerat. Sicut enim exhibuistis membra uestra famula immunditiae et
 
-iniquitati &lt;in iniquitatem&gt;, ita et nunc exhibete ea famula iustitiae in
+iniquitati <in iniquitatem>, ita et nunc exhibete ea famula iustitiae in
 
 sanctimoniam. [10] Nam etsi
 
@@ -2104,7 +2104,7 @@ haec, inquit, ad interdictionem pertinebunt omnis impudicitiae et ad indictionem
 
 omnis pudicitiae, saluo tamen loco ueniae, quae non statim denegatur, si delicta
 
-damnantur, quando ueniae tempus cum damnatione &lt;non&gt; concurrat, quam
+damnantur, quando ueniae tempus cum damnatione <non> concurrat, quam
 
 excludit. [2] Sequebatur et
 
@@ -2208,7 +2208,7 @@ uolutando deterserint, et: Qui templum Dei uitiauerit, uitiabit illum Deus, nisi
 
 omnium focorum cineres in ecclesia de capite suo excusserit. [14] Debuerat
 
-enim quae damnauerat proinde determinasse, quonam usque et sub &lt;qua&gt;
+enim quae damnauerat proinde determinasse, quonam usque et sub <qua>
 
 condicione damnasset, si temporali et condicionali et non perpetua seueritate
 
@@ -2352,7 +2352,7 @@ enim in lumine, tenebris uero non communicantes, emundati agemus, non deposito,
 
 sed non admisso delicto. Haec est enim uis dominici sanguinis, ut quos iam
 
-&lt;a&gt; delicto mundarit et exinde in lumine constituerit, mundos exinde
+<a> delicto mundarit et exinde in lumine constituerit, mundos exinde
 
 perstare, si in lumine incedere perseuerauerint. [14] Sed
 
@@ -2576,7 +2576,7 @@ cruentos (nam et Apocalypsis uiridi equo mortem, russeo autem praeliatorem
 
 imposuit), proque illis politos et in compaginem aptos et firmos substrui
 
-lapides, quales in Abrahae &lt;filios&gt;, fiunt, ut ita homo habilis Deo sit. [11] Quod
+lapides, quales in Abrahae <filios>, fiunt, ut ita homo habilis Deo sit. [11] Quod
 
 si post recuperationem et reformationem rursus sacerdos animaduerterit in eadem
 
@@ -2608,7 +2608,7 @@ decurram, excernens inter doctrinam apostolorum et potestatem. Disciplina
 
 hominem gubernat, potestas adsignat. Sed rursum quid potestas?
 
-&lt;Spiritus&gt;. Spiritus autem Deus. [2] Quid
+<Spiritus>. Spiritus autem Deus. [2] Quid
 
 autem docebat? Non communicandum operibus tenebrarum. Obserua quod iubet. Quis
 
@@ -2698,7 +2698,7 @@ ueram salutem, et Ananiam uinxit uinculo mortis et debilem pedibus absoluit
 
 uitio ualetudinis. [13] Sed
 
-et in illa disceptatione custodiendae &lt;necne&gt; legis primus omnium Petrus
+et in illa disceptatione custodiendae <necne> legis primus omnium Petrus
 
 spiritu instinctus et de nationum uocatione praefatus, et nunc, inquit, cur
 

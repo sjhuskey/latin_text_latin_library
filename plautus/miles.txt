@@ -143,10 +143,10 @@ eamque huc invitam mulierem in Ephesum advehit.
 ubi amicam erilem Athenis avectam scio, 
 ego quantum vivos possum mihi navem paro,      115 
 inscendo, ut eam rem Naupactum ad erum nuntiem. 
-ubi sumus provecti in altum, fit quod &lt;di&gt; volunt, 
+ubi sumus provecti in altum, fit quod <di> volunt, 
 capiunt praedones navem illam ubi vectus fui: 
 prius perii quam ad erum veni, quo ire occeperam. 
-ille &lt;qui&gt; me cepit dat me huic dono militi.      120 
+ille <qui> me cepit dat me huic dono militi.      120 
 hic postquam in aedis me ad se deduxit domum, 
 video illam amicam erilem, Athenis quae fuit. 
 ubi contra aspexit me, oculis mihi signum dedit, 
@@ -177,7 +177,7 @@ ei nos facetis fabricis et doctis dolis
 glaucumam ob oculos obiciemus eumque ita 
 faciemus ut quod viderit ne viderit. 
 et mox ne erretis, haec duarum hodie vicem      150 
-&lt;suam&gt; et hinc et illinc mulier feret imaginem, 
+<suam> et hinc et illinc mulier feret imaginem, 
 atque eadem erit, verum alia esse adsimulabitur. 
 ita sublinetur os custodi mulieris. 
 sed foris concrepuit hinc a vicino sene; 
@@ -279,13 +279,13 @@ neque habet plus sapientiai quam lapis. Per. Ego istuc scio.
  Pal. Nunc sic rationem incipisso, hanc instituam astutiam, 
 ut Philocomasio huc sororem geminam germanam alteram 
 dicam Athenis advenisse cum amatore aliquo suo, 
-tam similem, quam &lt;lacte&gt; lactist; apud &lt;te&gt; eos hic devortier      240 
+tam similem, quam <lacte> lactist; apud <te> eos hic devortier      240 
 dicam hospitio. Per. Euge euge, lepide, laudo commentum tuom. 
  Pal. Vt si illic concriminatus sit advorsum militem 
 meus conservos, eam vidisse hic cum alieno oscularier, 
 eam arguam vidisse apud te contra conservom meum 
 cum suo amatore amplexantem atque osculantem. Per. Immo optume.      245 
-idem ego dicam, si &lt;ex&gt; me exquiret miles. Pal. Sed simillimas 
+idem ego dicam, si <ex> me exquiret miles. Pal. Sed simillimas 
 dicito esse, et Philocomasio id praecipiendum est ut sciat, 
 ne titubet, si exquiret ex ea miles. Per. Nimis doctum dolum. 
 sed si ambas videre in uno miles concilio volet, 
@@ -348,15 +348,15 @@ tuis nunc cruribus capitique fraudem capitalem hinc creas.
 nam tibi iam ut pereas paratum est dupliciter, nisi supprimis      295 
 tuom stultiloquium. Scel. Qui vero dupliciter? Pal. Dicam tibi. 
 primumdum, si falso insimulas Philocomasium, hoc perieris; 
-iterum, si id verumst, tu ei custos additus &lt;eo&gt; perieris. 
+iterum, si id verumst, tu ei custos additus <eo> perieris. 
  Scel. Quid fuat me, nescio: haec me vidisse ego certo scio. 
  Pal. Pergin, infelix? Scel. Quid tibi vis dicam nisi quod viderim?      300 
 quin etiam nunc intus hic in proxumost. Pal. Eho an non domist? 
  Scel. Vise, abi intro tute, nam ego mi iam nil credi postulo. 
  Pal. Certum est facere.— Scel. Hic te opperiar; eadem illi insidias dabo, 
-quam mox horsum ad stabulum iuuenix recipiat se &lt;a&gt; pabulo. 
+quam mox horsum ad stabulum iuuenix recipiat se <a> pabulo. 
 quid ego nunc faciam? custodem me illi miles addidit:      305 
-nunc si indicium facio, interii; si taceo, &lt;interii&gt; tamen, 
+nunc si indicium facio, interii; si taceo, <interii> tamen, 
 si hoc palam fuerit. quid peius muliere aut audacius? 
 dum ego in tegulis sum, illaec sese ex hospitio edit foras; 
 edepol facinus fecit audax. hocine si miles sciat, 
@@ -377,12 +377,12 @@ caecus, non luscitiosu's. nam illa quidem * domi.
  Scel. Quid, domi? Pal. Domi hercle vero. Scel. Abi, ludis me, 
      Palaestrio. 
  Pa. Tum mihi sunt manus inquinatae. Sc. Qui dum? Pa. Quia ludo luto.      325 
- Scel. Vae capiti tuo. Pal. &lt;Tuo&gt; istuc, Sceledre, promitto fore, 
+ Scel. Vae capiti tuo. Pal. <Tuo> istuc, Sceledre, promitto fore, 
 nisi oculos orationemque aliam commutas tibi. 
 sed fores concrepuerunt nostrae. Scel. At ego ilico observo foris; 
 nam nihil est qua hinc huc transire ea possit nisi recto ostio. 
  Pal. Quin domi eccam. nescio quae te, Sceledre, scelera suscitant.      330 
- Scel. Mihi ego video, mihi ego sapio, &lt;mihi&gt; ego credo plurumum: 
+ Scel. Mihi ego video, mihi ego sapio, <mihi> ego credo plurumum: 
 me homo nemo deterrebit, quin ea sit in his aedibus. 
 hic obsistam, ne imprudenti huc ea se subrepsit mihi. 
  Pal. Meus illic homo est, deturbabo iam ego illum de pugnaculis. 
@@ -498,7 +498,7 @@ quae circum vicinos vagas. Phil. Quicum tu fabulare?
  Pal. Quis ego sum igitur, si hunc ignoras? Phil. Mihi odiosus, quisquis 
      es, 
 et tu et hic. Sc. Non nos novisti? Ph. Neutrum. Sc. Metuo maxume, 
- Pal. Quid metuis? Scel. Enim ne &lt;nos&gt; nosmet perdiderimus uspiam; 
+ Pal. Quid metuis? Scel. Enim ne <nos> nosmet perdiderimus uspiam; 
 nam nec te neque me novisse ait haec. Pal. Persectari hic volo,      430 
 Sceledre, nos nostri an alieni simus, ne dum quispiam 
 nos vicinorum imprudentis aliquis immutaverit. 
@@ -509,7 +509,7 @@ qui me perperam perplexo nomine appelles? Pal. Eho,      435
 quis igitur vocare? Phil. Diceae nomen est. Scel. Iniuria es, 
 falsum nomen possidere, Philocomasium, postulas; 
 ἄδικος es tu, non δικαία, et meo ero facis iniuriam. 
- Phil. Egone? Scel. Tu&lt;ne&gt;. Phil. Quae heri Athenis Ephesum adveni 
+ Phil. Egone? Scel. Tu<ne>. Phil. Quae heri Athenis Ephesum adveni 
      vesperi 
 cum meo amatore, adulescente Atheniensi? Pal. Dic mihi,      440 
 quid hic tibi in Epheso est negoti? Phil. Geminam germanam meam 
@@ -588,12 +588,12 @@ amplexum amicam, quom osculabatur, suam,
 quodque concubinam erilem insimulare ausus es 
 probri pudicam meque summi flagiti, 
 tum quod tractavisti hospitam ante aedis meam:      510 
-nisi mihi supplicium stimuleum de &lt;te&gt; datur, 
+nisi mihi supplicium stimuleum de <te> datur, 
 dedecoris pleniorem erum faciam tuom, 
 quam magno vento plenumst undarum mare. 
  Scel. Ita sum coactus, Periplectomene, ut nesciam 
 utrum me postulare prius * tecum aequom siet;      515 
-nisi &lt;si&gt; istaec non est haec neque &lt;haec&gt; istast, mihi 
+nisi <si> istaec non est haec neque <haec> istast, mihi 
 me expurigare tibi videtur aequius; 
 sicut etiam nunc nescio quid viderim: 
 itast ista huius similis nostrai tua, 
@@ -689,7 +689,7 @@ concilium quod habere volumus. nam opus est nunc tuto loco,
 unde inimicus ne quis nostri spolia capiat consili. 
 nam bene consultum inconsultum est, si id inimicis usuist,      600 
 neque potest quin, si id inimicis usuist, obsit tibi; 
-[nam bene &lt;consultum&gt; consilium surripitur saepissime, 
+[nam bene <consultum> consilium surripitur saepissime, 
 si minus cum cura aut cautella locus loquendi lectus est.] 
 quippe qui, si rescivere inimici consilium tuom, 
 tuopte tibi consilio occludunt linguam et constringunt manus,      605 
@@ -714,7 +714,7 @@ quae istaec aetas fugere facta magis quam sectari solet:
 eam pudet me tibi in senecta obicere sollicitudinem. 
  Pal. Novo modo tu homo amas, siquidem te quicquam quod faxis pudet; 
 nihil amas, umbra es amantis magis quam amator, Pleusicles.      625 
- Plevs. Hancine aetatem exercere &lt;mei&gt; me amoris gratia? 
+ Plevs. Hancine aetatem exercere <mei> me amoris gratia? 
  Per. Quid ais tu? itane tibi ego videor oppido Acherunticus? 
 tam capularis, tamine tibi diu videor vitam vivere? 
 nam equidem haud sum natus annos praeter quinquaginta et quattuor, 
@@ -725,7 +725,7 @@ inest in hoc emussitata sua sibi ingenua indoles.
 nam benignitas quidem huius oppido adulescentula est. 
  Per. Immo, hospes, magis cum periclum facies, magis nosces meam      635 
 comitatem erga te amantem. Plevs. Quid opus nota noscere? 
- Per. Vt apud &lt;te&gt; exemplum experiundi habeas, ne quaeras foris; 
+ Per. Vt apud <te> exemplum experiundi habeas, ne quaeras foris; 
 nam nisi qui ipse amavit, aegre amantis ingenium inspicit: 
 et ego amoris aliquantum habeo umorisque etiam in corpore,      639-640 
 neque dum exarui ex amoenis rebus et voluptariis.      641 
@@ -803,7 +803,7 @@ abducunt ad exta; me ad se ad prandium, ad cenam vocant;
 ille miserrumum se retur, minimum qui misit mihi. 
 illi inter se certant donis, egomet mecum mussito: 
 bona mea inhiant, me certatim nutricant et munerant.      715 
- Pal. Nimis bona ratione nimiumque ad te &lt;te&gt; et tuam vitam habes: 
+ Pal. Nimis bona ratione nimiumque ad te <te> et tuam vitam habes: 
 et tibi sunt gemini et trigemini, si te bene habes, filii. 
  Per. Pol si habuissem, satis cepissem miseriarum e liberis: 
 continuo excruciarer animi: si ei forte fuisset febris,      719-720 
@@ -840,7 +840,7 @@ commodulum obsona, ne magno sumptu: mihi quidvis sat est.      750
  Per. Quin tu istanc orationem hinc veterem atque antiquam amoves? 
 [nam] proletario sermone nunc quidem, hospes, utere; 
 nam ei solent, quando accubuere, ubi cena adpositast, dicere: 
-'quid opus fuit hoc, &lt;hospes&gt;, sumptu tanto nostra gratia? 
+'quid opus fuit hoc, <hospes>, sumptu tanto nostra gratia? 
 insanivisti hercle, nam idem hoc hominibus sat erat decem.'      755 
 quod eorum causa obsonatumst culpant et comedunt tamen. 
  Pal. Fit pol illud ad illud exemplum. ut docte et perspecte sapit. 
@@ -884,10 +884,10 @@ tuam esse uxorem: ita praecipiundum est. Plevs. Erro quam insistas viam.
  Pal. Ea quoque opus est. ita praecipito mulieri atque ancillulae,      795 
 ut simulet se tuam esse uxorem et deperire hunc militem, 
 quasique hunc anulum faveae suae dederit, ea porro mihi, 
-militi ut darem, quasique ego &lt;ei&gt; rei sim interpres. Per. Audio; 
+militi ut darem, quasique ego <ei> rei sim interpres. Per. Audio; 
 ne me surdum esse arbitrare, si audes. ego recte meis 
                     auribus utor * Pal. *      799a 
-ei dabo, &lt;aps&gt; tua mi uxore dicam delatum et datum, 
+ei dabo, <aps> tua mi uxore dicam delatum et datum, 
 ut sese ad eum conciliarem; ille eiusmodi est: cupiet miser, 
 qui nisi adulterio studiosus rei nulli aliaest improbus. 
  Per. Non potuit reperire, si ipsi Soli quaerendas dares, 
@@ -896,7 +896,7 @@ lepidiores duas ad hanc rem quam ego. habe animum bonum.
  Plevs. Tibi sum oboediens. Pal. Hoc facito, miles domum ubi advenerit, 
 memineris ne Philocomasium nomines. Plevs. Quem nominem? 
  Pa. Diceam. Pl. Nempe eandem quae dudum constitutast. Pa. Pax, abi. 
- Plevs. Meminero. sed quid meminisse id refert, &lt;rogo&gt; ego te tamen. 
+ Plevs. Meminero. sed quid meminisse id refert, <rogo> ego te tamen. 
  Pal. Ego enim dicam tum quando usus poscet; interea tace,      810 
 ut nunc etiam hic agat ac tu tum partis defendas tuas. 
  Plevs. Ego eo intro igitur.— Pal. Et praecepta sobrie ut cures face.
@@ -934,10 +934,10 @@ bono subpromo et promo cellam creditam.
  Lvcr. Tu hercle idem faceres, si tibi esset credita: 
 quoniam aemulari non licet, nunc invides.      839-840 
  Pal. Eho an umquam prompsit antehac? responde, scelus.      841 
-atque ut tu scire possis, &lt;ego&gt; dico tibi: 
+atque ut tu scire possis, <ego> dico tibi: 
 si falsa dices, Lucrio, excruciabere. 
  Lvcr. Ita vero? ut tu ipse me dixisse delices, 
-post &lt;e&gt; sagina ego eiciar cellaria,      845 
+post <e> sagina ego eiciar cellaria,      845 
 ut tibi, si promptes, alium subpromum pares. 
  Pal. Non edepol faciam. age eloquere audacter mihi. 
  Lvcr. Numquam edepol vidi promere. verum hoc erat: 
@@ -976,7 +976,7 @@ III.iii
 domi demonstravi in ordine. hanc fabricam fallaciasque      875 
 minus si tenetis, denuo volo percipiatis plane; 
 satis si intellegitis, aliud est quod potius fabulemur. 
- Acrotelevtivm Stultitia atque insipientia mea istaec sit, &lt;mi patrone,&gt; 
+ Acrotelevtivm Stultitia atque insipientia mea istaec sit, <mi patrone,> 
 me ire in opus alienum aut ibi meam operam pollicitari, 
 si ea in opificina nesciam aut mala esse aut fraudulenta.      880 
  Per. At melius est monerier. Acr. Meretricem commoneri, 
@@ -1005,12 +1005,12 @@ oneravit praeceptis? Per. Probe meditatam utramque duco.
  Per. Ad tua praecepta de meo nihil his novom adposivi.      905 
  Acr. Nempe ludificari militem tuom erum vis? Pal. Exlocuta es. 
  Acr. Lepide et sapienter, commode et facete res paratast. 
- Pal. Atque huius uxorem volo &lt;te esse&gt; adsimulare. Acr. Fiet. 
+ Pal. Atque huius uxorem volo <te esse> adsimulare. Acr. Fiet. 
  Pal. Quasi militi animum adieceris, simulare. Acr. Sic futurum est. 
  Pal. Quasique ea res per me interpretem et tuam ancillam ei curetur.      910 
  Acr. Bonus vates poteras esse, nam quae sunt futura dicis. 
  Pal. Quasique anulum hunc ancillula tua abs te detulerit ad me, 
-quem ego militi &lt;porro&gt; darem tuis verbis. Acr. Vera dicis. 
+quem ego militi <porro> darem tuis verbis. Acr. Vera dicis. 
  Per. Quid istis nunc memoratis opust quae commeminere? Acr. Meliust. 
 nam, mi patrone, hoc cogitato, ubi probus est architectus,      915 
 bene lineatam si semel carinam conlocavit, 
@@ -1031,11 +1031,11 @@ insistite hoc negotium sapienter. Acr. Alia cura.
 conveniam atque illi hunc anulum dabo, atque praedicabo 
 a tua uxore mihi datum esse eamque illum deperire. 
 hanc ad nos, quom extemplo a foro veniemus, mittitote, 
-quasi clanculum ad &lt;eum&gt; missa sit. Per. Faciemus. alia cura. 
+quasi clanculum ad <eum> missa sit. Per. Faciemus. alia cura. 
  Pal. Vos modo curate, ego illum probe iam oneratum huc acciebo.—      935 
  Per. Bene ambula, bene rem geras. egone hoc si efficiam plane, 
 ut concubinam militis meus hospes habeat hodie 
-atque hinc Athenas avehat, &lt;si&gt; hodie hunc dolum dolamus, 
+atque hinc Athenas avehat, <si> hodie hunc dolum dolamus, 
 quid tibi ego mittam muneris! Acr. Datne ab se mulier operam?      939-940 
  Per. Lepidissume et compsissume. Acr. Confido confuturum.      941 
 ubi facta erit conlatio nostrarum malitiarum, 
@@ -1054,7 +1054,7 @@ ne quid, ubi miles venerit, titubetur. Acr. Tu morare.—
  
 IV.i
  
- Pyrgopolinices Volup est, quod agas, si id procedit lepide at&lt;que ex&gt; 
+ Pyrgopolinices Volup est, quod agas, si id procedit lepide at<que ex> 
      sententia; 
 nam ego hodie ad Seleucum regem misi parasitum meum, 
 ut latrones quos conduxi hinc ad Seleucum duceret, 
@@ -1092,7 +1092,7 @@ eius huc gemina venit Ephesum et mater, accersuntque eam.      975
      adfatimst: 
 iube sibi aurum atque ornamenta, quae illi instruxti mulieri, 
 dono habere, auferre * abs te quo lubeat sibi. 
- Pyrg. Placet ut dicis; sed ne &lt;et&gt; istam amittam et haec mutet fidem 
+ Pyrg. Placet ut dicis; sed ne <et> istam amittam et haec mutet fidem 
 vide modo. Pal. Vah delicatu's, quae te tamquam oculos amet. 
  Pyrg. Venus me amat. Pal. St tace, aperitur foris, concede huc      985 
      clanculum. 
@@ -1123,14 +1123,14 @@ meam laudat speciem. edepol huius sermo haud cinerem quaeritat.      1000
  Pal. Quippini? istaec de te loquitur: nihil attrectat sordidi. 
  Pyrg. Tum autem illa ipsa est nimium lepida nimisque nitida femina. 
 hercle vero iam adlubescit primulum, Palaestrio. 
- Pal. Priusne quam illam oculis tuis &lt;videas&gt;? Pyrg. Video id quod      1005 
+ Pal. Priusne quam illam oculis tuis <videas>? Pyrg. Video id quod      1005 
      credo tibi. 
 tum haec celocula autem absentem subigit me ut amem. Pal. Hercle hanc quidem 
 nil tu amassis; mi haec desponsast: tibi si illa hodie nupserit, 
 ego hanc continuo uxorem ducam. Pyrg. Quid ergo hanc dubitas conloqui? 
  Pal. Sequere hac me ergo. Pyrg. Pedisequos tibi sum. Milph. Vtinam, 
      cuius causa foras 
-sum egressa, &lt;eius&gt; conveniundi mihi potestas evenat.      1010 
+sum egressa, <eius> conveniundi mihi potestas evenat.      1010 
  Pal. Erit, et tibi exoptatum optinget, bonum habe animum, ne formida; 
 homo quidamst qui scit, quod quaeris ubi sit. Milph. Quem ego hic audivi? 
  Pal. Socium tuorum conciliorum et participem consiliorum. 
@@ -1148,7 +1148,7 @@ sed hic numquis adest? Pal. Vel adest vel non. Milph. Cedo te mihi solae
      ad te redeo. 
  Pyrg. Quid ego? hic astabo tantisper cum hac forma et factis frustra? 
  Pal. Patere atque asta, tibi ego hanc do operam. Pyrg. Propera, 
-     &lt;expecta&gt;ndo excrucior. 
+     <expecta>ndo excrucior. 
  Pal. Pedetemptim (tu hoc scis) tractari satiust hasce huius modi mercis. 
  Pyrg. Age age ut tibi maxume concinnumst. Pal. Nullumst hoc stolidius 
      saxum. 
@@ -1175,15 +1175,15 @@ quasi non lubeat; me inclamato, quia sic te volgo volgem.      1035
 sed eram meam, quae te demoritur. Pyrg. Multae aliae idem istuc      1040 
      cupiunt, 
 quibus copia non est. Milph. Ecastor haud mirum, si te habes carum, 
-hominem tam pulchrum et praeclarum virtute et forma &lt;et&gt; factis. 
+hominem tam pulchrum et praeclarum virtute et forma <et> factis. 
 deus dignior fuit quisquam homo qui esset? Pal. Non hercle humanust ergo— 
 nam volturio plus humani credo est. Pyrg. Magnum me faciam 
 nunc quom illaec me sic conlaudat. Pal. Viden tu ignavum, ut sese      1045 
      infert? 
-quin tu huic responde, haec illaec est ab illa quam dudum &lt;dixi&gt;. 
+quin tu huic responde, haec illaec est ab illa quam dudum <dixi>. 
  Pyrg. Qua ab illarum? nam ita me occursant multae: meminisse haud possum. 
  Milph. Ab illa quae digitos despoliat suos et tuos digitos decorat. 
-nam hunc anulum ab tui cupienti huic detuli, hic &lt;ad te&gt; porro. 
+nam hunc anulum ab tui cupienti huic detuli, hic <ad te> porro. 
  Pyrg. Quid nunc tibi vis, mulier? memora. Milph. Vt quae te cupit,      1050 
      eam ne spernas, 
 quae per tuam nunc vitam vivit: sit necne sit, spes in te uno est. 
@@ -1206,7 +1206,7 @@ tum argenti montes, non massas habet, Aetna mons non aeque altos. ~      1065
 sed amabo, mitte me actutum. Pal. Quin tu huic respondes aliquid, 
 aut facturum aut non facturum? Milph. Quid illam miseram animi excrucias, 
 quae numquam male de te meritast? Pyrg. Iube eampse exire huc ad nos. 
-dic me omnia quae volt facturum. Milph. Facis nunc ut &lt;te&gt; facere      1070 
+dic me omnia quae volt facturum. Milph. Facis nunc ut <te> facere      1070 
      aequom, 
 quom, quae te volt, eandem tu vis, Pal. Non insulsum huic ingenium. 
  Milph. Quomque me oratricem haud sprevisti sistique exorare ex te. 
@@ -1225,13 +1225,13 @@ et pueri annos octingentos vivont. Milph. Vae tibi, nugator.
  Milph. Iam iam sat, amabo, est. sinite abeam, si possum, viva a vobis. 
  Pal. Quin ergo abis, quando responsumst? Milph. Ibo atque illam huc      1085 
      adducam, 
-propter &lt;quam&gt; opera est mihi. numquid vis? Pyrg. Ne magis sim pulcher quam 
+propter <quam> opera est mihi. numquid vis? Pyrg. Ne magis sim pulcher quam 
      sum, 
 ita me mea forma habet sollicitum. Pal. Quid hic nunc stas? quin abis? 
       Milph. Abeo. 
  Pal. Atque adeo, audin [tu]? dicito docte et cordate, ut cor ei saliat— 
 Philocomasio dic, si est istic, domum ut transeat: hunc hic esse. 
- Milph. Hic cum &lt;mea&gt; era est, &lt;hinc&gt; clam nostrum hunc sermonem      1090 
+ Milph. Hic cum <mea> era est, <hinc> clam nostrum hunc sermonem      1090 
      sublegerunt. 
  Pal. Lepide factumst: iam ex sermone hoc gubernabunt doctius porro. 
  Milph. Remorare, abeo.— Pal. Neque te remoror neque tango neque te—taceo. 
@@ -1317,7 +1317,7 @@ oppidum quodvis, si detur, posse expugnari dolis.
 date modo operam. Acr. Id nos ad te, si quid velles, venimus. 
  Pal. Lepide facitis. nunc hanc tibi ego impero provinciam. 
  Acr. Impetrabis, imperator, quod ego potero, quod voles.      1160 
- Pal. Militem lepide, et facete &lt;et&gt; laute ludificarier 
+ Pal. Militem lepide, et facete <et> laute ludificarier 
 volo. Acr. Voluptatem mecastor mi imperas. Pal. Scin quem ad modum? 
  Acr. Nempe ut adsimulem me amore istius differri. Pal. Tenes. 
  Acr. Quasique istius causa amoris ex hoc matrimonio 
@@ -1367,8 +1367,8 @@ a Philocomasio. Pal. Quid tam intus fuisse te dicam diu?
  Pyrg. Numquam ego me tam sensi amari quam nunc ab illa muliere. 
  Pal. Quid iam? Pyrg. Vt multa verba feci, ut lenta materies fuit. 
 verum postremo impetravi ut volui: donavi dedi 
-quae voluit, quae postulavit; &lt;te&gt; quoque &lt;ei&gt; dono dedi.      1205 
- Pal. Etiam me? quo modo ego vivam sine te? Pyrg. Age, animo bono &lt;es&gt;, 
+quae voluit, quae postulavit; <te> quoque <ei> dono dedi.      1205 
+ Pal. Etiam me? quo modo ego vivam sine te? Pyrg. Age, animo bono <es>, 
 eidem ego te illim liberabo. nam si possem ullo modo 
 impetrare ut abiret, ne te abduceret, operam dedi; 
 verum oppressit. Pal. Deos sperabo teque. postremo tamen 
@@ -1400,7 +1400,7 @@ per epistulam aut per nuntium, quasi regem, adiri eum aiunt.      1225
  Pal. Vt tu inclitu's apud mulieres. Pyrg. Patiar, quando ita Venus volt. 
  Acr. Veneri pol habeo gratiam, eandemque et oro et quaeso, 
 ut eius mihi sit copia quem amo quemque expetesso 
-benignusque erga me &lt;ut&gt; siet, quod cupiam ne gravetur.      1230 
+benignusque erga me <ut> siet, quod cupiam ne gravetur.      1230 
  Milph. Spero ita futurum, quamquam illum multae sibi expetessunt: 
 ille illas spernit segregat ab se omnis, extra te unam. 
  Acr. Ergo iste metus me macerat, quod ille fastidiosust, 
@@ -1435,7 +1435,7 @@ nam odore nasum sentiat, si intus sit. Pal. Hariolatur.
      est. 
  Acr. Tene me obsecro. Mil. Quor? Acr. Ne cadam. Milph. Quid ita?      1260 
       Acr. Quia stare nequeo, 
-ita animus per oculos meos &lt;meus&gt; defit. Milph. Militem pol 
+ita animus per oculos meos <meus> defit. Milph. Militem pol 
 tu aspexisti. Acr. Ita. Milph. Non video. ubi est? Acr. Videres pol, si 
      amares. 
  Milph. Non edepol tu illum magis amas, quam ego amem, si per te liceat. 
@@ -1450,7 +1450,7 @@ eram meam eduxi foras. Pyrg. Video. Milph. Iube ergo adire.
 dum te obtuetur, interim linguam oculi praeciderunt. 
  Pyrg. Levandum morbum mulieri video. Mil. Vt tremit atque extimuit, 
 postquam te aspexit. Pyrg. Viri quoque armati idem istuc faciunt, 
-ne tu mirere eius mulierem. sed quid &lt;illa&gt; volt me facere? 
+ne tu mirere eius mulierem. sed quid <illa> volt me facere? 
  Milph. Ad se ut eas: tecum vivere volt atque aetatem exigere.      1275 
  Pyrg. Egon ad illam eam, quae nupta sit? vir eius me deprehendat. 
  Milph. Quin tua causa exegit virum ab se. Pyrg. Qui id facere potuit? 
@@ -1522,7 +1522,7 @@ eam nobilitatem amittendam video. Pyrg. Ne fle. Phil. Non queo,
 quom te video. Pyrg. Habe bonum animum. Phil. Scio ego quid doleat      1325 
      mihi. 
  Pal. Nam nil miror, si libenter, Philocomasium, hic eras, 
-&lt;si&gt; forma huius, mores, virtus, animum attinuere hic tuom, 
+<si> forma huius, mores, virtus, animum attinuere hic tuom, 
 quom ego servos quando aspicio hunc, lacrumo quia diiungimur. 
  Phil. Obsecro licet complecti prius quam proficisco? Pyrg. Licet. 
  Phil. O mi ocule, o mi anime. Pal. Obsecro, tene mulierem,      1330 
@@ -1536,7 +1536,7 @@ non placet. labra ab labellis aufer, nauta, cave malo.      1335
  Plevs. Si magis vis, eam omittam. Pyrg. Nolo, retine. Plevs. At ultro 
      misero. 
  Pyrg. Exite atque ecferte huc intus omnia quae isti dedi. 
- Pal. Etiam nunc saluto te, &lt;Lar&gt; familiaris, prius quam eo. 
+ Pal. Etiam nunc saluto te, <Lar> familiaris, prius quam eo. 
 conservi conservaeque omnis, bene valete et vivite,      1340 
 bene quaeso inter vos dicatis mi med absenti tamen. 
  Pyrg. Age, Palaestrio, bono animo es. Pal. Eheu, nequeo quin fleam, 
@@ -1569,7 +1569,7 @@ si id facies, tum demum scibis, tibi qui bonus sit, qui malus.      1365
 scies: immo hodie me tuom factum faxo post dices magis. 
  Pyrg. Vix reprimor quin te manere iubeam. Pal. Cave istuc feceris: 
 dicent te mendacem nec verum esse, fide nulla esse te, 
-dicent servorum praeter me esse &lt;hic&gt; fidelem neminem.      1370 
+dicent servorum praeter me esse <hic> fidelem neminem.      1370 
 nam si honeste censeam te facere posse, suadeam; 
 verum non potest. cave faxis. Pyr. Abi iam. Pal. Patiar quidquid est. 
  Pyrg. Bene vale igitur. Pal. Ire meliust strenue.— Pyrg. Etiam nunc 
@@ -1609,7 +1609,7 @@ nunc in tumultum ibo: intus clamorem audio.—
 V.i
  
  Periplectomenvs Ducite istum; si non sequitur, rapite sublimen foras, 
-facite inter terram atque caelum ut sit &lt;situs&gt;, discindite.      1395 
+facite inter terram atque caelum ut sit <situs>, discindite.      1395 
  Pyrgopolinices Obsecro hercle, Periplectomene, te. Per. Nequiquam hercle 
      obsecras. 
 vide ut istic tibi sit acutus, Cario, culter probe. 
@@ -1650,7 +1650,7 @@ opsecro vos. Per. Solvite istunc. Pyrg. Gratiam habeo tibi.      1425
 eccos video. Philocomasium iam profecta est? dic mihi. 
  Servvs Iam dudum. Pyrg. Ei mihi. Ser. Magis dicas, si scias quod ego 
      scio. 
-nam ille qui lanam ob oculum habebat &lt;laevom&gt;, nauta non erat.      1430 
+nam ille qui lanam ob oculum habebat <laevom>, nauta non erat.      1430 
  Pyrg. Quis erat igitur? Ser. Philocomasio amator. Pyrg. Qui tu scis? 
       Ser. Scio. 
 nam postquam porta exierunt, nil cessarunt ilico 

@@ -126,7 +126,7 @@ Tricerberum uero canem eius subiciunt pedibus, quod mortalium iurgiorum inuidiae
  
 
  
-Huic quoque etiam tres Furias deseruire dicunt, quarum prima Allecto &lt; secunda Tisiphone, tertia Megera &gt;; Allecto enim Grece inpausabilis dicitur; Tisiphone autem quasi tuton phone, id est istarum vox; Megera autem quasi megale eris, id est magna contentio. Primum est ergo non pausando furiam concipere, secundum est in uoce erumpere, tertium iurgium protelare.
+Huic quoque etiam tres Furias deseruire dicunt, quarum prima Allecto < secunda Tisiphone, tertia Megera >; Allecto enim Grece inpausabilis dicitur; Tisiphone autem quasi tuton phone, id est istarum vox; Megera autem quasi megale eris, id est magna contentio. Primum est ergo non pausando furiam concipere, secundum est in uoce erumpere, tertium iurgium protelare.
  
 
  

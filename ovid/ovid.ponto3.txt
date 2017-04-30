@@ -533,8 +533,8 @@ LIBER TERTIVS
   Rhenus et infectas sanguine portet aquas. 
  Barbara iam capti poscunt insignia reges 
   textaque fortuna diuitiora sua      110 
- &lt; . . . . . . . . . . . . . . . . . 
-  . . . . . . . . . . . . . &gt; 
+ < . . . . . . . . . . . . . . . . . 
+  . . . . . . . . . . . . . > 
  et quae praeterea uirtus inuicta tuorum 
   saepe parata tibi saepe paranda facit. 
  Di, quorum monitu sumus euentura locuti,      115 

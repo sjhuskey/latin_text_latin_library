@@ -151,7 +151,7 @@ Cicero: de Finibus V
  
 
  
-[ 32 ] Quis autem de ipso sapiente aliter existimat, quin, etiam cum decreverit esse moriendum, tamen discessu a suis atque ipsa relinquenda luce moveatur? Maxime autem in hoc quidem genere vis est perspicua naturae, cum et mendicitatem multi perpetiantur, ut vivant, et angantur adpropinquatione mortis confecti homines senectute et ea perferant, quae Philoctetam videmus in fabulis. qui cum cruciaretur non ferendis doloribus, propagabat tamen vitam aucupio, 'sagittarum &lt;ictu&gt; configebat tardus celeres, stans volantis', ut apud Accium est, pennarumque contextu corpori tegumenta faciebat. 
+[ 32 ] Quis autem de ipso sapiente aliter existimat, quin, etiam cum decreverit esse moriendum, tamen discessu a suis atque ipsa relinquenda luce moveatur? Maxime autem in hoc quidem genere vis est perspicua naturae, cum et mendicitatem multi perpetiantur, ut vivant, et angantur adpropinquatione mortis confecti homines senectute et ea perferant, quae Philoctetam videmus in fabulis. qui cum cruciaretur non ferendis doloribus, propagabat tamen vitam aucupio, 'sagittarum <ictu> configebat tardus celeres, stans volantis', ut apud Accium est, pennarumque contextu corpori tegumenta faciebat. 
  
 
  
@@ -195,7 +195,7 @@ Cicero: de Finibus V
  
 
  
- XV . [ 41 ] Cum igitur ea sit, quam exposui, forma naturae, si, ut initio dixi, simul atque ortus esset, se quisque cognosceret iudicareque posset quae vis et totius esset naturae et partium singularum, continuo videret quid esset hoc, quod quaerimus, omnium rerum, quasi expetimus, summum et ultimum nec ulla in re peccare posset. Nunc vero a primo quidem mirabiliter occulta natura est nec perspici nec cognosci potest. Progredientibus autem aetatibus sensim tardeve potius quasi nosmet ipsos cognoscimus. itaque prima illa commendatio, quae a natura nostri facta est nobis, incerta et obscura est, primusque appetitus ille animi tantum agit, ut salvi atque integri esse possimus. Cum autem dispicere coepimus et sentire quid, simus et quid &lt;ab&gt; animantibus ceteris differamus, tum ea sequi incipimus, ad quae nati sumus. 
+ XV . [ 41 ] Cum igitur ea sit, quam exposui, forma naturae, si, ut initio dixi, simul atque ortus esset, se quisque cognosceret iudicareque posset quae vis et totius esset naturae et partium singularum, continuo videret quid esset hoc, quod quaerimus, omnium rerum, quasi expetimus, summum et ultimum nec ulla in re peccare posset. Nunc vero a primo quidem mirabiliter occulta natura est nec perspici nec cognosci potest. Progredientibus autem aetatibus sensim tardeve potius quasi nosmet ipsos cognoscimus. itaque prima illa commendatio, quae a natura nostri facta est nobis, incerta et obscura est, primusque appetitus ille animi tantum agit, ut salvi atque integri esse possimus. Cum autem dispicere coepimus et sentire quid, simus et quid <ab> animantibus ceteris differamus, tum ea sequi incipimus, ad quae nati sumus. 
  
 
  
@@ -239,11 +239,11 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
- XIX . [ 50 ] Quem enim ardorem studii censetis fuisse in Archimede, qui dum in pulvere quaedam describit attentius, ne patriam &lt;quidem&gt; captam esse senserit? quantum Aristoxeni ingenium consumptum videmus in musicis? quo studio Aristophanem putamus aetatem in litteris duxisse? quid de Pythagora? quid de Platone aut de Democrito loquar? a quibus propter discendi cupiditatem videmus ultimas terras esse peragratas. quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.  Atque hoc loco, qui propter animi voluptates coli dicunt ea studia, quae dixi, non intellegunt idcirco esse ea propter se expetenda, quod nulla utilitate obiecta delectentur animi atque ipsa scientia, etiamsi incommodatura sit, gaudeant. 
+ XIX . [ 50 ] Quem enim ardorem studii censetis fuisse in Archimede, qui dum in pulvere quaedam describit attentius, ne patriam <quidem> captam esse senserit? quantum Aristoxeni ingenium consumptum videmus in musicis? quo studio Aristophanem putamus aetatem in litteris duxisse? quid de Pythagora? quid de Platone aut de Democrito loquar? a quibus propter discendi cupiditatem videmus ultimas terras esse peragratas. quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.  Atque hoc loco, qui propter animi voluptates coli dicunt ea studia, quae dixi, non intellegunt idcirco esse ea propter se expetenda, quod nulla utilitate obiecta delectentur animi atque ipsa scientia, etiamsi incommodatura sit, gaudeant. 
  
 
  
-[ 51 ] Sed quid attinet de rebus tam apertis plura requirere? Ipsi enim quaeramus a nobis stellarum motus contemplationesque rerum caelestium eorumque omnium, quae naturae obscuritate occultantur, cognitiones quem ad modum nos moveant, et quid historia delectet, quam solemus persequi usque ad extremum, &lt;cum&gt; praetermissa repetimus, inchoata persequimur. Nec vero sum nescius esse utilitatem in historia, non modo voluptatem. 
+[ 51 ] Sed quid attinet de rebus tam apertis plura requirere? Ipsi enim quaeramus a nobis stellarum motus contemplationesque rerum caelestium eorumque omnium, quae naturae obscuritate occultantur, cognitiones quem ad modum nos moveant, et quid historia delectet, quam solemus persequi usque ad extremum, <cum> praetermissa repetimus, inchoata persequimur. Nec vero sum nescius esse utilitatem in historia, non modo voluptatem. 
  
 
  
@@ -287,7 +287,7 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
-[ 62 ] Sed haec in pueris; expressa vero in iis aetatibus, quae iam confirmatae sunt. quis est tam dissimile homini. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Quis est, qui non oderit libidinosam, protervam adolescentiam? Quis contra in illa aetate pudorem, constantiam, etiamsi sua nihil intersit, non tamen diligat? Quis Pullum Numitorium Fregellanum, proditorem, quamquam rei publicae nostrae profuit, non odit? Quis &suae&gt; urbis conservatorem Codrum, quis Erechthei filias non maxime laudat? Cui Tubuli nomen odio non est? Quis Aristidem non mortuum diligit? an obliviscimur, quantopere in audiendo in legendoque moveamur, cum pie, cum amice, cum magno animo aliquid factum cognoscimus? 
+[ 62 ] Sed haec in pueris; expressa vero in iis aetatibus, quae iam confirmatae sunt. quis est tam dissimile homini. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Quis est, qui non oderit libidinosam, protervam adolescentiam? Quis contra in illa aetate pudorem, constantiam, etiamsi sua nihil intersit, non tamen diligat? Quis Pullum Numitorium Fregellanum, proditorem, quamquam rei publicae nostrae profuit, non odit? Quis &suae> urbis conservatorem Codrum, quis Erechthei filias non maxime laudat? Cui Tubuli nomen odio non est? Quis Aristidem non mortuum diligit? an obliviscimur, quantopere in audiendo in legendoque moveamur, cum pie, cum amice, cum magno animo aliquid factum cognoscimus? 
  
 
  
@@ -327,7 +327,7 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
-[ 72 ] Atque hoc ut vere dicitur, parva esse ad beate vivendum momenta ista corporis commodorum, sic nimis violentum est nulla esse dicere; qui enim sic disputant, obliti mihi videntur, quae ipsi fecerint principia naturae. Tribuendum est igitur his aliquid, dum modo quantum tribuendum sit intellegas. Est enim philosophi non tam gloriosa quam vera quaerentis nec pro nihilo putare ea, quae secundum naturam illi ipsi gloriosi esse fatebantur, et videre [esse] &lt;esse&gt; tantam vim virtutis tantamque, ut ita dicam, auctoritatem honestatis, ut reliqua non illa quidem nulla, sed ita parva sint, ut nulla esse videantur. Haec est nec omnia spernentis praeter virtutem et virtutem ipsam suis laudibus amplificantis oratio, denique haec est undique completa et perfecta explicatio summi boni. Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam. 
+[ 72 ] Atque hoc ut vere dicitur, parva esse ad beate vivendum momenta ista corporis commodorum, sic nimis violentum est nulla esse dicere; qui enim sic disputant, obliti mihi videntur, quae ipsi fecerint principia naturae. Tribuendum est igitur his aliquid, dum modo quantum tribuendum sit intellegas. Est enim philosophi non tam gloriosa quam vera quaerentis nec pro nihilo putare ea, quae secundum naturam illi ipsi gloriosi esse fatebantur, et videre [esse] <esse> tantam vim virtutis tantamque, ut ita dicam, auctoritatem honestatis, ut reliqua non illa quidem nulla, sed ita parva sint, ut nulla esse videantur. Haec est nec omnia spernentis praeter virtutem et virtutem ipsam suis laudibus amplificantis oratio, denique haec est undique completa et perfecta explicatio summi boni. Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam. 
  
 
  
@@ -335,7 +335,7 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
-[ 74 ] Quin etiam ipsi voluptarii deverticula quaerunt et virtutes habent in ore totos dies voluptatemque primo dumtaxat expeti dicunt, deinde consuetudine quasi alteram quandam naturam effici, qua inpulsi multa faciant nullam quaerentes voluptatem. Stoici restant, ei quidem non unam aliquam aut alteram &lt;rem&gt; a nobis, sed totam ad se nostram philosophiam transtulerunt; atque ut reliqui fures earum rerum, quas ceperunt, signa commutant, sic illi, ut sententiis nostris pro suis uterentur, nomina tamquam rerum notas mutaverunt. Ita relinquitur sola haec disciplina digna studiosis ingenuarum artium, digna eruditis, digna claris viris, digna principibus, digna regibus. 
+[ 74 ] Quin etiam ipsi voluptarii deverticula quaerunt et virtutes habent in ore totos dies voluptatemque primo dumtaxat expeti dicunt, deinde consuetudine quasi alteram quandam naturam effici, qua inpulsi multa faciant nullam quaerentes voluptatem. Stoici restant, ei quidem non unam aliquam aut alteram <rem> a nobis, sed totam ad se nostram philosophiam transtulerunt; atque ut reliqui fures earum rerum, quas ceperunt, signa commutant, sic illi, ut sententiis nostris pro suis uterentur, nomina tamquam rerum notas mutaverunt. Ita relinquitur sola haec disciplina digna studiosis ingenuarum artium, digna eruditis, digna claris viris, digna principibus, digna regibus. 
  
 
  
@@ -355,11 +355,11 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
- XXVII . [ 79 ] Respondebo me non quaerere, inquam, hoc tempore quid virtus efficere possit, sed quid constanter dicatur, quid ipsum a se dissentiat.  Quo igitur, inquit, modo?  Quia, cum a Zenone, inquam, hoc magnifice tamquam ex oraculo editur: 'Virtus ad beate vivendum se ipsa contenta est', &lt;et&gt; Quare? inquit, respondet: 'Quia, nisi quod honestum est, nullum est aliud bonum! Non quaero iam verumne sit; illud dico, ea, quae dicat, praeclare inter se cohaerere. 
+ XXVII . [ 79 ] Respondebo me non quaerere, inquam, hoc tempore quid virtus efficere possit, sed quid constanter dicatur, quid ipsum a se dissentiat.  Quo igitur, inquit, modo?  Quia, cum a Zenone, inquam, hoc magnifice tamquam ex oraculo editur: 'Virtus ad beate vivendum se ipsa contenta est', <et> Quare? inquit, respondet: 'Quia, nisi quod honestum est, nullum est aliud bonum! Non quaero iam verumne sit; illud dico, ea, quae dicat, praeclare inter se cohaerere. 
  
 
  
-[ 80 ] Dixerit hoc idem Epicurus, semper beatum esse sapientem—quod quidem solet ebullire non numquam —, quem quidem, cum summis doloribus conficiatur, ait dicturum: 'Quam suave est! quam nihil curo!'; non pugnem cum homine, cur tantum habeat in natura boni; illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit. Eadem nunc mea adversum te oratio est. dicis eadem omnia et bona et mala, quae quidem dicunt ii, qui numquam philosophum pictum, ut dicitur, viderunt: valitudinem, vires, staturam, formam, integritatem unguiculorum omnium &lt;bona&gt;, deformitatem, morbum, debilitatem mala. 
+[ 80 ] Dixerit hoc idem Epicurus, semper beatum esse sapientem—quod quidem solet ebullire non numquam —, quem quidem, cum summis doloribus conficiatur, ait dicturum: 'Quam suave est! quam nihil curo!'; non pugnem cum homine, cur tantum habeat in natura boni; illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit. Eadem nunc mea adversum te oratio est. dicis eadem omnia et bona et mala, quae quidem dicunt ii, qui numquam philosophum pictum, ut dicitur, viderunt: valitudinem, vires, staturam, formam, integritatem unguiculorum omnium <bona>, deformitatem, morbum, debilitatem mala. 
  
 
  
@@ -371,7 +371,7 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
- XXVIII . [ 83 ] Quid me istud rogas? inquam. Stoicos roga.  Quid igitur, inquit, eos responsuros putas?  Nihilo beatiorem esse Metellum quam Regulum.  Inde igitur, inquit, ordiendum est.  Tamen a proposito, inquam, aberramus. Non enim quaero quid verum, sed quid cuique dicendum sit. Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. In virtute enim sola et in ipso honesto cum sit bonum positum, cumque nec virtus, ut placet illis, nec honestum crescat, idque bonum solum sit, quo qui potiatur, necesse est beatus sit, cum id augeri non possit, in quo uno positum est beatum esse, qui potest esse quisquam alius alio beatior? videsne, ut haec concinant? Et hercule—fatendum est enim, quod sentio —mirabilis est apud illos contextus rerum. Respondent extrema primis, media utrisque, omnia omnibus. Quid sequatur, quid repugnet, vident. Ut in geometria, prima si dederis, danda sunt omnia. Concede nihil esse bonum, nisi quod bonestum sit: concedendum est in virtute &lt;esse&gt; positam beatam vitam vide rursus retro: dato hoc dandum erit illud. 
+ XXVIII . [ 83 ] Quid me istud rogas? inquam. Stoicos roga.  Quid igitur, inquit, eos responsuros putas?  Nihilo beatiorem esse Metellum quam Regulum.  Inde igitur, inquit, ordiendum est.  Tamen a proposito, inquam, aberramus. Non enim quaero quid verum, sed quid cuique dicendum sit. Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. In virtute enim sola et in ipso honesto cum sit bonum positum, cumque nec virtus, ut placet illis, nec honestum crescat, idque bonum solum sit, quo qui potiatur, necesse est beatus sit, cum id augeri non possit, in quo uno positum est beatum esse, qui potest esse quisquam alius alio beatior? videsne, ut haec concinant? Et hercule—fatendum est enim, quod sentio —mirabilis est apud illos contextus rerum. Respondent extrema primis, media utrisque, omnia omnibus. Quid sequatur, quid repugnet, vident. Ut in geometria, prima si dederis, danda sunt omnia. Concede nihil esse bonum, nisi quod bonestum sit: concedendum est in virtute <esse> positam beatam vitam vide rursus retro: dato hoc dandum erit illud. 
  
 
  
@@ -419,7 +419,7 @@ O decus Argolicum, quin puppim flectis, Ulixes, Auribus ut nostros possis agnosc
  
 
  
- XXXII . [ 95 ] Haec igitur est nostra ratio, quae tibi videtur inconstans, cum propter virtutis caelestem quandam et divinam tantamque praestantiam, ut, ubi virtus sit resque magnae &lt;et&gt;summe laudabiles virtute gestae, ibi esse miseria et aerumna non possit, tamen labor possit, possit molestia, non dubitem dicere omnes sapientes esse semper beatos, sed tamen fieri posse, ut sit alius alio beatior. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit. 
+ XXXII . [ 95 ] Haec igitur est nostra ratio, quae tibi videtur inconstans, cum propter virtutis caelestem quandam et divinam tantamque praestantiam, ut, ubi virtus sit resque magnae <et>summe laudabiles virtute gestae, ibi esse miseria et aerumna non possit, tamen labor possit, possit molestia, non dubitem dicere omnes sapientes esse semper beatos, sed tamen fieri posse, ut sit alius alio beatior. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit. 
  
 
  

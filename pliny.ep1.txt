@@ -16,7 +16,7 @@ Pliny the Younger
  
 
  
-C. PLINIUS SEPTICIO &lt;CLARO&gt; SUO S.
+C. PLINIUS SEPTICIO <CLARO> SUO S.
  
 
  
@@ -28,7 +28,7 @@ C. PLINIUS SEPTICIO &lt;CLARO&gt; SUO S.
  
 
  
-C. PLINIUS &lt;MATURO&gt; ARRIANO SUO S.
+C. PLINIUS <MATURO> ARRIANO SUO S.
  
 
  

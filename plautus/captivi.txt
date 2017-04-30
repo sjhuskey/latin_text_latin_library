@@ -130,7 +130,7 @@ Plautus: Captivi
  scio absurde dictum hoc derisores dicere,
  at ego aio recte. nam scortum in convivio
  sibi amator, talos quom iacit, scortum invocat.
- estne invocatum an non &lt;est? est&gt; planissume;
+ estne invocatum an non <est? est> planissume;
  verum hercle vero nos parasiti planius,      75 
  quos numquam quisquam neque vocat neque invocat.
  quasi mures semper edimus alienum cibum;
@@ -160,7 +160,7 @@ Plautus: Captivi
  aliquem invenire, suom qui mutet filium.
  quod quidem ego nimis quam cupio *** ut impetret;
  nam ni illum recipit, nihil est quo me recipiam.
- &lt;nam> nulla est spes iuventutis, sese omnis amant;
+ <nam> nulla est spes iuventutis, sese omnis amant;
  ille demum antiquis est adulescens moribus,      105 
  cuius numquam voltum tranquillavi gratiis.
  condigne pater est eius moratus moribus.
@@ -227,11 +227,11 @@ Plautus: Captivi
  hic qualis imperator nunc privatus est.
  HEG. Habe modo bonum animum, nam illum confido domum
  in his diebus me reconciliassere.
- nam eccum hic captivom adulescentem &lt;intus> Aleum,
+ nam eccum hic captivom adulescentem <intus> Aleum,
  prognatum genere summo et summis ditiis:      170 
  hoc illum me mutare confido pote.
  ERG. Ita di deaeque faxint. sed num quo foras
- vocatus &lt;es&gt; ad cenam? HEG. Nusquam, quod sciam.
+ vocatus <es> ad cenam? HEG. Nusquam, quod sciam.
  sed quid tu id quaeris? ERG. Quia mi est natalis dies;
  propterea te vocari ad te ad cenam volo.      175 
  HEG. Facete dictum. sed si pauxillo potes
@@ -304,7 +304,7 @@ Apage, haud
  tanta incepta res est: haud somniculose hoc
  agendum est. TYND. Ero ut me voles esse. PHIL. Spero.
  TYND. Nam tu nunc vides pro tuo caro capite
- carum offerre &lt;me> meum caput vilitati.      230 
+ carum offerre <me> meum caput vilitati.      230 
  PHIL. Scio. TYND. At scire memento, quando id quod voles
 habebis;
  nam fere maxima pars morem hunc homines habent: quod sibi volunt,
@@ -365,7 +365,7 @@ ab summis viris.
  quid divitiae, suntne opimae? PHIL. Vnde excoquat sebum senex.
  HEG. Quid pater, vivitne? PHIL. Vivom, cum inde abimus,
 liquimus;
- nunc vivat&lt;ne> necne, id Orcum scire oportet scilicet.
+ nunc vivat<ne> necne, id Orcum scire oportet scilicet.
  TYND. Salva res est, philosophatur quoque iam, non mendax modo
 est.
  HEG. Quid erat ei nomen? PHIL. Thensaurochrysonicochrysides.      285 
@@ -380,9 +380,9 @@ edepol pertinax;
  HEG. Sequere hac me igitur. eadem ego ex hoc quae volo exquaesivero.
  Philocrates, hic fecit, hominem frugi ut facere oportuit.
  nam ego ex hoc quo genere gnatus sis scio, hic fassust mihi;      295 
- haec tu eadem si confiteri vis, tua &lt;ex> re feceris:
+ haec tu eadem si confiteri vis, tua <ex> re feceris:
  quae tamen scio scire me ex hoc. TYND. Fecit officium hic suom,
- cum tibi est confessus verum, quam&lt;quam> volui sedulo
+ cum tibi est confessus verum, quam<quam> volui sedulo
  meam nobilitatem occultare et genus et divitias meas,
  Hegio; nunc quando patriam et libertatem perdidi,      300 
  non ego istunc me potius quam te metuere aequom censeo.
@@ -515,9 +515,9 @@ est mihi.
  merito tibi ea evenerunt a me; nam nunc, Philocrates,      415 
  si ego item memorem quae me erga multa fecisti bene,
  nox diem adimat; nam quasi servos meus esses, nihilo setius
- &lt;tu> mihi obsequiosus semper fuisti. HEG. Di vostram fidem,
+ <tu> mihi obsequiosus semper fuisti. HEG. Di vostram fidem,
  hominum ingenium liberale. ut lacrumas excutiunt mihi.
- videas corde amare inter se. quantis &lt;lautus> laudibus      420 
+ videas corde amare inter se. quantis <lautus> laudibus      420 
  suom erum servos collaudavit. TYND. Pol istic me haud centesimam
  partem laudat quam ipse meritust ut laudetur laudibus.
  HEG. Ergo cum optume fecisti, nunc adest occasio
@@ -557,7 +557,7 @@ Edepol rem meam
  expedivi ex servitute filium, si dis placet.
  at etiam dubitavi, hos homines emerem an non emerem, diu.      455 
  servate istum sultis intus, servi, ne quoquam pedem
- ecferat sine custodela. &lt;iam> ego apparebo domi;
+ ecferat sine custodela. <iam> ego apparebo domi;
  ad fratrem modo captivos alios inviso meos,
  eadem percontabor, ecquis hunc adulescentem noverit.
  sequere tu, te ut amittam; ei rei primum praevorti volo.—      460 
@@ -599,7 +599,7 @@ id aegre invenit,
  saltem, si non arriderent, dentes ut restringerent.
  abeo ab illis, postquam video me sic ludificarier;
  pergo ad alios, venio ad alios, deinde ad alios: una res.
- omnes &lt;de> compecto rem agunt, quasi in Velabro olearii.
+ omnes <de> compecto rem agunt, quasi in Velabro olearii.
  nunc redeo inde, quoniam me ibi video ludificarier.      490 
  item alii parasiti frustra obambulabant in foro.
  nunc barbarica lege certumst ius meum omne persequi:
@@ -708,10 +708,10 @@ Plus quidem
 Et tu quidem
  servos es, liber fuisti, et ego me confido fore,      575 
  si huius huc reconciliasso in libertatem filium.
- ARIST. Quid ais, furcifer? tun te gnatum &lt;esse> memoras liberum?
+ ARIST. Quid ais, furcifer? tun te gnatum <esse> memoras liberum?
  TYND. Non equidem me Liberum, sed Philocratem esse aio. A. 
 Quid est?
- ut scelestus, Hegio, nunc iste &lt;te> ludos facit.
+ ut scelestus, Hegio, nunc iste <te> ludos facit.
  nam is est servos ipse, neque praeter se umquam ei servos fuit.      580 
  TYND. Quia tute ipse eges in patria nec tibi qui vivas domist,
  omnis inveniri similis tui vis; non mirum facis:
@@ -779,7 +779,7 @@ nugas agit.
  ARIST. Non fuit, neque ego istuc nomen umquam audivi ante hunc
 diem.
  Philocrati Theodoromedes fuit pater. TYND. Pereo probe.      635 
- quin quiescis? &lt;i> dierectum cor meum, ac suspende te.
+ quin quiescis? <i> dierectum cor meum, ac suspende te.
  tu sussultas, ego miser vix asto prae formidine.
  HEG. Satin istuc mihi exquisitum est, fuisse hunc servom in
 Alide
@@ -829,14 +829,14 @@ compedes,
  illum esse servom credidi, te liberum;      675 
  ita vosmet aiebatis itaque nomina
  inter vos permutastis. TYND. Fateor, omnia
- facta esse ita ut &lt;tu> dicis, et fallaciis
+ facta esse ita ut <tu> dicis, et fallaciis
  abiisse eum abs te mea opera atque astutia;
  an, obsecro hercle te, id nunc suscenses mihi?      680 
  HEG. At cum cruciatu maxumo id factumst tuo.
  TYND. Dum ne ob male facta, peream, parvi aestumo.
  si ego hic peribo, ast ille ut dixit non redit,
  at erit mi hoc factum mortuo memorabile,
- &lt;me> meum erum captum ex servitute atque hostibus      685 
+ <me> meum erum captum ex servitute atque hostibus      685 
  reducem fecisse liberum in patriam ad patrem,
  meumque potius me caput periculo
  praeoptavisse, quam is periret, ponere.
@@ -871,7 +871,7 @@ compedes,
  TYND. Quid? tu una nocte postulavisti et die
  recens captum hominem, nuperum novicium,
  te perdocere ut melius consulerem tibi,
- quam illi, quicum una &lt;a> puero aetatem exegeram?      720 
+ quam illi, quicum una <a> puero aetatem exegeram?      720 
  HEG. Ergo ab eo petito gratiam istam. ducite,
  ubi ponderosas crassas capiat compedes.
  inde ibis porro in latomias lapidarias.
@@ -947,7 +947,7 @@ compedes,
  tanto mi aegritudo auctior est in animo.
  ad illum modum sublitum os esse mi hodie!
  neque id perspicere quivi.
- quod cum scibitur, &lt;tum> per urbem inridebor.      785 
+ quod cum scibitur, <tum> per urbem inridebor.      785 
  cum extemplo ad forum advenero, omnes loquentur:
  'hic illest senex doctus, quoi verba data sunt.'
  sed Ergasilus estne hic, procul quem video?
@@ -990,9 +990,9 @@ compedes,
  ERG. Non ego nunc parasitus sum, sed regum rex regalior,      825 
  tantus ventri commeatus meo adest in portu cibus.
  sed ego cesso hunc Hegionem onerare laetitia senem,
- quo homine &lt;hominum> adaeque nemo vivit fortunatior?
+ quo homine <hominum> adaeque nemo vivit fortunatior?
  HEG. Quae illaec est laetitia, quam illic laetus largitur mihi?
- ERG. Heus ubi estis? ecquis &lt;hic est? ecquis> hoc aperit
+ ERG. Heus ubi estis? ecquis <hic est? ecquis> hoc aperit
 ostium?      830 
  H. Hic homo ad cenam recipit se ad me. E. Aperite hasce
 ambas fores
@@ -1030,7 +1030,7 @@ ophthalmiam,      850
  HEG. Nec nihil hodie nec multo plus tu hic edes, ne frustra
 sis.
  proin tu tui cottidiani victi ventrem ad me afferas.      855 
- ERG. Quin ita faciam, ut &lt;tu>te cupias facere sumptum, etsi
+ ERG. Quin ita faciam, ut <tu>te cupias facere sumptum, etsi
 ego vetem.
  H. Egone? E. Tune. H. Tum tu mi igitur erus es.
  E. 
@@ -1112,7 +1112,7 @@ istud? H. Spondeo.
  PVER Diespiter te dique, Ergasile, perdant et ventrem tuom,
  parasitosque omnis, et qui posthac cenam parasitis dabit.      910 
  clades calamitasque, intemperies modo in nostram advenit domum.
- quasi lupus esuriens &lt;ille> metui ne in me faceret impetum.
+ quasi lupus esuriens <ille> metui ne in me faceret impetum.
  ubi * * * impetum      912a 
  nimisque hercle ego illum male formidabam, ita frendebat dentibus.
  adveniens deturbavit totum cum carne carnarium:
@@ -1173,19 +1173,19 @@ condidi,
  HEG. Age tu illuc procede, bone vir, lepidum mancupium meum.
  STALAGMVS Quid me oportet facere, ubi tu talis vir falsum autumas?      955 
  fui ego bellus, lepidus: bonus vir numquam, neque frugi bonae,
- neque ero umquam, ne &lt;erres>: spem ponas me bonae frugi fore.
+ neque ero umquam, ne <erres>: spem ponas me bonae frugi fore.
  HEG. Propemodum ubi loci fortunae tuae sint facile intellegis.
  si eris verax, tua ex re, facies ex mala meliusculam.
- recte et vera loquere, sed neque vere neque &lt;tu> recte adhuc      960 
+ recte et vera loquere, sed neque vere neque <tu> recte adhuc      960 
  fecisti umquam. STAL. Quod ego fatear, credin pudeat cum autumes?
  HEG. At ego faciam ut pudeat, nam in ruborem te totum dabo.
  STAL. Eia, credo ego imperito plagas minitaris mihi.
- tandem ista aufer &lt;ac> dic quid fers, ut feras hinc quod petis.
+ tandem ista aufer <ac> dic quid fers, ut feras hinc quod petis.
  HEG. Satis facundu's. sed iam fieri dicta compendi volo.      965 
  STAL. Vt vis fiat. HEG. Bene morigerus fuit puer, nunc
 non decet.
  hoc agamus. iam animum advorte ac mihi quae dicam edissere.
- [si eris verax, &lt;ex> tuis rebus feceris meliusculas.]
+ [si eris verax, <ex> tuis rebus feceris meliusculas.]
  STAL. Nugae istaec sunt. non me censes scire quid dignus siem?
  HEG. At ea subterfugere potis es pauca, si non omnia.      970 
  STAL. Pauca effugiam, scio; nam multa evenient, et merito meo,
@@ -1218,9 +1218,9 @@ ceterum.
 tuos filius,      990 
  ut quidem hic argumenta loquitur. nam is mecum a puero puer
  bene pudiceque educatust usque ad adulescentiam.
- HEG. Et miser sum et fortunatus, si &lt;vos> vera dicitis;
+ HEG. Et miser sum et fortunatus, si <vos> vera dicitis;
  eo miser sum quia male illi feci, si gnatust meus.
- eheu, quom ego plus minusve feci quam &lt;me> aequom fuit.      995 
+ eheu, quom ego plus minusve feci quam <me> aequom fuit.      995 
  quod male feci crucior; modo si infectum fieri possiet.
  sed eccum incedit huc ornatus haud ex suis virtutibus. 
 
@@ -1253,9 +1253,9 @@ et recte et bene.
 hinc te abstulit.
  TYND. At ego hunc grandis grandem natu ob furtum ad carnificem
 dabo.
- PHILOCR. Meritus est. T. Ergo edepol &lt;merito> meritam
+ PHILOCR. Meritus est. T. Ergo edepol <merito> meritam
 mercedem dabo.      1020 
- sed &lt;tu> dic oro: pater meus tune es? HEG. Ego sum, gnate
+ sed <tu> dic oro: pater meus tune es? HEG. Ego sum, gnate
 mi.
  TYND. Nunc demum in memoriam redeo, cum mecum recogito.]
  nunc edepol demum in memoriam regredior, audisse me

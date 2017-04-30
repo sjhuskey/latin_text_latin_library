@@ -1107,7 +1107,7 @@ agere in ministras, confitens asta reus.
  
  
 
- &lt;Actus IV, scena 6&gt;
+ <Actus IV, scena 6>
  
  
 
@@ -1481,7 +1481,7 @@ Poppaea mihi dum luceat, coelum occidat.  3100
  
  
 
- Chorus &lt;4&gt;
+ Chorus <4>
  
 
  NEMESIS 

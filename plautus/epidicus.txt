@@ -331,12 +331,12 @@ Ego sum, Periphanes.
  AP. Et ego Apoecides sum. EP. Et ego quidem sum Epidicus.
 sed, ere, optuma 
 vos video opportunitate ambo advenire. PER. Quid rei est? 
- EP. Mane &lt;dum>, sine respirem quaeso. PER. Immo adquiesce.
+ EP. Mane <dum>, sine respirem quaeso. PER. Immo adquiesce.
  EP. 
 Animo malest. 
  A. Recipe anhelitum. P. Clementer, requiesce. E. 
 Animum advortite.     205 
-a legione omnes remissi sunt domum Thebis. AP. &lt;Quis hoc> 
+a legione omnes remissi sunt domum Thebis. AP. <Quis hoc> 
 dicit factum? E. Ego ita factum esse dico. P. Scin tu
 istuc? E. Scio. 
  PER. Qui tu scis? EP. Quia ego ire vidi milites plenis
@@ -429,7 +429,7 @@ tua
 secus sententia. PER. Immo docte. EP. Quid tua autem,
 Apoecides?      280 
  AP. Quid ego iam nisi te commentum nimis astute intellego? 
- EP. Iam &lt;simul> igitur amota ei erit omnis consultatio 
+ EP. Iam <simul> igitur amota ei erit omnis consultatio 
 nuptiarum, ne gravetur quod velis. PER. Vive sapis, 
 et placet. EP. Tum tu igitur calide quidquid acturu's age. 
  PER. Rem hercle loquere. EP. Et repperi, haec te qui
@@ -479,7 +479,7 @@ sed me una turbat res ratioque, Apoecidi
 quam ostendam fidicinam aliquam conducticiam. 
 atque id quoque habeo: mane me iussit senex 
 conducere aliquam fidicinam sibi huc domum,      315 
-&lt;quae>, dum rem dinam faceret, cantaret sibi; 
+<quae>, dum rem dinam faceret, cantaret sibi; 
 ea conducetur atque ei praemonstrabitur 
 quo pacto fiat subdola adversus senem. 
 ibo intro, argentum accipiam ab damnoso sene.
@@ -524,7 +524,7 @@ ne quid tibi hinc in spem referas, oppido hoc pollinctum est;
 crede modo mihi: sic ego ago, sic egerunt nostri.         340 
 pro di immortales, mihi hunc diem dedistis luculentum, 
 ut facilem atque impetrabilem! sed ego hinc migrare cesso, 
-ut importem in coloniam hunc &lt;meo> auspicio commeatum? 
+ut importem in coloniam hunc <meo> auspicio commeatum? 
 mihi cesso, cum sto. sed quid hoc? ante aedis duo sodales, 
 erum et Chaeribulum, conspicor. quid hic agitis? accipe hoc sis.      345 
  STR. Quantum hic inest? EP. Quantum sat est, et plus
@@ -542,7 +542,7 @@ inveni: nam ita suasi seni atque hanc habui orationem          355
 * * *             355a 
 ut cum rediisses ne tibi eius copia esset. STR. Euge. 
 * * *           356a 
- (EP.) Ea iam domist pro filia. STR. &lt;Iam> teneo. EP. 
+ (EP.) Ea iam domist pro filia. STR. <Iam> teneo. EP. 
 Nunc cautorem 
 dedit mihi ad hanc rem Apoecidem, is apud forum manet me, 
 [quasique amaret] caveat. STR. Haud male. EP. Iam ipse
@@ -566,7 +566,7 @@ eam ducet simul Apoecides ad tuom patrem. STR. Vt parate.
  EP. Eam permeditatam, meis dolis astutiisque onustam       375 
 mittam. sed nimis longum loquor, diu me estis demorati. 
 haec scitis iam ut futura sint. abeo. STR. Bene ambulato. 
- CHAER. Nimis doctus ille &lt;est> ad male faciendum. STR. 
+ CHAER. Nimis doctus ille <est> ad male faciendum. STR. 
 Me equidem certo 
 servavit consiliis suis. CHAER. Abeamus intro hinc ad me. 
  STR. Atque aliquanto lubentius quam abs te sum egressus intus;      380 
@@ -606,7 +606,7 @@ iam dudum se alius tuom vidisse hic filium:
 hanc edepol rem apparabat. PER. Planum hercle hoc quidem est. 
  AP. Ne tu habes servom graphicum et quantivis preti,       410 
 non carust auro contra. ut ille fidicinam 
-fecit &lt;sese ut> nesciret esse emptam tibi! 
+fecit <sese ut> nesciret esse emptam tibi! 
 ita ridibundam atque hilaram huc adduxit simul. 
  PER. Mirum hoc qui potuit fieri. AP. Te pro filio 
 facturum dixit rem esse divinam domi,          415 
@@ -625,7 +625,7 @@ ego si allegavissem aliquem ad hoc negotium
 minus hominem doctum minusque ad hanc rem callidum, 
 os sublitum esset, itaque me albis dentibus 
 meus derideret filius meritissumo. 430 
-sed quis hic est quem &lt;ego> huc advenientem conspicor,    435 
+sed quis hic est quem <ego> huc advenientem conspicor,    435 
 suam qui undantem chlamydem quassando facit?
  
 
@@ -775,7 +775,7 @@ novin ego te? PHIL. Si ego te novi, animum inducam, ut tu noveris.     550
  PER. Vbi te visitavi? PHIL. Inique iniuriu's. PER. 
 Quid iam? PHIL. Quia 
 tuae memoriae interpretari me aequom censes. PER. Commode 
-fabulata es. PH. Mira memoras. &lt; P. Te memini >— PH. 
+fabulata es. PH. Mira memoras. < P. Te memini >— PH. 
 Em istuc rectius. 
  P. Meministin — PH. Memini id quod memini. P. 
 At in Epidauro — PH. Ah, guttula 
@@ -793,8 +793,8 @@ hostium est potita. PER. Habe animum lenem et tranquillum. tace.
 domi meae eccam salvam et sanam. nam postquam audivi ilico 
 ex meo servo, illam esse captam, continuo argentum dedi, 
 ut emeretur. ille eam rem adeo sobrie et frugaliter        565 
-accuravit, ut&lt;ut > ad alias res est impense inprobus. 
- PHIL. Fac videam, si mea, si salva &lt;mihi sit>. PE. 
+accuravit, ut<ut > ad alias res est impense inprobus. 
+ PHIL. Fac videam, si mea, si salva <mihi sit>. PE. 
 Eho, istinc, Canthara, 
 iube Telestidem huc prodire filiam ante aedis meam, 
 ut suam videat matrem. PHIL. Remigrat animus nunc demum mihi.
@@ -842,7 +842,7 @@ Epidicus mihi fuit magister. PER. Perii, plaustrum perculi.
 te umquam audivero 
 me patrem vocare, vitam tuam ego interimam. ACR. Non voco. 
 ubi voles pater esse, ibi esto; ubi noles, ne fueris pater.         595 
- PHIL. Quid, &lt;si> ob eam rem hanc emisti, quia tuam gnatam
+ PHIL. Quid, <si> ob eam rem hanc emisti, quia tuam gnatam
 es ratus, 
 quibus de signis agnoscebas? PER. Nullis. PHIL. Qua re
 filiam 
@@ -869,7 +869,7 @@ si invenio, exitiabilem ego illi faciam hunc ut fiat diem.
  V.i 
  STRATIPPOCLES Male morigerus mi est danista, qui a me argentum
 non petit 
-neque illam adducit quae &lt;empta> ex praedast. sed eccum incedit
+neque illam adducit quae <empta> ex praedast. sed eccum incedit
 Epidicus. 
 quid illuc est quod illi caperrat frons severitudine? 
  EPIDICVS Si undecim deos praeter sese secum adducat Iuppiter,      610 
@@ -900,7 +900,7 @@ qui perhibetur prius venisset quam tu advenisti mihi.
  DANISTA Haec edepol remorata med est. STR. Siquidem istius
 gratia 
 id remoratu's quod ista voluit, nimium advenisti cito.         630 
- DAN. Age age, absolve &lt;me> atque argentum numera, ne comites
+ DAN. Age age, absolve <me> atque argentum numera, ne comites
 morer. 
  ST. Pernumeratumst. DA .Tene cruminam: huc inde. ST. 
 Sapienter venis. 
@@ -929,7 +929,7 @@ siquid erit dubium, immutabo. DAN. Bene fecisti, bene vale.
 tu aeque scias. 
 salve, frater. STR. Sanan haec est? EP. Sana, si appellat
 suom. 
- S. Quid? ego modo &lt;amator sum> huic frater factus, dum intro
+ S. Quid? ego modo <amator sum> huic frater factus, dum intro
 eo atque exeo?    650 
  EP. Quod boni est id tacitus taceas tute tecum et gaudeas. 
  STR. Perdidisti et repperisti me, soror. EP. Stultu's,
@@ -1004,7 +1004,7 @@ filia.
 est,        700 
 in meum nummum, in tuom talentum pignus da. PER. Enim istaec
 captiost. 
-sed quis east mulier? EP. Tui gnati amica, ut omnem &lt;rem>
+sed quis east mulier? EP. Tui gnati amica, ut omnem <rem>
 scias. 
  PER. Dedin tibi minas triginta ob filiam? EP. Fateor
 datas 
@@ -1034,7 +1034,7 @@ domi est.
 sed ut acerbum est, pro bene factis cum mali messim metas. 
  AP. Quamne hodie per urbem uterque sumus defessi quaerere? 
  EP. Ego sum defessus reperire, vos defessi quaerere.         720 
- PER. Quid isti oratis opere tanto? mi &lt;orandum> esse intellego, 
+ PER. Quid isti oratis opere tanto? mi <orandum> esse intellego, 
 ut liceat merito huius facere. cedo tu ut exsolvam manus. 
  EP. Ne attigas. PER. Ostende vero. EP. Nolo. PER. 
 Non aequom facis. 

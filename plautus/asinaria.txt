@@ -176,7 +176,7 @@ mihi.    46
  fabricare quidvis, quidvis comminiscere:
  perficito, argentum hodie ut habeat filius,
  amicae quod det. LIB. Quid ais tu, Demaenete?
- DEM. Quid &lt;vis>? LIB. Si forte in insidias devenero,    
+ DEM. Quid <vis>? LIB. Si forte in insidias devenero,    
 105 
  tun redimes me, si me hostes interceperint?
  DEM. Redimam. LIB. Tum tu igitur aliud cura quid lubet.
@@ -946,7 +946,7 @@ apparet.
  LIB. Noctem huius et cenam sibi ut dares. ARG. Iube advenire
 quaeso:
  meritissimo eius quae volet faciemus, qui hosce amores
- nostros dispulsos compulit. LEON. &lt;Patierin, Argyrippe, >
+ nostros dispulsos compulit. LEON. <Patierin, Argyrippe, >
  patrem hanc amplexari tuom? ARG. Haec faciet facile ut patiar.
  Leonida, curre obsecro, patrem huc orato ut veniat.    740 
  LEON. Iam dudum est intus. ARG. Hac quidem non venit.
@@ -998,7 +998,7 @@ Audio.    750
  ne illa minus aut plus quam tu sapiat.' DIAB. Satis placet.
  PAR. 'Suspiciones omnes ab se segreget.
  neque illaec ulli pede pedem homini premat,     775 
- cum surgat, neque &lt;cum> in lectum inscendat proximum,
+ cum surgat, neque <cum> in lectum inscendat proximum,
  neque cum descendat inde, det cuiquam manum:
  spectandum ne cui anulum det neque roget.
  talos ne cuiquam homini admoveat nisi tibi.
@@ -1054,7 +1054,7 @@ Sequor.—
  magis quam sua causa. DIAB. At pol qui dixti rectius.
  tu ergo fac ut illi turbas lites concias;
  cum suo sibi gnato unam ad amicam de die    825 
- potare, illam expilare &lt;narra>. PAR. Ne mone,
+ potare, illam expilare <narra>. PAR. Ne mone,
  ego istud curabo.— DIAB. At ego te opperiar domi.—
  
 
@@ -1124,12 +1124,12 @@ ratus,
  Cliniam, Chremem, Cratinum, Diniam, Demosthenem:
  is apud scortum corruptelae est liberis, lustris studet.
  PAR. Quin tu illum iubes ancillas rapere sublimen domum?
- ART. Tace modo. ne &lt;ego> illum ecastor miserum habebo. P. 
+ ART. Tace modo. ne <ego> illum ecastor miserum habebo. P. 
 Ego istuc scio,
  ita fore illi dum quidem cum illo nupta eris. ART. Ego censeo.    870 
  ~eum etiam hominem in senatu dare operam aut clientibus,
  ibi labore delassatum noctem totam stertere:
- ille opere foris faciendo lassus noctu &lt;ad me> advenit;
+ ille opere foris faciendo lassus noctu <ad me> advenit;
  fundum alienum arat, incultum familiarem deserit.
  is etiam corruptus porro suom corrumpit filium.     875 
  PAR. Sequere hac me modo, iam faxo ipsum hominem manifesto opprimas.
@@ -1189,7 +1189,7 @@ Demaenetus.
  ART. Quid tibi hunc receptio ad te est meum virum? PHIL. 
 Pol me quidem    920 
  miseram odio enicavit. ART. Surge, amator, i domum.
- DEM. Nullus sum. ART. Immo es, ne nega, omnium &lt;unus>
+ DEM. Nullus sum. ART. Immo es, ne nega, omnium <unus>
 pol nequissimus.
  at etiam cubat cuculus. surge, amator, i domum.
  DEM. Vae mihi. ART. Vera hariolare. surge, amator, i

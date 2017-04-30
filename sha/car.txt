@@ -14,7 +14,7 @@ Caracalla
 
  
  I. 1 Ex duobus liberis, quos Septimius
-Severus reliquit, quorum unum &lt;Antoninum&gt; exercitus, alterum pater dixit,
+Severus reliquit, quorum unum <Antoninum> exercitus, alterum pater dixit,
 Geta hostis est iudicatus, Bassianum notum optinuisse imperium. 2 De
 cuius maioribus frustra putamus iterandum, cum omnia in Severi vita satis
 dicta sint. 3 Huius igitur pueritia blanda, ingeniosa, parentibus

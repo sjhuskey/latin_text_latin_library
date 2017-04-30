@@ -39,7 +39,7 @@ uia et celeberrima maxime decipit. 3. Nihil ergo magis praestandum est
 quam ne pecorum ritu sequamur antecedentium gregem, pergentes non quo eundum
 est sed quo itur. Atqui nulla res nos maioribus malis inplicat quam quod
 ad rumorem componimur, optima rati ea quae magno adsensu recepta sunt,
-quodque exempla &lt;nobis pro> bonis multa sunt nec ad rationem sed ad
+quodque exempla <nobis pro> bonis multa sunt nec ad rationem sed ad
 similitudinem uiuimus. 4. Inde ista tanta coaceruatio aliorum super alios
 ruentium. Quod in strage hominum magna euenit, cum ipse se populus premit
 — nemo ita cadit ut non et alium in se adtrahat, primique exitio sequentibus
@@ -518,7 +518,7 @@ non est nostrae potestatis. In regno nati sumus: deo parere libertas est.
  
 1. Ergo in uirtute posita est uera felicitas. Quid haec tibi uirtus
 suadebit? ne quid aut bonum aut malum existimes quod nec uirtute nec malitia
-continget; deinde ut sis inmobilis et contra malum &lt;et> ex bono, ut
+continget; deinde ut sis inmobilis et contra malum <et> ex bono, ut
 qua fas est deum effingas. 2. Quid tibi pro hac expeditione promittit?
 ingentia et aequa diuinis: nihil cogeris, nullo indigebis, liber eris,
 tutus indemnis; nihil frustra temptabis, nihil prohibeberis; omnia tibi
@@ -550,7 +550,7 @@ Cur arbores nihil praeter umbram daturae conseruntur? Quare uxor tua locupletis
 domus censum auribus gerit? Quare paedagogium pretiosa ueste succingitur?
 Quare ars est apud te ministrare nec temere et ut libet conlocatur argentum
 sed perite struitur et est aliquis scindendi obsonii magister?' Adice si
-uis: 'cur trans mare possides? Cur plura quam nosti? &lt;Cur> turpiter
+uis: 'cur trans mare possides? Cur plura quam nosti? <Cur> turpiter
 aut tam neglegens es ut non noueris pauculos seruos aut tam luxuriosus
 ut plures habeas quam quorum notitiae memoria sufficiat?' 3. Adiuuabo postmodo
 conuicia et plura mihi quam putas obiciam, nunc hoc respondeo tibi: non
@@ -572,7 +572,7 @@ est.
 1. 'Aliter' inquis 'loqueris, aliter uiuis.' Hoc, malignissima capita
 et optimo cuique inimicissima, Platoni obiectum est, obiectum Epicuro,
 obiectum Zenoni; omnes enim isti dicebant non quemadmodum ipsi uiuerent,
-sed quemadmodum esset &lt;et> ipsis uiuendum. De uirtute, non de me loquor,
+sed quemadmodum esset <et> ipsis uiuendum. De uirtute, non de me loquor,
 et cum uitiis conuicium facio, in primis meis facio: cum potuero, uiuam
 quomodo oportet. 2. Nec malignitas me ista multo ueneno tincta deterrebit
 ab optimis; ne uirus quidem istud quo alios spargitis, quo uos necatis,
@@ -734,7 +734,7 @@ sint quae sua quisque dici uelit, nihil est quod quisquam suum possit dicere.
 2. Ille uero fortunae benignitatem a se non summouebit et patrimonio per
 honesta quaesito nec gloriabitur nec erubescet. Habebit tamen etiam quo
 glorietur, si aperta domo et admissa in res suas ciuitate poterit dicere
-'quod quisque agnouerit tollat.' O magnum uirum, &lt;o> optime diuitem,
+'quod quisque agnouerit tollat.' O magnum uirum, <o> optime diuitem,
 si post hanc uocem tantundem habuerit! Ita dico: si tuto et securus scrutationem
 populo praebuerit, si nihil quisquam apud illum inuenerit quoi manus iniciat,
 audaciter et propalam erit diues. 3. Sapiens nullum denarium intra limen
@@ -804,12 +804,12 @@ fateor.
  
 1. Quid ergo sit quare illas non in bonis numerem, et quid praestem
 in illis aliud quam uos, quoniam inter utrosque conuenit habendas, audite.
-Pone in opulentissima me domo, pone &lt;ubi> aurum argentumque in promiscuo
+Pone in opulentissima me domo, pone <ubi> aurum argentumque in promiscuo
 usu sit: non suspiciam me ob ista quae, etiam si apud me, extra me tamen
 sunt. In Sublicium pontem me transfer et inter egentes abice: non ideo
 tamen me despiciam quod in illorum numero consedero qui manum ad stipem
 porrigunt. Quid enim ad rem an frustum panis desit cui non deest mori posse?
-Quid ergo est? domum illam splendidam malo quam pontem. 2. Pone &lt;in>
+Quid ergo est? domum illam splendidam malo quam pontem. 2. Pone <in>
 instrumentis splendentibus et delicato apparatu: nihilo me feliciorem credam
 quod mihi molle erit amiculum, quod purpura conuiuis meis substernetur.
 Muta stragula mea: nihilo miserius ero si lassa ceruix mea in maniculo
@@ -879,7 +879,7 @@ omnia illi sua relinquet; uiuit enim praesentibus laetus, futuri securus.
  
 
  
-4. 'Nihil magis' inquit ille Socrates aut aliquis alius cui idem &lt;adfectus>
+4. 'Nihil magis' inquit ille Socrates aut aliquis alius cui idem <adfectus>
 aduersus humana atque eadem potestas est 'persuasi mihi quam ne ad opiniones
 uestras actum uitae meae flecterem. Solita conferte undique uerba: non
 conuiciari uos putabo sed uagire uelut infantes miserrimos.' 5. Haec dicet
