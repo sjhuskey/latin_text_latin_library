@@ -431,7 +431,7 @@ non potes? Othonem, si, Nero, linquis, sequar.
  
 NERO Poppaea, cupio, quod cupis, quam tu, magis 
 quod cupio, dum conficio, paulisper sine.  2490 
-Burrhe, viden&iacute; illam? quin meam dico? placet? 
+Burrhe, videní illam? quin meam dico? placet? 
 Venerem, Dianam, Pallada, sub una putes.
  
 laudes in una non vides omnes? quid est,
@@ -853,7 +853,7 @@ en saevientis cerno flagrantes notas.
 
  Nero cum Plauti capite in manibus. 
 
- NERO venistin&iacute; hem cognate, et
+ NERO venistiní hem cognate, et
 imperii aemule?  2775 
 salve imperator: quin Nero posito metu 
 coniugia maturare Poppaeae parat, 
