@@ -39,11 +39,11 @@ Quaelibet aequatio algebraica determinata reduci potest ad formam
 numerus integer positiuus. Si partem primam huius aequationis
 per X denotamus, aequationique X=0 per plures valores inaequales
 ipsius x satisfieri supponimus, puta ponendo x=α , x=β ,
- x=&gamma; etc. functio X per productum e factoribus x-α , x-β ,
- x-&gamma; etc. diuisibilis erit. Vice versa, si productum e pluribus
-factoribus simplicibus x-α , x-β , x-&gamma; etc. functionem X metitur:
+ x=γ etc. functio X per productum e factoribus x-α , x-β ,
+ x-γ etc. diuisibilis erit. Vice versa, si productum e pluribus
+factoribus simplicibus x-α , x-β , x-γ etc. functionem X metitur:
 aequationi X=0 satisfiet, aequando ipsam x cuicunque
-quantitatum α, β, &gamma; etc. Denique si X producto ex m factoribus
+quantitatum α, β, γ etc. Denique si X producto ex m factoribus
 talibus simplicibus aequalis est (siue omnes diuersi sint, siue quidam
 ex ipsis identici): alii factores simplices praeter hos functionem
  X metiri non poterunt. Quamobrem aequatio m ti gradus plures
@@ -104,10 +104,10 @@ digna tamen, ne quid deesse videatur, paucis illa attingam.
 ''Vt demonstrent, quamuis aequationem x m +Ax m-1 +Bx m-2 
  + etc. +M=0 , siue X=0 , reuera habere m radices, suscipiunt
 probare, X in m factores simplices resolui posse. Ad hunc
-finem assumunt m factores simplices x-α , x-β , x-&gamma; etc. vbi
- α, β, &gamma; etc. adhuc sunt incognitae, productumque ex illis aequale
+finem assumunt m factores simplices x-α , x-β , x-γ etc. vbi
+ α, β, γ etc. adhuc sunt incognitae, productumque ex illis aequale
 ponunt functioni X . Tum ex comparatione coëfficientium deducunt
- m aequationes, ex quibus incognitas α, β, &gamma; etc. determinari
+ m aequationes, ex quibus incognitas α, β, γ etc. determinari
 posse aiunt, quippe quarum multitudo etiam sit m . Scilicet m-1 
 incognitas eliminari posse, vnde emergere aequationem, quae,
 quam placuerit, incognitam solam contineat. '' Vt de reliquis,
@@ -118,7 +118,7 @@ vltimae aequationi neque propositae, vlla magnitudo in toto quantitatum
 realium atque imaginariarum ambitu satisfaciat? — Ceterum
 periti facile perspicient, hanc vltimam aequationem necessario
 cum proposita omnino identicam fore, siquidem calculus rite
-fuerit institutus; scilicet eliminatis incognitis β, &gamma; etc. aequationem
+fuerit institutus; scilicet eliminatis incognitis β, γ etc. aequationem
  α m +Aα m-1 +Bα m-2 + etc. +M=0 prodire debere. Plura
 de isto ratiocinio exponere necesse non est.
  
@@ -187,7 +187,7 @@ realem negatiuum obtinere posse per valorem ipsius x vel realem
 vel sub forma imaginaria p+q&radic;-1 contentum. Scilicet designante
  Ω valorem infinite paruum ipsius X , et &omega; valorem respondentem
 ipsius x , asserit &omega; per seriem valde conuergentem
- aΩ α +bΩ β +cΩ &gamma; etc. exprimi posse, vbi exponentes α, β, &gamma; 
+ aΩ α +bΩ β +cΩ γ etc. exprimi posse, vbi exponentes α, β, γ 
 etc. sint quantitates rationales continuo crescentes, et quae adeo
 ad minimum in distantia certa ab initio positiuae euadant, terminosque,
 in quibus adsint, infinite paruos reddant. Iam si inter
@@ -252,8 +252,8 @@ elici posse, in quarum altera p, X et constantes reperiantur altera
 a p libera solas q, X et constantes inuoluat. Quamobrem
 quum X per valores reales ipsarum p,q omnes valores ab R vsque
 ad T percurrerit, per praecc. X versus valorem U adhuc propius
-accedere posse tribuendo ipsius p, q valores tales α+&gamma;&radic;-1 ,
- β+δ&radic;-1 resp. Hinc vero fieri x=α-δ+(&gamma;+β)&radic;-1 , i. e. 
+accedere posse tribuendo ipsius p, q valores tales α+γ&radic;-1 ,
+ β+δ&radic;-1 resp. Hinc vero fieri x=α-δ+(γ+β)&radic;-1 , i. e. 
 adhuc sub forma p+q&radic;-1 esse, contra hyp.
  
 
@@ -760,22 +760,22 @@ similiterque formulam, quae coëfficientem M&prime;&prime; per u&prime;&prime;
 exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u&prime;&prime; etc. Hoc
 luculentissime perspicietur, si aequationem quarti gradus pro exemplo
 assumimus. Ponamus itaque m=4 , sintque radices aequationis
- Z=0 , hae α, β, &gamma;, δ . Tum patet aequationem U=0 fore
-sexti gradus ipsiusque radices -(α+β) , -(α+&gamma;) , -(α+δ) ,
- -(β+&gamma;) , -(β+δ) , -(&gamma;+δ) . Aequatio U&prime;=0 autem erit
-decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+&gamma; , 2α+β+δ ,
- 2α+&gamma;+δ , 2β+α+&gamma; , 2β+α+δ , 2β+&gamma;+δ , 2&gamma;+α+β ,
- 2&gamma;+α+δ , 2&gamma;+β+δ , 2δ+α+β , 2δ+α+&gamma; , 2δ+β+&gamma; ,
- α+β+&gamma;+δ , α+β+&gamma;+δ , α+β+&gamma;+δ . Iam in hac aequatione,
+ Z=0 , hae α, β, γ, δ . Tum patet aequationem U=0 fore
+sexti gradus ipsiusque radices -(α+β) , -(α+γ) , -(α+δ) ,
+ -(β+γ) , -(β+δ) , -(γ+δ) . Aequatio U&prime;=0 autem erit
+decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+γ , 2α+β+δ ,
+ 2α+γ+δ , 2β+α+γ , 2β+α+δ , 2β+γ+δ , 2γ+α+β ,
+ 2γ+α+δ , 2γ+β+δ , 2δ+α+β , 2δ+α+γ , 2δ+β+γ ,
+ α+β+γ+δ , α+β+γ+δ , α+β+γ+δ . Iam in hac aequatione,
 quippe cuius gradus est impar, subsistendum erit, habebitque
-ea reuera radicem realem α+β+&gamma;+δ (quae primo coëfficienti in
+ea reuera radicem realem α+β+γ+δ (quae primo coëfficienti in
  Z mutato signo aequalis adeoque non modo realis sed etiam rationalis
 erit, si coëfficientes in Z sunt rationales). Sed nullo negotio
 perspici potest, si formula detur, quae valorem ipsius M&prime; 
 per valorem respondentem ipsius u&prime; rationaliter exhibeat, hanc
-necessario pro u&prime;=α+β+&gamma;+δ indeterminatam fieri. Hic enim
+necessario pro u&prime;=α+β+γ+δ indeterminatam fieri. Hic enim
 valor ter erit radix aequationis U&prime;=0 , respondebuntque ipsi tres
-valores ipsius M&prime; , puta (α+β)(&gamma;+δ) , (α+&gamma;)(β+δ) et (α+δ)(β+&gamma;) ,
+valores ipsius M&prime; , puta (α+β)(γ+δ) , (α+γ)(β+δ) et (α+δ)(β+γ) ,
 qui omnes irrationales esse possunt. Manifesto autem formula
 rationalis neque valorem irrationalem ipsius M&prime; in hoc casu producere
 posset, neque tres valores diuersos. Ex hoc specimine
