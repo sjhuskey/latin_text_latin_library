@@ -180,7 +180,7 @@ huius praecipua momenta haec sunt.
 
  
 Primo ostendit, si functio quaecunque X quantitatis variabilis
- x fiat =0 aut pro x=0 aut pro x=&infin; , atque valorem infinite
+ x fiat =0 aut pro x=0 aut pro x=∞ , atque valorem infinite
 paruum realem positiuum nancisci possit tribuendo ipsi x 
 valorem realem: hanc functionem etiam valorem infinite paruum
 realem negatiuum obtinere posse per valorem ipsius x vel realem
