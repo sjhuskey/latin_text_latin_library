@@ -29,7 +29,7 @@ Fortuna extremi differt certamina Martis:
 Tot subito gentes perituraque millia leto 
 Condemnare pudet; nec adhuc feralia Thapsi    15 
 Arva Jubae casus magni, vel triste videbunt 
-Scipiadae exitium, donec co&euml;untia signa 
+Scipiadae exitium, donec coëuntia signa 
 Ductorum, atque aliquos belli Ruspina tumultus 
 Vidit, et exhibuit tantae praecludia cladis. 
 Scipiadae a castris rex (in sua regna reversus,    20 
@@ -152,7 +152,7 @@ Scipiadae regisque Jubae vexilia sequuntur
 Ad Thapsum, quamvis cladis praesaga futurae 
 Aethera non cessant dare signa minacia. Lumen 
 Horridius tenebris praebebant fulgura: stellae 
-Insolitae visae; intonuit sine nubibus a&euml;r;    140 
+Insolitae visae; intonuit sine nubibus aër;    140 
 Et fragor armorum nocturnas terruit auras; 
 Aeratâ moestus manavit casside sudor; 
 Et dura attonitis ardebant pila maniplis. 

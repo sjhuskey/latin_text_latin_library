@@ -65,7 +65,7 @@ Nec placidam celare studet, sed pascere, flammam.
 "Aut quae fama, potest? quid sic durissima virtus    50 
 "Oppugnata ageret? facies absolveret ista 
 "Judice raptorem colo: nam talia quondam 
-"Stupra Deis summis celebres tribuêre po&euml;tae, 
+"Stupra Deis summis celebres tribuêre poëtae, 
 "Aethere qui toties posuêre Tonantis amicas, 
 "Et formâ eximias fecêre hero&iuml;das astra.    55 
 "Temporibus si visa illis Cleopatra fuisset, 
@@ -75,7 +75,7 @@ Nec placidam celare studet, sed pascere, flammam.
 "Callisto, aut Bacchi conjux formosa coronam,    60 
 "Donec partem aliquam Cleopatrae stella sereni 
 "Nobilitare poli certam dignata fuisset. 
-"Jupiter exemplum mihi sit, quem saepe co&euml;git 
+"Jupiter exemplum mihi sit, quem saepe coëgit 
 "Saevus Amor magno furtim descendere colo: 
 "Vel potius nostra absolvant delicta Tonantem,    65 
 "Caesareumque Jovi veniam det nomen amoris." 
@@ -95,7 +95,7 @@ Pectore sustulerat: penitus si nullus inesset
 Venarum calor, aut artus depasceret ignis,    80 
 Lascivos tamen amplexus in Caesaris &icirc;sset 
 Frigida; et ambitio solvisset tanta pudorem. 
-Quae te causa fidem, Caesar, violare co&euml;git, 
+Quae te causa fidem, Caesar, violare coëgit, 
 Visceraque in patriae sceleratos impulit enses, 
 Emathios Latio perfundens sanguine campos,    85 
 Illa pudicitiam reginae in pectore vicit, 
@@ -111,7 +111,7 @@ Sed sceptro subjecta manet) veritusque rebellem    95
 Niliacum subito populum, si regna teneret 
 Femina, dum stirpis Lagaeae mascula proles 
 Vivit adhuc, puerum Ptolemaeum lustra videntem 
-Vix bina, Arsino&euml;s, quam duxerat ante, sororis 
+Vix bina, Arsinoës, quam duxerat ante, sororis 
 Conjugio avulsum, Cleopatrae jungit; et illum,    100 
 Immaturum annis, Phario diademate cingit. 
 Hunc vocat Aegyptus regem, Cleopatra maritum; 
@@ -150,7 +150,7 @@ Caesaris Augusti cadet olim victima ferro,
 Caesareos tristans cognatâ caede penates.    135 
 Tempora dum Phario ductor dependit amori 
 Ausonius, Libycis iterum fragmenta ruinae 
-Thessalicae terris co&euml;unt, quae magnus agebat 
+Thessalicae terris coëunt, quae magnus agebat 
 Scipio dux belli: cum quo (jam Caesaris hostis, 
 Quamvis ille truces toties sub Caesare Gallos    140 
 Stravisset) fortis stabat Labienus in armis. 
@@ -204,7 +204,7 @@ Scipiadae Latiisque aquilis haec agmina jungit
 Rex Juba; jamque auctis intendunt viribus omnem 
 (Cum primum Zephyro putris se gleba resolvet)    190 
 In Latium belli casum transferre futuri. 
-Sed celer in cunctis, semperque inferre su&euml;tus, 
+Sed celer in cunctis, semperque inferre suëtus, 
 Nunquam bella pati Caesar, mox irrita fecit 
 Haec decreta dudum; bellumque huc attulit omne. 
 Heu! nimium cito Marmaricis cernetis in oris,    195 
@@ -224,7 +224,7 @@ Nec jam vindicibus pacati viribus orbis
 Terrentur reges: sed plus Junonis iniquae 
 Spes saevas facie formosâ femina juvit,    210 
 Quam poterant ferratae acies, aut omnia terrae, 
-A&euml;ris, Oceanique, et Ditis monstra profundi. 
+Aëris, Oceanique, et Ditis monstra profundi. 
 Sed longo Fortuna ducem torpere veterno 
 Non patitur tantum, medio nec Caesaris acta 
 Deficere in cursu; sive accelerare ruinam    215 

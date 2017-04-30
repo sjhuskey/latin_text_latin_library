@@ -106,7 +106,7 @@ digna tamen, ne quid deesse videatur, paucis illa attingam.
 probare, X in m factores simplices resolui posse. Ad hunc
 finem assumunt m factores simplices x-α , x-β , x-&gamma; etc. vbi
  α, β, &gamma; etc. adhuc sunt incognitae, productumque ex illis aequale
-ponunt functioni X . Tum ex comparatione co&euml;fficientium deducunt
+ponunt functioni X . Tum ex comparatione coëfficientium deducunt
  m aequationes, ex quibus incognitas α, β, &gamma; etc. determinari
 posse aiunt, quippe quarum multitudo etiam sit m . Scilicet m-1 
 incognitas eliminari posse, vnde emergere aequationem, quae,
@@ -154,7 +154,7 @@ Antequam aliorum geometrarum demonstrationes theorematis
 nostri recenseam, et quae in singulis reprehenda mihi videantur,
 exponam: obseruo sufficere si tantummodo ostendatur,
 omni aequationi quantiuis gradus x m +Ax m-1 +Bx m-2 + 
-etc. +M=0 siue X=0 (vbi co&euml;fficientes A, B etc. reales esse
+etc. +M=0 siue X=0 (vbi coëfficientes A, B etc. reales esse
 supponuntur) ad minimum vno modo satisfieri posse per valorem
 ipsius x sub forma a+b&radic;-1 contentum. Constat enim, X 
 tunc diuisibilem fore per factorem realem secundi gradus xx-2ax+aa+bb ,
@@ -317,7 +317,7 @@ conclusio rigorosa inde colligi possit: obseruo, vtique dari series,
 quae quantumuis paruus valor quantitati, secundum cuius potestates
 progrediuntur, tribuatur, nihilominus semper diuergant, ita
 vt si modo satis longe continuentur, ad terminos quauis quantitate
-data maiores peruenire possis. *3) Hoc euenit, quando co&euml;f- ficientes
+data maiores peruenire possis. *3) Hoc euenit, quando coëf- ficientes
 seriei progressionem hypergeometricam constituunt.
 Quamobrem necessario demonstrari debuisset, talem seriem hypergeometricam
 in casu praesenti prouenire non posse.
@@ -384,13 +384,13 @@ Methodum duplicem hic tradidit: prioris summa continetur in sequentibus.
  
 Primo ill. E. suscipit demonstrare, si m denotet quamcunque
 dignitatem numeri 2, functionem x 2m +Bx 2x-2 +Cx 2m-3 
- + etc. +M=X (in qua co&euml;fficiens termini secundi est =0 )
+ + etc. +M=X (in qua coëfficiens termini secundi est =0 )
 semper in duos factores reales resolui posse, in quibus x vsque
 ad m dimensiones ascendat. Ad hunc finem duos factores assumit,
  x m -ux m-1 +α x m-2 +β x m-3 + etc., et x m + 
- ux m-1 +&lambda; x m-2 +&mu; x m-3 etc. vbi co&euml;fficientes u, α, β etc. 
+ ux m-1 +&lambda; x m-2 +&mu; x m-3 etc. vbi coëfficientes u, α, β etc. 
  &lambda;, &mu; etc. adhuc incogniti sunt, horumque productum aequale
-ponit functioni X . Tum co&euml;fficientium comparatio suppeditat
+ponit functioni X . Tum coëfficientium comparatio suppeditat
  2m-1 aequationes, manifestoque demonstrari tantummodo debet,
 incognitis u,α,β etc. &lambda;, &mu; etc. (quarum multitudo etiam est
  2-1 ) tales valores reales tribui posse, qui aequationibus illis
@@ -398,11 +398,11 @@ satisfaciant. Iam E. affirmat, si primo u tamquam cognita consideretur,
 ita vt multitudo incognitarum vnitate minor sit quam
 multitudo aequationum, his secundum methodos algebraicas notas
 rite combinatis omnes α, β etc. &lambda;, &mu; etc. rationaliter et sine
-vlla radicum extractione per u et co&euml;fficientes B, C etc. determinari
+vlla radicum extractione per u et coëfficientes B, C etc. determinari
 posse, adeoque valores reales nancisci, simulac u realis fiat.
 Praeterea vero omnes α, β etc. &lambda;, &mu; etc. eliminari poterunt, ita
 vt prodeat aequatio U=0 , vbi U erit functio integra solius u et
-co&euml;fficientium cognitorum. Hanc aequationem ipsam per methodum
+coëfficientium cognitorum. Hanc aequationem ipsam per methodum
 eliminationis vulgarem euoluere, opus immensum fore,
 quando aequatio proposita X=0 est gradus aliquantum alti; et
 pro gradu indeterminato, plane impossibile (iudice ipso E. p. 239.).
@@ -429,7 +429,7 @@ E. concludit, U esse productum ex k factoribus duplicibus talibus
  -q etc. omnes 2k radices aequationis U=0 , vnde, propter
 multitudinem imparem horum factorum, terminus vltimus in U 
 erit quadratum producti pqr etc. signo negatiuo affectum. Productum
-autem pqr etc. semper ex co&euml;fficientibus B, C etc. rationaliter
+autem pqr etc. semper ex coëfficientibus B, C etc. rationaliter
 determinari potest, adeoque necessario erit quantitas realis.
 Huius itaque quadratum signo negatiuo affectum certo erit
 quantitas negatiua. Q. E. D. 
@@ -483,7 +483,7 @@ casu praesenti pro quibusdam valoribus ipsius m res eodem modo
 se habebat; vt incognitae α,β etc. &lambda;, &mu; etc. ex u,B,C etc. aliter
 quam per aequationem gradus forsan maioris quam 2m determinari
 nequeant. Pro eo casu, vbi aequatio X=0 est quarti gradus,
-E. valores rationales co&euml;fficientium per u et co&euml;fficientes
+E. valores rationales coëfficientium per u et coëfficientes
 datos eruit; idem vero etiam in omnibus aequationibus altioribus
 fieri posse, vtique explicatione ampliori egebat. — Ceterum
 operae pretium esse videtur, in formulas illas, quae α, β 
@@ -496,14 +496,14 @@ fusius agere suscipiam.
 2. Etiamsi autem demonstratum fuerit, cuiusuis gradus sit
 aequatio X=0 , semper formulas inueniri posse, quae ipsas
  α, β etc. &lambda;, &mu; etc. rationaliter per u, B, C etc. exhibeant: tamen
-certum est, pro valoribus quibusdam determinatis co&euml;fficientium
+certum est, pro valoribus quibusdam determinatis coëfficientium
  B, C etc. formulas illas indeterminatas euadere posse, ita vt non
 solum impossibile sit, incognitas illas rationaliter ex u, B, C 
 etc. definire, sed adeo reuera quibusdam in casibus valori alicui reali
 ipsius u nulli valores reales ipsarum α, β etc. &lambda;, &mu; etc. respondeant.
 Ad confirmationem huius rei breuitatis gratia ablego lectorem
 ad diss. ipsam E. vbi p. 236. aequatio quarti gradus fusius
-explicata est. Statim quisque videbit, formulas pro co&euml;fficientibus
+explicata est. Statim quisque videbit, formulas pro coëfficientibus
  α, β indeterminatas fieri, si C=0 et pro u assumatur
 valor 0 , illorumque valores non solum sine extractione radicum
 assignari non posse, sed adeo ne reales quidem esse, si fuerit
@@ -522,7 +522,7 @@ radices, harumque summam statuit =0 ideo quod terminus secundus
 in X abest. Quomodo de hac licentia (qua omnes auctores
 de hoc argumento vtuntur) sentiam, iam supra art. 3. declaraui.
 Propositio, summam omnium radicum aequationis alicuius
-co&euml;fficienti primo, mutato signo, aequalem esse, ad alias aequationes
+coëfficienti primo, mutato signo, aequalem esse, ad alias aequationes
 applicanda non videtur, nisi quae radices habent: iam quum
 per hanc ipsam demonstrationem euinci debeat, aequationem
  X=0 reuera radices habere, haud permissum videtur, harum
@@ -563,7 +563,7 @@ videtur.
 
  
 4. Pro demonstratione assertionis, productum pqr etc. ex
-co&euml;fficientibus in X rationaliter determinari posse, ill. E. nihil
+coëfficientibus in X rationaliter determinari posse, ill. E. nihil
 omnino attulit. Omnia, quae hac de re in aequationibus quarti
 gradus explicat, haec sunt (vbi a, b, c, d sunt radices
 aequationes propositae x 4 +Bxx+Cx+D=0 ):
@@ -593,7 +593,7 @@ nullam vim habere possit. Iam verum quidem est in aequationibus
 quarti gradus, si productum (a+b)(a+c)(a+d) euoluatur obtineri
  aa(a+b+c+d)+abc+abd+acd+bcd=-C , attamen
 non satis perspicuum videtur, quomodo in omnibus aequationibus
-superioribus productum rationaliter per co&euml;fficientes determinari
+superioribus productum rationaliter per coëfficientes determinari
 possit. Clar. de Foncenex, qui primus hoc obseruauit
 ( Miscell. phil. math. soc. Taurin. T. I. p. 117.), recte contendit,
 sine demonstratione rigorosa huius propositionis methodum
@@ -602,7 +602,7 @@ et quam viam frustra tentauerit, enarrat. *6) Attamen haec
 res haud difficulter per methodum sequentem (cuius summam addigitare
 tantummodo hic possum) obsoluitur: Quamquam in
 aequationibus quarti gradus non satis clarum est, productum
- (a+b)(a+c)(a+d) per co&euml;fficientes B,C,D determinabile esse,
+ (a+b)(a+c)(a+d) per coëfficientes B,C,D determinabile esse,
 tamen facile perspici potest, idem productum etiam esse = 
  (b+a)(b+c)(b+d) , nec non =(c+a)(c+b)(c+d) , denique
 etiam =(d+a)(d+b)(d+c) . Quare productum pqr erit quadrans
@@ -611,7 +611,7 @@ summae (a+b)(a+c)(a+d)+(b+a)(b+c)(b+d)+
 fore functionem rationalem integram radicum a,b,c,d talem, in
 quam omnes eadem ratione ingrediantur, nullo negotio a priori
 praeuideri potest. Tales vero functiones semper rationaliter per
-co&euml;fficientes aequationis, cuius radices sunt a, b, c, d , exprimi
+coëfficientes aequationis, cuius radices sunt a, b, c, d , exprimi
 possunt. — Idem etiam manifestum est, si productum pqr sub
 hanc formam redigatur:
  
@@ -710,7 +710,7 @@ functionis Z . Tunc singuli valores ipsius u erunt summae binarum
 radicum aequationis Z=0 (mutato signo), quamobrem u 
 habebit (m . m-t) / (1 . 2)=m&prime; valores, et si u per aequationem U=0 determinari
 supponitur (designante U functionem integram ipsius u 
-et co&euml;fficientium cognitorum in Z ), haec erit gradus m&prime; ti . Facile
+et coëfficientium cognitorum in Z ), haec erit gradus m&prime; ti . Facile
 vero perspicitur m&prime; fore numerum formae 2 n-1 i&prime; , designante i&prime; 
 numerum imparem. Iam nisi m&prime; est impar, supponatur iterum,
  uu+uu&prime;+M&prime; esse diuisorem ipsius U , patetque per similia
@@ -725,15 +725,15 @@ Manifestum est, in serie aequationum U=0 , U&prime;=0 , U&prime;&prime;=0
 etc. n tam fore gradus imparis adeoque radicem realem habere. Statuemus
 breuitatis gratia n=3 , ita vt aequatio U&prime;&prime;=0 radicem
 realem u&prime;&prime; habeat, nullo enim negotio perspicitur pro quouis alio
-valore ipsius n idem ratiocinium valere. Tunc co&euml;fficientem M&prime;&prime; 
-per u&prime;&prime; et co&euml;fficientes in U&prime; (quos fore functiones integras co&euml;fficientium
-in Z facile intelligitur), siue per u&prime;&prime; et co&euml;fficientes in Z 
+valore ipsius n idem ratiocinium valere. Tunc coëfficientem M&prime;&prime; 
+per u&prime;&prime; et coëfficientes in U&prime; (quos fore functiones integras coëfficientium
+in Z facile intelligitur), siue per u&prime;&prime; et coëfficientes in Z 
 rationaliter determinabilem fore asserit clar. de F., et proin realem.
 Hinc sequitur, radices aequationis u&prime; u&prime;+u&prime;&prime;u&prime;+M&prime;&prime;=0 
 sub forma p+q&radic;-1 contentas fore; eadem vero manifesto
 aequationi U&prime;=0 satisfacient: quare dabitur valor aliquis ipsius
- u&prime; sub forma p+q&radic;-1 contentus. Iam co&euml;fficiens M&prime; (eodem
-modo vt ante) rationaliter per u&prime; et co&euml;fficientes in Z determinari
+ u&prime; sub forma p+q&radic;-1 contentus. Iam coëfficiens M&prime; (eodem
+modo vt ante) rationaliter per u&prime; et coëfficientes in Z determinari
 potest, adeoque etiam sub forma p+q&radic;-1 contentus erit;
 quare aequationis uu+u&prime; u+M&prime; radices sub eadem forma contentae
 erunt, simul vero aequationi U=0 satisfacient, i. e. aequatio
@@ -753,10 +753,10 @@ primam feci (art. 8.), eandem vim contra hanc methodum habent,
 ea tamen differentia, vt obiectio secunda, cui Euleri demonstratio
 tantummodo in quibusdam casibus specialibus obnoxia erat,
 praesentem in omnibus casibus attingere debeat. Scilicet a priori
-demonstrari potest, etiamsi formula detur, quae co&euml;fficientem M&prime; 
-rationaliter per u&prime; et co&euml;fficientes in Z exprimat, hanc pro pluribus
+demonstrari potest, etiamsi formula detur, quae coëfficientem M&prime; 
+rationaliter per u&prime; et coëfficientes in Z exprimat, hanc pro pluribus
 valoribus ipsius u&prime; necessario indeterminatam fieri debere;
-similiterque formulam, quae co&euml;fficientem M&prime;&prime; per u&prime;&prime; 
+similiterque formulam, quae coëfficientem M&prime;&prime; per u&prime;&prime; 
 exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u&prime;&prime; etc. Hoc
 luculentissime perspicietur, si aequationem quarti gradus pro exemplo
 assumimus. Ponamus itaque m=4 , sintque radices aequationis
@@ -768,9 +768,9 @@ decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+&gamma; , 2α+β+δ ,
  2&gamma;+α+δ , 2&gamma;+β+δ , 2δ+α+β , 2δ+α+&gamma; , 2δ+β+&gamma; ,
  α+β+&gamma;+δ , α+β+&gamma;+δ , α+β+&gamma;+δ . Iam in hac aequatione,
 quippe cuius gradus est impar, subsistendum erit, habebitque
-ea reuera radicem realem α+β+&gamma;+δ (quae primo co&euml;fficienti in
+ea reuera radicem realem α+β+&gamma;+δ (quae primo coëfficienti in
  Z mutato signo aequalis adeoque non modo realis sed etiam rationalis
-erit, si co&euml;fficientes in Z sunt rationales). Sed nullo negotio
+erit, si coëfficientes in Z sunt rationales). Sed nullo negotio
 perspici potest, si formula detur, quae valorem ipsius M&prime; 
 per valorem respondentem ipsius u&prime; rationaliter exhibeat, hanc
 necessario pro u&prime;=α+β+&gamma;+δ indeterminatam fieri. Hic enim
@@ -1009,7 +1009,7 @@ totidemque, in quibus U=0 , et quidem ita, vt singula posteriora inter
 bina priorum iaceant. 
  
  
-Sit summa omnium co&euml;fficientium A,B etc. K,L,M , positiue
+Sit summa omnium coëfficientium A,B etc. K,L,M , positiue
 acceptorum =S , accipiaturque R simul >S&radic;2 et >1 *9) : tum
 dico in circulo radio R descripto ea, quae in theoremate enunciata
 sunt, necessario locum habere. Scilicet designato breuitatis gratia
