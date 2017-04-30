@@ -115,16 +115,16 @@ XVII. DE PEDIBVS. [1] Pedes sunt, qui certis syllabarum temporibus insistunt, ne
  
 
  
-Spondeum, &ndash; &ndash; 
+Spondeum, – – 
 Pyrrhichium, &or; &or; 
-Dactylum, &ndash; | &or; &or; 
-Anapaestum, &or; &or; |&ndash; 
-Dispondeum, &ndash; &ndash; | &ndash; &ndash; 
+Dactylum, – | &or; &or; 
+Anapaestum, &or; &or; |– 
+Dispondeum, – – | – – 
 Proceleumaticum, &or; &or; | &or; &or; 
-Diiambum, &ndash; | &ndash; 
-Ditrochaeum, &ndash; &or; | &ndash; &or; 
-Antispastum, &or; &ndash; | &ndash; &or; 
-Choriambum, &ndash; &or; | &or; &ndash;
+Diiambum, – | – 
+Ditrochaeum, – &or; | – &or; 
+Antispastum, &or; – | – &or; 
+Choriambum, – &or; | &or; –
  
 
  
@@ -132,12 +132,12 @@ Choriambum, &ndash; &or; | &or; &ndash;
  
 
  
-Trochaeum, &ndash; | &or; 
-Iambum, &or; | &ndash; 
-Molossum, &ndash; | &ndash; &ndash; 
+Trochaeum, – | &or; 
+Iambum, &or; | – 
+Molossum, – | – – 
 Tribrachym, &or; | &or; &or; 
-Ionicum maiorem, &ndash; &ndash; | &or; &or; 
-Ionicum minorem, &or; &or; | &ndash; &ndash;
+Ionicum maiorem, – – | &or; &or; 
+Ionicum minorem, &or; &or; | – –
  
 
  
@@ -145,7 +145,7 @@ Ionicum minorem, &or; &or; | &ndash; &ndash;
  
 
  
-Amphibrachys, &or; | &ndash; &or;
+Amphibrachys, &or; | – &or;
  
 
  
@@ -153,13 +153,13 @@ Amphibrachys, &or; | &ndash; &or;
  
 
  
-Amphimacrus, &ndash; | &or; &ndash; 
-Bacchius, &or; &ndash; | &ndash; 
-Antibacchius, &ndash; | &ndash; &or; 
-Paeon primus, &ndash; | &or; &or; &or; 
-Paeon secundus, &or; &ndash; | &or; &or; 
-Paeon tertius, &or; &or; | &ndash; &or; 
-Paeon quartus, &or; &or; &or; | &ndash;
+Amphimacrus, – | &or; – 
+Bacchius, &or; – | – 
+Antibacchius, – | – &or; 
+Paeon primus, – | &or; &or; &or; 
+Paeon secundus, &or; – | &or; &or; 
+Paeon tertius, &or; &or; | – &or; 
+Paeon quartus, &or; &or; &or; | –
  
 
  
@@ -167,10 +167,10 @@ Paeon quartus, &or; &or; &or; | &ndash;
  
 
  
-Epitritus primus, &or; &ndash; | &ndash; &ndash; 
-Epitritus secundus, &ndash; &or; | &ndash; &ndash; 
-Epitritus tertius, &ndash; &ndash; | &or; &ndash; 
-Epitritus quartus, &ndash; &ndash; | &ndash; &or;
+Epitritus primus, &or; – | – – 
+Epitritus secundus, – &or; | – – 
+Epitritus tertius, – – | &or; – 
+Epitritus quartus, – – | – &or;
  
 
  
@@ -182,7 +182,7 @@ Sectaque intexunt abiete costas.
  
 
  
-"Abieteí nunc resolutio est spondei in proceleumatico, in qua resolutione semper synaloepham sequitur Vergilius. [29] Ex una autem longa duae breves fiunt: ex duabus autem brevibus longa numquam fit. Findi enim solida possunt, solidari scissa non possunt. Figura est, cuius nota syllabae agnoscuntur. Vbi enim circuli partem inferiorem bis positam aspicis, pyrrhichius est, V V; ubi I geminam iacentem, spondeus, &ndash; &ndash;. Nam nota brevis inferior semicirculus est; nota longa I iacens est. [30] Metra in pedibus accidunt, ut a trochaeo trochaicum, a dactylo dactylicum, a iambo iambicum, de quibus paulo post dicendum est.
+"Abieteí nunc resolutio est spondei in proceleumatico, in qua resolutione semper synaloepham sequitur Vergilius. [29] Ex una autem longa duae breves fiunt: ex duabus autem brevibus longa numquam fit. Findi enim solida possunt, solidari scissa non possunt. Figura est, cuius nota syllabae agnoscuntur. Vbi enim circuli partem inferiorem bis positam aspicis, pyrrhichius est, V V; ubi I geminam iacentem, spondeus, – –. Nam nota brevis inferior semicirculus est; nota longa I iacens est. [30] Metra in pedibus accidunt, ut a trochaeo trochaicum, a dactylo dactylicum, a iambo iambicum, de quibus paulo post dicendum est.
  
 
  
