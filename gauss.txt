@@ -944,7 +944,7 @@ omnino seiuncti esse possunt, singuli vero erunt lineae continuae.
 Quin adeo linea prima semper erit talis, quam complexam vocant,
 axisque GC tamquam pars huius curuae spectanda; quicunque
 enim valor ipsi r tribuatur, U semper fiet =0 , quando &phi; aut
- =0 aut =180&deg; . Sed praestat complexum cunctorum ramorum
+ =0 aut =180º . Sed praestat complexum cunctorum ramorum
 per omnia puncta, vbi T=0 , transeuntium tamquam vnam curuam
 considerare (secundum vsum in geometria sublimiori generaliter
 receptum), similiterque cunctos ramos per omnia puncta
@@ -980,16 +980,16 @@ sub angulis 1/m 180 , 2/m 180 , 3/m 180 etc. graduum inclinatae.
 Quare linea prima 2m ramos infinitos habet, qui peripheram circuli
 radio infinito descripti in 2m partes aequales dispertiuntur, ita
 vt peripheria a ramo primo secetur in concursu circuli et axis, a
-secundo in distantia 1/m 180&deg; , a tertio in distantia 2/m 180&deg; etc. 
+secundo in distantia 1/m 180º , a tertio in distantia 2/m 180º etc. 
 Eodem modo linea secunda in distantia infinita a centro habebit
 asymptotam per aequationem cos m&phi;=0 expressam, quae
 est complexus m rectarum in puncto C sub aequalibus angulis itidem
 se secantium, ita tamen, vt prima cum axi CG constituat angulum
- 1/m 90&deg; , secunda angulum 3/m 90&deg; , tertia angulum 5/m 90&deg; 
+ 1/m 90º , secunda angulum 3/m 90º , tertia angulum 5/m 90º 
 etc. Quare linea secunda etiam 2m ramos infinitos habebit, quorum
 singuli medium locum inter binos ramos proximos linea primae
 occupabunt, ita vt peripheriam circuli radio infinite magno
-descripti in punctis, quae 1/m 90&deg; , 3/m 90&deg; , 5/m 90&deg; etc. ab axe
+descripti in punctis, quae 1/m 90º , 3/m 90º , 5/m 90º etc. ab axe
 distant, secent. Ceterum palam est, axem ipsum semper duos
 ramos infinitos lineae primae constituere, puta primum et m+1 tum .
 Luculentissime hic ramorum situs exhibetur in fig. 2, pro casu
@@ -1015,11 +1015,11 @@ dico in circulo radio R descripto ea, quae in theoremate enunciata
 sunt, necessario locum habere. Scilicet designato breuitatis gratia
 eo puncto huius circumferentiae, quod 1/m 45 gradibus ab
 ipsius concursu cum laeua parte axis distat, siue pro quo &phi;= 
- 1/m 45&deg; , per (1); similiter eo puncto, quod &phi;=3/m 45&deg; , ab hoc concursu
-distat, siue pro quo &phi;=3/m 45&deg; , per (3); porro eo, vbi
- &phi;=5/m 45&deg; , per (5) etc. vsque ad (8m-1) , quod (8m-1)/m 45 
+ 1/m 45º , per (1); similiter eo puncto, quod &phi;=3/m 45º , ab hoc concursu
+distat, siue pro quo &phi;=3/m 45º , per (3); porro eo, vbi
+ &phi;=5/m 45º , per (5) etc. vsque ad (8m-1) , quod (8m-1)/m 45 
 gradibus ab illo concursu distat, si semper versus eandem partem
-progrederis, (aut 1/m 45&deg; a parte opposita), ita vt omnino 4m 
+progrederis, (aut 1/m 45º a parte opposita), ita vt omnino 4m 
 puncta in peripheria habeantur, aequalibus interuallis dissita:
 iacebit inter (8m-1) et (1) vnum punctum, pro quo T=0 ;
 nec non sita erunt similia puncta singula inter (3) et (5); inter
@@ -1030,13 +1030,13 @@ igitur etiam =2m ; denique praeter haec 4m puncta alia, in
 tota peripheria non dabuntur, pro quibus vel T vel U sit =0 .
  
  
- Demonstr. I. In puncto (1) erit m&phi;=45&deg; adeoque T=
+ Demonstr. I. In puncto (1) erit m&phi;=45º adeoque T=
 R m-1 (R&radic;1/2 +Asin(m-1)&phi;+B/R sin(m-2)&phi;+ etc. 
 + L/(R m-2 ) sin&phi;) ; summa vero Asin(m-1)&phi;+B/R sin(m-2)&phi; etc. 
 certo non poterit esse maior quam S , adeoque necessario erit minor
 quam R&radic;1/2 : vnde sequitur in hoc puncto valorem ipsius T 
 certo esse positiuum. A potiori itaque T valorem positiuum habebit,
-quando m&phi; inter 45&deg; et 135&deg; iacet, i. e. a puncto (1) vsque
+quando m&phi; inter 45º et 135º iacet, i. e. a puncto (1) vsque
 ad (3) valor ipsius T semper positiuus erit. Ex eadem ratione
  T a puncto (9) vsque ad (11) positiuum valorem vbique habebit,
 et generaliter a quouis puncto (8k+1) vsque ad (8k+3) ,
