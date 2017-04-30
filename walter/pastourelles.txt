@@ -33,7 +33,7 @@ cesariem et faciem,
 pectus et oscula.
  
 
- &laquo;Quid -inquam- absque pari   15 
+ "Quid -inquam- absque pari   15 
 placet hic spaciari, 
 Dyones apta lari 
 puellula? 
@@ -42,7 +42,7 @@ si patenis, a Veneris      20
 disiungent copula&raquo;. 
 Virgo decenter satis 
 subintulit illatis: 
-&laquo;hec, precor, obmittatis 
+"hec, precor, obmittatis 
 ridicula;          25 
 sum adhuc parvula, 
 non nubilis nec habilis 
@@ -58,7 +58,7 @@ Regrediar, ne feriar
 materna virgula&raquo;.       35 
  
 
- &laquo;Signa, puella, poli 
+ "Signa, puella, poli 
 considerare noli. 
 Restant immensa soli 
 curricula; 
@@ -67,7 +67,7 @@ ni temere vis spernere
 mea munuscula&raquo;.
  
 
- &laquo;Muneribus oblatis 
+ "Muneribus oblatis 
 me flecti ne credatis, 
 non frangam castitatis     45 
 repagula. 
@@ -127,7 +127,7 @@ opere plumario.
 
  Frons illius adzima, 
 labia tenerrima.       30 
-&laquo;Ades -inquam- omnium 
+"Ades -inquam- omnium 
 michi dilectissima, 
 cor meum et anima, 
 cuius forme lilium 
