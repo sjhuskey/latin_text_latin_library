@@ -71,13 +71,13 @@ Quum iam in aequationibus secundi gradus saepissime ad
 tales casus perueniatur, qui theoremati huic repugnant: algebraistae,
 vt hos illi subiicerent, coacti fuerunt, fingere quantitatem
 quandam imaginariam cuius quadratum sit -1, et tum agnouerunt,
-si quantitates formae a+b&radic;-1 perinde concedantur vt
+si quantitates formae a+b√-1 perinde concedantur vt
 reales, theorema non modo pro aequationibus secundi gradus verum
 esse, sed etiam pro cubicis et biquadraticis. Hinc vero neutiquam
-inferre licuit, admissis quantitatibus formae a+b&radic;-1 
+inferre licuit, admissis quantitatibus formae a+b√-1 
 cuiuis aequationi quinti superiorisue gradus satisfieri posse, aut
 vti plerumque exprimitur (quamquam phrasim lubricam minus probarem)
-radices cuiusuis aequationis ad formam a+b&radic;-1 reduci
+radices cuiusuis aequationis ad formam a+b√-1 reduci
 posse. Hoc theorema ab eo, quod in titulo huius scripti
 enunciatum est, nihil differt, si ad rem ipsam spectas, huiusque
 demonstrationem nouam rigorosam tradere, constituit propositum
@@ -85,7 +85,7 @@ praesentis dissertationis.
  
 Ceterum ex eo tempore, quo analystae comperti sunt, infinite
 multas aequationes esse, quae nullam omnino radicem haberent,
-nisi quantitates formae a+b&radic;-1 admittantur, tales
+nisi quantitates formae a+b√-1 admittantur, tales
 quantitates fictiae tamquam peculiare quantitatum genus, quas
  imaginarias dixerunt, vt a realibus distinguerentur, consideratae
 et in totam analysin introductae sunt; quonam iure? hoc loco
@@ -156,7 +156,7 @@ exponam: obseruo sufficere si tantummodo ostendatur,
 omni aequationi quantiuis gradus x m +Ax m-1 +Bx m-2 + 
 etc. +M=0 siue X=0 (vbi coëfficientes A, B etc. reales esse
 supponuntur) ad minimum vno modo satisfieri posse per valorem
-ipsius x sub forma a+b&radic;-1 contentum. Constat enim, X 
+ipsius x sub forma a+b√-1 contentum. Constat enim, X 
 tunc diuisibilem fore per factorem realem secundi gradus xx-2ax+aa+bb ,
 si b non fuerit =0 , et per factorem realem simplicem
  x-a , si b=0 . In vtroque casu quotiens erit realis, et
@@ -184,9 +184,9 @@ Primo ostendit, si functio quaecunque X quantitatis variabilis
 paruum realem positiuum nancisci possit tribuendo ipsi x 
 valorem realem: hanc functionem etiam valorem infinite paruum
 realem negatiuum obtinere posse per valorem ipsius x vel realem
-vel sub forma imaginaria p+q&radic;-1 contentum. Scilicet designante
- Ω valorem infinite paruum ipsius X , et &omega; valorem respondentem
-ipsius x , asserit &omega; per seriem valde conuergentem
+vel sub forma imaginaria p+q√-1 contentum. Scilicet designante
+ Ω valorem infinite paruum ipsius X , et ω; valorem respondentem
+ipsius x , asserit ω; per seriem valde conuergentem
  aΩ α +bΩ β +cΩ γ etc. exprimi posse, vbi exponentes α, β, γ 
 etc. sint quantitates rationales continuo crescentes, et quae adeo
 ad minimum in distantia certa ab initio positiuae euadant, terminosque,
@@ -196,7 +196,7 @@ paris, omnes terminos seriei reales fieri tum pro positiuo
 tum pro negatiuo valore ipsius Ω ; si vero quaedam fractiones denominatoris
 paris inter illos exponentes repariantur, constare,
 pro valore negatiuo ipsius Ω terminos respondentes in forma
- p+q&radic;-1 contentos esse. Sed propter infinitam seriei conuergentiam
+ p+q√-1 contentos esse. Sed propter infinitam seriei conuergentiam
 in casu priori sufficere, si terminus primus (i. e. maximus)
 solus retineatur, in posteriori vltra eum terminum, qui
 partem imaginariam primus producat, progredi opus non esse.
@@ -206,14 +206,14 @@ partem imaginariam primus producat, progredi opus non esse.
 Per simila ratiocinia ostendi posse, si X valorem realem
 negatiuum infinite paruum ex valore reali ipsius x assequi possit:
 functionem illam valorem realem positiuum infinite paruum ex
-valore reali ipsius x vel ex imaginario sub forma p+q&radic;-1 
+valore reali ipsius x vel ex imaginario sub forma p+q√-1 
 contento adipisci posse.
  
 
  
 Hinc secundo concludit, etiam valorem aliquem realem finitum
 ipsius X dari, in casu priori negatiuum, in posteriori positiuum,
-qui ex valore imaginario ipsius x sub forma p+q&radic;-1 
+qui ex valore imaginario ipsius x sub forma p+q√-1 
 contento produci possit.
  
 
@@ -224,7 +224,7 @@ realem quantitate infinite parua vel maiorem vel minorem ex valore
 reali ipsius x assequatur, eandem etiam valorem realem
 quantitate infinite parua atque adeo finite vel minorem vel maiorem
 quam V (resp.)recipere posse, tribuendo ipsi x valorem sub
-forma p+q&radic;-1 contentum. Hoc nullo negotio ex praecc. deriuatur,
+forma p+q√-1 contentum. Hoc nullo negotio ex praecc. deriuatur,
 si pro X substitui concipitur V+Y , et pro x , v+y .
  
 
@@ -233,28 +233,28 @@ Tandem affirmat ill. d'Alembert, si X totum interuallum
 aliquod inter duos valores reales R, S percurrere posse supponatur
 ( i. e. tum ipsi R , tum ipsi S , tum omnibus valoribus realibus
 intermediis aequalis fieri), tribuendo ipsi x valores semper in
-forma p+q&radic;-1 contentos; functionem X quauis quantitate
+forma p+q√-1 contentos; functionem X quauis quantitate
 finita reali adhuc augeri vel diminui posse (prout S>R vel S<R ),
-manente x semper sub forma p+q&radic;-1 . Si enim quantitas
+manente x semper sub forma p+q√-1 . Si enim quantitas
 realis U daretur (inter quam et R supponitur S iacere), cui X per
 talem valorem ipsius x aequalis fieri non posset, necessario valorem
  maximum ipsius X dari (scilicet quando S>R ; minimum
 vero, quando S<R ), puta T , quem ex valore ipsius
- x , p+q&radic;-1 ,
+ x , p+q√-1 ,
 consequeretur, ita vt ipsi x nullus valor sub simili forma contentus
 tribui posset, qui functionem X vel minimo excessu propius
 versus U promoueret. Iam si in aequatione inter X et x pro x 
-vbique substituatur p+q&radic;-1 , atque tum pars realis, tum pars,
-quae factorem &radic;-1 implicet, hoc omisso, cifrae aequentur: ex
+vbique substituatur p+q√-1 , atque tum pars realis, tum pars,
+quae factorem √-1 implicet, hoc omisso, cifrae aequentur: ex
 duabus aequationibus hinc prodeuntibus (in quibus p, q et X cum
 constantibus permixtae occurrent) per eliminationem duas alias
 elici posse, in quarum altera p, X et constantes reperiantur altera
 a p libera solas q, X et constantes inuoluat. Quamobrem
 quum X per valores reales ipsarum p,q omnes valores ab R vsque
 ad T percurrerit, per praecc. X versus valorem U adhuc propius
-accedere posse tribuendo ipsius p, q valores tales α+γ&radic;-1 ,
- β+δ&radic;-1 resp. Hinc vero fieri x=α-δ+(γ+β)&radic;-1 , i. e. 
-adhuc sub forma p+q&radic;-1 esse, contra hyp.
+accedere posse tribuendo ipsius p, q valores tales α+γ√-1 ,
+ β+δ√-1 resp. Hinc vero fieri x=α-δ+(γ+β)√-1 , i. e. 
+adhuc sub forma p+q√-1 esse, contra hyp.
  
 
  
@@ -262,7 +262,7 @@ Iam si X functionem talem vt x m +Ax m-1 +Bx m-2
  + etc. +M denotare supponitur, nullo negotio perspicitur, ipsi
  x tales valores reales tribui posse, vt X totum aliquod interuallum
 inter duos valores reales percurrat. Quare x valorem aliquem
-sub forma p+q&radic;-1 contentum talem etiam nancisci poterit,
+sub forma p+q√-1 contentum talem etiam nancisci poterit,
 vnde X fiat =0 . Q. E. D. *2) 
  
 
@@ -287,7 +287,7 @@ hic ad solam dictionis formam pertinet, quae facile ita corrigi potest,
 vt illa penitus destruatur.
 
  
-2. Assertio, &omega; per talem seriem qualem ponit semper exprimi
+2. Assertio, ω; per talem seriem qualem ponit semper exprimi
 posse, certo est falsa, si X etiam funcionem quamlibet transscendentem
 designare debet (vti d'A. pluribus locis innuit). Hoc
  e. g. manifestum est, si ponitur X=e 1/x , siue x=1/log X . Attamen
@@ -309,9 +309,9 @@ aliquem finitum consequi posse, non tam ex possibilitate valoris
 infinite parui ipsius Ω , concludere videtur quam inde potius, quod
 denotante Ω quantitatem valde paruam, propter magnam seriei
 conuergentiam, quo plures termini seriei accipiantur, eo propius
-ad valorem verum ipsius &omega; accedatur, aut, quo plurium partium
-summa pro &omega; accipiatur, eo exactius aequtioni, quae relationem
-inter &omega; et Ω siue x et X exhibeat, satisfactum iri. Praeterea
+ad valorem verum ipsius ω; accedatur, aut, quo plurium partium
+summa pro ω; accipiatur, eo exactius aequtioni, quae relationem
+inter ω; et Ω siue x et X exhibeat, satisfactum iri. Praeterea
 quod tota haec argumentatio nimis vaga videtur, quam vt ulla
 conclusio rigorosa inde colligi possit: obseruo, vtique dari series,
 quae quantumuis paruus valor quantitati, secundum cuius potestates
@@ -388,19 +388,19 @@ dignitatem numeri 2, functionem x 2m +Bx 2x-2 +Cx 2m-3
 semper in duos factores reales resolui posse, in quibus x vsque
 ad m dimensiones ascendat. Ad hunc finem duos factores assumit,
  x m -ux m-1 +α x m-2 +β x m-3 + etc., et x m + 
- ux m-1 +λ x m-2 +&mu; x m-3 etc. vbi coëfficientes u, α, β etc. 
- λ, &mu; etc. adhuc incogniti sunt, horumque productum aequale
+ ux m-1 +λ x m-2 +μ x m-3 etc. vbi coëfficientes u, α, β etc. 
+ λ, μ etc. adhuc incogniti sunt, horumque productum aequale
 ponit functioni X . Tum coëfficientium comparatio suppeditat
  2m-1 aequationes, manifestoque demonstrari tantummodo debet,
-incognitis u,α,β etc. λ, &mu; etc. (quarum multitudo etiam est
+incognitis u,α,β etc. λ, μ etc. (quarum multitudo etiam est
  2-1 ) tales valores reales tribui posse, qui aequationibus illis
 satisfaciant. Iam E. affirmat, si primo u tamquam cognita consideretur,
 ita vt multitudo incognitarum vnitate minor sit quam
 multitudo aequationum, his secundum methodos algebraicas notas
-rite combinatis omnes α, β etc. λ, &mu; etc. rationaliter et sine
+rite combinatis omnes α, β etc. λ, μ etc. rationaliter et sine
 vlla radicum extractione per u et coëfficientes B, C etc. determinari
 posse, adeoque valores reales nancisci, simulac u realis fiat.
-Praeterea vero omnes α, β etc. λ, &mu; etc. eliminari poterunt, ita
+Praeterea vero omnes α, β etc. λ, μ etc. eliminari poterunt, ita
 vt prodeat aequatio U=0 , vbi U erit functio integra solius u et
 coëfficientium cognitorum. Hanc aequationem ipsam per methodum
 eliminationis vulgarem euoluere, opus immensum fore,
@@ -410,7 +410,7 @@ Attamen sufficit, vnam illius aequationis proprietatem nouisse,
 scilicet quod terminus vltimus in U (qui incognitam u non implicat)
 necessario est negatiuus, vnde sequi constat, aequationem
 ad minimum vnum radicem realem habere, siue u et proin etiam 
- α, β etc. λ, &mu; etc. ad minimum vno modo realiter determinari
+ α, β etc. λ, μ etc. ad minimum vno modo realiter determinari
 posse: illam vero proprietatem per sequentes reflexiones confirmare
 licet. Quum x m -ux m-1 +α x m-2 + etc. supponatur
 esse factor functionis X : necessario u erit summa m radicum
@@ -470,7 +470,7 @@ Contra hanc demonstrationem obiici potest.
 
  
 1. Regulam, secundum quam E. concludit, ex 2m-1 
-aequationibus 2m-2 incognitas α,β etc. λ, &mu; etc. omnes rationaliter
+aequationibus 2m-2 incognitas α,β etc. λ, μ etc. omnes rationaliter
 determinari posse, neutiquam esse generalem, sed
 saepissime exceptionem pati. Si quis e. g. in art. 3, aliaque incognitarum 
 tamquam cognita spectata, reliquas per hanc et coefficientes
@@ -480,7 +480,7 @@ quam per aequationem m-1 ti gradus determinari posse. Quamquam
 vero hic statim a priori perspici potest, illud necessario ita euenire
 debuisse: tamen merito dubitari posset, annon etiam in
 casu praesenti pro quibusdam valoribus ipsius m res eodem modo
-se habebat; vt incognitae α,β etc. λ, &mu; etc. ex u,B,C etc. aliter
+se habebat; vt incognitae α,β etc. λ, μ etc. ex u,B,C etc. aliter
 quam per aequationem gradus forsan maioris quam 2m determinari
 nequeant. Pro eo casu, vbi aequatio X=0 est quarti gradus,
 E. valores rationales coëfficientium per u et coëfficientes
@@ -495,12 +495,12 @@ fusius agere suscipiam.
  
 2. Etiamsi autem demonstratum fuerit, cuiusuis gradus sit
 aequatio X=0 , semper formulas inueniri posse, quae ipsas
- α, β etc. λ, &mu; etc. rationaliter per u, B, C etc. exhibeant: tamen
+ α, β etc. λ, μ etc. rationaliter per u, B, C etc. exhibeant: tamen
 certum est, pro valoribus quibusdam determinatis coëfficientium
  B, C etc. formulas illas indeterminatas euadere posse, ita vt non
 solum impossibile sit, incognitas illas rationaliter ex u, B, C 
 etc. definire, sed adeo reuera quibusdam in casibus valori alicui reali
-ipsius u nulli valores reales ipsarum α, β etc. λ, &mu; etc. respondeant.
+ipsius u nulli valores reales ipsarum α, β etc. λ, μ etc. respondeant.
 Ad confirmationem huius rei breuitatis gratia ablego lectorem
 ad diss. ipsam E. vbi p. 236. aequatio quarti gradus fusius
 explicata est. Statim quisque videbit, formulas pro coëfficientibus
@@ -530,19 +530,19 @@ existentiam supponere. Sine dubio ii, qui huius paralogismi fallaciam
 nondum penetrauerunt, respondebunt, hic non demonstrari,
 aequationi X=0 satisfieri posse (nam hoc dicere vult expressio, eam
 habere radices), sed tantummodo, ipsi per valores ipsios x sub forma
- a+b&radic;-1 contentos satisfieri posse; illud vero tamquam axioma supponi. 
+ a+b√-1 contentos satisfieri posse; illud vero tamquam axioma supponi. 
 At quum aliae quantitatum formae, praeter realem et imaginariam
- a+b&radic;-1 concipi nequeant, non satis luculentum videtur,
+ a+b√-1 concipi nequeant, non satis luculentum videtur,
 quomodo id quod demonstrari debet ab eo, quod tamquam
 axioma supponitur, differat; quin adeo si possibile esset adhuc
 alias formas quantitatum excogitare, puta formam F, F&prime;, F&prime;&prime; 
 etc. tamen sine demonstratione admitti non deberet, cuius aequationi
 per aliquem valorem ipsius x aut realem, aut sub forma
- a+b&radic;-1 , aut sub forma F , aut sub F&prime; etc. contentum satisfieri
+ a+b√-1 , aut sub forma F , aut sub F&prime; etc. contentum satisfieri
 posse. Quamobrem axioma illud alium sensum habere nequit
 quam hunc: Cuius aequationi satisfieri potest aut per valorem
 realem incognitae, aut per valorem imaginariam sub forma
- a+b&radic;-1 contentum, aut forsan per valorem sub forma alia
+ a+b√-1 contentum, aut forsan per valorem sub forma alia
 hucusque ignota contentum, aut per valorem, qui sub nulla
 omnino forma continetur. Sed quomodo huiusmodi quantitates
 de quibus ne ideam quidem fingere potes — vera vmbrae vmbra
@@ -657,7 +657,7 @@ esse videtur (vti asserit E.), illam nihil aliud continere posse,
 quam operationes arithmeticas et extractiones radicum eo magis
 complicatas, quo maior sit n . Si hoc conceditur, E. optime
 ostendit, quantumuis inter se complicata sint signa radicalia, tamen
-formulae valorem semper per formam M+N&radic;-1 repraesentabilem
+formulae valorem semper per formam M+N√-1 repraesentabilem
 fore, ita vt M, N sint quantitates reales. 
  
  
@@ -669,7 +669,7 @@ esse impossibilem et contradictoriam. Hoc eo minus paradoxum
 videri debet, quum id quod vulgo resolutio aequationis dicitur proprie
 nihil aliud sit quam ipsius reductio ad aequationes puras. Nam aequationum
 purarum solutio hinc non docetur sed supponitur, et si radicem
-aequationis x m =H per m &radic;H exprimis illam neutiquam soluisti,
+aequationis x m =H per m √H exprimis illam neutiquam soluisti,
 neque plus fecisti, quam si ad denotandam radicem aequationis
  x n +Ax n-1 + etc. =0 signum aliquod excogitares, radicemque
 huic aequalem poneres. Verum est, aequationes puras
@@ -704,7 +704,7 @@ Proposita sit aequatio Z=0 , designante Z functionem m ti
 gradus incognitae z . Si m est numerus impar, iam constat, aequationem
 hanc habere radicem realem; si vero m est par, clar. F. sequenti
 modo probare conatur, aequationem ad minimum vnam
-radicem formae p+q&radic;-1 habere. Sit m=2 n i , designante i 
+radicem formae p+q√-1 habere. Sit m=2 n i , designante i 
 numerum imparem, supponaturque zz+uz+M esse diuisor
 functionis Z . Tunc singuli valores ipsius u erunt summae binarum
 radicum aequationis Z=0 (mutato signo), quamobrem u 
@@ -730,19 +730,19 @@ per u&prime;&prime; et coëfficientes in U&prime; (quos fore functiones integras
 in Z facile intelligitur), siue per u&prime;&prime; et coëfficientes in Z 
 rationaliter determinabilem fore asserit clar. de F., et proin realem.
 Hinc sequitur, radices aequationis u&prime; u&prime;+u&prime;&prime;u&prime;+M&prime;&prime;=0 
-sub forma p+q&radic;-1 contentas fore; eadem vero manifesto
+sub forma p+q√-1 contentas fore; eadem vero manifesto
 aequationi U&prime;=0 satisfacient: quare dabitur valor aliquis ipsius
- u&prime; sub forma p+q&radic;-1 contentus. Iam coëfficiens M&prime; (eodem
+ u&prime; sub forma p+q√-1 contentus. Iam coëfficiens M&prime; (eodem
 modo vt ante) rationaliter per u&prime; et coëfficientes in Z determinari
-potest, adeoque etiam sub forma p+q&radic;-1 contentus erit;
+potest, adeoque etiam sub forma p+q√-1 contentus erit;
 quare aequationis uu+u&prime; u+M&prime; radices sub eadem forma contentae
 erunt, simul vero aequationi U=0 satisfacient, i. e. aequatio
-haec habebit radicem sub forma p+q&radic;-1 contentam. Denique
+haec habebit radicem sub forma p+q√-1 contentam. Denique
 hinc simili ratione sequitur, etiam M sub eadem forma contineri,
 nec non radicem aequationis zz+uz+M=0 , quae
 manifesto etiam aequationi propositae Z=0 satisfaciet. Quamobrem
 quaeuis aequatio ad minimum vnam radicem formae
- p+q&radic;-1 habebit.
+ p+q√-1 habebit.
  
 
 
@@ -1010,7 +1010,7 @@ bina priorum iaceant.
  
  
 Sit summa omnium coëfficientium A,B etc. K,L,M , positiue
-acceptorum =S , accipiaturque R simul >S&radic;2 et >1 *9) : tum
+acceptorum =S , accipiaturque R simul >S√2 et >1 *9) : tum
 dico in circulo radio R descripto ea, quae in theoremate enunciata
 sunt, necessario locum habere. Scilicet designato breuitatis gratia
 eo puncto huius circumferentiae, quod 1/m 45 gradibus ab
@@ -1031,10 +1031,10 @@ tota peripheria non dabuntur, pro quibus vel T vel U sit =0 .
  
  
  Demonstr. I. In puncto (1) erit m&phi;=45º adeoque T=
-R m-1 (R&radic;1/2 +Asin(m-1)&phi;+B/R sin(m-2)&phi;+ etc. 
+R m-1 (R√1/2 +Asin(m-1)&phi;+B/R sin(m-2)&phi;+ etc. 
 + L/(R m-2 ) sin&phi;) ; summa vero Asin(m-1)&phi;+B/R sin(m-2)&phi; etc. 
 certo non poterit esse maior quam S , adeoque necessario erit minor
-quam R&radic;1/2 : vnde sequitur in hoc puncto valorem ipsius T 
+quam R√1/2 : vnde sequitur in hoc puncto valorem ipsius T 
 certo esse positiuum. A potiori itaque T valorem positiuum habebit,
 quando m&phi; inter 45º et 135º iacet, i. e. a puncto (1) vsque
 ad (3) valor ipsius T semper positiuus erit. Ex eadem ratione
@@ -1058,7 +1058,7 @@ et (5), vel inter (7) et (9) etc. ad minimum duo iacerent. Tum
 vero nesessario in eodem interuallo T alicubi esset maximum , vel
  minimum , adeoque (dT)/(d&phi;)=0 . Sed (dT)/(d&phi;)=mR m-2 (Rcos m&phi;+(m-1)/m Acos(m-1)&phi;+ etc.)
 et cos m&phi; inter (3) et (5) semper
-est negatiuus et >&radic;1/2 . Vnde facile perspicitur in toto hoc interuallo
+est negatiuus et >√1/2 . Vnde facile perspicitur in toto hoc interuallo
  (dT)/(d&phi;) esse quantitatem negatiuam; eodemque modo inter
 (7) et (9) vbique positiuam; inter (11) et (13) negatiuam etc. ita
 vt in nullo horum interuallorum esse possit 0, adeoque suppositio
@@ -1093,7 +1093,7 @@ et (9) etc., perspicieturque facile, quo minus radius huius circuli
 a radio R differat, eo propius huiusmodi puncta inter (3) et (5)
 in vtriusque circumferentia sita esse debere. Idem etiam locum
 habebit, si circulus radio aliquantum minori quam R , attamen
-maiori quam S&radic;2 et 1 describitur. Ex his nullo negotio intelligitur,
+maiori quam S√2 et 1 describitur. Ex his nullo negotio intelligitur,
 circuli radio R descripti circumferentiam in eo puncto inter (3) et
 (5), vbi T=0 , reuera secari ab aliquo ramo lineae primae; idemque
 valet de reliquis punctis, vbi T=0 . Eodem modo patet,
@@ -1266,9 +1266,9 @@ l. 21. pro aliaque, l . aliqua. p. 28. l. 7 et 8. pro cos&phi; , l . rcos&phi; .
  
  
 *1) Sub quantitate imaginaria hic semper intelligo quantitatem in forma
- a+b&radic;-1 contentam, quamdiu b non est =0 . In hoc sensu
+ a+b√-1 contentam, quamdiu b non est =0 . In hoc sensu
 expressio illa semper ab omnibus geometris primae notae accepta
-est, neque audiendos censeo, qui quantitatem a+b&radic;-1 in eo
+est, neque audiendos censeo, qui quantitatem a+b√-1 in eo
 solo casu imaginarium vocare voluerunt vbi a=0 , impossibilem 
 vero quando non sit a=0 , quum haec distinctio neque necessaria
 sit neque vllius vtilitatis. — Si quantitates imaginariae omnino in
@@ -1359,7 +1359,7 @@ fuisse, si analystarum methodum imitatus essem.
  
  
 *6) In hanc expositionem error irrepsisse videtur, scilicet p. 118. l. 5.
-loco characteris v (on choissoit seulement celles o&ugrave; entroit p etc. ),
+loco characteris v (on choissoit seulement celles où entroit p etc. ),
 necessario legere oportet, une même racine quelconque de l'équation
 proposée , aut simile quid, quum illud nullum sensum habeat.
  
@@ -1383,8 +1383,8 @@ intueri poterunt. Longitudo lineae CG assumta est =10 .
 
  
  
-*9) Quando S>&radic;1/2 ,
-conditio prima secundam; quando vero S<&radic;1/2 secunda primam implicabit.
+*9) Quando S>√1/2 ,
+conditio prima secundam; quando vero S<√1/2 secunda primam implicabit.
  
 
 
