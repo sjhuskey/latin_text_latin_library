@@ -12,7 +12,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 1. 
+ § 1. 
  
 
  
@@ -28,7 +28,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 2. 
+ § 2. 
  
 
  
@@ -43,7 +43,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 3. 
+ § 3. 
  
 
  
@@ -78,7 +78,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 4. 
+ § 4. 
  
 
  
@@ -125,7 +125,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 5 
+ § 5 
  
 
  
@@ -169,7 +169,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 6. 
+ § 6. 
  
 
  
@@ -215,7 +215,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 7. 
+ § 7. 
  
 
  
@@ -238,7 +238,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 8. 
+ § 8. 
  
 
  
@@ -284,7 +284,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 9. 
+ § 9. 
  
 
  
@@ -312,7 +312,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 10. 
+ § 10. 
  
 
  
@@ -356,7 +356,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 11. 
+ § 11. 
  
 
  
@@ -420,7 +420,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 12. 
+ § 12. 
  
 
  
@@ -471,7 +471,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 13. 
+ § 13. 
  
 
  
@@ -489,7 +489,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 14. 
+ § 14. 
  
 
  
@@ -510,7 +510,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 15. 
+ § 15. 
  
 
  
@@ -571,7 +571,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 16. 
+ § 16. 
  
 
  
@@ -601,7 +601,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 17. 
+ § 17. 
  
 
  
@@ -657,7 +657,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 18. 
+ § 18. 
  
 
  
@@ -701,7 +701,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 19. 
+ § 19. 
  
 
  
@@ -741,7 +741,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 20. 
+ § 20. 
  
 
  
@@ -820,7 +820,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 21. 
+ § 21. 
  
 
  
@@ -865,7 +865,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 22. 
+ § 22. 
  
 
  
@@ -928,7 +928,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 23. 
+ § 23. 
  
 
  
@@ -1021,7 +1021,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 24. 
+ § 24. 
  
 
  
@@ -1065,7 +1065,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 25. 
+ § 25. 
  
 
  
@@ -1106,7 +1106,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 26. 
+ § 26. 
  
 
  
@@ -1162,7 +1162,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 27. 
+ § 27. 
  
 
  
@@ -1203,7 +1203,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 28. 
+ § 28. 
  
 
  
@@ -1262,7 +1262,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 29. 
+ § 29. 
  
 
  
@@ -1310,7 +1310,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 30 
+ § 30 
  
 
  
@@ -1369,7 +1369,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 31. 
+ § 31. 
  
 
  
@@ -1414,7 +1414,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 32. 
+ § 32. 
  
 
  
@@ -1481,7 +1481,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 33. 
+ § 33. 
  
 
  
@@ -1494,7 +1494,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 34. 
+ § 34. 
  
 
  
@@ -1529,7 +1529,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 35. 
+ § 35. 
  
 
  
@@ -1554,7 +1554,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 36. 
+ § 36. 
  
 
  
@@ -1606,7 +1606,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 37. 
+ § 37. 
  
 
  
@@ -1688,7 +1688,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 38. 
+ § 38. 
  
 
  
@@ -1782,7 +1782,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 39. 
+ § 39. 
  
 
  
@@ -1797,7 +1797,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 40. 
+ § 40. 
  
 
  
@@ -1827,7 +1827,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 41. 
+ § 41. 
  
 
  
@@ -1886,7 +1886,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 42. 
+ § 42. 
  
 
  
@@ -1935,7 +1935,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 43. 
+ § 43. 
  
 
  
@@ -1980,7 +1980,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 44. 
+ § 44. 
  
 
  
@@ -1999,7 +1999,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 45. 
+ § 45. 
  
 
  
@@ -2053,7 +2053,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 46. 
+ § 46. 
  
 
  
@@ -2084,7 +2084,7 @@ Pico della Mirandola: Oratio de hominis dignitate
  
 
  
- &sect; 47. 
+ § 47. 
  
 
  
