@@ -241,7 +241,7 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.2 Atque ut ad uetustiorem industriae actum transgrediar, Pythagoras, perfectissimum opus sapientiae a iuuenta pariter et omnis honestatis percipiendae cupiditate ingressus,++nihil enim, quod ad ultimum sui peruenturum est finem, non et mature et alacriter incipit,++Aegyptum petiit, ubi litteris gentis eius adsuefactus, praeteriti aeui sacerdotum commentarios scrutatus innumerabilium saeculorum obseruationes cognouit. inde ad Persas profectus magorum exactissimae prudentiae se formandum tradidit, a quibus siderum motus cursusque stellarum et unius cuiusque uim, proprietatem, effectum benignissime demonstratum docili animo sorpsit. Cretam deinde et Lacedaemona nauigauit, quarum legibus ac moribus inspectis ad Olympicum certamen descendit, cumque multiplicis scientiae maximam inter totius Graeciae admirationem specimen exhibuisset, quo cognomine censeretur interrogatus, non se sapientem,++iam enim illud vii excellentes uiri occupauerant++sed amatorem sapientiae, id est Graece fil"sofon edidit. in Italiae etiam partem, quae tunc maior Graecia appellabatur, perrexit, in qua plurimis et opulentissimis urbibus effectus studiorum suorum adprobauit. cuius ardentem rogum plenis uenerationis oculis Metapontus aspexit oppidum, Pythagorae quam suorum cinerum nobilius clariusque monumentum.
+8.7.ext.2 Atque ut ad uetustiorem industriae actum transgrediar, Pythagoras, perfectissimum opus sapientiae a iuuenta pariter et omnis honestatis percipiendae cupiditate ingressus,++nihil enim, quod ad ultimum sui peruenturum est finem, non et mature et alacriter incipit,++Aegyptum petiit, ubi litteris gentis eius adsuefactus, praeteriti aeui sacerdotum commentarios scrutatus innumerabilium saeculorum obseruationes cognouit. inde ad Persas profectus magorum exactissimae prudentiae se formandum tradidit, a quibus siderum motus cursusque stellarum et unius cuiusque uim, proprietatem, effectum benignissime demonstratum docili animo sorpsit. Cretam deinde et Lacedaemona nauigauit, quarum legibus ac moribus inspectis ad Olympicum certamen descendit, cumque multiplicis scientiae maximam inter totius Graeciae admirationem specimen exhibuisset, quo cognomine censeretur interrogatus, non se sapientem,++iam enim illud vii excellentes uiri occupauerant++sed amatorem sapientiae, id est Graece φιλόσοφον edidit. in Italiae etiam partem, quae tunc maior Graecia appellabatur, perrexit, in qua plurimis et opulentissimis urbibus effectus studiorum suorum adprobauit. cuius ardentem rogum plenis uenerationis oculis Metapontus aspexit oppidum, Pythagorae quam suorum cinerum nobilius clariusque monumentum.
  
 
  
@@ -269,11 +269,11 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.9 Atque ut longae et felicis industriae quasi in unum aceruum exempla redigamus, Isocrates nobilissimum librum, qui Panayhna|ik"w inscribitur, quartum et nonagesimum annum agens, ita ut ipse significat, conposuit, opus ardentis spiritus plenum. ex quo apparet senescentibus membris eruditorum intus animos industriae beneficio florem iuuentae retinere. neque hoc stilo terminos uitae suae clausit: namque admirationis eius fructum quinquennio percepit.
+8.7.ext.9 Atque ut longae et felicis industriae quasi in unum aceruum exempla redigamus, Isocrates nobilissimum librum, qui Παναθηναϊκός inscribitur, quartum et nonagesimum annum agens, ita ut ipse significat, conposuit, opus ardentis spiritus plenum. ex quo apparet senescentibus membris eruditorum intus animos industriae beneficio florem iuuentae retinere. neque hoc stilo terminos uitae suae clausit: namque admirationis eius fructum quinquennio percepit.
  
 
  
-8.7.ext.10 Citerioris aetatis metas, sed non parui tamen spatii chrysippi uiuacitas flexit: nam octogesimo anno coeptum undequadragesimum Logik&#180;n exactissimae subtilitatis uolumen reliquit. cuius studium in tradendis ingenii sui monumentis tantum operae laborisque sustinuit, ut ad ea, quae scripsit, penitus cognoscenda longa uita sit opus.
+8.7.ext.10 Citerioris aetatis metas, sed non parui tamen spatii chrysippi uiuacitas flexit: nam octogesimo anno coeptum undequadragesimum Λογικῶν exactissimae subtilitatis uolumen reliquit. cuius studium in tradendis ingenii sui monumentis tantum operae laborisque sustinuit, ut ad ea, quae scripsit, penitus cognoscenda longa uita sit opus.
  
 
  
@@ -281,7 +281,7 @@ Valerius Maximus VIII
  
 
  
-8.7.ext.12 Sophocles quoque gloriosum cum rerum natura certamen habuit, tam benigne mirifica illi opera sua exhibendo quam illa operibus eius tempora liberaliter sumministrando: prope enim centesimum annum attigit, sub ipsum transitum ad mortem Oedipode &szlig;p&#173; Kolvn" scripto, qua sola fabula omnium eiusdem studi poetarum praeripere gloriam potuit. idque ignotum esse posteris filius Sophoclis Iophon noluit, sepulcro patris quae retuli insculpendo.
+8.7.ext.12 Sophocles quoque gloriosum cum rerum natura certamen habuit, tam benigne mirifica illi opera sua exhibendo quam illa operibus eius tempora liberaliter sumministrando: prope enim centesimum annum attigit, sub ipsum transitum ad mortem Oedipode ἐπὶ Κολωνῷ scripto, qua sola fabula omnium eiusdem studi poetarum praeripere gloriam potuit. idque ignotum esse posteris filius Sophoclis Iophon noluit, sepulcro patris quae retuli insculpendo.
  
 
  
