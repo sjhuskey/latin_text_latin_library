@@ -16,7 +16,7 @@ Theodulus
  
 Aethiopum terras iam fervida torruit aestas, 
 In Cancro solis dum volvitur aureus axis, 
-Compuleratque suas tiliae sub am&oelig;na capellas 
+Compuleratque suas tiliae sub amoena capellas 
 Natus ab Athenis pastor cognomine Pseustis, 
 Pellis pantherae corpus cui texit utrimque 
 Discolor et rigidas perflavit fistula buccas 
@@ -32,12 +32,12 @@ Litoris alterius proclamat ab aggere tutus:
 «Cur, Alithia, canis rebus stultissima mutis? 
 Si iuvat, ut vincas, mecum certare potestas: 
 Fistula nostra tuum cedet, si vincis, in usum; 
-Victa dabis citharam; legem c&oelig;amus in aequam». 
+Victa dabis citharam; legem coeamus in aequam». 
 Illa refert: «Nec dicta movent nec praemia mulcent    20 
 Me tua nunc adeo, quia vulnere mordeor uno: 
 Quo res cumque cadit, testis nisi sedulus assit, 
 Si victus fueris, non me vicisse fateris. 
-Sed quia mutari nescit sententia c&oelig;pti, 
+Sed quia mutari nescit sententia coepti, 
 En adaquare gregem, simul et relevare calorem 
 Nostra venit Fronesis: sedeat pro iudice nobis». 
 Pseustis ad haec: «Video quod eam sors obtulit ultro. 
@@ -45,7 +45,7 @@ Huc ades, o Fronesi! nam sufficit hora diei,
 Ut tua iam nostro postponas seria ludo». 
 Tunc mater Fronesis: «Adaquato me grege quamvis    30 
 Accelerare domum iussisset uterque parentum 
-Nec dubitem p&oelig;nas, si quicquam tardo, paratas, 
+Nec dubitem poenas, si quicquam tardo, paratas, 
 Laeta feram talis praesumens gaudia litis. 
 Perge prior, Pseusti, quia masculus; illa sequaci 
 Aequabit studio. Sit tetras in ordine vestro. 
@@ -157,7 +157,7 @@ ALITHIA
 
  
 Ultio digna Dei fontes disrupit abissi 
-Octavum N&oelig; servans in partibtis arcae; 
+Octavum Noe servans in partibtis arcae; 
 Amodo ne talem patiantur saecula cladem, 
 Visibus humanis per nubila panditur Iris.
  
@@ -387,7 +387,7 @@ PSEUSTIS
  
 
  
-Ventilat &oelig;stro decoratam cornibus Io 
+Ventilat oestro decoratam cornibus Io 
 Iuno ferox et ei tutelam deputat Argi: 
 Mugit pro verbis horrentibus obsita saetis, 
 Donec in effigiem rediit mutata priorem.    160 
@@ -399,7 +399,7 @@ ALITHIA
 
  
 Offensus Balaam calcaribus urget asellam; 
-Angelus occurrit, pecudem qui stare c&oelig;git. 
+Angelus occurrit, pecudem qui stare coegit. 
 Res horrenda nimis! Laxatur vox animalis, 
 Quae consuevit homo producere verba, loquendo.
  
@@ -410,7 +410,7 @@ PSEUSTIS
 
  
 Sufficeret thalamis ut Iuppiter Amphitrionis, 
-Noctis opem placidae geminavit candida Ph&oelig;be; 
+Noctis opem placidae geminavit candida Phoebe; 
 Protinus Alcmena licet indignante noverca 
 Editus Alcides immissos strangulat angues.
  
@@ -421,7 +421,7 @@ ALITHIA
 
  
 Victrici populo ne quondam vivida bello 
-Deficeret virtus Gabaon ad pr&oelig;lia, Ph&oelig;bus    170 
+Deficeret virtus Gabaon ad proelia, Phoebus    170 
 Imperio Iosuae stabat defixus in arce: 
 Quae sanctae fidei sint praemia, discite cuncti.
  
@@ -510,7 +510,7 @@ ALITHIA
  
 Omnipotens Ididae poscenti dona Sophiae 
 Annuit in tantum, naturae vincat ut usum 
-Praeditus ingenio decoravit m&oelig;nia tempio: 
+Praeditus ingenio decoravit moenia tempio: 
 Confertum gazis evertit amor muliebris.
  
 
@@ -629,10 +629,10 @@ PSEUSTIS
  
 
  
-Quadrupedes Ph&oelig;bi quae cogit causa morari? 
+Quadrupedes Phoebi quae cogit causa morari? 
 Experientur item Phaetontis saecula cladem. 
 Quid, vesper, cessas? Saturarunt prata capellas, 
-Ruminat omne pecus, nescit procedere Ph&oelig;bus.
+Ruminat omne pecus, nescit procedere Phoebus.
  
 
  
@@ -816,7 +816,7 @@ ALITHIA
  
 
  
-Obtutu vigili curat fastigia c&oelig;li, 
+Obtutu vigili curat fastigia coeli, 
 Quicquid nutrit humus, quicquid producit abissus, 
 Nec somnum novit qui Verbo cuncta creavit. 
 Fige dies, cursum, ne perdat virgo triumphum.
@@ -887,14 +887,14 @@ Nec, si perficiant, vitae discrimina curant,
 Ex insperato dominus tibi contulit ultro: 
 Ut cessare velis devictus supplicat hostis.    340 
 Treicius vates commovit pectine Manes, 
-Te moveant lacrimae; iam tollit cornua Ph&oelig;be; 
+Te moveant lacrimae; iam tollit cornua Phoebe; 
 Sol petit Oceanum. frigus succedit opacum: 
 Desine quod restat, ne desperatio laedat.
  
 
  
  Tunc Alithia Deo reddens pia carmina plectro 
-Hoste suo victo c&oelig;pit modulare benigno: 
+Hoste suo victo coepit modulare benigno: 
 Alme Deus, triplex, ast omnipotens, pie, simplex, 
 Qui caelum, terras, mare, tartara rite gubernas 
 Quique regis cuncta propria virtute sub una, 
