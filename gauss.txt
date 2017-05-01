@@ -339,12 +339,12 @@ vero nihilominus numquam attingere. Ex argumentis ab ill. d'A.
 allatis tantummodo sequitur, X omnem valorem, quem attigerit,
 adhuc quantitate finita superare posse, puta quando enaserit =S ,
 adhuc quantitate aliqua finita Ω augeri posse; quo facto, nouum
-incrementum Ω&prime; accedere, tunc iterum augmentum Ω&prime;&prime; etc., ita
+incrementum Ω′ accedere, tunc iterum augmentum Ω′′ etc., ita
 vt quotcunque incrementa iam adiecta sint, nullum pro vltimo haberi
 debeat, sed semper aliquod nouum accedere possit. At
 quamuis multitudo incrementorum possibilium nullis limitibus sit
-circumscripta: tamen vtique fieri posset, vt si incrementa Ω, Ω&prime;, Ω&prime;&prime; 
-etc. continuo decrescerent, nihilominus summa S+Ω+Ω&prime;+Ω&prime;&prime; 
+circumscripta: tamen vtique fieri posset, vt si incrementa Ω, Ω′, Ω′′ 
+etc. continuo decrescerent, nihilominus summa S+Ω+Ω′+Ω′′ 
 etc. limitem aliquem numquam attingeret, quotcunque termini
 considerentur.
  
@@ -535,10 +535,10 @@ At quum aliae quantitatum formae, praeter realem et imaginariam
  a+b√-1 concipi nequeant, non satis luculentum videtur,
 quomodo id quod demonstrari debet ab eo, quod tamquam
 axioma supponitur, differat; quin adeo si possibile esset adhuc
-alias formas quantitatum excogitare, puta formam F, F&prime;, F&prime;&prime; 
+alias formas quantitatum excogitare, puta formam F, F′, F′′ 
 etc. tamen sine demonstratione admitti non deberet, cuius aequationi
 per aliquem valorem ipsius x aut realem, aut sub forma
- a+b√-1 , aut sub forma F , aut sub F&prime; etc. contentum satisfieri
+ a+b√-1 , aut sub forma F , aut sub F′ etc. contentum satisfieri
 posse. Quamobrem axioma illud alium sensum habere nequit
 quam hunc: Cuius aequationi satisfieri potest aut per valorem
 realem incognitae, aut per valorem imaginariam sub forma
@@ -708,34 +708,34 @@ radicem formae p+q√-1 habere. Sit m=2 n i , designante i
 numerum imparem, supponaturque zz+uz+M esse diuisor
 functionis Z . Tunc singuli valores ipsius u erunt summae binarum
 radicum aequationis Z=0 (mutato signo), quamobrem u 
-habebit (m . m-t) / (1 . 2)=m&prime; valores, et si u per aequationem U=0 determinari
+habebit (m . m-t) / (1 . 2)=m′ valores, et si u per aequationem U=0 determinari
 supponitur (designante U functionem integram ipsius u 
-et coëfficientium cognitorum in Z ), haec erit gradus m&prime; ti . Facile
-vero perspicitur m&prime; fore numerum formae 2 n-1 i&prime; , designante i&prime; 
-numerum imparem. Iam nisi m&prime; est impar, supponatur iterum,
- uu+uu&prime;+M&prime; esse diuisorem ipsius U , patetque per similia
-ratiocinia u&prime; determinari per aequationem U&prime;=0 , vbi U&prime; sit functio
- (m&prime; . m&prime;-1) / (1 . 2) ti gradus ipsius u&prime; . Posito vero
- (m&prime; . m&prime;-1) / (1 . 2)=m&prime;&prime; , erit m&prime;&prime; 
-numerus formae 2 n-2 i&prime;&prime; , designante i&prime;&prime; numerum imparem. Iam
-nisi m&prime;&prime; est impar, statuatur u&prime; u&prime;+u&prime;&prime;u&prime;+M&prime;&prime; esse diuisorem functionis
- U&prime; , determinabiturque u&prime;&prime; per aequationem U&prime;&prime;=0 , quae
-si supponitur esse gradus m&prime;&prime;&prime; ti , m&prime;&prime;&prime; erit numerus formae s n-3 i&prime;&prime;&prime; .
-Manifestum est, in serie aequationum U=0 , U&prime;=0 , U&prime;&prime;=0 
+et coëfficientium cognitorum in Z ), haec erit gradus m′ ti . Facile
+vero perspicitur m′ fore numerum formae 2 n-1 i′ , designante i′ 
+numerum imparem. Iam nisi m′ est impar, supponatur iterum,
+ uu+uu′+M′ esse diuisorem ipsius U , patetque per similia
+ratiocinia u′ determinari per aequationem U′=0 , vbi U′ sit functio
+ (m′ . m′-1) / (1 . 2) ti gradus ipsius u′ . Posito vero
+ (m′ . m′-1) / (1 . 2)=m′′ , erit m′′ 
+numerus formae 2 n-2 i′′ , designante i′′ numerum imparem. Iam
+nisi m′′ est impar, statuatur u′ u′+u′′u′+M′′ esse diuisorem functionis
+ U′ , determinabiturque u′′ per aequationem U′′=0 , quae
+si supponitur esse gradus m′′′ ti , m′′′ erit numerus formae s n-3 i′′′ .
+Manifestum est, in serie aequationum U=0 , U′=0 , U′′=0 
 etc. n tam fore gradus imparis adeoque radicem realem habere. Statuemus
-breuitatis gratia n=3 , ita vt aequatio U&prime;&prime;=0 radicem
-realem u&prime;&prime; habeat, nullo enim negotio perspicitur pro quouis alio
-valore ipsius n idem ratiocinium valere. Tunc coëfficientem M&prime;&prime; 
-per u&prime;&prime; et coëfficientes in U&prime; (quos fore functiones integras coëfficientium
-in Z facile intelligitur), siue per u&prime;&prime; et coëfficientes in Z 
+breuitatis gratia n=3 , ita vt aequatio U′′=0 radicem
+realem u′′ habeat, nullo enim negotio perspicitur pro quouis alio
+valore ipsius n idem ratiocinium valere. Tunc coëfficientem M′′ 
+per u′′ et coëfficientes in U′ (quos fore functiones integras coëfficientium
+in Z facile intelligitur), siue per u′′ et coëfficientes in Z 
 rationaliter determinabilem fore asserit clar. de F., et proin realem.
-Hinc sequitur, radices aequationis u&prime; u&prime;+u&prime;&prime;u&prime;+M&prime;&prime;=0 
+Hinc sequitur, radices aequationis u′ u′+u′′u′+M′′=0 
 sub forma p+q√-1 contentas fore; eadem vero manifesto
-aequationi U&prime;=0 satisfacient: quare dabitur valor aliquis ipsius
- u&prime; sub forma p+q√-1 contentus. Iam coëfficiens M&prime; (eodem
-modo vt ante) rationaliter per u&prime; et coëfficientes in Z determinari
+aequationi U′=0 satisfacient: quare dabitur valor aliquis ipsius
+ u′ sub forma p+q√-1 contentus. Iam coëfficiens M′ (eodem
+modo vt ante) rationaliter per u′ et coëfficientes in Z determinari
 potest, adeoque etiam sub forma p+q√-1 contentus erit;
-quare aequationis uu+u&prime; u+M&prime; radices sub eadem forma contentae
+quare aequationis uu+u′ u+M′ radices sub eadem forma contentae
 erunt, simul vero aequationi U=0 satisfacient, i. e. aequatio
 haec habebit radicem sub forma p+q√-1 contentam. Denique
 hinc simili ratione sequitur, etiam M sub eadem forma contineri,
@@ -753,17 +753,17 @@ primam feci (art. 8.), eandem vim contra hanc methodum habent,
 ea tamen differentia, vt obiectio secunda, cui Euleri demonstratio
 tantummodo in quibusdam casibus specialibus obnoxia erat,
 praesentem in omnibus casibus attingere debeat. Scilicet a priori
-demonstrari potest, etiamsi formula detur, quae coëfficientem M&prime; 
-rationaliter per u&prime; et coëfficientes in Z exprimat, hanc pro pluribus
-valoribus ipsius u&prime; necessario indeterminatam fieri debere;
-similiterque formulam, quae coëfficientem M&prime;&prime; per u&prime;&prime; 
-exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u&prime;&prime; etc. Hoc
+demonstrari potest, etiamsi formula detur, quae coëfficientem M′ 
+rationaliter per u′ et coëfficientes in Z exprimat, hanc pro pluribus
+valoribus ipsius u′ necessario indeterminatam fieri debere;
+similiterque formulam, quae coëfficientem M′′ per u′′ 
+exhibeat, indeterminatam fieri pro quibusdam valoribus ipsius u′′ etc. Hoc
 luculentissime perspicietur, si aequationem quarti gradus pro exemplo
 assumimus. Ponamus itaque m=4 , sintque radices aequationis
  Z=0 , hae α, β, γ, δ . Tum patet aequationem U=0 fore
 sexti gradus ipsiusque radices -(α+β) , -(α+γ) , -(α+δ) ,
- -(β+γ) , -(β+δ) , -(γ+δ) . Aequatio U&prime;=0 autem erit
-decimi quinti gradus, et valores ipsius u&prime; hi 2α+β+γ , 2α+β+δ ,
+ -(β+γ) , -(β+δ) , -(γ+δ) . Aequatio U′=0 autem erit
+decimi quinti gradus, et valores ipsius u′ hi 2α+β+γ , 2α+β+δ ,
  2α+γ+δ , 2β+α+γ , 2β+α+δ , 2β+γ+δ , 2γ+α+β ,
  2γ+α+δ , 2γ+β+δ , 2δ+α+β , 2δ+α+γ , 2δ+β+γ ,
  α+β+γ+δ , α+β+γ+δ , α+β+γ+δ . Iam in hac aequatione,
@@ -771,13 +771,13 @@ quippe cuius gradus est impar, subsistendum erit, habebitque
 ea reuera radicem realem α+β+γ+δ (quae primo coëfficienti in
  Z mutato signo aequalis adeoque non modo realis sed etiam rationalis
 erit, si coëfficientes in Z sunt rationales). Sed nullo negotio
-perspici potest, si formula detur, quae valorem ipsius M&prime; 
-per valorem respondentem ipsius u&prime; rationaliter exhibeat, hanc
-necessario pro u&prime;=α+β+γ+δ indeterminatam fieri. Hic enim
-valor ter erit radix aequationis U&prime;=0 , respondebuntque ipsi tres
-valores ipsius M&prime; , puta (α+β)(γ+δ) , (α+γ)(β+δ) et (α+δ)(β+γ) ,
+perspici potest, si formula detur, quae valorem ipsius M′ 
+per valorem respondentem ipsius u′ rationaliter exhibeat, hanc
+necessario pro u′=α+β+γ+δ indeterminatam fieri. Hic enim
+valor ter erit radix aequationis U′=0 , respondebuntque ipsi tres
+valores ipsius M′ , puta (α+β)(γ+δ) , (α+γ)(β+δ) et (α+δ)(β+γ) ,
 qui omnes irrationales esse possunt. Manifesto autem formula
-rationalis neque valorem irrationalem ipsius M&prime; in hoc casu producere
+rationalis neque valorem irrationalem ipsius M′ in hoc casu producere
 posset, neque tres valores diuersos. Ex hoc specimine
 satis colligi potest, methodum clar. de Foncenexii neutiquam esse
 satisfacientem, sed si ab omni parte completa reddi debeat, multo
@@ -975,7 +975,7 @@ crura infinita habeant, et quot qualiaque. In distantia infinita
 a puncto C linea prima, cuius aequatio sin mφ+1/r sin(m-1)φ
 +B/rr sin(m-2)φ etc. =0 , confundetur cum linea, cuius aequatio
  sin mφ=0 . Haec vero exhibet m lineas rectas in puncto A se
-secantes, quarum prima est axis GCG&prime; , reliquae contra hanc
+secantes, quarum prima est axis GCG′ , reliquae contra hanc
 sub angulis 1/m 180 , 2/m 180 , 3/m 180 etc. graduum inclinatae.
 Quare linea prima 2m ramos infinitos habet, qui peripheram circuli
 radio infinito descripti in 2m partes aequales dispertiuntur, ita
@@ -1152,12 +1152,12 @@ iunctum erit. Punctum 1 itaque cum nullo puncto vltra axem sito,
 i. e. cum nullo puncto per numerum maiorem quam 2m expresso
 iunctum esse potest, alioquin enim linea iungens necessario axem
 secaret. Si itaque 1 cum puncto n iunctum esse supponitur, erit
- n . Ex simili ratione si 2 cum n&prime; iunctum esse statuitur,
-erit n&prime;<n , quia alioquin ramus 2 ... n&prime; ramum 1 ... n necessario
+ n . Ex simili ratione si 2 cum n′ iunctum esse statuitur,
+erit n′<n , quia alioquin ramus 2 ... n′ ramum 1 ... n necessario
 secaret. Ex eadem caussa punctum 3 cum aliquo punctorum inter
-4 et n&prime; iacentium iunctum erit, patetque si 3,4,5 etc. iuncta
-esse supponantur cum n&prime;&prime;, n&prime;&prime;&prime;, n&prime;&prime;&prime;&prime; etc., n&prime;&prime;&prime; iacere inter 5 et n&prime;&prime;, n&prime;&prime;&prime;&prime; 
-inter 6 et n&prime;&prime;&prime; etc. Vnde perspicuum est, tandem ad aliquod punctum
+4 et n′ iacentium iunctum erit, patetque si 3,4,5 etc. iuncta
+esse supponantur cum n′′, n′′′, n′′′′ etc., n′′′ iacere inter 5 et n′′, n′′′′ 
+inter 6 et n′′′ etc. Vnde perspicuum est, tandem ad aliquod punctum
  h peruentum iri, quod cum puncto h+2 iunctum sit, et
 tum ramus, qui in puncto h+1 in circulum intrat, necessario
 ramum puncta h et h+2 iungentem secabit. Quia autem alter horum
