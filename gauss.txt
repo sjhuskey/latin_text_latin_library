@@ -877,8 +877,8 @@ diuisibilem esse per xx-2cosφ. rx+rr , adeoque, nisi fuerit
  
 II. Si vero rsinφ=0 , erit aut r=0 aut sinφ=0 . In
 casu priori erit M=0 , propter [1], adeoque X per x siue per
- x-rcosφ diuisibilis; in posteriori erit cosφ=&plusmn;1 , cos2φ=
-+1 , cos3φ=&plusmn;1 et generaliter cos nφ=cosφ n . Quare propter
+ x-rcosφ diuisibilis; in posteriori erit cosφ=±1 , cos2φ=
++1 , cos3φ=±1 et generaliter cos nφ=cosφ n . Quare propter
 [1] fiet X=0 , statuendo x=cosφ , et proin functio X per 
  x-cosφ erit diuisibilis. Q. E. S. 
  
