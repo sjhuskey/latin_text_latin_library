@@ -34,7 +34,7 @@ Caput primum:
  
  
  
-&quot;  secundum:
+"  secundum:
  
  
  Quaenam sint eiusdem causae capita. 
@@ -42,7 +42,7 @@ Caput primum:
  
  
  
-&quot;  tertium:
+"  tertium:
  
  
  Investigatio de causa propter quam hoc festum celebramus. 
@@ -50,7 +50,7 @@ Caput primum:
  
  
  
-&quot;  quartum:
+"  quartum:
  
  
  Quaenam sint bona quae nobis data sunt per Dominum nostrum Iesum Christum. 
@@ -58,7 +58,7 @@ Caput primum:
  
  
  
-&quot;  quintum:
+"  quintum:
  
  
  Quam ob causam haec ipsa bona hucusque revelata non fuerint. 
@@ -66,7 +66,7 @@ Caput primum:
  
  
  
-&quot;  sextum:
+"  sextum:
  
  
  Opus fuit mediatione alicuius per quem accipere possemus haec bona a Deo. 
@@ -74,7 +74,7 @@ Caput primum:
  
  
  
-&quot;  septimum:
+"  septimum:
  
  
  Quas ob causas nil aliud hoc tempore sumpserit Deus pro sua revelatione, nisi hominem ex nobis. 
@@ -82,7 +82,7 @@ Caput primum:
  
  
  
-&quot;  octavum :
+"  octavum :
  
  
  Quod Dominus noster Christus non fuit homo simplex ( Ψιλὸς ἀνθρωπος ) . 
@@ -90,7 +90,7 @@ Caput primum:
  
  
  
-&quot;  nonum:
+"  nonum:
  
  
  Quam ob rem homo Domini nostri sumptus non fuerit e terra, sed ex virgine sine coitu viri. 
@@ -98,7 +98,7 @@ Caput primum:
  
  
  
-&quot;  decimum:
+"  decimum:
  
  
  Quam ob causam ordinaverit Deus ut homo Domini nostri tempore verno conciperetur. 
@@ -106,7 +106,7 @@ Caput primum:
  
  
  
-&quot;  undecimum:
+"  undecimum:
  
  
  Exhortatio ad vitam honestam. 
