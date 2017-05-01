@@ -7,7 +7,7 @@ Descartes: Meditatio III
 	
  
 
- De Deo, qu&ograve;d existat.
+ De Deo, quòd existat.
  
 
  
@@ -31,11 +31,11 @@ me scire hactenus animadverti. Nunc circumspiciam diligenti&ugrave;s an
 forte adhuc apud me alia sint ad quae nondum respexi. Sum certus me esse
 rem cogitantem. Nunquid ergo etiam scio quid requiratur ut de aliquâ
 re sim certus? Nempe in hac primâ cognitione nihil aliud est, quàm
-clara quaedam & distincta perceptio ejus qu&ograve;d affirmo; quae sane
+clara quaedam & distincta perceptio ejus quòd affirmo; quae sane
 non sufficeret ad me certum de rei veritate reddendum, si posset unquam
-contingere, ut aliquid, qu&ograve;d ita clare & distincte perciperem,
+contingere, ut aliquid, quòd ita clare & distincte perciperem,
 falsum esset; ac proinde jam videor pro regulâ generali posse statuere,
-illud omne esse verum, qu&ograve;d valde clare & distincte percipio. 
+illud omne esse verum, quòd valde clare & distincte percipio. 
 
  
 
@@ -45,8 +45,8 @@ quae tamen postea dubia esse deprehendi. Qualia ergo ista fuere? Nempe terra,
 coelum, sydera & caetera omnia quae sensibus usurpabam. Quid autem de
 illis clare percipiebam? Nempe ipsas talium rerum ideas, sive cogitationes,
 menti meae obversari. Sed ne nunc quidem illas ideas in me esse inficior.
-Aliud autem quiddam erat qu&ograve;d affirmabam, qu&ograve;dque etiam ob
-consuetudinem credendi clare me percipere arbitrabar, qu&ograve;d tamen
+Aliud autem quiddam erat quòd affirmabam, quòdque etiam ob
+consuetudinem credendi clare me percipere arbitrabar, quòd tamen
 revera non percipiebam: nempe res quasdam extra me esse, a quibus ideae
 istae procedebant, & quibus omnino similes erant. Atque hoc erat, in
 quo vel fallebar, vel certe, si verum judicabam, id non ex vi meae perceptionis
@@ -54,8 +54,8 @@ contingebat.
  
 
  
- 4. Quid ver&ograve;? C&ugrave;m circa res Arithmeticas vel Geome[36]tricas
-aliquid valde simplex & facile considerabam, ut qu&ograve;d duo &
+ 4. Quid verò? C&ugrave;m circa res Arithmeticas vel Geome[36]tricas
+aliquid valde simplex & facile considerabam, ut quòd duo &
 tria simul juncta sint quinque, vel similia, nunquid saltem illa satis perspicue
 intuebar, ut vera esse affirmarem? Equidem non aliam ob causam de iis dubitandum
 esse postea judicavi, quàm quia veniebat in mentem forte aliquem
@@ -63,7 +63,7 @@ Deum talem mihi naturam indere potuisse, ut etiam circa illa deciperer,
 quae manifestissima viderentur. Sed quoties haec praeconcepta de summâ
 Dei potentiâ opinio mihi occurrit, non possum non fateri, siquidem
 velit, facile illi esse efficere ut errem, etiam in iis quae me puto mentis
-oculis quàm evidentissime intueri. Quoties ver&ograve; ad ipsas res,
+oculis quàm evidentissime intueri. Quoties verò ad ipsas res,
 quas valde clare percipere arbitror, me converto, tam plane ab illis persuadeor,
 ut sponte erumpam in has voces: fallat me quisquis potest, nunquam tamen
 efficiet ut nihil sim, quandiu me aliquid esse cogitabo; vel ut aliquando
@@ -84,7 +84,7 @@ aliâ plane certus esse unquam posse.
 in certa genera distribuam, & in quibusnam ex illis veritas aut falsitas
 proprie consistat, inquiram. Quaedam ex his tanquam rerum imagines sunt,
 quibus solis proprie convenit ideae nomen: ut c&ugrave;m hominem, vel Chimaeram,
-vel Coelum, vel Angelum, vel Deum cogito. Aliae ver&ograve; alias quasdam
+vel Coelum, vel Angelum, vel Deum cogito. Aliae verò alias quasdam
 practerea formas habent: ut, c&ugrave;m volo, c&ugrave;m timeo, c&ugrave;m
 affirmo, c&ugrave;m nego, semper quidem aliquam rem ut subjectum meae cogitationis
 apprehendo, sed aliquid etiam amplius quàm istius rei similitudinem
@@ -100,7 +100,7 @@ alteram. Nulla etiam in ipsâ voluntate, vel affectibus, falsitas est
 timenda; nam, quamvis prava, quamvis etiam ea quae nusquam sunt, possim
 optare, non tamen ideo non verum est illa me optare. Ac proinde sola supersunt
 judicia, in quibus mihi cavendum est ne fallar. Praecipuus autem error &
-frequentissimus qui possit in illis reperiri, consistit in eo qu&ograve;d
+frequentissimus qui possit in illis reperiri, consistit in eo quòd
 ideas, quae in me sunt, judicem rebus quibusdam extra me positis similes
 esse sive conformes; nam profecto, si tant&ugrave;m ideas ipsas ut cogitationis
 meae quosdam modos considerarem, nec ad quidquam aliud referrem, vix mihi
@@ -109,9 +109,9 @@ ullam errandi materiam dare possent.
 
  
  7. Ex his autem ideis aliae innatae, aliae adventitiae, [38] aliae
-a me ipso factae mihi videntur: nam qu&ograve;d intelligam quid sit res,
+a me ipso factae mihi videntur: nam quòd intelligam quid sit res,
 quid sit veritas, quid sit cogitatio, hacc non aliunde habere videor quàm
-ab ipsâmet meâ naturâ; qu&ograve;d autem nunc strepitum
+ab ipsâmet meâ naturâ; quòd autem nunc strepitum
 audiam, solem videam, ignem sentiam, a rebus quibusdam extra me positis
 procedere hactenus judicavi; ac denique Syrenes, Hippogryphes, & similia,
 a me ipso finguntur. Vel forte etiam omnes esse adventitias possum putare,
@@ -134,9 +134,9 @@ potius quàm aliud quid in me immittere.
  
  9. Quae rationes, an satis firmae sint, jam videbo. C&ugrave;m
 hîc dico me ita doctum esse a naturâ, intelligo tant&ugrave;m
-spontaneo qu&ograve;dam impetu me ferri ad hoc credendum, non lumine aliquo
+spontaneo quòdam impetu me ferri ad hoc credendum, non lumine aliquo
 naturali mihi ostendi esse verum. Quae duo multum discrepant; nam quaecumque
-lumine naturali mihi ostenduntur, ut qu&ograve;d ex eo qu&ograve;d dubitem,
+lumine naturali mihi ostenduntur, ut quòd ex eo quòd dubitem,
 sequatur me esse, & similia, nullo modo dubia esse possunt, quia nulla
 alia facultas esse potest, cui aeque fidam ac lumini isti, quaeque illa
 [39] non vera esse possit docere; sed quantum ad impetus naturales, jam
@@ -161,7 +161,7 @@ inde sequitur illas rebus istis similes esse debere. Quinimo in multis saepe
 magnum discrimen videor deprehendisse: ut, exempli causâ, duas diversas
 solis ideas apud me invenio, unam tanquam a sensibus haustam, & quae
 maxime inter illas quas adventitias existimo est recensenda, per quam mihi
-valde parvus apparet, aliam ver&ograve; ex rationibus Astronomiae desumptam,
+valde parvus apparet, aliam verò ex rationibus Astronomiae desumptam,
 hoc est ex notionibus quibusdam mihi innatis elicitam, vel quocumque alio
 modo a me factam, per quam aliquoties major quàm terra exhibetur;
 utraque profecto similis eidem soli extra me existenti esse non potest,
@@ -193,7 +193,7 @@ quàm illae per quas finitae substantiae exhibentur.
  
 
  
- 14. Jam ver&ograve; lumine naturali manifestum est tantumdem ad
+ 14. Jam verò lumine naturali manifestum est tantumdem ad
 minimum esse debere in causâ efficiente & totali, quantum in ejusdem
 causae effectu. Nam, quaeso, undenam posset assumere realitatem suam effectus,
 nisi a causâ? Et quomodo illam ei causa dare posset, nisi etiam haberet?
@@ -213,13 +213,13 @@ in calore vel lapide concipio. Nam quamvis ista causa nihil de suâ
 realitate actuali sive formali in meam ideam transfundat, non ideo putandum
 est illam minus realem esse debere, sed talem esse naturam ipsius ideae,
 ut nullam aliam ex se realitatem formalem exigat, praeter illam quam mutuatur
-a cogitatione meâ, cujus est modus. Qu&ograve;d autem haec idea realitatem
-objectivam hanc vel illam contineat potius quàm aliam, hoc profect&ograve;
+a cogitatione meâ, cujus est modus. Quòd autem haec idea realitatem
+objectivam hanc vel illam contineat potius quàm aliam, hoc profectò
 habere debet ab aliquâ causâ in quâ tantumdem sit ad minimum
 realitatis formalis quantum ipsa continet objectivae. Si enim ponamus aliquid
 in ideâ reperiri, quod non fuerit in ejus causâ, hoc igitur
 habet a nihilo; atqui quantumvis imperfectus sit iste essendi modus, quo
-res est objective in intellectu per ideam, non tamen profect&ograve; plane
+res est objective in intellectu per ideam, non tamen profectò plane
 nihil est, nec proinde a nihilo esse potest. 
  
 
@@ -240,13 +240,13 @@ majus aut perfectius continere.
  
 
  
- 16. Atque haec omnia, qu&ograve; diutius & curiosius examino,
-tant&ograve; clarius & distinctius vera esse cognosco. Sed quid tandem
+ 16. Atque haec omnia, quò diutius & curiosius examino,
+tantò clarius & distinctius vera esse cognosco. Sed quid tandem
 ex his concludam? Nempe si realitas objectiva alicujus ex meis ideis sit
 tanta ut certus sim eandem nec formaliter nec eminenter in me esse, nec
 promde me ipsum elus ideae causam esse posse, hinc necessario sequi, non
 me solum esse in mundo, sed aliquam aliam rem, quae istius ideae est causa,
-etiam existere. Si ver&ograve; nulla talis in me idea reperiatur, nullum
+etiam existere. Si verò nulla talis in me idea reperiatur, nullum
 plane habebo argumentum quod me de alicujus rei a me diversae existentiâ
 certum reddat; omnia enim diligentissime circumspexi, & nullum aliud
 potui hactenus reperire. 
@@ -303,12 +303,12 @@ a me ipso esse non possint.
  
 
  
- 21. Ex iis ver&ograve; quae in ideis rerum corporalium clara &
+ 21. Ex iis verò quae in ideis rerum corporalium clara &
 distincta sunt, quaedam ab ideâ meî ipsius videor mutuari potuisse,
 nempe substantiam, durationem, numerum, & si quae alia sint ejusmodi;
 nam c&ugrave;m cogito lapidem esse substantiam, sive esse rem quae per se
 apta est existere, itemque me esse substantiam, quamvis concipiam me esse
-rem cogitantem & non extensam, lapidem ver&ograve; esse rem extensam
+rem cogitantem & non extensam, lapidem verò esse rem extensam
 & non cogitantem, ac proinde maxima inter utrumque conceptum sit diversitas,
 in ratione tamen substantiae videntur convenire; itemque, c&ugrave;m percipio
 me nunc esse, & pri&ugrave;s etiam aliquamdiu fuisse recordor, c&ugrave;mque
@@ -333,7 +333,7 @@ Ideoque ex antedictis, Deum necessario existere, est concludendum.
  
 
  
- 23. Nam quamvis substantiae quidem idea in me sit ex hoc ipso qu&ograve;d
+ 23. Nam quamvis substantiae quidem idea in me sit ex hoc ipso quòd
 sim substantia, non tamen idcirco esset idea substantiae infinitae, c&ugrave;m
 sim finitus, nisi ab aliquâ substantiâ, quae revera esset infinita,
 procederet. 
@@ -403,7 +403,7 @@ posse produci.
  28. Neque profecto quicquam est in his omnibus, quod diligenter
 attendenti non sit lumine naturali manifestum; sed quia, c&ugrave;m minus
 attendo, & rerum sensibilium imagines mentis aciem excaecant, non ita
-facile recordor cur idea entis me perfectioris necessari&ograve; ab ente
+facile recordor cur idea entis me perfectioris necessariò ab ente
 aliquo procedat quod sit revera perfectius, ulte[48]rius quaerere libet
 an ego ipse habens illam ideam esse possem, si tale ens nullum existeret.
  
@@ -437,7 +437,7 @@ me haberem, quoniam in illis potentiam meam terminari experirer.
 fuisse ut nunc sum, tanquam si inde sequeretur, nullum existentiae meae
 authorem esse quaerendum. Quoniam enim omne tempus vitae in [49] partes
 innumeras dividi potest, quarum singulae a reliquis nullo modo dependent,
-ex eo qu&ograve;d paulo ante fuerim, non sequitur me nunc debere esse, nisi
+ex eo quòd paulo ante fuerim, non sequitur me nunc debere esse, nisi
 aliqua causa me quasi rursus creet ad hoc momentum, hoc est me conservet.
 Perspicuum enim est attendenti ad temporis naturam, eâdem plane vi
 & actione opus esse ad rem quamlibet singulis momentis quibus durat
@@ -458,7 +458,7 @@ me ab aliquo ente a me diverso pendere.
  
 
  
- 33. Forte ver&ograve; illud ens non est Deus, sumque vel a parentibus
+ 33. Forte verò illud ens non est Deus, sumque vel a parentibus
 productus, vel a quibuslibet aliis causis Deo minus perfectis. Imo, ut jam
 ante dixi, perspicuum est tantumdem ad minimum esse debere in causâ
 quantum est in effectu; & idcirco, c&ugrave;m sim res cogitans, ideamque
@@ -502,7 +502,7 @@ ullo modo me, quatenus sum res cogitans, effecerunt; sed tant&ugrave;m dispositi
 quasdam in eâ materiâ posuerunt, cui me, hoc est mentem, quam
 solam nunc pro me acci[51]pio, inesse judicavi. Ac proinde hîc nulla
 de iis difficultas esse potest; sed omnino est concludendum, ex hoc solo
-qu&ograve;d existam, quaedamque idea entis perfectissimi, hoc est Dei, in
+quòd existam, quaedamque idea entis perfectissimi, hoc est Dei, in
 me sit, evidentissime demonstrari Deum etiam existere... 
 
  
@@ -520,7 +520,7 @@ idea meî ipsius.
  
  38. Et sane non mirum est Deum, me creando, ideam illam mihi indidisse,
 ut esset tanquam nota artificis operi suo impressa; nec etiam opus est ut
-nota illa sit aliqua res ab opere ipso diversa. Sed ex hoc uno qu&ograve;d
+nota illa sit aliqua res ab opere ipso diversa. Sed ex hoc uno quòd
 Deus me creavit, valde credibile est me quodammodo ad imaginem & similitudinem
 ejus factum esse, illamque similitudinem, in quâ Dei idea continetur,
 a me percipi per eandem facultatem, per quam ego ipse a me percipior: hoc
@@ -529,7 +529,7 @@ incompletam & ab alio dependentem, remque ad majora & majora sive
 meliora indefinite aspirantem; sed simul etiam intelligo illum, a quo pendeo,
 majora ista omnia non indefinite & potentiâ tant&ugrave;m, sed
 reipsâ infinite in se habere, atque ita Deum esse. Totaque vis argumenti
-in eo est, qu&ograve;d agnoscam fieri non posse [52] ut existam talis naturae
+in eo est, quòd agnoscam fieri non posse [52] ut existam talis naturae
 qualis sum, nempe ideam Dei in me habens, nisi revera Deus etiam existeret,
 Deus, inquam, ille idem cujus idea in me est, hoc est, habens omnes illas
 perfectiones, quas ego non comprehendere, sed quocunque modo attingere cogitatione

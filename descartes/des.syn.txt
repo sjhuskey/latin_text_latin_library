@@ -16,7 +16,7 @@ Descartes: Synopsis
 praesertim materialibus, possumus dubitare; quandiu scilicet non habemus
 alia scientiarum fundamenta, quàm ea quae antehac habuimus. Etsi
 autem istius tantae dubitationis utilitas primâ fronte non appareat,
-est tamen in eo maxima qu&ograve;d ab omnibus praejudiciis nos liberet,
+est tamen in eo maxima quòd ab omnibus praejudiciis nos liberet,
 viamque facillimam sternat ad mentem a sensibus abducendam; ac denique efficiat,
 ut de iis, quae posteà vera esse comperiemus, non amplius dubitare
 possimus.
@@ -37,15 +37,15 @@ quaesita propositio dependet, antequam de ipsâ quidquam concluderem.
 Primum autem & praecipuum quod praerequiritur ad cognoscendam animae
 immortalitatem, esse ut quàm maxime perspicuum de eâ conceptum,
 & ab omni conceptu corporis plane distinctum, formemus; quod ibi factum
-est. Praeterea ver&ograve; requiri etiam ut sciamus ea omnia quae clare
+est. Praeterea verò requiri etiam ut sciamus ea omnia quae clare
 & distincte intelligimus, eo ipso modo quo illa intelligimus, esse vera:
 quod ante quartam Meditationem probari non potuit; & habendum esse distinctum
 naturae corporeae conceptum, qui partim in ipsâ secunda, partim etiam
 in quintâ & sextâ formatur; atque ex his debere concludi
 ea omnia quae clare & distincte concipiuntur ut substantiae diversae,
 sicuti concipiuntur mens & corpus, esse revera substantias realiter
-a se mutu&ograve; distinctas; hocque in sextâ concludi. Idemque etiam
-in ipsâ confirmari ex eo qu&ograve;d nullum corpus nisi divisibile
+a se mutuò distinctas; hocque in sextâ concludi. Idemque etiam
+in ipsâ confirmari ex eo quòd nullum corpus nisi divisibile
 intelligamus, contrà autem nullam mentem nisi indivisibilem: neque
 enim possumus ullius mentis mediam partem concipere, ut possumus cujuslibet
 quantamvis exigui corporis; adeo ut eorum naturae non modo diversae, sed
@@ -60,11 +60,11 @@ posse unquam desinere esse, nisi ab eodem Deo concursum suum iis denegante
 ad nihilum reducantur; ac deinde ut advertatur corpus quidem in genere sumptum
 esse substantiam, ideoque nunquam etiam perire. Sed corpus humanum, quatenus
 a reliquis differt corporibus, non nisi ex certâ membrorum configuratione
-aliisque ejusmodi accidentibus esse conflatum; mentem ver&ograve; humanam
+aliisque ejusmodi accidentibus esse conflatum; mentem verò humanam
 non ita ex ullis accidentibus constare, sed puram esse substantiam: etsi
-enim omnia ejus accidentia mutentur, ut qu&ograve;d alias res intelligat,
+enim omnia ejus accidentia mutentur, ut quòd alias res intelligat,
 alias velit, alias sentiat, &c, non idcirco ipsa mens alia evadit; humanum
-autem corpus aliud fit ex hoc solo qu&ograve;d figura quarumdam ejus partium
+autem corpus aliud fit ex hoc solo quòd figura quarumdam ejus partium
 mutetur: ex quibus sequitur corpus quidem perfacile interire, mentem autem
 ex naturâ suâ esse immortalem.
  
@@ -87,7 +87,7 @@ ipsum pro causâ.
 
  
 4. In quartâ, probatur ea omnia quae clare er distincte percipimus,
-esse vera, simulque in quo ratio falsitatis consistat explicatur: quae necessari&ograve;
+esse vera, simulque in quo ratio falsitatis consistat explicatur: quae necessariò
 sciri debent tam ad praecedentia firmanda, quàm ad reliqua intelligenda.
 (Sed ibi interim est advertendum nullo modo agi de peccato, vel errore qui
 committitur in persecutione boni & mali, sed de eo tant&ugrave;m qui
@@ -97,7 +97,7 @@ luminis naturalis ope cognitas veritates.)
  
 
  
-5. In quintâ, praeterquam qu&ograve;d natura corporea in
+5. In quintâ, praeterquam quòd natura corporea in
 genere sumpta explicatur, novâ etiam ratione Dei existentia demonstratur:
 sed in quâ rursus nonnullae fortè occurrent difficultates,
 quae postea in responsione ad objectiones resolventur: ac denique ostenditur
@@ -112,9 +112,9 @@ eandem nihilominus tam arctè illi esse conjunctam, ut unum quid cum
 ipsâ componat, ostenditur; omnes errores qui a sensibus oriri solent
 recensentur; modi quibus vitari possint exponuntur; & denique rationes
 omnes ex quibus rerum materialium existentia possit concludi, afferuntur:
-non qu&ograve;d eas valde utiles esse putarim ad probandum id ipsum quod
+non quòd eas valde utiles esse putarim ad probandum id ipsum quod
 [16] probant, nempe revera esse aliquem mundum, & homines habere corpora,
-& similia, de quibus nemo unquam sanae mentis seri&ograve; dubitavit;
+& similia, de quibus nemo unquam sanae mentis seriò dubitavit;
 sed quia, illas considerando, agnoscitur non esse tam firmas nec tam perspicuas
 quàm sunt eae, per quas in mentis nostrae & Dei cognitionem devenimus;
 adeo ut hae sint omnium certissimae & evidentissimae quae ab humano
