@@ -555,7 +555,7 @@ venanti melius pugnat color: optima nigr<a>
 <et quo>rum fessas imitantur terga favillas. 
 <o quan>tum Italiae (sic di voluere) parentes 
 <praestant> et terras omni praecepimus usu    540 
-&ltnostraque quam pernix> collustrat prata <iuventus>!
+<nostraque quam pernix> collustrat prata <iuventus>!
  
 
  

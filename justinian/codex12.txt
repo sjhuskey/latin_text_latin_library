@@ -323,7 +323,7 @@ CJ.12.1.18: Imperator Anastasius
  
 
  
-Iubemus salvo honore, qui per evocationem sacrae revocatoriae defertur, durante licere cunctis tam maiores quam minores potestates gerentibus nec non etiam honorariis illustribus sive ex hac urbe regia, principali videlicet praecedente consensu, profecti fuerint, sive in provinciis habitantes sacratissimum, suis scilicet poscentibus negotiis, petere maluerint comitatum, sine sacra quoque revocatoria ad hanc regiam urbem pervenire. * anastas. a. eusebio mag. off. * <a xxx &gt
+Iubemus salvo honore, qui per evocationem sacrae revocatoriae defertur, durante licere cunctis tam maiores quam minores potestates gerentibus nec non etiam honorariis illustribus sive ex hac urbe regia, principali videlicet praecedente consensu, profecti fuerint, sive in provinciis habitantes sacratissimum, suis scilicet poscentibus negotiis, petere maluerint comitatum, sine sacra quoque revocatoria ad hanc regiam urbem pervenire. * anastas. a. eusebio mag. off. * <a xxx >
  
 
  
@@ -345,7 +345,7 @@ CJ.12.2.2: Imperatores Valentinianus, Marcianus
  
 
  
-Glebam vel follem sive septem solidorum functionem sive quamlibet eiusmodi collationem tam circa personas quam circa res ac praedia funditus iubemus aboleri, ut omnis huiusmodi sopita perpetuo conquiescat exactio. * valentin. et marcian. aa. ad senatum. * <a xxx &gt
+Glebam vel follem sive septem solidorum functionem sive quamlibet eiusmodi collationem tam circa personas quam circa res ac praedia funditus iubemus aboleri, ut omnis huiusmodi sopita perpetuo conquiescat exactio. * valentin. et marcian. aa. ad senatum. * <a xxx >
  
 
  
@@ -479,7 +479,7 @@ CJ.12.3.5.3: Imperator Justinianus
  
 
  
-Sed ne quid in parte temporis tale eveniat et sine legibus inveniatur, ideo haec nobis visa sunt sancienda. <a 531-533&gt
+Sed ne quid in parte temporis tale eveniat et sine legibus inveniatur, ideo haec nobis visa sunt sancienda. <a 531-533>
  
 
  
@@ -509,7 +509,7 @@ CJ.12.4.2.1: Imperatores Gratianus, Valentinianus, Theodosius
  
 
  
-Si igitur sedes prior ante provectis, locus conspectior, decernendi loquendique facultas antiquior, cui est splendor adepti magistratus vetustior. <a 380 d.Viii k.Iul.Theossalonicae gratiano v et theodosio aa.Conss.&gt
+Si igitur sedes prior ante provectis, locus conspectior, decernendi loquendique facultas antiquior, cui est splendor adepti magistratus vetustior. <a 380 d.Viii k.Iul.Theossalonicae gratiano v et theodosio aa.Conss.>
  
 
  
@@ -619,7 +619,7 @@ CJ.12.5.5: Imperator Anastasius
  
 
  
-Iubemus duobus viris illustribus praepositis utriusque sacri cubiculi tam nostrae pietatis quam nostrae serenissimae coniugis, post finitam militiam si senatorio fuerint consortio sociati, licere, quotiens ad adspiciendos agros suos vel ob aliam causam proficisci voluerint, cingulo uti, cum hoc ad implendum eorum desiderium et ad nullius laesionem respicere videatur. * anastas. a. eusebio mag. off. * <a xxx &gt
+Iubemus duobus viris illustribus praepositis utriusque sacri cubiculi tam nostrae pietatis quam nostrae serenissimae coniugis, post finitam militiam si senatorio fuerint consortio sociati, licere, quotiens ad adspiciendos agros suos vel ob aliam causam proficisci voluerint, cingulo uti, cum hoc ad implendum eorum desiderium et ad nullius laesionem respicere videatur. * anastas. a. eusebio mag. off. * <a xxx >
  
 
  
@@ -633,7 +633,7 @@ CJ.12.6.1: Imperatores Gratianus, Valentinianus, Theodosius
  
 
  
-Qui ex quaesturae honore aut efficaci magisterio aut comitiva utriusque aerarii nostri attonito splendore viguerunt, acclamatione excipiantur solita nec praetereantur ut incogniti. * grat. valentin. et theodos. aaa. restituto pu. * <a 380 d.Viii k.Iun.Thessalonicae gratiano v et theodosio aa. conss.&gt
+Qui ex quaesturae honore aut efficaci magisterio aut comitiva utriusque aerarii nostri attonito splendore viguerunt, acclamatione excipiantur solita nec praetereantur ut incogniti. * grat. valentin. et theodos. aaa. restituto pu. * <a 380 d.Viii k.Iun.Thessalonicae gratiano v et theodosio aa. conss.>
  
 
  
@@ -703,7 +703,7 @@ CJ.12.7.2.5: Imperator Zeno
  
 
  
-Hoc etiam adiciendo, ut primicerius post depositam publicam numerorum sollicitudinem, ac si ipsam gessisset administrationem, cuius consequitur dignitatem, magistri officiorum pro antiqua consuetudine infulas sortiatur, omnibus vacantibus quamvis tempore praecedentibus praeponendus. <a xxx &gt
+Hoc etiam adiciendo, ut primicerius post depositam publicam numerorum sollicitudinem, ac si ipsam gessisset administrationem, cuius consequitur dignitatem, magistri officiorum pro antiqua consuetudine infulas sortiatur, omnibus vacantibus quamvis tempore praecedentibus praeponendus. <a xxx >
  
 
  
@@ -757,7 +757,7 @@ CJ.12.8.2.4: Imperatores Theodosius, Valentinianus
  
 
  
-Cur enim aut vir magnificus germanus magister militum vacans appellatur, cui bellum contra hostes mandavimus? aut cur excellentissimus pentadius non egisse dicitur praefecturam, cuius illustribus cincti dispositionibus vice praetorianae praefecturae miles in expeditione copia commeatuum abundavit. <a 440-441 &gt
+Cur enim aut vir magnificus germanus magister militum vacans appellatur, cui bellum contra hostes mandavimus? aut cur excellentissimus pentadius non egisse dicitur praefecturam, cuius illustribus cincti dispositionibus vice praetorianae praefecturae miles in expeditione copia commeatuum abundavit. <a 440-441 >
  
 
  
@@ -795,7 +795,7 @@ CJ.12.9.1.3: Imperatores Theodosius, Valentinianus
  
 
  
-Quinquaginta librarum auri officio tui culminis damnatione multando, si quid adversus statuta clementiae nostrae innovari concesserit. <a 444 d.V k.Mart.Theodosio a.Xviii et albino conss.&gt
+Quinquaginta librarum auri officio tui culminis damnatione multando, si quid adversus statuta clementiae nostrae innovari concesserit. <a 444 d.V k.Mart.Theodosio a.Xviii et albino conss.>
  
 
  
@@ -817,7 +817,7 @@ CJ.12.10.2: Imperator Anastasius
  
 
  
-Viros spectabiles comites consistorianos et coniuges et liberos, servos quin etiam atque colonos eorum isdem privilegiis tam intentiones ab aliis proponendas excipiendo quam suas contra alios exercendo perfrui, quibus viri clarissimi principes scholae agentium in rebus per sacram pragmaticam sanctionem divae memoriae zenonis utuntur. * anastas. a. eusebio mag. off. * <a xxx &gt
+Viros spectabiles comites consistorianos et coniuges et liberos, servos quin etiam atque colonos eorum isdem privilegiis tam intentiones ab aliis proponendas excipiendo quam suas contra alios exercendo perfrui, quibus viri clarissimi principes scholae agentium in rebus per sacram pragmaticam sanctionem divae memoriae zenonis utuntur. * anastas. a. eusebio mag. off. * <a xxx >
  
 
  
@@ -839,7 +839,7 @@ CJ.12.11.1.1: Imperatores Honorius, Theodosius
  
 
  
-Sin absque honore comitivae regimen fuerint nacti, absolutos militia inter eos qui duces fuerint provinciarum numerari iubemus. <a 413 d. xii k. april. constantinopoli lucio vc. cons.&gt
+Sin absque honore comitivae regimen fuerint nacti, absolutos militia inter eos qui duces fuerint provinciarum numerari iubemus. <a 413 d. xii k. april. constantinopoli lucio vc. cons.>
  
 
  
@@ -861,7 +861,7 @@ CJ.12.12.2: Imperatores Honorius, Theodosius
  
 
  
-Eos, qui sub comitivae primi ordinis dignitate peculiariter ad quamlibet provinciam vel provincias defendendas milite credito auctoritate nostri numinis destinantur, et eos, qui vicem illustrium virorum magistrorum militum susceperint peragendam, ducibus, qui praeter aegyptum et ponticam in aliis provinciis administraverint, adaequamus. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.&gt
+Eos, qui sub comitivae primi ordinis dignitate peculiariter ad quamlibet provinciam vel provincias defendendas milite credito auctoritate nostri numinis destinantur, et eos, qui vicem illustrium virorum magistrorum militum susceperint peragendam, ducibus, qui praeter aegyptum et ponticam in aliis provinciis administraverint, adaequamus. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.>
  
 
  
@@ -875,7 +875,7 @@ CJ.12.13.1: Imperatores Honorius, Theodosius
  
 
  
-Archiatros intra palatium militantes si comitivae primi ordinis nobilitaverit gradus, inter vicarios taxari praecipimus, sive iam pridem deposuerunt militiam sive postea deposuerint, ita ut inter vicarios et duces qui administraverint et hos qui comitivam primi ordinis meruerint nihil intersit nisi tempus, quo quis administraverit vel comitivae indeptus est insignia. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.&gt
+Archiatros intra palatium militantes si comitivae primi ordinis nobilitaverit gradus, inter vicarios taxari praecipimus, sive iam pridem deposuerunt militiam sive postea deposuerint, ita ut inter vicarios et duces qui administraverint et hos qui comitivam primi ordinis meruerint nihil intersit nisi tempus, quo quis administraverit vel comitivae indeptus est insignia. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.>
  
 
  
@@ -889,7 +889,7 @@ CJ.12.14.1: Imperatores Honorius, Theodosius
  
 
  
-Hos, qui in administratione civili ac provinciae gubernaculis sub iurisdictionis licentia comites quoque primi ordinis esse meruerint, vicariae dignitatis post depositam administrationem privilegiis frui oportet. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.&gt
+Hos, qui in administratione civili ac provinciae gubernaculis sub iurisdictionis licentia comites quoque primi ordinis esse meruerint, vicariae dignitatis post depositam administrationem privilegiis frui oportet. * honor. et theodos. aa. prisciano pu. * <a 413 d. xii k. april. constantinopoli lucio vc. cons.>
  
 
  
@@ -903,7 +903,7 @@ CJ.12.15.1: Imperator Theodosius
  
 
  
-Grammaticos tam graecos quam latinos, sophistas et iuris peritos in hac regia urbe professionem suam exercentes et inter statutos connumeratos, si laudabilem in se probis moribus vitam esse monstraverint, si docendi peritiam facundiamque dicendi interpretandi subtilitatem copiam disserendi se habere patefecerint, et coetu amplissimo iudicante digni fuerint aestimati, cum ad viginti annos observatione iugi ac sedulo docendi labore pervenerint, placuit honorari et his qui sunt ex vicaria dignitate connumerari. * theodos. a. et valentin. c. theophilo pu. * <a 425 d. id. mart. constantinopoli theodosio a. xi et valentiniano c. conss.&gt
+Grammaticos tam graecos quam latinos, sophistas et iuris peritos in hac regia urbe professionem suam exercentes et inter statutos connumeratos, si laudabilem in se probis moribus vitam esse monstraverint, si docendi peritiam facundiamque dicendi interpretandi subtilitatem copiam disserendi se habere patefecerint, et coetu amplissimo iudicante digni fuerint aestimati, cum ad viginti annos observatione iugi ac sedulo docendi labore pervenerint, placuit honorari et his qui sunt ex vicaria dignitate connumerari. * theodos. a. et valentin. c. theophilo pu. * <a 425 d. id. mart. constantinopoli theodosio a. xi et valentiniano c. conss.>
  
 
  
@@ -1013,7 +1013,7 @@ CJ.12.16.5.4: Imperator Anastasius
  
 
  
-Omnibus videlicet antelatis privilegiis in persona non tantum in praesenti militantium, sed etiam postea eidem consortio inserendorum tam tempore militiae quam post eam depositam observandis. <a 497-499 &gt
+Omnibus videlicet antelatis privilegiis in persona non tantum in praesenti militantium, sed etiam postea eidem consortio inserendorum tam tempore militiae quam post eam depositam observandis. <a 497-499 >
  
 
  
@@ -1067,7 +1067,7 @@ CJ.12.17.4: Imperator Justinianus
  
 
  
-Lege pragmatica sine fine victura praefiniendum ac constituendum credidimus, ut, si quis virorum fortium praesentalium domesticorum in equitum schola secundocerii locum indeptus diem interea supremum clauserit, heredes eius non reliqui tantum temporis, quod eidem gradui superesse monstratur, verum etiam insequentis anni, hoc est primiceratus, solaciis ac emolumentis fruantur omnibus, ut, quod ad quaestum et compendium militiaeque fructum prolixe pertinet, similis habeatur , ac si superstes permanserit ad finem usque supremum. * iust. a. vigilantio com. domesticorum consulari ac patricio. * <a xxx &gt
+Lege pragmatica sine fine victura praefiniendum ac constituendum credidimus, ut, si quis virorum fortium praesentalium domesticorum in equitum schola secundocerii locum indeptus diem interea supremum clauserit, heredes eius non reliqui tantum temporis, quod eidem gradui superesse monstratur, verum etiam insequentis anni, hoc est primiceratus, solaciis ac emolumentis fruantur omnibus, ut, quod ad quaestum et compendium militiaeque fructum prolixe pertinet, similis habeatur , ac si superstes permanserit ad finem usque supremum. * iust. a. vigilantio com. domesticorum consulari ac patricio. * <a xxx >
  
 
  
@@ -1081,7 +1081,7 @@ CJ.12.18.1: Imperatores Honorius, Theodosius
  
 
  
-Qui praepositi labarum nostro iudicio promoventur, clarissimi sint inter adlectos, ita ut ex consularibus habeantur. nam et immunitate digni sunt, quos nostri lateris comitatus illustrat. * honor. et theodos. aa. monaxio pp. * <a 416 d.Iii id.Nov.Constantinopoli theodosio a.Vii et palladio conss.&gt
+Qui praepositi labarum nostro iudicio promoventur, clarissimi sint inter adlectos, ita ut ex consularibus habeantur. nam et immunitate digni sunt, quos nostri lateris comitatus illustrat. * honor. et theodos. aa. monaxio pp. * <a 416 d.Iii id.Nov.Constantinopoli theodosio a.Vii et palladio conss.>
  
 
  
@@ -1399,7 +1399,7 @@ CJ.12.19.15.5: Imperatores Justinus, Justinianus
  
 
  
-Illo videlicet observando, ne alius adiutor per quamcumque ambitionem his qui in praesenti sunt vel post eorum deminutionem, licet in veterem numerum redacti fuerint, addatur: nam si permutationem, licet fortuito casus inciderint, prohiberi disposuimus, multo magis prioribus manentibus alios introduci vetamus: ceteris scilicet anterioris sanctionis capitulis in suo robore permansuris. <a 527&gt
+Illo videlicet observando, ne alius adiutor per quamcumque ambitionem his qui in praesenti sunt vel post eorum deminutionem, licet in veterem numerum redacti fuerint, addatur: nam si permutationem, licet fortuito casus inciderint, prohiberi disposuimus, multo magis prioribus manentibus alios introduci vetamus: ceteris scilicet anterioris sanctionis capitulis in suo robore permansuris. <a 527>
  
 
  
@@ -1533,7 +1533,7 @@ CJ.12.20.6.4: Imperator Anastasius
  
 
  
-Denarum librarum auri condemnatione aliaque gravissima indignatione his feriendis, quicumque nostra iussa quolibet modo seu tempore violaverint seu violari concesserint. <a xxx &gt
+Denarum librarum auri condemnatione aliaque gravissima indignatione his feriendis, quicumque nostra iussa quolibet modo seu tempore violaverint seu violari concesserint. <a xxx >
  
 
  
@@ -1723,7 +1723,7 @@ CJ.12.21.8.9: Imperator Zeno
  
 
  
-His omnibus locum habentibus, sive ipsi aliis litem ingerunt sive ab aliis pulsantur. <a 484 d.K.Sept.Theodorico cons.&gt
+His omnibus locum habentibus, sive ipsi aliis litem ingerunt sive ab aliis pulsantur. <a 484 d.K.Sept.Theodorico cons.>
  
 
  
@@ -1793,7 +1793,7 @@ CJ.12.22.4.1: Imperatores Arcadius, Honorius
  
 
  
-Nec naves debebunt illicita concussione vexare nec libellos aut attestationes litis gratia suscipere aut in carcerem quemquam trudere, sed cursui solum vacare. <a 395 d.K.Iun.Constantinopoli olybrio et probino conss.&gt
+Nec naves debebunt illicita concussione vexare nec libellos aut attestationes litis gratia suscipere aut in carcerem quemquam trudere, sed cursui solum vacare. <a 395 d.K.Iun.Constantinopoli olybrio et probino conss.>
  
 
  
@@ -2087,7 +2087,7 @@ CJ.12.23.14.1: Imperatores Theodosius, Valentinianus
  
 
  
-Primicerios itaque officii tresque primates scriniorum rerum privatarum finito tempore militiae inter tribunos militares praetorianos, salvis isdem praestitis privilegiis sacris constitutionibus, nostram clementiam adorare decernimus, ita tamen, ut nullam iniunctionem nullam sollicitudinem privati vel publici negotii quolibet iudiciario praecepto sustinere possint, sed excepta omni necessitate omnique fatigatione indeptae dignitatis honore potiantur. <a xxx &gt
+Primicerios itaque officii tresque primates scriniorum rerum privatarum finito tempore militiae inter tribunos militares praetorianos, salvis isdem praestitis privilegiis sacris constitutionibus, nostram clementiam adorare decernimus, ita tamen, ut nullam iniunctionem nullam sollicitudinem privati vel publici negotii quolibet iudiciario praecepto sustinere possint, sed excepta omni necessitate omnique fatigatione indeptae dignitatis honore potiantur. <a xxx >
  
 
  
@@ -2117,7 +2117,7 @@ CJ.12.24.1.2: Imperatores Valentinianus, Valens
  
 
  
-Officium quoque gravitatis tuae centum argenti libris multabitur, si sciens praedictam rem gestam fuisse non ilico eam severitati iudiciariae prodidisset. <a 373 d. xiii k. iul. apolloniae valentiniano et valente aa. conss.&gt
+Officium quoque gravitatis tuae centum argenti libris multabitur, si sciens praedictam rem gestam fuisse non ilico eam severitati iudiciariae prodidisset. <a 373 d. xiii k. iul. apolloniae valentiniano et valente aa. conss.>
  
 
  
@@ -2187,7 +2187,7 @@ CJ.12.25.4.4: Imperatores Leo, Zeno
  
 
  
-Advocato quoque fisci, exceptoribus etiam, qui apud arbitros hoc utuntur officio , ab exordio incipiendo usque ad terminum finemque negotii tertiam dumtaxat partem solidi praebituros: in huiusmodi autem arbitrorum gestis edendis non ultra praestare quam dimidiam solidi partem: et cum per provincias constitutus fideiussore conventus caruerit, adiuratoriae tantummodo cautioni committi nec ullo tempore nisi ex tuae dumtaxat magnitudinis sententia conveniri ( exceptis tributariis et munerum functionibus et criminibus, quae in locis inquiri flagitari et vindicari generalia legum praecepta constituunt), praesenti sanctione decernimus : viro clarissimo adiutore sublimitatis tuae in speculis constituto, ne quid ex his quae statuimus aliqua subreptione violetur. <a 474 &gt
+Advocato quoque fisci, exceptoribus etiam, qui apud arbitros hoc utuntur officio , ab exordio incipiendo usque ad terminum finemque negotii tertiam dumtaxat partem solidi praebituros: in huiusmodi autem arbitrorum gestis edendis non ultra praestare quam dimidiam solidi partem: et cum per provincias constitutus fideiussore conventus caruerit, adiuratoriae tantummodo cautioni committi nec ullo tempore nisi ex tuae dumtaxat magnitudinis sententia conveniri ( exceptis tributariis et munerum functionibus et criminibus, quae in locis inquiri flagitari et vindicari generalia legum praecepta constituunt), praesenti sanctione decernimus : viro clarissimo adiutore sublimitatis tuae in speculis constituto, ne quid ex his quae statuimus aliqua subreptione violetur. <a 474 >
  
 
  
@@ -2225,7 +2225,7 @@ CJ.12.26.2.2: Imperatores Theodosius, Valentinianus
  
 
  
-Ad exemplum itaque devotissimorum scholarium nulli licere memoratos ad aliud iudicium trahere et pulsatos priorum fidei scholae permitti praecipimus. <a 443-444 ?&gt
+Ad exemplum itaque devotissimorum scholarium nulli licere memoratos ad aliud iudicium trahere et pulsatos priorum fidei scholae permitti praecipimus. <a 443-444 ?>
  
 
  
@@ -2239,7 +2239,7 @@ CJ.12.27.1: Imperatores Honorius, Theodosius
  
 
  
-Primicerius mensorum biennio expleto agentis in rebus ultimi militiam sortiatur. * honor. et theodos. aa. aemiliano mag. off. * <a 405 d. x k. aug. ancyrae stilichone ii et anthemio conss.&gt
+Primicerius mensorum biennio expleto agentis in rebus ultimi militiam sortiatur. * honor. et theodos. aa. aemiliano mag. off. * <a 405 d. x k. aug. ancyrae stilichone ii et anthemio conss.>
  
 
  
@@ -2309,7 +2309,7 @@ CJ.12.28.4.1: Imperatores Gratianus, Valentinianus, Theodosius
  
 
  
-Si quis autem temeraria usurpatione violare statuta temptaverit, sacrilegii poenam sustineat. <a 386 d. prid. non. iul. mediolani. acc. iiii k. sept. honorio np. et euodio conss.&gt
+Si quis autem temeraria usurpatione violare statuta temptaverit, sacrilegii poenam sustineat. <a 386 d. prid. non. iul. mediolani. acc. iiii k. sept. honorio np. et euodio conss.>
  
 
  
@@ -2435,7 +2435,7 @@ CJ.12.29.3.6: Imperator Zeno
  
 
  
-Sin vero causae qualitas in scriptis habendam cognitionem flagitaverit, in hoc necesse est casu interlocutione in scriptis proferenda ea, quae superius de quantitate sportularum decidendarumque cognitionum disposita sunt, observari. <a x &gt
+Sin vero causae qualitas in scriptis habendam cognitionem flagitaverit, in hoc necesse est casu interlocutione in scriptis proferenda ea, quae superius de quantitate sportularum decidendarumque cognitionum disposita sunt, observari. <a x >
  
 
  
@@ -2465,7 +2465,7 @@ CJ.12.30.1.2: Imperator Constantinus
  
 
  
-Ideoque palatini nostri, qui privilegiis edicti uti potuerunt, peculia sua praecipua retineant, quae, dum in palatio constituti sunt, aut labore, ut dictum est , proprio aut dignatione nostra quaesierint. <a 326 pp. x k. iun. constantino a. vii et constantio c. conss.&gt
+Ideoque palatini nostri, qui privilegiis edicti uti potuerunt, peculia sua praecipua retineant, quae, dum in palatio constituti sunt, aut labore, ut dictum est , proprio aut dignatione nostra quaesierint. <a 326 pp. x k. iun. constantino a. vii et constantio c. conss.>
  
 
  
@@ -2479,7 +2479,7 @@ CJ.12.31.1: Imperatores Valentinianus, Valens
  
 
  
-Equites romanos secundum gradum post clarissimatus dignitatem obtinere iubemus. * valentin. et valens aa. ad mamertinum pp. * <a 364 d. prid. k. nov. philippopoli divo ioviano et varroniano conss.&gt
+Equites romanos secundum gradum post clarissimatus dignitatem obtinere iubemus. * valentin. et valens aa. ad mamertinum pp. * <a 364 d. prid. k. nov. philippopoli divo ioviano et varroniano conss.>
  
 
  
@@ -2493,7 +2493,7 @@ CJ.12.32.1: Imperator Constantinus
  
 
  
-Codicillis perfectissimatus fruantur, qui impetraverint, si abhorreant a condicione servili vel fisco aut curiae obnoxii non sint vel si pistores non fuerint vel non in aliquo negotio constiterint nec sibi honorem venali suffragio emerint nec rem alicuius administraverint. * const. a. ad paternum valerianum. * <a x&gt
+Codicillis perfectissimatus fruantur, qui impetraverint, si abhorreant a condicione servili vel fisco aut curiae obnoxii non sint vel si pistores non fuerint vel non in aliquo negotio constiterint nec sibi honorem venali suffragio emerint nec rem alicuius administraverint. * const. a. ad paternum valerianum. * <a x>
  
 
  
@@ -2635,7 +2635,7 @@ CJ.12.33.7.3: Imperator Justinianus
  
 
  
-Sciant autem domini ad exemplum praeteritae nostrae constitutionis, quae de huiusmodi servis loquitur, quod, nisi hoc intra triginta dies, ex quo hoc eis fuerit notum, manifestaverint et competentem iudicem adierint et spoliare eos dignitatibus curaverint, dominium eorum et ius patronatus amittant, nobis deliberantibus, postquam dominio fuerint servi liberati et inter ingenuos connumerati, si oportet eos habere dignitatem vel ea quasi indignos spoliari. <a 531 d. k. sept. post consulatum lampadii et orestis vv. cc.&gt
+Sciant autem domini ad exemplum praeteritae nostrae constitutionis, quae de huiusmodi servis loquitur, quod, nisi hoc intra triginta dies, ex quo hoc eis fuerit notum, manifestaverint et competentem iudicem adierint et spoliare eos dignitatibus curaverint, dominium eorum et ius patronatus amittant, nobis deliberantibus, postquam dominio fuerint servi liberati et inter ingenuos connumerati, si oportet eos habere dignitatem vel ea quasi indignos spoliari. <a 531 d. k. sept. post consulatum lampadii et orestis vv. cc.>
  
 
  
@@ -2681,7 +2681,7 @@ CJ.12.34.1.4: Imperator Justinianus
  
 
  
-Negotiantes etenim post hanc sanctionem huiusmodi militia privabuntur: illis, qui ad armorum structionem suam professionem contulerint, minime prohibendis ad competentem suae professionis venire militiam et huiusmodi negotiationem nihilo minus retinere. <a 528-529&gt
+Negotiantes etenim post hanc sanctionem huiusmodi militia privabuntur: illis, qui ad armorum structionem suam professionem contulerint, minime prohibendis ad competentem suae professionis venire militiam et huiusmodi negotiationem nihilo minus retinere. <a 528-529>
  
 
  
@@ -2999,7 +2999,7 @@ CJ.12.35.18.8: Imperator Anastasius
  
 
  
-Dispositiones autem ante latas non ad imminuendam potestatem magisteriae per orientem administrationis, sed pro tuitione locorum ac securitate publica noscimur praestitisse, cum non dubium sit ipsos etiam duces, quibus fortissimi praesentales milites parare praecepti sunt, sub eadem excelsa potestate esse constitutos. <a 492 d. k. ian. constantinopoli anastasio a. et rufo conss.&gt
+Dispositiones autem ante latas non ad imminuendam potestatem magisteriae per orientem administrationis, sed pro tuitione locorum ac securitate publica noscimur praestitisse, cum non dubium sit ipsos etiam duces, quibus fortissimi praesentales milites parare praecepti sunt, sub eadem excelsa potestate esse constitutos. <a 492 d. k. ian. constantinopoli anastasio a. et rufo conss.>
  
 
  
@@ -3093,7 +3093,7 @@ CJ.12.36.6: Imperatores Theodosius, Valentinianus
  
 
  
-Ius castrensis peculii tam scriniarios quam exceptores ceterosque, qui in officio tui culminis merendi licentiam habere noscuntur, ac si in legione prima adiutrice nostra militent, inviolatum habere praecipimus. * theodos. et valentin. aa. zoilo pp. * <a 444 ?&gt
+Ius castrensis peculii tam scriniarios quam exceptores ceterosque, qui in officio tui culminis merendi licentiam habere noscuntur, ac si in legione prima adiutrice nostra militent, inviolatum habere praecipimus. * theodos. et valentin. aa. zoilo pp. * <a 444 ?>
  
 
  
@@ -3363,7 +3363,7 @@ CJ.12.37.17.3: Imperator Anastasius
  
 
  
-Rectoribus nihilo minus provinciarum et apparitionibus eorum, si statuta nostra violaverint seu violari concesserint, eiusdem condemnationis solutione percellendis. <a xxx &gt
+Rectoribus nihilo minus provinciarum et apparitionibus eorum, si statuta nostra violaverint seu violari concesserint, eiusdem condemnationis solutione percellendis. <a xxx >
  
 
  
@@ -3401,7 +3401,7 @@ CJ.12.38.2.1: Imperatores Arcadius, Honorius
  
 
  
-Et si quisquam, quod non opinamur, implere quae sunt praecepta neglexerit, in procuratorem eius severissime vindicetur, ita ut, si huiusmodi contumaciae dominum conscium esse constiterit, quadruplum id, quod pro eius capitatione poscitur, posthabita dilatione solvatur. <a 404 d.Viiii k.April. romae honorio a.Vi et aristaeneto conss.&gt
+Et si quisquam, quod non opinamur, implere quae sunt praecepta neglexerit, in procuratorem eius severissime vindicetur, ita ut, si huiusmodi contumaciae dominum conscium esse constiterit, quadruplum id, quod pro eius capitatione poscitur, posthabita dilatione solvatur. <a 404 d.Viiii k.April. romae honorio a.Vi et aristaeneto conss.>
  
 
  
@@ -3449,7 +3449,7 @@ CJ.12.39.4: Imperatores Honorius, Theodosius
  
 
  
-Militaris adaeratio vestis a collatoribus exigatur, sacratissimis videlicet largitionibus inferenda, ita ut quinque eius partes fortissimis militibus erogentur in pretio, sexta vero portio a gynaeciariis clementiae nostrae absque ulla vel ipsorum vel publica incommoditate pro eadem contextione suscepta iunioribus gregariisque militibus in ipsa, quam maxime eos desiderare constitit, specie praebeatur. * honor. et theodos. aa. asclepiodoto pp. * <a 423 d.Vii id.Mart.Constantinopoli asclepiodoto et mariniano conss.&gt
+Militaris adaeratio vestis a collatoribus exigatur, sacratissimis videlicet largitionibus inferenda, ita ut quinque eius partes fortissimis militibus erogentur in pretio, sexta vero portio a gynaeciariis clementiae nostrae absque ulla vel ipsorum vel publica incommoditate pro eadem contextione suscepta iunioribus gregariisque militibus in ipsa, quam maxime eos desiderare constitit, specie praebeatur. * honor. et theodos. aa. asclepiodoto pp. * <a 423 d.Vii id.Mart.Constantinopoli asclepiodoto et mariniano conss.>
  
 
  
@@ -3711,7 +3711,7 @@ CJ.12.40.11: Imperator Zeno
  
 
  
-Decem post primicerium tribunos in domibus, quas in hac regia urbe possident, metatorum iussimus vacationem mereri. * zeno a. illyriciano mag. off. * <a xxx &gt
+Decem post primicerium tribunos in domibus, quas in hac regia urbe possident, metatorum iussimus vacationem mereri. * zeno a. illyriciano mag. off. * <a xxx >
  
 
  
@@ -3725,7 +3725,7 @@ CJ.12.41.1: Imperatores Constantius, constans
  
 
  
-Ne quis comitum vel tribunorum aut praepositorum aut militum nomine salgami gratia, id est culcitas lignum oleum a suis extorqueat hospitibus: sed nec volentibus hospitibus in praedictis speciebus aliquid auferant: sed provinciales sint nostri ab hac praebitione securi: comitibus tribunis vel certe praepositis militibusque gravi vexationi subiacentibus. * constantius et constans aa. leontio pp. * <a 340 ? d. v id. oct......Conss.&gt
+Ne quis comitum vel tribunorum aut praepositorum aut militum nomine salgami gratia, id est culcitas lignum oleum a suis extorqueat hospitibus: sed nec volentibus hospitibus in praedictis speciebus aliquid auferant: sed provinciales sint nostri ab hac praebitione securi: comitibus tribunis vel certe praepositis militibusque gravi vexationi subiacentibus. * constantius et constans aa. leontio pp. * <a 340 ? d. v id. oct......Conss.>
  
 
  
@@ -3763,7 +3763,7 @@ CJ.12.42.3: Imperatores Honorius, Theodosius
  
 
  
-Si qui sine commeatu aliquo annum in penatibus propriis vel in quibuslibet locis desidiosa quiete transegerit, decem sequentibus postponatur: in quo vero biennium talis culpa deprehenditur, viginti sibi antepositos congemiscat: tertius autem annus triginta praelatos iure deflebit, ita ut quartus exempto matriculae nullam veniam derelinquat. * honor. et theodos. aa. gaisoni com. mag. mil.* <a 413 d. prid. id. iun. ravennae post consulatum honorii viiii et theodosii v aa.&gt
+Si qui sine commeatu aliquo annum in penatibus propriis vel in quibuslibet locis desidiosa quiete transegerit, decem sequentibus postponatur: in quo vero biennium talis culpa deprehenditur, viginti sibi antepositos congemiscat: tertius autem annus triginta praelatos iure deflebit, ita ut quartus exempto matriculae nullam veniam derelinquat. * honor. et theodos. aa. gaisoni com. mag. mil.* <a 413 d. prid. id. iun. ravennae post consulatum honorii viiii et theodosii v aa.>
  
 
  
@@ -3793,7 +3793,7 @@ CJ.12.43.3: Imperatores Honorius, Theodosius
  
 
  
-Tirones in scholis loco semper posteriore ponantur. nec enim patimur quemquam celsiorem gradum obtinere, nisi cui et laborum adsiduitas et stipendiorum prolixitas suffragatur. * honor. et theodos. aa. .Com. sacr. larg. * <a 408 d.Vii k.Dec.Ravenna basso et philippo conss.&gt
+Tirones in scholis loco semper posteriore ponantur. nec enim patimur quemquam celsiorem gradum obtinere, nisi cui et laborum adsiduitas et stipendiorum prolixitas suffragatur. * honor. et theodos. aa. .Com. sacr. larg. * <a 408 d.Vii k.Dec.Ravenna basso et philippo conss.>
  
 
  
@@ -3807,7 +3807,7 @@ CJ.12.44.1: Imperatores Honorius, Theodosius
  
 
  
-Saluberrima sanctione censemus, ne merces illicitae ad nationes barbaras deferantur. et quaecumque naves ex quolibet portu seu litore dimittuntur, nullam concussionem vel damna sustineant: ita tamen, ut earum naucleri deponant, in quam provinciam ituri sunt, ut hoc manifestato nulla contra eos postea indignatio seu concussio procedat. * honor. et theodos. aa. eustathio pp. * <a 420 d.Xiiii k.Oct.Constantinopoli theodosio a.Viiii et qui fuerit nuntiatus.&gt
+Saluberrima sanctione censemus, ne merces illicitae ad nationes barbaras deferantur. et quaecumque naves ex quolibet portu seu litore dimittuntur, nullam concussionem vel damna sustineant: ita tamen, ut earum naucleri deponant, in quam provinciam ituri sunt, ut hoc manifestato nulla contra eos postea indignatio seu concussio procedat. * honor. et theodos. aa. eustathio pp. * <a 420 d.Xiiii k.Oct.Constantinopoli theodosio a.Viiii et qui fuerit nuntiatus.>
  
 
  
@@ -3869,7 +3869,7 @@ CJ.12.45.3: Imperatores Arcadius, Honorius, Theodosius
  
 
  
-Qui relictis militaribus castris se ad depraedationes vel latrocinium contulerint, severitatem iudicis non evadant. * arcad. honor. et theodos. aaa. longiano pp. * <a 406 d. viiii k. april. ravennae arcadio a. vi et probo vc. conss.&gt
+Qui relictis militaribus castris se ad depraedationes vel latrocinium contulerint, severitatem iudicis non evadant. * arcad. honor. et theodos. aaa. longiano pp. * <a 406 d. viiii k. april. ravennae arcadio a. vi et probo vc. conss.>
  
 
  
@@ -3963,7 +3963,7 @@ CJ.12.46.4: Imperatores Honorius, Theodosius
  
 
  
-Nullus eorum, qui sacramentis inhaerere desierit, vel volens permittatur vel invitus militare cogatur observare iudicium: sententiis, quae non his observatis latae fuerint, nullam firmitatem habentibus, nisi forte reperiatur ibi tempore militiae coepta cognitio: tunc enim velut necdum cingulo deposito sub militare iudice rem tractari finirique praecipimus, nisi principali beneficio specialiter indulto quidam ex his sese defendant. * honor. et theodos. aa. eustathio pp.Et nestorio pp. illyrici. * <a 421-422 &gt
+Nullus eorum, qui sacramentis inhaerere desierit, vel volens permittatur vel invitus militare cogatur observare iudicium: sententiis, quae non his observatis latae fuerint, nullam firmitatem habentibus, nisi forte reperiatur ibi tempore militiae coepta cognitio: tunc enim velut necdum cingulo deposito sub militare iudice rem tractari finirique praecipimus, nisi principali beneficio specialiter indulto quidam ex his sese defendant. * honor. et theodos. aa. eustathio pp.Et nestorio pp. illyrici. * <a 421-422 >
  
 
  
@@ -3985,7 +3985,7 @@ CJ.12.47.2: Imperatores Gratianus, Valentinianus, Theodosius
  
 
  
-Filios primipilariorum paternam sequi condicionem oportet. * grat. valentin. et theodos. aaa. neoterio. * <a 380? &gt
+Filios primipilariorum paternam sequi condicionem oportet. * grat. valentin. et theodos. aaa. neoterio. * <a 380? >
  
 
  
@@ -3999,7 +3999,7 @@ CJ.12.48.1: Imperatores Arcadius, Honorius
  
 
  
-Quando votis communibus felix annus aperitur, in una libra auri et solidis obryziacis principibus offerendi devotionem animo libenti suscipimus statuentes, ut deinceps sequentibus annis uniuscuiusque sedulitas principibus suis talia ingerant semper et deferant. * arcad. et honor. aa. basilio pu. * <a 395 d. iii non. mart. mediolani olybrio et probino conss.&gt
+Quando votis communibus felix annus aperitur, in una libra auri et solidis obryziacis principibus offerendi devotionem animo libenti suscipimus statuentes, ut deinceps sequentibus annis uniuscuiusque sedulitas principibus suis talia ingerant semper et deferant. * arcad. et honor. aa. basilio pu. * <a 395 d. iii non. mart. mediolani olybrio et probino conss.>
  
 
  
@@ -4149,7 +4149,7 @@ CJ.12.49.12.1: Imperator Anastasius
  
 
  
-Hoc eodem in his etiam, qui post novellam dispositionem divae memoriae zenonis, quae de isdem personis loquitur, deposuerunt militiam, obtinente. <a xxx &gt
+Hoc eodem in his etiam, qui post novellam dispositionem divae memoriae zenonis, quae de isdem personis loquitur, deposuerunt militiam, obtinente. <a xxx >
  
 
  
@@ -4443,7 +4443,7 @@ CJ.12.50.23.2: Imperator Anastasius
  
 
  
-Quinquaginta librarum auri condemnatione his feriendis, quicumque nostra iussa quolibet modo seu tempore violaverint seu violare concesserint. < &gt
+Quinquaginta librarum auri condemnatione his feriendis, quicumque nostra iussa quolibet modo seu tempore violaverint seu violare concesserint. < >
  
 
  
@@ -4465,7 +4465,7 @@ CJ.12.51.1.1: Imperatores Theodosius, Arcadius, Honorius
  
 
  
-Nulli vero penitus cum necessariis sibi personis praebeantur, nisi his tantummodo, qui animalia atque equos sacro usui necessarios prosequuntur: ita tamen, ut his dimissis in tractoriarum corpore quinque dierum numerus adscribatur, ut nullus ultra hoc temporis spatium ad residendum in quo libitum fuerit loco copiam nanciscatur. <a 392 d.Vii k.Sept constantinopoli arcadio a.Ii et rufino conss. &gt
+Nulli vero penitus cum necessariis sibi personis praebeantur, nisi his tantummodo, qui animalia atque equos sacro usui necessarios prosequuntur: ita tamen, ut his dimissis in tractoriarum corpore quinque dierum numerus adscribatur, ut nullus ultra hoc temporis spatium ad residendum in quo libitum fuerit loco copiam nanciscatur. <a 392 d.Vii k.Sept constantinopoli arcadio a.Ii et rufino conss. >
  
 
  
@@ -4519,7 +4519,7 @@ CJ.12.52.3.2: Imperatores Theodosius, Valentinianus
  
 
  
-Scriniariis autem exceptoribus ceterisque, qui in officio tui culminis merent, cum in legione prima adiutrice nostra militant, audientiam tantummodo in causis in quibus pulsantur tuae celsitudinis deputamus. in provinciis vero commorantes rectoribus earum eos respondere iubemus, nisi publicum officium aliquod eis iniunctum sit. <a 444?&gt
+Scriniariis autem exceptoribus ceterisque, qui in officio tui culminis merent, cum in legione prima adiutrice nostra militant, audientiam tantummodo in causis in quibus pulsantur tuae celsitudinis deputamus. in provinciis vero commorantes rectoribus earum eos respondere iubemus, nisi publicum officium aliquod eis iniunctum sit. <a 444?>
  
 
  
@@ -4541,7 +4541,7 @@ CJ.12.53.2: Imperatores Honorius, Theodosius
  
 
  
-Quicumque illustris urbanae sedis apparitor clandestina fraude pistorem concusserit, accusatus atque convictus perpetuis paneficii nexibus addicatur. * honor. et theodos. aa. palladio pp. * <a 417 d. vii k. ian. ravennae honorio a. xi et constantio ii vc. conss.&gt
+Quicumque illustris urbanae sedis apparitor clandestina fraude pistorem concusserit, accusatus atque convictus perpetuis paneficii nexibus addicatur. * honor. et theodos. aa. palladio pp. * <a 417 d. vii k. ian. ravennae honorio a. xi et constantio ii vc. conss.>
  
 
  
@@ -4595,7 +4595,7 @@ CJ.12.54.5: Imperator Anastasius
  
 
  
-Eos, qui in officiis vestris merentes statutorum tantummodo numero inserti sunt, fori praescriptione muniri, ceteros vero, qui supra huiusmodi numerum militare noscuntur, quasi nec militantes et apud illustrissimas praefecturas et apud clarissimos provinciarum rectores de quolibet pulsari et conveniri et sine cinguli praescriptione respondere negotio sancimus. * anastas. a. magistris mil. * <a x &gt
+Eos, qui in officiis vestris merentes statutorum tantummodo numero inserti sunt, fori praescriptione muniri, ceteros vero, qui supra huiusmodi numerum militare noscuntur, quasi nec militantes et apud illustrissimas praefecturas et apud clarissimos provinciarum rectores de quolibet pulsari et conveniri et sine cinguli praescriptione respondere negotio sancimus. * anastas. a. magistris mil. * <a x >
  
 
  
@@ -4625,7 +4625,7 @@ CJ.12.55.3: Imperatores Arcadius, Honorius
  
 
  
-In proconsulari provincia officium proconsulare postulet, quod exigere consuevit , nec alienis se partibus impudenter inserat. * arcad. et honor. aa. messalae pp. * <a 399 d.Iii k.Oct.Altino theodoro vc.Cons.&gt
+In proconsulari provincia officium proconsulare postulet, quod exigere consuevit , nec alienis se partibus impudenter inserat. * arcad. et honor. aa. messalae pp. * <a 399 d.Iii k.Oct.Altino theodoro vc.Cons.>
  
 
  
@@ -4639,7 +4639,7 @@ CJ.12.56.1: Imperatores Theodosius, Arcadius, Honorius
  
 
  
-In officio comitis orientis non amplius quam sescenti apparitores habeantur, quos quidem publicis necessitatibus novimus abunde suppetere. * theodos. arcad. et honor. aaa. rufino pp. orientis. * <a 394 d.Iii k.Ian.Heracliae arcadio iii et honorio ii aa.Conss.&gt
+In officio comitis orientis non amplius quam sescenti apparitores habeantur, quos quidem publicis necessitatibus novimus abunde suppetere. * theodos. arcad. et honor. aaa. rufino pp. orientis. * <a 394 d.Iii k.Ian.Heracliae arcadio iii et honorio ii aa.Conss.>
  
 
  
@@ -4845,7 +4845,7 @@ CJ.12.57.14.1: Imperator Leo
  
 
  
-Dehinc universis solaciis condicionis quam spreverat defraudatus, ne quid eorum omnino per se vel interpositam personam possit adquirere, primipili tantum munus implere cogatur: mox curialibus civitatis, in qua natus est, in diem vitae suae functionibus inhaesurus, ita scilicet, ut etiam ii, qui post impletam talem militiam quodlibet militiae dignitatisve genus adfectaverint, curiae patriae suae restituantur. <a 471 d. vi k. ian. constantinopoli leone a. iiii et probiano conss.&gt
+Dehinc universis solaciis condicionis quam spreverat defraudatus, ne quid eorum omnino per se vel interpositam personam possit adquirere, primipili tantum munus implere cogatur: mox curialibus civitatis, in qua natus est, in diem vitae suae functionibus inhaesurus, ita scilicet, ut etiam ii, qui post impletam talem militiam quodlibet militiae dignitatisve genus adfectaverint, curiae patriae suae restituantur. <a 471 d. vi k. ian. constantinopoli leone a. iiii et probiano conss.>
  
 
  
@@ -4867,7 +4867,7 @@ CJ.12.58.2: Imperatores Arcadius, Honorius
  
 
  
-Praefectus annonae canonem, qui ad officium suum pertinet, per compulsores suos exigat, et cum officio suo retineatur obnoxius, qui ad implendum canonem devotionis suae exactionem non ostenderit. * arcad. et honor. aa. messalae pp. * <a 399 ? &gt
+Praefectus annonae canonem, qui ad officium suum pertinet, per compulsores suos exigat, et cum officio suo retineatur obnoxius, qui ad implendum canonem devotionis suae exactionem non ostenderit. * arcad. et honor. aa. messalae pp. * <a 399 ? >
  
 
  
@@ -5025,7 +5025,7 @@ CJ.12.59.10.5: Imperator Leo
  
 
  
-Item scrinii sacrorum libellorum: officii virorum illustrium magistrorum militum utriusque militiae in praesenti, orientis et illyrici, invitatorum, admissionalium, memorialium omniumque paedagogorum, cellariorum, mensorum, lampadariorum eorum, qui sacris scriniis deputati sunt, decanorum partis augustae, cursorum partis augustae, officii virorum spectabilium ducum palaestinae, mesopotamiae, novi limitis phoenices, osrhoenae, syriae et augustae euphratensis, arabiae et thebaidis, libyae, pentapoleos, utriusque armeniae, utriusque ponti, scythiae, mysiae primae, secundae, daciae, pannoniae, officii virorum spectabilium comitum aegypti, pamphyliae, isauriae, lycaoniae et pisidiae. <a xxx &gt
+Item scrinii sacrorum libellorum: officii virorum illustrium magistrorum militum utriusque militiae in praesenti, orientis et illyrici, invitatorum, admissionalium, memorialium omniumque paedagogorum, cellariorum, mensorum, lampadariorum eorum, qui sacris scriniis deputati sunt, decanorum partis augustae, cursorum partis augustae, officii virorum spectabilium ducum palaestinae, mesopotamiae, novi limitis phoenices, osrhoenae, syriae et augustae euphratensis, arabiae et thebaidis, libyae, pentapoleos, utriusque armeniae, utriusque ponti, scythiae, mysiae primae, secundae, daciae, pannoniae, officii virorum spectabilium comitum aegypti, pamphyliae, isauriae, lycaoniae et pisidiae. <a xxx >
  
 
  
@@ -5119,7 +5119,7 @@ CJ.12.60.6.3: Imperator Zeno
  
 
  
-Eandemque hanc poenam numerarium quoque et eius adiutores, ad quorum curam quod violatum est pertinet, formidare. <a 485-486 ? &gt
+Eandemque hanc poenam numerarium quoque et eius adiutores, ad quorum curam quod violatum est pertinet, formidare. <a 485-486 ? >
  
 
  
@@ -5165,7 +5165,7 @@ CJ.12.61.4: Imperatores Honorius, Theodosius
  
 
  
-Curialibus et naviculariis omnibusque corporibus ita subveniri volumus, ut nihil apparitoribus universorum iudicum liceat, quod ad praedam provinciarum pertinet. * honor. et theodos. aa. hadriano pp. * < &gt
+Curialibus et naviculariis omnibusque corporibus ita subveniri volumus, ut nihil apparitoribus universorum iudicum liceat, quod ad praedam provinciarum pertinet. * honor. et theodos. aa. hadriano pp. * < >
  
 
  
@@ -5203,7 +5203,7 @@ CJ.12.62.4: Imperatores Diocletianus, Maximianus
  
 
  
-Cum ex sola primipili causa liberos, etiam si patribus heredes non existant, teneri divus aurelianus sanxerit, si neque successistis patri vestro nec quicquam ex bonis eius tenetis, consequens est a paternis creditoribus vos non conveniri. * diocl. et maxim. aa. dionysio. * < &gt
+Cum ex sola primipili causa liberos, etiam si patribus heredes non existant, teneri divus aurelianus sanxerit, si neque successistis patri vestro nec quicquam ex bonis eius tenetis, consequens est a paternis creditoribus vos non conveniri. * diocl. et maxim. aa. dionysio. * < >
  
 
  

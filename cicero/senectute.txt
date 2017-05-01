@@ -19,7 +19,7 @@ Cicero: de Senectute
  
 
  
-I. 1 .     &nbsp   O Tite, si quid ego adiuero curamve levasso,     &nbsp   Quae nunc te coquit et versat in pectore fixa,     &nbsp   Ecquid erit praemi?
+I. 1 .        O Tite, si quid ego adiuero curamve levasso,        Quae nunc te coquit et versat in pectore fixa,        Ecquid erit praemi?
  
 
  
@@ -27,7 +27,7 @@ Licet enim mihi versibus eisdem adfari te, Attice, quibus adfatur Flamininum
  
 
  
-     &nbsp   Ille vir haud magna cum re, sed plenus fidei; 
+        Ille vir haud magna cum re, sed plenus fidei; 
  
 
  
@@ -35,7 +35,7 @@ quamquam certo scio non, ut Flamininum,
  
 
  
-     &nbsp   Sollicitari te, Tite, sic noctesque diesque;
+        Sollicitari te, Tite, sic noctesque diesque;
  
 
  

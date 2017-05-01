@@ -13,7 +13,7 @@ Descartes: Praefatio
  
 
  1. Quaestiones de Deo & mente humanâ jam ante paucis
-attigi in Dissertatione de Methodo recte regendae rationis &veritatis
+attigi in Dissertatione de Methodo recte regendae rationis & veritatis
 in scientiis investigandae, gallice editâ anno 1637, non quidem
 ut ipsas ibi accurate tractarem, sed tantùm ut delibarem, & ex
 lectorum judiciis addiscerem quâ ratione postea essent tractandae.
