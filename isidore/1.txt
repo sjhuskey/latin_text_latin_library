@@ -116,15 +116,15 @@ XVII. DE PEDIBVS. [1] Pedes sunt, qui certis syllabarum temporibus insistunt, ne
 
  
 Spondeum, – – 
-Pyrrhichium, &or; &or; 
-Dactylum, – | &or; &or; 
-Anapaestum, &or; &or; |– 
+Pyrrhichium, ∨ ∨ 
+Dactylum, – | ∨ ∨ 
+Anapaestum, ∨ ∨ |– 
 Dispondeum, – – | – – 
-Proceleumaticum, &or; &or; | &or; &or; 
+Proceleumaticum, ∨ ∨ | ∨ ∨ 
 Diiambum, – | – 
-Ditrochaeum, – &or; | – &or; 
-Antispastum, &or; – | – &or; 
-Choriambum, – &or; | &or; –
+Ditrochaeum, – ∨ | – ∨ 
+Antispastum, ∨ – | – ∨ 
+Choriambum, – ∨ | ∨ –
  
 
  
@@ -132,20 +132,20 @@ Choriambum, – &or; | &or; –
  
 
  
-Trochaeum, – | &or; 
-Iambum, &or; | – 
+Trochaeum, – | ∨ 
+Iambum, ∨ | – 
 Molossum, – | – – 
-Tribrachym, &or; | &or; &or; 
-Ionicum maiorem, – – | &or; &or; 
-Ionicum minorem, &or; &or; | – –
+Tribrachym, ∨ | ∨ ∨ 
+Ionicum maiorem, – – | ∨ ∨ 
+Ionicum minorem, ∨ ∨ | – –
  
 
  
-[25] [&or;nus &or;ero est tantum qui tripla partitione di&or;iditur, quae est maxima atque ideo minimis metris adest.]
+[25] [∨nus ∨ero est tantum qui tripla partitione di∨iditur, quae est maxima atque ideo minimis metris adest.]
  
 
  
-Amphibrachys, &or; | – &or;
+Amphibrachys, ∨ | – ∨
  
 
  
@@ -153,24 +153,24 @@ Amphibrachys, &or; | – &or;
  
 
  
-Amphimacrus, – | &or; – 
-Bacchius, &or; – | – 
-Antibacchius, – | – &or; 
-Paeon primus, – | &or; &or; &or; 
-Paeon secundus, &or; – | &or; &or; 
-Paeon tertius, &or; &or; | – &or; 
-Paeon quartus, &or; &or; &or; | –
+Amphimacrus, – | ∨ – 
+Bacchius, ∨ – | – 
+Antibacchius, – | – ∨ 
+Paeon primus, – | ∨ ∨ ∨ 
+Paeon secundus, ∨ – | ∨ ∨ 
+Paeon tertius, ∨ ∨ | – ∨ 
+Paeon quartus, ∨ ∨ ∨ | –
  
 
  
-[27] Restant, quos epitrita partitione di&or;idimus:
+[27] Restant, quos epitrita partitione di∨idimus:
  
 
  
-Epitritus primus, &or; – | – – 
-Epitritus secundus, – &or; | – – 
-Epitritus tertius, – – | &or; – 
-Epitritus quartus, – – | – &or;
+Epitritus primus, ∨ – | – – 
+Epitritus secundus, – ∨ | – – 
+Epitritus tertius, – – | ∨ – 
+Epitritus quartus, – – | – ∨
  
 
  
