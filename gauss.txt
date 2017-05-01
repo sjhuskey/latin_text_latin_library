@@ -807,80 +807,80 @@ exponere statim aggredior.
 
  
 LEMMA. Denotante m numerum integrum positiuum quemcunque,
-functio sin &phi;. x m -sin m&phi;. r m-1 x+sin(m-1)&phi;. r m diuisibilis
-erit per xx-2cos &phi;. rx+rr . 
+functio sin φ. x m -sin mφ. r m-1 x+sin(m-1)φ. r m diuisibilis
+erit per xx-2cos φ. rx+rr . 
  
  
  Demonstr. Pro m=1 functio illa sit =0 adeoque per quemcunque
-factorem diuisibilis; pro m=2 quotiens sit sin &phi; , et pro
-quouis valore maiori quotiens erit sin &phi;. x m-2 +sin 2&phi;. rx m-3 
-+sin3&phi;. rrx m-4 + etc. +sin(m-1)&phi;. r m-2 . Facile enim
-confirmatur multiplicata hac functione per xx-2cos&phi;. rx+rr ,
+factorem diuisibilis; pro m=2 quotiens sit sin φ , et pro
+quouis valore maiori quotiens erit sin φ. x m-2 +sin 2φ. rx m-3 
++sin3φ. rrx m-4 + etc. +sin(m-1)φ. r m-2 . Facile enim
+confirmatur multiplicata hac functione per xx-2cosφ. rx+rr ,
 productum functioni propositae aequale fieri.
  
 
  14. 
  
-LEMMA. Si quantitas r angulusque &phi; ita sunt determinati, vt
+LEMMA. Si quantitas r angulusque φ ita sunt determinati, vt
 habeantur aequationes 
  
 
- r m cos m&phi;+Ar m-1 cos(m-1)&phi;+Br m-2 cos(m-2)&phi;+ etc.
+ r m cos mφ+Ar m-1 cos(m-1)φ+Br m-2 cos(m-2)φ+ etc.
 
- +Krrcos2&phi;+Lrcos&phi;+M=0 [1] 
- r m sin m&phi;+Ar m-1 sin(m-1)&phi;+Br m-2 sin(m-2)&phi;+ etc.
- +Krrsin2&phi;+Lrsin&phi;=0 [2] 
+ +Krrcos2φ+Lrcosφ+M=0 [1] 
+ r m sin mφ+Ar m-1 sin(m-1)φ+Br m-2 sin(m-2)φ+ etc.
+ +Krrsin2φ+Lrsinφ=0 [2] 
 
  functio x m +Ax m-1 +Bx m-2 + etc. +Kxx+Lx+M=X 
-diuisibilis erit per factorem duplicem xx-2cos&phi;. rx+rr , si modo
- r. sin&phi; non =0 ; si vero r. sin&phi;=0 , eadem functio diuisibilis erit
-per factorem simplicem x-rcos&phi; . 
+diuisibilis erit per factorem duplicem xx-2cosφ. rx+rr , si modo
+ r. sinφ non =0 ; si vero r. sinφ=0 , eadem functio diuisibilis erit
+per factorem simplicem x-rcosφ . 
  
  
  Demonstr. I. Ex art. praec. omnes sequentes quantitates diuisibiles
-erunt per xx-2cos&phi;. rx+rr : 
+erunt per xx-2cosφ. rx+rr : 
  
  
  
-  sin&phi;. rx m  -  sin m&phi;. r m x  +  sin(m-1)&phi;. r m +1 
+  sinφ. rx m  -  sin mφ. r m x  +  sin(m-1)φ. r m +1 
  
  
- Asin&phi;. rx m-1  - Asin(m-1)&phi;. r m-1  + Asin(m-2)&phi;. r m 
+ Asinφ. rx m-1  - Asin(m-1)φ. r m-1  + Asin(m-2)φ. r m 
  
  
- Bsin&phi;. rx m-2  - Bsin(m-2)&phi;. r m-2  + Bsin(m-2)&phi;. r m-1 
+ Bsinφ. rx m-2  - Bsin(m-2)φ. r m-2  + Bsin(m-2)φ. r m-1 
  
  
   etc.       etc. 
  
  
- Ksin&phi;. rxx   - Ksin2&phi;. rxx + Ksin&phi;. r 3 
+ Ksinφ. rxx   - Ksin2φ. rxx + Ksinφ. r 3 
  
  
- Lsin&phi;. rx   - Lsin&phi;. rx   * 
+ Lsinφ. rx   - Lsinφ. rx   * 
  
  
- Msin&phi;. r     *    + Msin(-&phi;)r. 
+ Msinφ. r     *    + Msin(-φ)r. 
  
  
  
-Quamobrem etiam summa harum quantitatum per xx-2cos&phi;. rx+rr 
+Quamobrem etiam summa harum quantitatum per xx-2cosφ. rx+rr 
 diuisibilis erit. At singularum partes primae
-constituunt summam sin&phi;. rX ; secundae additae dant 0 , propter
+constituunt summam sinφ. rX ; secundae additae dant 0 , propter
 [2]; tertiarum vero aggregatum quoque euanescere, facile perspicitur,
-si [1] multiplicatur per sin&phi; , [2] per cos&phi; , productumque
-illud ab hoc subducitur. Vnde sequitur, functionem sin&phi;. rX 
-diuisibilem esse per xx-2cos&phi;. rx+rr , adeoque, nisi fuerit
- rsin&phi;=0 , etiam functionem X . Q. E. P. 
+si [1] multiplicatur per sinφ , [2] per cosφ , productumque
+illud ab hoc subducitur. Vnde sequitur, functionem sinφ. rX 
+diuisibilem esse per xx-2cosφ. rx+rr , adeoque, nisi fuerit
+ rsinφ=0 , etiam functionem X . Q. E. P. 
  
 
  
-II. Si vero rsin&phi;=0 , erit aut r=0 aut sin&phi;=0 . In
+II. Si vero rsinφ=0 , erit aut r=0 aut sinφ=0 . In
 casu priori erit M=0 , propter [1], adeoque X per x siue per
- x-rcos&phi; diuisibilis; in posteriori erit cos&phi;=&plusmn;1 , cos2&phi;=
-+1 , cos3&phi;=&plusmn;1 et generaliter cos n&phi;=cos&phi; n . Quare propter
-[1] fiet X=0 , statuendo x=cos&phi; , et proin functio X per 
- x-cos&phi; erit diuisibilis. Q. E. S. 
+ x-rcosφ diuisibilis; in posteriori erit cosφ=&plusmn;1 , cos2φ=
++1 , cos3φ=&plusmn;1 et generaliter cos nφ=cosφ n . Quare propter
+[1] fiet X=0 , statuendo x=cosφ , et proin functio X per 
+ x-cosφ erit diuisibilis. Q. E. S. 
  
 
  15. 
@@ -891,7 +891,7 @@ p. 110 ; operae pretium esse duxi, ostendere, quomodo aeque facile
 absque illarum auxilio erui possit. Manifestum iam est, ad
 demonstrationem theorematis nostri nihil aliud requiriri quam vt
 ostendatur: Proposita functione quacunque X formae x m +Ax m-1 +
-Bx m-2 + etc. +Lx+M , r et &phi; ita determinari posse, vt
+Bx m-2 + etc. +Lx+M , r et φ ita determinari posse, vt
 aequationes [1] et [2] locum habeant . Hinc enim sequetur, X habere
 factorem realem primi vel secundi gradus; diuisio autem necessario
 producet quotientem realem inferioris gradus, qui ex eadem
@@ -906,11 +906,11 @@ Concipiatur planum fixum infinitum (planum tabulae, fig. 1.),
 et in hoc recta fixa infinita GC per punctum fixum C transiens.
 Assumta aliqua longitudine pro vnitate vt omnes rectae per numeros
 exprimi possint, erigatur in quouis puncto plani P , cuius distantia
-a centro C est r angulusque GCP=&phi; , perpendiculum
-aequale valori expressionis r m sin m&phi;+Ar m-1 sin(m-1)&phi;+ 
-etc. +Lrsin&phi; , quem breuitatis gratia in sequentibus semper per
+a centro C est r angulusque GCP=φ , perpendiculum
+aequale valori expressionis r m sin mφ+Ar m-1 sin(m-1)φ+ 
+etc. +Lrsinφ , quem breuitatis gratia in sequentibus semper per
  T designabo. Distantiam r semper tamquam positiuam considero,
-et pro punctis, quae axi ab altera parte iacent, angulus &phi; aut
+et pro punctis, quae axi ab altera parte iacent, angulus φ aut
 tamquam duobus rectis maior, aut tamquam negatiuus (quod hic
 eodem redit) spectari debet. Extremitates horum perpendiculorum
 (quae pro valore positiuo ipsius T supra planum accipiendae
@@ -919,7 +919,7 @@ ad superficiem curuam continuam quaquauersum infinitam, quam
 breuitatis gratia in sequentibus superficiem primam vocabo. Prorsus
 simili modo ad idem planum et centrum eundemque axem referatur
 alia superficies, cuius altitudo supra quoduis plani punctum
-sit r m cos m&phi;+Ar m-1 cos(m-1)&phi;+ etc. +Lrcos&phi;+M ,
+sit r m cos mφ+Ar m-1 cos(m-1)φ+ etc. +Lrcosφ+M ,
 quam expressionem breuitatis gratia semper per U denotabo. Superficiem
 vero hanc, quae etiam continua et quaquauersum infinita
 erit, per denominationem superficiei secundae a priori distinguam.
@@ -932,7 +932,7 @@ plano, in superficie prima et in superficie secunda iaceat.
 Facile perspici potest, superficiem primam partim supra planum
 partim infra planum iacere; patet enim distantiam a centro r 
 tam magnam accipi posse, vt reliqui termini in T prae primo
- r m sin m&phi; euanescant; hic vero, angulo &phi; rite determinato, tam
+ r m sin mφ euanescant; hic vero, angulo φ rite determinato, tam
 positiuus quam negatiuus fieri potest. Quare planum fixum necessario
 a superficie prima secabitur; hanc plani cum superficie
 prima intersectionem vocabo lineam primam ; quae itaque determinabitur
@@ -943,7 +943,7 @@ Proprie vtraque curua ex pluribus ramis constabit, qui
 omnino seiuncti esse possunt, singuli vero erunt lineae continuae.
 Quin adeo linea prima semper erit talis, quam complexam vocant,
 axisque GC tamquam pars huius curuae spectanda; quicunque
-enim valor ipsi r tribuatur, U semper fiet =0 , quando &phi; aut
+enim valor ipsi r tribuatur, U semper fiet =0 , quando φ aut
  =0 aut =180º . Sed praestat complexum cunctorum ramorum
 per omnia puncta, vbi T=0 , transeuntium tamquam vnam curuam
 considerare (secundum vsum in geometria sublimiori generaliter
@@ -958,9 +958,9 @@ hunc finem indolem harum linearum propius contemplari oportebit.
 Ante omnia obseruo, vtramque curuam esse algebraicam,
 et quidem, si ad coordinates orthogonales reuocetur, ordinis m ti .
 Sumto enim initio abscissarum in C , abscissisque x versus G , applicatis
- y versus P , erit x=rcos&phi; , y=rsin&phi; , adeoque generaliter,
-quidquid sit n , r n sin n&phi;=nx n-1 y-(n. n-1. n-2) / (1. 2. 3) x n-3 y 3 
- +(n. .. n-4) / (1. .. .5) x n-5 y 5 - etc., r n cos n&phi;=x n -(n. n-1) / (1. 2) x n-2 yy 
+ y versus P , erit x=rcosφ , y=rsinφ , adeoque generaliter,
+quidquid sit n , r n sin nφ=nx n-1 y-(n. n-1. n-2) / (1. 2. 3) x n-3 y 3 
+ +(n. .. n-4) / (1. .. .5) x n-5 y 5 - etc., r n cos nφ=x n -(n. n-1) / (1. 2) x n-2 yy 
  +(n. n-1. n-2. n-3) / (1. 2. 3. 4) x n-4 y 4 - etc. Quamobrem tum T tum U 
 constabunt ex pluribus huiusmodi terminis ax α y β , denotantibus α ,
  β numeros integros positiuos, quorum summa, vbi maxima est,
@@ -972,9 +972,9 @@ sed necesse non est ad hanc distinctionem hic respicere.
  
 Maioris momenti erit inuestigatio, an linea prima et secunda
 crura infinita habeant, et quot qualiaque. In distantia infinita
-a puncto C linea prima, cuius aequatio sin m&phi;+1/r sin(m-1)&phi;
-+B/rr sin(m-2)&phi; etc. =0 , confundetur cum linea, cuius aequatio
- sin m&phi;=0 . Haec vero exhibet m lineas rectas in puncto A se
+a puncto C linea prima, cuius aequatio sin mφ+1/r sin(m-1)φ
++B/rr sin(m-2)φ etc. =0 , confundetur cum linea, cuius aequatio
+ sin mφ=0 . Haec vero exhibet m lineas rectas in puncto A se
 secantes, quarum prima est axis GCG&prime; , reliquae contra hanc
 sub angulis 1/m 180 , 2/m 180 , 3/m 180 etc. graduum inclinatae.
 Quare linea prima 2m ramos infinitos habet, qui peripheram circuli
@@ -982,7 +982,7 @@ radio infinito descripti in 2m partes aequales dispertiuntur, ita
 vt peripheria a ramo primo secetur in concursu circuli et axis, a
 secundo in distantia 1/m 180º , a tertio in distantia 2/m 180º etc. 
 Eodem modo linea secunda in distantia infinita a centro habebit
-asymptotam per aequationem cos m&phi;=0 expressam, quae
+asymptotam per aequationem cos mφ=0 expressam, quae
 est complexus m rectarum in puncto C sub aequalibus angulis itidem
 se secantium, ita tamen, vt prima cum axi CG constituat angulum
  1/m 90º , secunda angulum 3/m 90º , tertia angulum 5/m 90º 
@@ -1014,10 +1014,10 @@ acceptorum =S , accipiaturque R simul >S√2 et >1 *9) : tum
 dico in circulo radio R descripto ea, quae in theoremate enunciata
 sunt, necessario locum habere. Scilicet designato breuitatis gratia
 eo puncto huius circumferentiae, quod 1/m 45 gradibus ab
-ipsius concursu cum laeua parte axis distat, siue pro quo &phi;= 
- 1/m 45º , per (1); similiter eo puncto, quod &phi;=3/m 45º , ab hoc concursu
-distat, siue pro quo &phi;=3/m 45º , per (3); porro eo, vbi
- &phi;=5/m 45º , per (5) etc. vsque ad (8m-1) , quod (8m-1)/m 45 
+ipsius concursu cum laeua parte axis distat, siue pro quo φ= 
+ 1/m 45º , per (1); similiter eo puncto, quod φ=3/m 45º , ab hoc concursu
+distat, siue pro quo φ=3/m 45º , per (3); porro eo, vbi
+ φ=5/m 45º , per (5) etc. vsque ad (8m-1) , quod (8m-1)/m 45 
 gradibus ab illo concursu distat, si semper versus eandem partem
 progrederis, (aut 1/m 45º a parte opposita), ita vt omnino 4m 
 puncta in peripheria habeantur, aequalibus interuallis dissita:
@@ -1030,13 +1030,13 @@ igitur etiam =2m ; denique praeter haec 4m puncta alia, in
 tota peripheria non dabuntur, pro quibus vel T vel U sit =0 .
  
  
- Demonstr. I. In puncto (1) erit m&phi;=45º adeoque T=
-R m-1 (R√1/2 +Asin(m-1)&phi;+B/R sin(m-2)&phi;+ etc. 
-+ L/(R m-2 ) sin&phi;) ; summa vero Asin(m-1)&phi;+B/R sin(m-2)&phi; etc. 
+ Demonstr. I. In puncto (1) erit mφ=45º adeoque T=
+R m-1 (R√1/2 +Asin(m-1)φ+B/R sin(m-2)φ+ etc. 
++ L/(R m-2 ) sinφ) ; summa vero Asin(m-1)φ+B/R sin(m-2)φ etc. 
 certo non poterit esse maior quam S , adeoque necessario erit minor
 quam R√1/2 : vnde sequitur in hoc puncto valorem ipsius T 
 certo esse positiuum. A potiori itaque T valorem positiuum habebit,
-quando m&phi; inter 45º et 135º iacet, i. e. a puncto (1) vsque
+quando mφ inter 45º et 135º iacet, i. e. a puncto (1) vsque
 ad (3) valor ipsius T semper positiuus erit. Ex eadem ratione
  T a puncto (9) vsque ad (11) positiuum valorem vbique habebit,
 et generaliter a quouis puncto (8k+1) vsque ad (8k+3) ,
@@ -1056,10 +1056,10 @@ praedita, non dantur, ita cognoscitur. Quum inter (1) et
 plura talia puncta exstent, quam si in aliquo interuallo inter (3)
 et (5), vel inter (7) et (9) etc. ad minimum duo iacerent. Tum
 vero nesessario in eodem interuallo T alicubi esset maximum , vel
- minimum , adeoque (dT)/(d&phi;)=0 . Sed (dT)/(d&phi;)=mR m-2 (Rcos m&phi;+(m-1)/m Acos(m-1)&phi;+ etc.)
-et cos m&phi; inter (3) et (5) semper
+ minimum , adeoque (dT)/(dφ)=0 . Sed (dT)/(dφ)=mR m-2 (Rcos mφ+(m-1)/m Acos(m-1)φ+ etc.)
+et cos mφ inter (3) et (5) semper
 est negatiuus et >√1/2 . Vnde facile perspicitur in toto hoc interuallo
- (dT)/(d&phi;) esse quantitatem negatiuam; eodemque modo inter
+ (dT)/(dφ) esse quantitatem negatiuam; eodemque modo inter
 (7) et (9) vbique positiuam; inter (11) et (13) negatiuam etc. ita
 vt in nullo horum interuallorum esse possit 0, adeoque suppositio
 consistere nequeat. Quare etc. Q. E. S. 
@@ -1071,7 +1071,7 @@ inter (8k+3) et (8k+5) ; positiuum vero inter (7) et (9), in-
 ter (15) et (17) etc. et generaliter inter (8k+7) et (8k+9) .
 Hinc statim sequitur, U=0 fieri debere alicubi inter (1) et (3),
 inter (5) et (7) etc., i. e. in 2m punctis. In nullo vero horum interuallorum
-fieri poterit (dT)/(d&phi;)=0 (quod facile simili modo vt supra
+fieri poterit (dT)/(dφ)=0 (quod facile simili modo vt supra
 probatur): quamobrem plura quam illa 2m puncta in circuli peripheria
 non dabuntur, in quibus fiat U=0 . Q. E. T. et Q. 
  
@@ -1258,7 +1258,7 @@ potui, alia occasione fusius exsequi mihi reseruo.
 Pag. 7. annot. lin. 5. pro imaginarium l . imaginariam. p. 13. l. vlt.
 pro 23. l . 24. p. 14. l. 17. pro 2-1 , l . 2m-1 . p. 15. l. 4. por
 vnum l . vnam. p. 16. l. 12. pro multiplicetur, l . multipliceturque. ibid.
-l. 21. pro aliaque, l . aliqua. p. 28. l. 7 et 8. pro cos&phi; , l . rcos&phi; .
+l. 21. pro aliaque, l . aliqua. p. 28. l. 7 et 8. pro cosφ , l . rcosφ .
  
 
  
